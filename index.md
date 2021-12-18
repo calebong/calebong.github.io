@@ -43,10 +43,8 @@ TBA:
 
 #### Autoregressive modelling to forecast trends of major currency pairs.
 
-TBA:
 [Introductory Document for Clients](/pdf/Introduction-To-PromiseLand-s-Currency-Forecasts.pdf)
 
-TBA:
 [View the latest Currency Forecasts](Latest-Currency-Forecasts.html)
 
 <img src="images/ghpCurrencyFrontplot.png?raw=true"/>
