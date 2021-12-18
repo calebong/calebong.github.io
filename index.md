@@ -47,7 +47,7 @@ TBA:
 [Introductory Document for Clients](/pdf/Introduction-To-PromiseLand-s-Currency-Forecasts.pdf)
 
 TBA:
-[View the latest Currency Forecasts](/sample_page)
+[View the latest Currency Forecasts](Latest-Currency-Forecasts.html)
 
 <img src="images/ghpCurrencyFrontplot.png?raw=true"/>
 <img src="images/ghpCurrencyTestplot.png?raw=true"/>
