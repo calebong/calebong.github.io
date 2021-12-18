@@ -16,8 +16,7 @@ output:
 
 [Introductory Document for Clients](/pdf/Introduction-To-PromiseLand-s-Stock-Price-Targets.pdf)
 
-TBA:
-[Latest Price Targets](/Latest-Target-Prices.html)
+[View the latest Price Targets](/Latest-Target-Prices.html)
 
 
 <img src="images/ghpStockPlotUpper.png?raw=true"/>
@@ -32,7 +31,7 @@ TBA:
 [Introductory Document for Clients](/pdf/Introduction-To-PromiseLand-s-Economic-Forecasts.pdf)
 
 TBA:
-[Latest Economic Forecasts](/sample_page)
+[View the latest Economic Forecasts](/sample_page)
 
 <img src="images/ghpEconPlotUpper.png?raw=true"/>
 <img src="images/ghpEconPlotMid.png?raw=true"/>
@@ -48,7 +47,7 @@ TBA:
 [Introductory Document for Clients](/pdf/Introduction-To-PromiseLand-s-Currency-Forecasts.pdf)
 
 TBA:
-[Latest Currency Forecasts](/sample_page)
+[View the latest Currency Forecasts](/sample_page)
 
 <img src="images/ghpCurrencyFrontplot.png?raw=true"/>
 <img src="images/ghpCurrencyTestplot.png?raw=true"/>
