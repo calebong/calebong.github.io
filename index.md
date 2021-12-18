@@ -50,7 +50,9 @@ TBA:
 TBA:
 [Latest Currency Forecasts](/sample_page)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ghpCurrencyFrontplot.png?raw=true"/>
+<img src="images/ghpCurrencyTestplot.png?raw=true"/>
+<img src="images/ghpCurrencyFutureplot.png?raw=true"/>
 
 ---
 
