@@ -45,7 +45,7 @@ My portfolio exhibits some examples data analytics and financial modelling that 
 [Introductory Document for Clients](/pdf/Introduction-To-PromiseLand-s-Economic-Forecasts.pdf)
 
 TBA:
-[View the latest Economic Forecasts](/sample_page)
+[View the latest Economic Forecasts](/Monthly-Market-Outlook--Jan-2022-.md)
 
 <img src="images/ghpEconPlotUpper.png?raw=true"/>
 <img src="images/ghpEconPlotMid.png?raw=true"/>
@@ -91,7 +91,7 @@ At present, sources of news include:
 
 
 
-Last Updated: 2021-12-30 10:03:45 UTC +8
+Last Updated: 2021-12-30 14:14:28 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -104,10 +104,114 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/new-zealand/stock-market </td>
+   <td style="text-align:left;"> 2021-12-30 14:12:48 </td>
+   <td style="text-align:left;"> New Zealand Stocks End at 7-Week High </td>
+   <td style="text-align:left;"> The NZX 50 Index jumped 0.78% to make a 7-week high close at 13,041 on Thursday, tracking gains from global peers as investors shrugged off reports of the first community exposure from omicron in New Zealand. Markets gained confidence after several studies suggested that the new variant is less severe than previously feared, with most governments holding off from imposing new restrictions on movement. The biggest index advancers were Vista (4.37%), Skellerup (3.22%), Mainfreight (2.88%), Heartland Group (2.86%) and Scales (2.71%). The benchmark equity index is set to finish the year unchanged in a largely sideways market, as New Zealand underwent one of the longest and strictest lockdowns, and the Reserve Bank of New Zealand was among the first major central banks to hike interest rates to fight inflation. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/india/stock-market </td>
+   <td style="text-align:left;"> 2021-12-30 13:54:02 </td>
+   <td style="text-align:left;"> Indian Shares Edge Higher on Tech Boost </td>
+   <td style="text-align:left;"> The BSE Sensex Index gained 0.2% toward 57,920 and the Nifty 50 Index rose 0.1% to 17,230 on Thursday, as gains in technology stocks outweighed losses in financial firms. Early market leaders include Wipro Ltd (1.7%), Tata Consultancy (0.9%), Infosys (0.7%), HCL Technologies (1.4%) and Tech Mahindra (1.7%); while some of the laggards were RBL Bank (-8.7%), State Bank of India (-0.7%) and Bajaj Finserv (-1.3%). Indian equities have retreated about 7% from a record peak hit in October on worries over high valuations and the spread of the omicron variant across the globe. However, the major averages are on track to finish the year up more than 20% as Indian stocks outperformed regional peers on the back of accommodative monetary policies and market momentum. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.foxbusiness.com/markets/samsung-biologics-says-report-on-biogen-deal-talks-untrue </td>
+   <td style="text-align:left;"> 2021-12-30 13:51:48 </td>
+   <td style="text-align:left;"> Samsung BioLogics says report on Biogen deal talks untrue </td>
+   <td style="text-align:left;"> Check out what's clicking on FoxBusiness.com.
+                                                                                                                                                                                                                             , Samsung BioLogics on Thursday denied a media report that said the South Korean firm was in talks to buy U.S. drugmaker Biogen Inc.                                                                                                                                            , Korea Economic Daily reported on Wednesday, citing investment banking sources, that Biogen had approached Samsung to buy its shares, which could be valued at more than $42 billion. Biogen is valued at $34.67 billion, according to Refinitiv data.                         , GET FOX BUSINESS ON THE GO BY CLICKING HERE                                                                                                                                                                                                                                   , Samsung BioLogics, the biotech unit of Samsung Group, said in a regulatory filing that the report was "not true," without giving any more details.                                                                                                                            , Biogen said it does not comment on market rumors or speculation. Its stock closed up 9.5% on Wednesday.                                                                                                                                                                       , Any such deal would be the biggest overseas acquisition ever by a South Korean company. The largest so far was in 2016, when Samsung Electronics bought auto electronics maker Harman International Industries in an $8 billion deal.                                         , BIOGEN CUTS PRICE FOR ALZHEIMER’S DRUG ADUHELM BY HALF                                                                                                                                                                                                                        , Samsung Group had said earlier this year it will invest 240 trillion won ($206 billion) in the next three years to expand its footprint in biopharmaceuticals, artificial intelligence, semiconductors and robotics in the post-pandemic era.                                 , This image provided by Biogen on Monday, June 7, 2021 shows a vial and packaging for the drug Aduhelm. (Biogen via AP / AP Newsroom)                                                                                                                                          , In June, Biogen's controversial Alzheimer's drug won U.S. regulatory approval, becoming the first new treatment for the memory-robbing disease in nearly 20 years, despite an outside advisory panel's view that the company had not proven the treatment's clinical benefits., Biogen has been betting on the drug, Aduhelm, to buffer a hit as its main revenue drivers such as multiple sclerosis treatment Tecfidera and muscle disease treatment Spinraza face rising competition.                                                                       , But U.S. sales from Aduhelm have been slower than expected as hospitals complained that the drug's high cost was not worth its benefits. The company cut its price by about half to $28,200 this month.                                                                       , CLICK HERE TO READ MORE ON FOX BUSINESS                                                                                                                                                                                                                                       , Biogen, which makes drugs for neurological diseases, currently has more than 30 new drugs in its pipeline.                                                                                                                                                                    , (Reporting by Dania Nadeem in Bengaluru and Joyce Lee in Seoul; Editing by Shinjini Ganguli) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/netherlands/business-confidence </td>
+   <td style="text-align:left;"> 2021-12-30 13:49:02 </td>
+   <td style="text-align:left;"> Dutch Business Mood Falls in December from Record High </td>
+   <td style="text-align:left;"> The Netherlands' business confidence indicator fell to 10.2 in December 2021 from a record high of 12.7 a month earlier. Manufacturers were less optimistic about both future production (8.5 vs 11.6 in November) and their order books (22.2 vs 23.0). At the same time, their assessments on stocks of finished products turned negative for the first time since August 2020 (-0.3 vs 3.6). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.cnn.com/2021/12/30/asia/korean-war-armistice-peace-explained-intl-hnk-ml/index.html </td>
+   <td style="text-align:left;"> 2021-12-30 13:48:51 </td>
+   <td style="text-align:left;"> The Korean War never officially ended. That might soon change - CNN </td>
+   <td style="text-align:left;"> Hong Kong (CNN)Is the Korean War about to come to an end?                                                                                                                                                                                                                                                                                                                             , Some people might answer: "Didn't that happen in 1953?"                                                                                                                                                                                                                                                                                                                               , Others may know that it was only an armistice that brought hostilities to a halt in 1953 -- but there's never been a treaty to end the conflict between North Korea (and its chief ally China) and South Korea and its allies, most notably the United States.                                                                                                                        , With the top South Korean diplomat on Wednesday saying Seoul and Washington have "effectively" agreed on a draft agreement to end the war, here's a primer on what that means.                                                                                                                                                                                                        , What was the Korean War?                                                                                                                                                                                                                                                                                                                                                              , The war broke out on June 25, 1950, when the first of what the US military estimated as 135,000 North Korean forces stormed across the 38th parallel dividing North and South Korea in an effort to take total control of the Korean Peninsula.                                                                                                                                       , The United States, under President Harry Truman, responded with what was called a "police action," assembling a group of international allies under the auspices of the "United Nations Command" to come to the aid of South Korea. Twenty-two nations contributed combat troops or medical support units to the US-led effort.                                                       , Communist-controlled North Korea had the support of both the Soviet Union and China, with Beijing actively intervening on the military front in October 1950, sending almost a quarter-million troops into the Korean Peninsula as the US-led forces were advancing toward China's border with North Korea.                                                                           , Chinese support of the North pushed the UN advance back down the peninsula and by 1951 stalemate emerged along the 38th parallel, where the border between the two Koreas sits today.                                                                                                                                                                                                 , How did the fighting stop?                                                                                                                                                                                                                                                                                                                                                            , Armistice talks began in 1951 and occurred intermittently until a final agreement to end combat was made at Panmunjom on the 38th parallel on July 27, 1953. Within three days, both sides withdrew their troops to be at least 2 kilometers (1.2 miles) from the cease-fire line.                                                                                                    , Why didn't the armistice end the war?                                                                                                                                                                                                                                                                                                                                                 , The signatories of the July 27, 1953 agreement to end hostilities were the heads of the UN Command, the North Korean army and of Chinese troops on the Korean Peninsula. South Korea is not a signee, and the agreement specifically says it is not a peace treaty.                                                                                                                   , According to the armistice preamble, it is made "in the interest of stopping the Korean conflict, with its great toil of suffering and bloodshed on both sides, and with the objective of establishing an armistice which will insure a complete cessation of hostilities and of all acts of armed force in Korea until a final peaceful settlement is achieved."                     , What has happened since 1953?                                                                                                                                                                                                                                                                                                                                                         , There was no official contact between the North and South Korean governments until 1971, according to the US State Department.                                                                                                                                                                                                                                                        , By 1991 though, tensions had eased enough that Pyongyang and Seoul signed on to the North-South Basic Agreement, which said reunification was the goal of both parties. But a State Department history says the North's budding weapons programs and the death of its longtime leader Kim Il-Sung in 1994, coupled with political turmoil in the South, led to new tensions.          , The first inter-Korean summit was held in June 2000, but the thaw it provided ended with North Korea's admission in 2002 that it was pursuing nuclear weapons.                                                                                                                                                                                                                        , That admission led to a series of negotiations about the North's nuclear program among North Korea, China, Russia, South Korea, the US and Japan, known as the six-party talks. North Korea pulled out of that effort in 2009 after restarting its Yongbon nuclear reactor and launching a series of missile tests.                                                                   , In 2007, South Korean President Roh Moo-hyun and North Korean leader Kim Jong Il met in Pyongyang and agreed to try to bring peace to and reunify the peninsula without the intervention of outside parties. But conservative Lee Myung-bak was elected South Korean President a few months later, and switched to a hard line on the North's weapons program, chilling peace efforts., Tensions thawed again in 2018 when North Korean leader Kim Jong Un met with South Korean President Moon Jae-in in Panmunjom. The two said they would work to turning the 1953 armistice into a peace treaty.                                                                                                                                                                          , Later that year the two met again in Pyongyang and signed a joint declaration to pursue denuclearization while working toward peace on the peninsula.                                                                                                                                                                                                                                 , Three meetings between US President Donald Trump and Kim -- the first between a sitting US President and a North Korean leader -- also failed to make any progress toward denuclearization of the North, despite their historic nature. Efforts have since stalled.                                                                                                                   , So what does the announcement of a possible peace treaty draft mean?                                                                                                                                                                                                                                                                                                                  , Essentially, not much -- for now. Whatever deal the US and South Korean diplomats make on draft language, it would still need approval within their respective governments. Of course, North Korea would have to agree and, as a party to the armistice, so would China.                                                                                                              , But there is some room for optimism.                                                                                                                                                                                                                                                                                                                                                  , South Korean Foreign Minister Chung Eui-yong said Wednesday that North Korea has been quickly and positively responding to South Korea's movement to declare the end of the Korean War.                                                                                                                                                                                               , And Kim Yo Jong, sister of the North Korean leader, in September termed the South Korean President's proposal to declare an end to the war "interesting" and "an admirable idea," but questioned the timing and demanded a hostile policy against the North must be withdrawn first.                                                                                                  , North Korea has yet to respond in detail about the declaration though, even through China, Chung said.                                                                                                                                                                                                                                                                                , </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/commodity/gold </td>
+   <td style="text-align:left;"> 2021-12-30 13:26:00 </td>
+   <td style="text-align:left;"> Gold Pressured by Rising Treasury Yields </td>
+   <td style="text-align:left;"> Gold stabilized around the $1,800 per ounce level on Thursday, but remained under pressure as Treasury yields crept higher. The benchmark US 10-year yield broke above 1.5% on Wednesday as investors anticipate the direction of inflation next year. Higher bond yields raise the opportunity cost of holding the non-interest paying gold. However, a weaker dollar, which steadied near a one-month low, provided a floor to the yellow metal. Gold fluctuated wildly throughout the final week of 2021, and is on track for its biggest annual percentage decline since 2015.  The metal is set to fall about 5% for the year, marred by reduced stimulus and expectations of higher interest rates as major central banks tighten monetary policy to combat inflation. This year's lackluster performance followed a stellar period as it benefited from inflationary pressures and hit an all time high in 2020. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.foxbusiness.com/markets/gold-set-for-worst-performance-in-six-years-steadies-above-1800 </td>
+   <td style="text-align:left;"> 2021-12-30 13:11:58 </td>
+   <td style="text-align:left;"> Gold set for worst performance in six years, steadies above $1,800 </td>
+   <td style="text-align:left;"> Check out what's clicking on FoxBusiness.com.
+                                                                                                                                                                                                                        , Gold was on course to record its worst performance in six years, though prices steadied above the key $1,800 per ounce level in thin trade on Thursday as a weak dollar countered pressure from firm Treasury yields.                                                    , Spot gold was down 0.1% at $1,801.40 per ounce by 0353 GMT. U.S. gold futures fell 0.2% to $1,802.30.                                                                                                                                                                    , GET FOX BUSINESS ON THE GO BY CLICKING HERE                                                                                                                                                                                                                              , "The kind of back and forth seen over the last 48 hours is less indicative of any particular fundamental catalyst and much more of the market being very thin and volatility being amplified by that absence of liquidity," said DailyFX currency strategist Ilya Spivak., Gold prices hit a one-month high on Tuesday but slipped to a one-week low the very next session before closing unchanged, and were on track for their biggest annual percentage decline since 2015.                                                                      , American gold bars stand on display REUTERS/Mike Segar (UNITED STATES)                                                                                                                                                                                                   , The first week of January will provide directional clues because gold is seen caught between how fast and in what direction inflation is going and what, and how much, the U.S. Federal Reserve is doing to contain it, Spivak said.                                     , Benchmark 10-year U.S. Treasury yields firmed near a one-month peak, raising the opportunity cost of holding non-interest paying gold.                                                                                                                                   , However, buoying the metal's appeal, the dollar index steadied near a one-month low as investors looked beyond a surge in Omicron variant cases and favored riskier currencies.                                                                                          , Asian shares got off to a listless start as the spread of Omicron clouded the last trading day of the year for many exchanges around the globe.                                                                                                                          , U.S. weekly initial jobless claims data, a key metric of the country's economic health usually monitored by market participants, is due at 1330 GMT later in the day.                                                                                                    , CLICK HERE TO READ MORE ON FOX BUSINESS                                                                                                                                                                                                                                  , Spot silver dipped 0.5% to $22.70 an ounce, platinum eased 0.3% to $964.96, and palladium fell 0.5% to $1,973.75. All set for their worst showing in several years.                                                                                                      ,  (Reporting by Bharat Govind Gautam and Seher Dareen in Bengaluru; Editing by Vinay Dwivedi) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.bbc.co.uk/news/business-59824407?at_medium=RSS&amp;at_campaign=KARANGA </td>
+   <td style="text-align:left;"> 2021-12-30 12:54:46 </td>
+   <td style="text-align:left;"> China ride-hailing giant Didi sees losses deepen after crackdown </td>
+   <td style="text-align:left;"> Chinese ride-hailing giant Didi Chuxing has seen its losses deepen after Beijing ordered online stores not to offer the company's app.                                                                                                                                                                                       , The firm reported an operating loss of $6.3bn (£4.7bn) for the first nine months of year as revenues in China fell by 5% in the third quarter.                                                                                                                                                                               , The Chinese crackdown came just days after Didi made its New York stock market debut at the end of June.                                                                                                                                                                                                                     , This month, it said it will move its share listing to Hong Kong from the US.                                                                                                                                                                                                                                                 , In recent months, Didi has become one of the most high profile targets of Beijing's clampdown on the country's technology industry.                                                                                                                                                                                          , The restrictions placed on it by authorities in China have hit its share price in the US hard.                                                                                                                                                                                                                               , The company's value on the New York Stock Exchange has fallen by 65% since its debut less than six months ago.                                                                                                                                                                                                               , In its latest report to investors the firm also said that its board had authorised it to pursue a listing of its shares on the main board of the Hong Kong Stock Exchange.                                                                                                                                                   , "The company is executing above plans and will update investors in due course," Didi said.                                                                                                                                                                                                                                   , Didi's announcement early in December that it planned to leave the US stock market came on the same day that the US Securities and Exchange Commission said it had finalised rules that would mean US-listed foreign companies can be delisted if their auditors do not comply with requests for information from regulators., "Following careful research, the company will immediately start delisting on the New York stock exchange and start preparations for listing in Hong Kong," the company said at the time.                                                                                                                                     , Didi also said in Thursday's announcement that Daniel Zhang, the chief executive of Chinese e-commerce giant Alibaba, who had served as a director on its board since 2018, has resigned from the role.                                                                                                                      , As well as coming under intense scrutiny from Chinese regulators, Didi now faces tough competition in its home market from ride-hailing services launched by car makers Geely and SAIC Motor.                                                                                                                                , This video can not be played                                                                                                                                                                                                                                                                                                 , The man himself on ten key lyrics, including some of The Beatles' classics                                                                                                                                                                                                                                                   , Abbey Road's amazing history of making music for films and games                                                                                                                                                                                                                                                             , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/iran/inflation-cpi </td>
+   <td style="text-align:left;"> 2021-12-30 12:34:00 </td>
+   <td style="text-align:left;"> Iran Inflation Rate at 15-Month Low of 35.2% </td>
+   <td style="text-align:left;"> The annual inflation rate in Iran decreased to 35.2 percent in December 2021 from 35.7 percent in the previous month. This was the lowest reading since September 2020, mainly due to a slowdown in prices of food &amp; non-alcoholic beverages (41.8% vs 47.0% in November); furniture &amp; household equipment (36.7% vs 39.6%); health (34.6% vs 35.2%); and recreation &amp; culture (32.7% vs 33.4%). Meanwhile, inflation accelerated for housing &amp; utilities (26.2% vs 25.6%); transport (33.3% vs 25.0%); communication (2.3% vs 1.2%); clothing &amp; footwear (48.8% vs 48.8%); tobacco (29.7% vs 28.1%; and miscellaneous goods &amp; services (36.5% vs 36.5%).  On a monthly basis, consumer prices went up 1.7 percent in December, the least in 7 months, easing from a 2.5 percent gain November. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/malaysia/producer-prices-change </td>
+   <td style="text-align:left;"> 2021-12-30 12:16:00 </td>
+   <td style="text-align:left;"> Malaysia Producer Price Inflation Slows </td>
+   <td style="text-align:left;"> Producer prices in Malaysia rose by 12.6 percent year-on-year in November of 2021, slowing from a 13.2 percent gain a month earlier which was the highest figure since September 2011. Still, this was the eighth straight month of a double-digit rise in producer inflation, amid higher commodity prices and supply chain issues. Cost continued to rise for both mining (71.2 percent vs 82.9 percent in October) and agriculture, forestry &amp; fishing (19.1 percent vs 24.8 percent).  At the same time, prices of electricity &amp; gas supply fell 0.3 percent after gaining 0.7 percent in October. By contrast, cost of manufacturing accelerated (8.4 percent vs 7.9 percent), amid a rebound in prices of water supply (0.2 percent vs -0.7 percent). On a monthly basis, producer prices grew 1.4 percent in November, faster than from a 1.4 percent rise in October. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/south-korea/government-bond-yield </td>
+   <td style="text-align:left;"> 2021-12-30 12:04:00 </td>
+   <td style="text-align:left;"> South Korea 10Y Bond Yield Hits 4-week High </td>
+   <td style="text-align:left;"> South Korea 10 Year Government Bond touched a 4-week high, as bond markets have been stressed by the persistence of US inflation and a resulting hawkish turn by the Fed, with investors now pricing the first-rate hike as early as March or May. Locally, South Korea’s headline inflation accelerated to a decade high in November at 3.7%, remaining above the central bank’s 2% annual target for an eighth straight month. The latest inflation rate followed a 3.2% increase in October, driven by elevated costs from oil and other commodities. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/japan/government-bond-yield </td>
+   <td style="text-align:left;"> 2021-12-30 11:48:00 </td>
+   <td style="text-align:left;"> Japan 10Y Bond Yield Hits 4-week High </td>
+   <td style="text-align:left;"> Japan 10 Year Government Bond Yield increased to a 4-week high of 0.071% on the final trading day before the four-day New Year holiday, tracking US Treasury yields higher on expectations that the Omicron strain would not derail the economic recovery. On the data front,  consumer prices in Japan rose 0.6% yoy in November, the steepest increase since January 2020, underpinned by fuel costs. Earlier, the Japanese government upgraded its economic assessment for the first time in seventeen months, as authorities raised their views on private consumption and business conditions, despite downside risks from lingering supply issues and raw material price inflation. On December 17th, the Bank of Japan decided to begin tapering corporate debt purchases to pre-pandemic levels and partially unwind its emergency funding scheme from March 2022 onwards, adding that the economy was picking up, despite remaining in a severe situation due to the impact of COVID-19. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/commodity/brent-crude-oil </td>
+   <td style="text-align:left;"> 2021-12-30 11:46:23 </td>
+   <td style="text-align:left;"> Brent Gains on Falling US Oil Inventories </td>
+   <td style="text-align:left;"> Brent crude futures firmed up above $79 a barrel on Thursday, hovering close to levels last seen before news of the omicron variant first broke on Nov. 26, after EIA data showed US crude inventories fell more than expected last week. The EIA Petroleum Status Report showed US crude oil inventories fell by 3.576 million barrels last week, a 5th consecutive period of declines and compared with market forecasts of a 3.143 million drop. Also, investors grew confident there will be no need to impose more restrictions on movements amid more evidence omicron is less severe than previous strains. Oil is on track to book a more than 50% gain for 2021, its strongest performance in more than a decade, amid rising demand and supply constraints. Traders now await the next OPEC+ meeting on January 4th, as the group is set to decide whether to go ahead with a planned 400,000 barrels per day production increase in February. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/commodity/crude-oil </td>
+   <td style="text-align:left;"> 2021-12-30 11:43:59 </td>
+   <td style="text-align:left;"> Oil Firms as US Crude Inventories Fall </td>
+   <td style="text-align:left;"> WTI crude futures firmed up above $76 a barrel on Thursday, hovering close to levels last seen before news of the omicron variant first broke on Nov. 26, after EIA data showed US crude inventories fell more than expected last week. The EIA Petroleum Status Report showed US crude oil inventories fell by 3.576 million barrels last week, a 5th consecutive period of declines and compared with market forecasts of a 3.143 million drop. Also, investors grew confident there will be no need to impose more restrictions on movements amid more evidence omicron is less severe than previous strains. Oil is on track to book a more than 50% gain for 2021, its strongest performance in more than a decade, amid rising demand and supply constraints. Traders now await the next OPEC+ meeting on January 4th, as the group is set to decide whether to go ahead with a planned 400,000 barrels per day production increase in February. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/india/currency </td>
+   <td style="text-align:left;"> 2021-12-30 11:11:00 </td>
+   <td style="text-align:left;"> Indian Rupee Hits 5-week High </td>
+   <td style="text-align:left;"> USDINR notched a 5-week high of 74.48, but not far from an 18-month low of $76.34 hit on December 15th and is set to end the quarter 1.8% lower amid relentless foreign fund outflows after rating agencies like Goldman Sachs and Nomura Holdings lowered the outlook for Indian equities, citing them as overpriced. Global funds pulled USD 4.2 billion from the domestic equity market and USD 587 million from the bond market this quarter. Also, RBI’s dovish monetary policy in contrast with the hawkish Fed decision, where it signaled as many as three rate hikes in 2022, reduced the INR appeal among investors. At the same time, India showed signs of slowing growth through its record-high trade deficit (USD 23 billion) and a higher-than-expected jump in retail prices (14.2 percent vs expected 11.9 percent) last month. This comes at a time when the country's Omicron cases have already reached over 300, casting further doubts on its slowing economic recovery. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/china/stock-market </td>
+   <td style="text-align:left;"> 2021-12-30 10:54:53 </td>
+   <td style="text-align:left;"> China Stocks Rise on Broad Market Rebound </td>
+   <td style="text-align:left;"> The Shanghai Composite rose 0.8% toward 3,625 and the Shenzhen Component jumped 1% to 14,805 on Thursday, as mainland stocks attempted to rebound from sell offs driven by extended lockdowns in northern China. The country has followed a “zero Covid-19” strategy of tight border controls, lengthy quarantines and targeted lockdowns ahead of February’s Winter Olympics. Consumer-related and technology stocks led the market rebound, with gains from Kweichow Moutai (1.1%), East Money (2.7%), Longi Green Technology (1.5%), AECC Aviation (5.7%) and Gigadevice Semiconductor (5.6%), among others. The Shanghai Composite and Shenzhen Component indices are set to end the year up by 4% and 2%, respectively, in a largely sideways market, marred by debt crises in the property sector and regulatory crackdown in the technology sector. Meanwhile, new energy stocks outperformed throughout the year amid a global push toward cleaner energy, with government support from Beijing. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.bbc.co.uk/news/business-59824404?at_medium=RSS&amp;at_campaign=KARANGA </td>
+   <td style="text-align:left;"> 2021-12-30 10:38:54 </td>
+   <td style="text-align:left;"> Elon Musk rejects claims that his satellites are hogging space </td>
+   <td style="text-align:left;"> Elon Musk has rejected claims that his Starlink satellite internet project is taking up too much room in space.                                                                                                                    , "Tens of billions" of satellites can be accommodated in orbits close to Earth, he told the Financial Times.                                                                                                                        , His comments come after a claim by the head of the European Space Agency (ESA) that Mr Musk was "making the rules" for the emerging commercial space industry.                                                                     , This week, China complained that its space station was forced to avoid collisions with Starlink satellites.                                                                                                                        , "Space is just extremely enormous, and satellites are very tiny," Mr Musk said in the interview.                                                                                                                                   , Mr Musk pushed back at suggestions that his Starlink Internet Services project was effectively obstructing the entry of competitors to the satellite industry, saying that there is ample room in the Earth's orbit for satellites., "This is not some situation where we're effectively blocking others in any way. We've not blocked anyone from doing anything, nor do we expect to," he said.                                                                       , "A couple of thousand satellites is nothing. It's like, hey, here's a couple of thousand of cars on Earth, it's nothing," he added.                                                                                                , This month, Josef Aschbacher, the director general of ESA, warned that the thousands of communications satellites launched by Starlink would result in there being far less space for competitors.                                 , Other experts have said that much larger distances are needed between spacecraft to avoid collisions than Mr Musk has suggested.                                                                                                   , Scientists have also previously voiced concerns about the risks of collisions in space and called on world governments to share information about the estimated 30,000 satellites and other space debris that are orbiting Earth.  , Mr Musk made headlines this week as he faced a social media backlash after China complained that its space station was forced to avoid collisions with satellites launched by his Starlink project.                                , The country's space station had two "close encounters" with Starlink satellites this year, Beijing claimed.                                                                                                                        , The incidents occurred on 1 July and 21 October, according to a document submitted by China this month to the United Nations Office for Outer Space Affairs.                                                                       , "For safety reasons, the China Space Station implemented preventive collision avoidance control," Beijing said in the document published on the agency's website.                                                                  , The incidents behind the complaints, lodged with the UN's space agency, have not yet been independently verified.                                                                                                                  , China also accused the US of putting astronauts in danger by ignoring obligations under outer space treaties.                                                                                                                      , Foreign ministry spokesman Zhao Lijian said China was urging the US to act responsibly.                                                                                                                                            , SpaceX has already launched almost 1,900 satellites as part of the Starlink network, and plans to deploy thousands more.                                                                                                           , This video can not be played                                                                                                                                                                                                       , The man himself on ten key lyrics, including some of The Beatles' classics                                                                                                                                                         , Abbey Road's amazing history of making music for films and games                                                                                                                                                                   , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/commodity/canola </td>
-   <td style="text-align:left;"> 2021-12-30 09:51:43 </td>
+   <td style="text-align:left;"> 2021-12-30 09:51:00 </td>
    <td style="text-align:left;"> Canola Hits All-time High </td>
-   <td style="text-align:left;"> Canola increased to an all-time high of 1101 CAD/T </td>
+   <td style="text-align:left;"> Canola increased to an all-time high of 1101 CAD/T, heading for an over 70% yearly gain in 2021, as Canada's canola harvest yielded its smallest crop in 14 years because of a severe drought. Canada is the world’s biggest canola producer and about 90% of its output is shipped to 50 countries, according to Canola Council of Canada. On the demand side, China and other nations like Japan, the UAE and France stepped up imports of the oilseed used for vegetable oil, processed foods, and animal feed. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.cnbc.com/2021/12/30/2021-asia-ipos-that-have-faltered-since-a-strong-debut-day-performance.html </td>
@@ -123,9 +227,9 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/japan/currency </td>
-   <td style="text-align:left;"> 2021-12-30 09:13:29 </td>
+   <td style="text-align:left;"> 2021-12-30 09:13:00 </td>
    <td style="text-align:left;"> Japanese Yen Hits 4-week Low </td>
-   <td style="text-align:left;"> USDJPY increased to a 4-week high of 115.03 </td>
+   <td style="text-align:left;"> USDJPY touched a 4-week low of 115.03, as the safe-haven currency fell out of favor among investors amid an improving risk appetite and optimism that the omicron variant won’t derail the global recovery. Moreover, the Bank of Japan signaled that it would lag behind other central banks in scaling back monetary stimulus. Inflation also remained subdued despite higher input costs as firms were reluctant to pass on rising costs to consumers. Last week, prime minister Fumio Kishida said that he hoped the BOJ continues to make efforts to achieve its 2% inflation target, expressing a desire for supportive monetary and fiscal policies. The Japanese government also approved a record 107.6 trillion yen budget for the fiscal year 2022 last week. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/united-states/stock-market </td>
@@ -137,13 +241,7 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
    <td style="text-align:left;"> https://www.bbc.co.uk/news/business-59741141?at_medium=RSS&amp;at_campaign=KARANGA </td>
    <td style="text-align:left;"> 2021-12-30 08:01:46 </td>
    <td style="text-align:left;"> New home and car insurance rules mean change in prices </td>
-   <td style="text-align:left;"> Prices paid for home and motor insurance are changing due to new rules coming into effect on 1 January to protect loyal and vulnerable consumers.                                                                                                                           , Anyone renewing their policy will pay no more than they would as a new customer, under regulations set by the Financial Conduct Authority (FCA).                                                                                                                            , That means prices for those who switch regularly will go up, while long-standing customers will pay less.                                                                                                                                                                   , The FCA said the move would save loyal customers £4.2bn over 10 years.                                                                                                                                                                                                      , Brian Brown, consumer finance expert at market analysts Defaqto, said there was no sign of insurers leaving the market as a result, meaning customers still had plenty of choice of products.                                                                               , The policy is designed to end cases of "price walking", which is when a customer is charged more year after year, by staying with the same insurance company - even though their risk is no greater.                                                                        , When announcing its plans, the FCA pointed to an example in which a new customer for home insurance typically paid £130 for a year's cover.                                                                                                                                 , But for the same policy, having stayed with the same insurer for five years, that annual premium rose to £238.                                                                                                                                                              , For motor insurance, new customers paid £285 while people who have been with their provider for more than five years paid £370, according to the FCA's example.                                                                                                             , The new rules are being brought in by the FCA in the New Year following a super-complaint from Citizens Advice about the loyalty penalty.                                                                                                                                   , Those who switched have received the best deals as new customers. Those who stayed loyal were charged more.                                                                                                                                                                 , Around 10 million policies across home and motor insurance are held by people who have been with their provider for five years or more.                                                                                                                                     , Matthew Upton, director of policy at Citizens Advice, said: "Rip-off renewal prices have seen consumers paying over the odds for far too long. No longer can you be exploited just for staying loyal."                                                                      , He added that people tended to be at a disadvantage if they were older, on lower incomes, or unable to access the internet.                                                                                                                                                 , "We welcome the FCA's bold new rules on home and motor insurance. We now need to see urgent action to protect consumers in the other markets," he said.                                                                                                                     , People can still shop around for the best deals, and will need to consider whether the policy matches their requirements.                                                                                                                                                   , However, premiums charged to all renewing home and private motor insurance customers by their insurance provider cannot be greater than the price they would charge to an equivalent new customer for the equivalent policy.                                                , Individual premiums can still be set at different levels depending on factors such as a customer's age, type of vehicle, driving record and history of claims.                                                                                                              , James Dalton, from the Association of British Insurers, said: "While the FCA recognises that these changes could lead to price rises for some who shop around regularly, all customers should get fairer outcomes in the UK's competitive home and motor insurance markets.", In October, the FCA introduced new rules requiring insurers to look more closely at how they offer fair value for consumers.                                                                                                                                                , It should also be made easier for consumers to cancel automatic policy renewals, and home and motor insurance firms must report more data to the regulator.                                                                                                                 , The lads are on a Christmas quest to catch an elusive English salmon                                                                                                                                                                                                        , Who is the strange cloaked figure in The Mezzotint?                                                                                                                                                                                                                         , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.cnn.com/2021/12/29/asia/korean-war-end-draft-intl/index.html </td>
-   <td style="text-align:left;"> 2021-12-30 07:27:55 </td>
-   <td style="text-align:left;"> South Korea 'effectively' agrees on draft with US to end Korean War - CNN </td>
-   <td style="text-align:left;"> (CNN)South Korea has "effectively" agreed with the United States on a draft declaring the end of the Korean War, according to South Korean Foreign Minister Chung Eui-yong, as reported by South Korea's Yonhap News Agency on Wednesday.                   , Speaking at a news conference, Chung said US Secretary of State Antony Blinken had reaffirmed the progress, saying that both sides have "effectively reached an agreement" on the draft.                                                                     , A US State Department spokesperson said the US has "no hostile intent" toward North Korea and is prepared to meet "without preconditions."                                                                                                                   , "We hope the DPRK (Democratic People's Republic of Korea) will respond positively to our outreach. We continue to consult closely with the Republic of Korea, Japan, and other allies and partners about how to best engage the DPRK," the spokesperson said., The draft aims to end the Korean War, which broke out on June 25, 1950, when North Korean forces stormed across the 38th parallel dividing North and South Korea.                                                                                            , The United States supplied about 90% of the troops who were sent to aid South Korea, spending around $67 billion on the war.                                                                                                                                 , An armistice signed on July 27, 1953, stopped the conflict, but the war never officially ended because there was no peace treaty.                                                                                                                            , In September, North Korean Vice Minister Ri Thae Song said South Korea's call to declare an end to the Korean War is "premature" due to "US hostile policy" toward Pyongyang.                                                                                , </td>
+   <td style="text-align:left;"> Prices paid for home and motor insurance are changing due to new rules coming into effect on 1 January to protect loyal and vulnerable consumers.                                                                                                                           , Anyone renewing their policy will pay no more than they would as a new customer, under regulations set by the Financial Conduct Authority (FCA).                                                                                                                            , That means prices for those who switch regularly will go up, while long-standing customers will pay less.                                                                                                                                                                   , The FCA said the move would save loyal customers £4.2bn over 10 years.                                                                                                                                                                                                      , Brian Brown, consumer finance expert at market analysts Defaqto, said there was no sign of insurers leaving the market as a result, meaning customers still had plenty of choice of products.                                                                               , The policy is designed to end cases of "price walking", which is when a customer is charged more year after year, by staying with the same insurance company - even though their risk is no greater.                                                                        , When announcing its plans, the FCA pointed to an example in which a new customer for home insurance typically paid £130 for a year's cover.                                                                                                                                 , But for the same policy, having stayed with the same insurer for five years, that annual premium rose to £238.                                                                                                                                                              , For motor insurance, new customers paid £285 while people who have been with their provider for more than five years paid £370, according to the FCA's example.                                                                                                             , The new rules are being brought in by the FCA in the New Year following a super-complaint from Citizens Advice about the loyalty penalty.                                                                                                                                   , Those who switched have received the best deals as new customers. Those who stayed loyal were charged more.                                                                                                                                                                 , Around 10 million policies across home and motor insurance are held by people who have been with their provider for five years or more.                                                                                                                                     , Matthew Upton, director of policy at Citizens Advice, said: "Rip-off renewal prices have seen consumers paying over the odds for far too long. No longer can you be exploited just for staying loyal."                                                                      , He added that people tended to be at a disadvantage if they were older, on lower incomes, or unable to access the internet.                                                                                                                                                 , "We welcome the FCA's bold new rules on home and motor insurance. We now need to see urgent action to protect consumers in the other markets," he said.                                                                                                                     , People can still shop around for the best deals, and will need to consider whether the policy matches their requirements.                                                                                                                                                   , However, premiums charged to all renewing home and private motor insurance customers by their insurance provider cannot be greater than the price they would charge to an equivalent new customer for the equivalent policy.                                                , Individual premiums can still be set at different levels depending on factors such as a customer's age, type of vehicle, driving record and history of claims.                                                                                                              , James Dalton, from the Association of British Insurers, said: "While the FCA recognises that these changes could lead to price rises for some who shop around regularly, all customers should get fairer outcomes in the UK's competitive home and motor insurance markets.", In October, the FCA introduced new rules requiring insurers to look more closely at how they offer fair value for consumers.                                                                                                                                                , It should also be made easier for consumers to cancel automatic policy renewals, and home and motor insurance firms must report more data to the regulator.                                                                                                                 , The man himself on ten key lyrics, including some of The Beatles' classics                                                                                                                                                                                                  , Abbey Road's amazing history of making music for films and games                                                                                                                                                                                                            , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/australia/stock-market </td>
@@ -167,7 +265,7 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
    <td style="text-align:left;"> https://www.cnbc.com/2021/12/29/stock-market-futures-open-to-close-news.html </td>
    <td style="text-align:left;"> 2021-12-30 07:07:46 </td>
    <td style="text-align:left;"> Stock futures are flat after Dow, S&amp;P 500 close at record </td>
-   <td style="text-align:left;"> , U.S. stock index futures were little changed during overnight trading Wednesday after the S&amp;P 500 and Dow Jones Industrial Average closed at new records.                                                                                                                                                                                                                                                     , Futures contracts tied to the Dow Jones Industrial Average inched higher, while S&amp;P 500 futures were unchanged. Nasdaq 100 futures were slightly lower.                                                                                                                                                                                                                                                       , During regular trading on Wednesday the S&amp;P 500 advanced 0.14% to its 70th record close of the year. This is the second highest number of record closes for the benchmark index during a calendar year, trailing just 1995's 77 record closing highs.                                                                                                                                                         , The Dow rose 90 points, or 0.25%, to also close at a record — its first since November. The 30-stock benchmark saw its sixth straight positive session. The Nasdaq Composite, however, declined 0.1%. Chip stocks came under pressure, with AMD, Xilinx and Nvidia all declining at least 1%.                                                                                                                 , Travel-related stocks also slid amid ongoing Covid-19 concerns, with the NYSE Arca Airline Index dipping 2.5%.                                                                                                                                                                                                                                                                                                , On the flip side, a number of consumer stocks rose to new all-time highs during the session, including Domino's Pizza, McDonald's, Yum Brands, Costco and Procter &amp; Gamble.                                                                                                                                                                                                                                   , These are the 4 stocks to play the EV 'arms race,' according to one investment firm                                                                                                                                                                                                                                                                                                                           , Market gains may be harder to come by in 2022, but it could still be a positive year                                                                                                                                                                                                                                                                                                                          , Here are the top internet stock picks for 2022 as selected by Evercore ISI                                                                                                                                                                                                                                                                                                                                    , All three major averages are in the green for December. The S&amp;P and Dow are on pace for a second positive month in the last three, while the Nasdaq Composite is on track for a third straight month of gains.                                                                                                                                                                                                , Wednesday's upward action for the Dow and S&amp;P continued a historically strong period for stocks, which has been dubbed the "Santa Claus rally." The S&amp;P 500 has notched a gain during the period — the last five trading days of the year followed by the first two session in January — 78.5% of the time since 1928, according to Bank of America.                                                          , "Santa has been good to investors this holiday season, and we look for another year of positive returns in 2022," said Scott Wren, senior global market strategist at Wells Fargo Investment Institute.                                                                                                                                                                                                       , With just two trading days left in 2021, the major averages are also on track to end the year in the green. The S&amp;P and Dow are up 27.6% and 19.2%, respectively. The Nasdaq's gained 22.3%, while the Russell 2000 is up 13.9%.                                                                                                                                                                              , "2021 was a terrific year for the equity markets," said Anu Gaggar, global investment strategist for Commonwealth Financial Network. "Between federal stimulus keeping the economy going, easy monetary policy from the Fed keeping markets liquid and interest rates low, and the ongoing medical improvement leading to surprising growth, markets have been in the best of all possible worlds," she added., Looking forward, Gaggar said 2022's performance depends on earnings and stock valuations.                                                                                                                                                                                                                                                                                                                     , Treasury yields creeping higher could prove to be a headwind for 2022, especially among growth-oriented areas of the market. The yield on the U.S. 10-year Treasury broke above 1.5% on Wednesday.                                                                                                                                                                                                            , "We expect interest rates to move modestly higher in 2022 based on near-term inflation expectations above historical trends and improving growth expectations once the impact of COVID-19 variants recede," said Lawrence Gillum, fixed income strategist for LPL Financial. "Our year-end 2022 forecast for the 10-year Treasury yield is 1.75–2.00%."                                                       , Got a confidential news tip? We want to hear from you.                                                                                                                                                                                                                                                                                                                                                        , Sign up for free newsletters and get more CNBC delivered to your inbox                                                                                                                                                                                                                                                                                                                                        , Get this delivered to your inbox, and more info about our products and services.                                                                                                                                                                                                                                                                                                                              , © 2021 CNBC LLC. All Rights Reserved. A Division of NBCUniversal                                                                                                                                                                                                                                                                                                                                              , Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.                                                                                                                                                                                                                                                            , Data also provided by </td>
+   <td style="text-align:left;"> , U.S. stock index futures were little changed during overnight trading Wednesday after the S&amp;P 500 and Dow Jones Industrial Average closed at new records.                                                                                                                                                                                                                                                     , Futures contracts tied to the Dow Jones Industrial Average inched higher, while S&amp;P 500 futures were unchanged. Nasdaq 100 futures were slightly lower.                                                                                                                                                                                                                                                       , During regular trading on Wednesday the S&amp;P 500 advanced 0.14% to its 70th record close of the year. This is the second highest number of record closes for the benchmark index during a calendar year, trailing just 1995's 77 record closing highs.                                                                                                                                                         , The Dow rose 90 points, or 0.25%, to also close at a record — its first since November. The 30-stock benchmark saw its sixth straight positive session. The Nasdaq Composite, however, declined 0.1%. Chip stocks came under pressure, with AMD, Xilinx and Nvidia all declining at least 1%.                                                                                                                 , Travel-related stocks also slid amid ongoing Covid-19 concerns, with the NYSE Arca Airline Index dipping 2.5%.                                                                                                                                                                                                                                                                                                , On the flip side, a number of consumer stocks rose to new all-time highs during the session, including Domino's Pizza, McDonald's, Yum Brands, Costco and Procter &amp; Gamble.                                                                                                                                                                                                                                   , Credit Suisse and JPMorgan pick stocks to buy in a high-flying Asian market                                                                                                                                                                                                                                                                                                                                   , These are the 4 stocks to play the EV 'arms race,' according to one investment firm                                                                                                                                                                                                                                                                                                                           , Here are the top internet stock picks for 2022 as selected by Evercore ISI                                                                                                                                                                                                                                                                                                                                    , All three major averages are in the green for December. The S&amp;P and Dow are on pace for a second positive month in the last three, while the Nasdaq Composite is on track for a third straight month of gains.                                                                                                                                                                                                , Wednesday's upward action for the Dow and S&amp;P continued a historically strong period for stocks, which has been dubbed the "Santa Claus rally." The S&amp;P 500 has notched a gain during the period — the last five trading days of the year followed by the first two session in January — 78.5% of the time since 1928, according to Bank of America.                                                          , "Santa has been good to investors this holiday season, and we look for another year of positive returns in 2022," said Scott Wren, senior global market strategist at Wells Fargo Investment Institute.                                                                                                                                                                                                       , With just two trading days left in 2021, the major averages are also on track to end the year in the green. The S&amp;P and Dow are up 27.6% and 19.2%, respectively. The Nasdaq's gained 22.3%, while the Russell 2000 is up 13.9%.                                                                                                                                                                              , "2021 was a terrific year for the equity markets," said Anu Gaggar, global investment strategist for Commonwealth Financial Network. "Between federal stimulus keeping the economy going, easy monetary policy from the Fed keeping markets liquid and interest rates low, and the ongoing medical improvement leading to surprising growth, markets have been in the best of all possible worlds," she added., Looking forward, Gaggar said 2022's performance depends on earnings and stock valuations.                                                                                                                                                                                                                                                                                                                     , Treasury yields creeping higher could prove to be a headwind for 2022, especially among growth-oriented areas of the market. The yield on the U.S. 10-year Treasury broke above 1.5% on Wednesday.                                                                                                                                                                                                            , "We expect interest rates to move modestly higher in 2022 based on near-term inflation expectations above historical trends and improving growth expectations once the impact of COVID-19 variants recede," said Lawrence Gillum, fixed income strategist for LPL Financial. "Our year-end 2022 forecast for the 10-year Treasury yield is 1.75–2.00%."                                                       , Got a confidential news tip? We want to hear from you.                                                                                                                                                                                                                                                                                                                                                        , Sign up for free newsletters and get more CNBC delivered to your inbox                                                                                                                                                                                                                                                                                                                                        , Get this delivered to your inbox, and more info about our products and services.                                                                                                                                                                                                                                                                                                                              , © 2021 CNBC LLC. All Rights Reserved. A Division of NBCUniversal                                                                                                                                                                                                                                                                                                                                              , Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.                                                                                                                                                                                                                                                            , Data also provided by </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/south-korea/retail-sales-annual </td>
@@ -226,8 +324,8 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
         -0.10%
        finish about 0.1% lower, according to preliminary data from FactSet. High-growth tech stocks tend to be sensitive to rising rates. The yield on the 10-year Treasury note 
         TMUBMUSD10Y,
-        1.552%
-       climbed to 1.542% Wednesday, the highest since Nov. 24 based on trading levels at 3 p.m. Eastern Time, according to Dow Jones Market Data. Investors traded amid omicron variant concerns and fresh economic data showing the U.S. trade deficit in goods surged to an all-time high in November, a trade gap that largely reflected faster improvement in the world's largest economy compared to most other countries in the pandemic., The Santa Claus rally is off to the best start in over 20 years and historically that bodes well for the entire seasonal period, Dow Jones data show.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , </td>
+        1.547%
+       climbed to 1.542% Wednesday, the highest since Nov. 24 based on trading levels at 3 p.m. Eastern Time, according to Dow Jones Market Data. Investors traded amid omicron variant concerns and fresh economic data showing the U.S. trade deficit in goods surged to an all-time high in November, a trade gap that largely reflected faster improvement in the world's largest economy compared to most other countries in the pandemic., Here's what to know.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.foxbusiness.com/real-estate/reits-romped-2021-property-values-soared </td>
@@ -278,13 +376,13 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
        has rallied 24.5% and the S&amp;P 500 
         SPX,
         +0.14%
-       has advanced 27.6%., Elon Musk sold another $1 billion worth of Tesla Inc. stock Tuesday, as he closes in on his goal of divesting 10% of his stake in the electric-vehicle maker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       has advanced 27.6%., The U.S. has started shipping some doses of the recently authorized COVID-19 antivirals developed by Pfizer and Merck.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.bbc.co.uk/news/technology-59818796?at_medium=RSS&amp;at_campaign=KARANGA </td>
    <td style="text-align:left;"> 2021-12-30 02:50:57 </td>
    <td style="text-align:left;"> Apple puts Indian iPhone factory 'on probation' </td>
-   <td style="text-align:left;"> Apple has placed an iPhone factory in southern India "on probation" following protests over food poisoning and living conditions.                                                                                                                    , An audit by Apple found that remote dining rooms and dormitories used by workers did not meet requirements.                                                                                                                                          , Around 250 women who worked at the Foxconn plant were affected by food poisoning, with more than 150 ending up in hospital, local media reported.                                                                                                    , Foxconn apologised and said it was investigating the situation.                                                                                                                                                                                      , "We are very sorry for the issue our employees experienced and are taking immediate steps to enhance the facilities and services we provide," the Taiwanese firm said in a statement.                                                                , The factory has been closed since 18 December, when the protests began.                                                                                                                                                                              , Apple has not specified what being on probation means but in the past it has declined to award new business to facilities on probation until problems are resolved.                                                                                  , An Apple spokesman said: "Following recent concerns about food safety and accommodation conditions at Foxconn Sriperumbudur, we dispatched independent auditors.                                                                                     , "We found that some of the remote dormitory accommodations and dining rooms being used for employees do not meet our requirements, and we are working with the supplier to ensure a comprehensive set of corrective actions are rapidly implemented.", The iPhone factory, which is about 25 miles (40km) from Chennai, employs 17,000 people.                                                                                                                                                              , The food-poisoning cases and subsequent protests also led the Tamil Nadu state government to ask Foxconn to review its worker facilities.                                                                                                            , Last year, Apple had to place another iPhone manufacturing partner on probation after worker riots broke out over unpaid wages at the partner's factory near Bangalore.                                                                              , The lads are on a Christmas quest to catch an elusive English salmon                                                                                                                                                                                 , Who is the strange cloaked figure in The Mezzotint?                                                                                                                                                                                                  , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
+   <td style="text-align:left;"> Apple has placed an iPhone factory in southern India "on probation" following protests over food poisoning and living conditions.                                                                                                                    , An audit by Apple found that remote dining rooms and dormitories used by workers did not meet requirements.                                                                                                                                          , Around 250 women who worked at the Foxconn plant were affected by food poisoning, with more than 150 ending up in hospital, local media reported.                                                                                                    , Foxconn apologised and said it was investigating the situation.                                                                                                                                                                                      , "We are very sorry for the issue our employees experienced and are taking immediate steps to enhance the facilities and services we provide," the Taiwanese firm said in a statement.                                                                , The factory has been closed since 18 December, when the protests began.                                                                                                                                                                              , Apple has not specified what being on probation means but in the past it has declined to award new business to facilities on probation until problems are resolved.                                                                                  , An Apple spokesman said: "Following recent concerns about food safety and accommodation conditions at Foxconn Sriperumbudur, we dispatched independent auditors.                                                                                     , "We found that some of the remote dormitory accommodations and dining rooms being used for employees do not meet our requirements, and we are working with the supplier to ensure a comprehensive set of corrective actions are rapidly implemented.", The iPhone factory, which is about 25 miles (40km) from Chennai, employs 17,000 people.                                                                                                                                                              , The food-poisoning cases and subsequent protests also led the Tamil Nadu state government to ask Foxconn to review its worker facilities.                                                                                                            , Last year, Apple had to place another iPhone manufacturing partner on probation after worker riots broke out over unpaid wages at the partner's factory near Bangalore.                                                                              , The man himself on ten key lyrics, including some of The Beatles' classics                                                                                                                                                                           , Abbey Road's amazing history of making music for films and games                                                                                                                                                                                     , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/japan/2-year-note-yield </td>
@@ -322,11 +420,11 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
         +0.14%
        components. Benchmark analyst Mark Miller said he believes the rally is being driven by South Korea-based rival Samsung Electronics Co. Ltd.'s 
         005930,
-        +0.63%
+        -0.13%
        announcement that it had to "temporarily adjust operations" a its manufacturing facilities in Xi'an, China, had to put its plant Xian, China as a result of the "ongoing COVID-19 situation." Miller reiterated the buy rating he's had on Western Digital's stock since at least the past 2 1/2 years, and kept his stock price target at $92, which implies a TK% upside from current levels. The stock, which was headed for the highest close since Aug. 11, has soared 18.7% during its current win streak, which would be the longest since the six-day stretch ended Feb. 19. The stock's rally Wednesday comes as the SPDR Technology Select Sector 
         XLK,
         +0.09%
-       slipped 0.1% while the S&amp;P 500 inched up 0.1%. , Shares of Biogen Inc. undefined shot up 8.9% in afternoon trading Wednesday, after the Korea Economic Daily reported that the U.S.-based drug maker is in talks to be acquired by South Korea-based conglomerate Samsung Group in a deal that could value Biogen at roughly $42 billion. That would represent an 11% premium to Biogen's current market capitalization of about $37.88 billion. Citing investment banking sources, the report said Biogen had approached Samsung about a deal to sell its shares, in a deal valued at more than 50 trillion won. Back in 2011, Samsung and Biogen had agreed to form a joint venture to develop bio-pharmaceuticals. Biogen's stock has gained 5.0% year to date, while the SPDR Health Care Select Sector ETF undefined has rallied 24.5% and the S&amp;P 500 undefined has advanced 27.6%.                                                                                                                                                                                                                                                                                                                                                                            , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       slipped 0.1% while the S&amp;P 500 inched up 0.1%. , Elon Musk sold another $1 billion worth of Tesla Inc. stock Tuesday, as he closes in on his goal of divesting 10% of his stake in the electric-vehicle maker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.foxbusiness.com/economy/champagne-shortage-ahead-of-new-years-eve-as-supply-chain-issues-hit-wine-industry </td>
@@ -338,7 +436,7 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
    <td style="text-align:left;"> https://www.bbc.co.uk/news/technology-59819664?at_medium=RSS&amp;at_campaign=KARANGA </td>
    <td style="text-align:left;"> 2021-12-30 02:07:23 </td>
    <td style="text-align:left;"> TikTok moderator sues over 'psychological trauma' </td>
-   <td style="text-align:left;"> A former TikTok moderator is suing the company, claiming it failed to protect her mental health after "constant" exposure to traumatic video content.                                                                                                                   , Candie Frazier says she reviewed videos that featured "extreme and graphic violence" for up to 12 hours a day.                                                                                                                                                          , She says she suffers from "significant psychological trauma", including anxiety, depression, and post-traumatic stress disorder.                                                                                                                                        , TikTok says it strives to promote "a caring working environment".                                                                                                                                                                                                       , In September TikTok announced 1 billion people were using the app each month. It now has more hits than Google, according to Cloudflare, an IT security company.                                                                                                        , To protect its users, the video-sharing platform uses thousands of in-house and contract content moderators to filter out videos and accounts that break its rules.                                                                                                     , Ms Frazier is suing both TikTok and its parent company, Chinese tech-giant Bytedance.                                                                                                                                                                                   , She claims that in her role as a moderator she watched graphic content, including videos of sexual assault, cannibalism, genocide, mass shootings, child sexual abuse, and the mutilation of animals.                                                                   , Ms Frazier, who worked for a third-party contractor, Telus International, says she was required to review hundreds of videos a day.                                                                                                                                     , According to the lawsuit filed with a federal court in California last week, Ms Frazier suffered "significant psychological trauma, including anxiety, depression, and post-traumatic stress disorder" because of the material she was required to review.              , The lawsuit claims that while she was not a TikTok employee, the social-media giant "controlled the means and manner in which content moderation occurred".                                                                                                             , Ms Frazier alleges that in order to handle the volume of content, she was expected to review, she had to watch as many as 10 videos simultaneously.                                                                                                                     , In the lawsuit it is claimed that during a 12-hour shift moderators were permitted a 15-minute break after the first four hours of work, and then a 15-minute break every subsequent two hours. In addition there was a one-hour lunch break.                           , It alleges that TikTok failed to meet industry standards designed to reduce the impact of content moderation, and that the firm violated California labour law by not providing a safe work environment.                                                                , TikTok would not comment on the "on-going" case, but the firm did say it strived to "promote a caring working environment for our employees and contractors".                                                                                                           , The company added: "Our safety team partners with third-party firms on the critical work of helping to protect the TikTok platform and community, and we continue to expand on a range of wellness services so that moderators feel supported mentally and emotionally.", TikTok believes its measures to protect moderators are in line with industry best practice.                                                                                                                                                                             , Last year, TikTok was among a coalition of social-media giants that created guidelines to safeguard employees who have to filter out child sex-abuse imagery.                                                                                                           , Telus International, which is not a defendant in the case, said it had robust mental-health programmes in place and told the Washington Post, its employees could raise concerns through "several internal channels" -  something it claimed Ms Frazier had not done.   , The firm told the paper Ms Frazier's allegations were "entirely inconsistent with our policies and practices".                                                                                                                                                          , The BBC has approached Telus International for comment.                                                                                                                                                                                                                 , In 2020, another social-media goliath, Facebook, agreed to pay out $52m (£39m) in compensation to moderators who had developed PTSD as a result of their job.                                                                                                           , The lads are on a Christmas quest to catch an elusive English salmon                                                                                                                                                                                                    , Who is the strange cloaked figure in The Mezzotint?                                                                                                                                                                                                                     , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
+   <td style="text-align:left;"> A former TikTok moderator is suing the company, claiming it failed to protect her mental health after "constant" exposure to traumatic video content.                                                                                                                   , Candie Frazier says she reviewed videos that featured "extreme and graphic violence" for up to 12 hours a day.                                                                                                                                                          , She says she suffers from "significant psychological trauma", including anxiety, depression, and post-traumatic stress disorder.                                                                                                                                        , TikTok says it strives to promote "a caring working environment".                                                                                                                                                                                                       , In September TikTok announced 1 billion people were using the app each month. It now has more hits than Google, according to Cloudflare, an IT security company.                                                                                                        , To protect its users, the video-sharing platform uses thousands of in-house and contract content moderators to filter out videos and accounts that break its rules.                                                                                                     , Ms Frazier is suing both TikTok and its parent company, Chinese tech-giant Bytedance.                                                                                                                                                                                   , She claims that in her role as a moderator she watched graphic content, including videos of sexual assault, cannibalism, genocide, mass shootings, child sexual abuse, and the mutilation of animals.                                                                   , Ms Frazier, who worked for a third-party contractor, Telus International, says she was required to review hundreds of videos a day.                                                                                                                                     , According to the lawsuit filed with a federal court in California last week, Ms Frazier suffered "significant psychological trauma, including anxiety, depression, and post-traumatic stress disorder" because of the material she was required to review.              , The lawsuit claims that while she was not a TikTok employee, the social-media giant "controlled the means and manner in which content moderation occurred".                                                                                                             , Ms Frazier alleges that in order to handle the volume of content, she was expected to review, she had to watch as many as 10 videos simultaneously.                                                                                                                     , In the lawsuit it is claimed that during a 12-hour shift moderators were permitted a 15-minute break after the first four hours of work, and then a 15-minute break every subsequent two hours. In addition there was a one-hour lunch break.                           , It alleges that TikTok failed to meet industry standards designed to reduce the impact of content moderation, and that the firm violated California labour law by not providing a safe work environment.                                                                , TikTok would not comment on the "on-going" case, but the firm did say it strived to "promote a caring working environment for our employees and contractors".                                                                                                           , The company added: "Our safety team partners with third-party firms on the critical work of helping to protect the TikTok platform and community, and we continue to expand on a range of wellness services so that moderators feel supported mentally and emotionally.", TikTok believes its measures to protect moderators are in line with industry best practice.                                                                                                                                                                             , Last year, TikTok was among a coalition of social-media giants that created guidelines to safeguard employees who have to filter out child sex-abuse imagery.                                                                                                           , Telus International, which is not a defendant in the case, said it had robust mental-health programmes in place and told the Washington Post, its employees could raise concerns through "several internal channels" -  something it claimed Ms Frazier had not done.   , The firm told the paper Ms Frazier's allegations were "entirely inconsistent with our policies and practices".                                                                                                                                                          , The BBC has approached Telus International for comment.                                                                                                                                                                                                                 , In 2020, another social-media goliath, Facebook, agreed to pay out $52m (£39m) in compensation to moderators who had developed PTSD as a result of their job.                                                                                                           , The man himself on ten key lyrics, including some of The Beatles' classics                                                                                                                                                                                              , Abbey Road's amazing history of making music for films and games                                                                                                                                                                                                        , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/france/government-bond-yield </td>
@@ -371,7 +469,13 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
        had rallied 37.1% and the S&amp;P 500 
         SPX,
         +0.14%
-       had advanced 27.4%., The U.S. has started shipping some doses of the recently authorized COVID-19 antivirals developed by Pfizer and Merck.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       had advanced 27.4%., Shares of FuelCell Energy Inc. undefined sank 5.1% toward 13-month low in premarket trading Wednesday, after the fuel cell technology company reported a wider-than-expected fiscal fourth-quarter loss as revenue surprisingly declined. The net loss for the quarter to Oct. 31 was $24.98 million, or 7 cents a share, after a loss of $19.66 million, or 8 cents a share, in the year-ago period. The number of shares outstanding increased to a weighted average of 366.67 million from 236.38 million. The FactSet consensus for per-share losses was 3 cents. Total revenue dropped 18.0% to $13.94 million, while the FactSet consensus called for 28% increase to $21.77 million. The decline in revenue was driven by a $5.6 million, or 102% decline, in service agreements and license revenue to negative $0.1 million, while the FactSet consensus was for a 22% increase to $6.6 million. The company said the backlog was largely unchanged. "Looking forward, we are focused on executing against our existing project backlog, while simultaneously increasing our annualized production rate, repositioning our brand for the future and building the next generation sales structure," said Chief Executive Jason Few. The stock has tumbled 47.5% this year, while the S&amp;P 500 undefined has climbed 27.4%.                                                                                                                , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.cnn.com/2021/12/29/us/denver-shooting-spree-wednesday/index.html </td>
+   <td style="text-align:left;"> 2021-12-30 01:39:27 </td>
+   <td style="text-align:left;"> Denver shooting spree: Suspect wrote about a murderous rampage in a series of books under a pseudonym  - CNN </td>
+   <td style="text-align:left;"> (CNN)The suspect in Monday's metro Denver shooting spree foreshadowed the rampage in a series of books he wrote under a pseudonym, and used the names of actual victims in his writings.                                                                                                                         , Five people were killed in the shooting and several were wounded -- including a female police officer. Investigators believe the gunman targeted some of his victims, but his motive remains unclear, Denver Police Chief Paul Pazen said.                                                                        , The gunman -- identified as Lyndon James McLeod, 47 -- was killed after a gunfight with a police officer.                                                                                                                                                                                                         , McLeod wrote under the pseudonym Roman McClay, according to a CNN review of his writings. The writings were first reported by The Denver Post.                                                                                                                                                                    , McLeod writes in chilling detail in one of his books about a character named "Lyndon Macleod" who dressed in police gear and kills another character by the name of "Michael Swinyard" at a building located at 1300 Williams St.                                                                                 , One of the victims in Monday's shooting was named Michael Swinyard, according to the Denver County Medical Examiner's office. Police say he was killed at that same address.                                                                                                                                      , In another book, McLeod writes about a character killing a woman named Alicia Cardenas. The Denver County Medical Examiner's office said a woman by the name of Alicia Cardenas was killed.                                                                                                                       , Cardenas, 44, was the owner of Sol Tribe Tattoo &amp; Body Piercing, according to her father, who spoke to CNN Denver affiliate KMGH.                                                                                                                                                                                 , The rampage is among more than 675 shootings that left four or more people dead or injured in the United States this year, according to Gun Violence Archive.                                                                                                                                                     , 3 of the shooting victims were killed at tattoo parlors, family and police say                                                                                                                                                                                                                                    , Authorities, friends and relatives identified three more victims Wednesday.                                                                                                                                                                                                                                       , Alfredo Cardenas, the father of Alicia Cardenas, told KMGH his daughter was gregarious, friendly and a "real leader in the community."                                                                                                                                                                            , Two other Sol Tribe employees were shot in the Monday night rampage, the father told the affiliate.                                                                                                                                                                                                               , A Sol Tribe assistant manager, Alyssa Gunn Maldonado, was killed, and her husband, James Maldonado, has been hospitalized after being injured in the shootings, a friend and a former colleague told CNN. James Maldonado was a piercer at the tattoo studio.                                                     , Swinyard, 67, was killed in Denver, according the city/county medical examiner. Police Cmdr. Matt Clark previously mentioned a victim who was killed at his home near the Cheesman Park area east of downtown Denver, and the address listed in the medical examiner's news release is a block north of the park. , Police also identified two other victims in the suburb of Lakewood: Danny Scofield, 38, who was fatally shot at Lucky 13 Tattoo, and Sarah Steck, 28, who was killed while working at the Hyatt House hotel.                                                                                                      , Motive behind the shooting still unclear                                                                                                                                                                                                                                                                          , Denver police investigated McLeod in 2020 and early 2021 but charges were never filed, Chief Pazen said Tuesday.                                                                                                                                                                                                  , "This individual was on the radar of law enforcement," he said without elaborating.                                                                                                                                                                                                                               , It appears McLeod had some connection to the local tattoo community, via his previous affiliation with a now-shuttered studio, though it's also unclear whether the shootings are related to McLeod's previous business relationships.                                                                            , A Denver tattoo parlor listing McLeod as its "registered agent," according to the Colorado Secretary of State's Office, was incorporated in 2005 and became "delinquent for failure to file Periodic Report" in 2017. CNN has reached out to the Denver Police Department for comment.                            , The site of the former business -- just south of the Denver Health Medical Center, where one of Monday night's shootings took place -- is now occupied by a tattoo parlor with a different name. Another incident was reported at that intersection, Pazen said.                                                  , "We believe a gun was fired. However, we do not have any injuries at that particular location," the chief said.                                                                                                                                                                                                   , Shooting spree included a car chase and gunfight                                                                                                                                                                                                                                                                  , McLeod allegedly opened fire at multiple locations around Denver before traveling to Lakewood, about 8 miles west of downtown Denver, Pazen said.                                                                                                                                                                 , The shootings began just after 5 p.m. when the gunman killed two women and wounded a man in Denver's busy South Broadway neighborhood, the chief said. Sol Tribe is located on Broadway.                                                                                                                          , The wounded man was taken to a hospital and was in critical condition Tuesday but is expected to survive, said Clark, the Denver police commander.                                                                                                                                                                , Authorities then received a call about a burglary where, Clark said, the suspect broke into a building and fired shots. People there escaped uninjured. Several blocks away, the gunman killed the man in his home near Cheesman Park, Clark said.                                                                ,                                                                                                                                                                                                                                                                                                                   , Denver police identified a black Ford linked to the incident and gave chase, leading to a gunfight, the chief said.                                                                                                                                                                                               , "We believe the individual, after disabling the police car, fled into Lakewood," he said.                                                                                                                                                                                                                         , Authorities received a report of shots fired at Lucky 13 Tattoo just before 6 p.m., Lakewood police spokesman John Romero said. Scofield was pronounced dead at the scene.                                                                                                                                        ,                                                                                                                                                                                                                                                                                                                   , The gunman made his way to the Hyatt House Hotel in a shopping center a few miles away, where he allegedly shot Steck, who died later, police said Tuesday.                                                                                                                                                       , Lakewood Police Agent Ashley Ferris eventually confronted McLeod in a shopping area near the hotel and "ordered him to drop his weapon as he approached her," a news release from the Lakewood Police Department said.                                                                                            , The gunman ignored Ferris' commands and shot her, striking her abdomen, the release said. "Agent Ferris, shot and wounded on the ground, was able to return fire on the suspect. The suspect was shot by Agent Ferris and died on scene."                                                                         , Ferris remains in the hospital, according to the Wednesday news release.                                                                                                                                                                                                                                          , "The entire Lakewood Police family will be here to support Agent Ferris and her family as she embarks on this recovery process," said Lakewood Police Chief Dan McCasky.                                                                                                                                          , CNN's Ashley Killough, Omar Jimenez, Eric Levenson, Caroll Alvarado and Shawn Nottingham contributed to this report. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.cnbc.com/2021/12/29/stocks-making-the-biggest-moves-midday-victorias-secret-tesla-didi-and-more.html </td>
@@ -506,12 +610,6 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
    <td style="text-align:left;"> AUDUSD increased to a 5-week high of 0.7263 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/japan/government-bond-yield </td>
-   <td style="text-align:left;"> 2021-12-29 23:40:39 </td>
-   <td style="text-align:left;"> Japan 10Y Bond Yield Hits 4-week High </td>
-   <td style="text-align:left;"> Japan 10 Year Government Bond Yeld increased to a 4-week high of 0.066% </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/commodity/gasoline </td>
    <td style="text-align:left;"> 2021-12-29 23:37:19 </td>
    <td style="text-align:left;"> Gasoline Hits 4-week High </td>
@@ -527,7 +625,7 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
        dropped 0.8% in morning trading Wednesday, reversing earlier intraday gains of as much as 1%, after the Wall Street Journal reported that the social-media and metaverse company looked to divide lawmakers along party lines to forestall any bipartisan attempt to install tougher rules on social-media platforms. Citing people described as familiar with the conversations, the report said Facebook's Washington team called Republican lawmakers to push the narrative that former Facebook employee and whistleblower Frances Haugen was trying to help Democrats, while at the same time calling Democrats to warn them that Republicans were focused on Facebook's decision to ban expressions of support for Kyle Rittenhouse, who was charged with killing two people during civil unrest in Wisconsin, and later acquitted. The report said Chief Executive Mark Zuckerberg told employees not to apologize. Meta's stock has gained 1.2% over the past three months and has rallied 25.8% this year, while the S&amp;P 500 
         SPX,
         +0.14%
-       has advanced 9.8% in the past three months and has run up 27.4% in 2021., Nvidia is up 130% this year and trades at lofty multiples. But there are a few chip stocks that still look cheap on a price-to-earnings basis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       has advanced 9.8% in the past three months and has run up 27.4% in 2021., Analysts at Wedbush point to three catalysts, including China demand, that could drive Tesla stock higher in 2022.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/united-states/currency </td>
@@ -560,37 +658,10 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
    <td style="text-align:left;"> Rice increased to a 17-month high of 14.705 USD/cwt </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> https://www.foxbusiness.com/markets/stocks-covid-omicron-concerns-oil-pending-home-sales </td>
-   <td style="text-align:left;"> 2021-12-29 22:34:24 </td>
-   <td style="text-align:left;"> Dow, S&amp;P 500 close at all-time highs </td>
-   <td style="text-align:left;"> Delancey Strategies president Jared Levy provides insight on the U.S. markets.                                                                                                                                                                                                                                                                                             , U.S. stocks closed in record territory on Wednesday despite lingering worries about the coronavirus' omicron variant.                                                                                                                                                                                                                                                      , STOCK FUTURES FLAT AMID OMICRON CONCERNS                                                                                                                                                                                                                                                                                                                                   , The Dow Jones Industrial Average climbed 90.42 points, or 0.25%, setting a new record. The S&amp;P 500 rose 0.14%, setting its own record, while the Nasdaq Composite ended down 0.10%. It marked the first record close for the Dow since Nov. 8.                                                                                                                             , Meanwhile, oil climbed 0.76% to $76.56 per barrel, its highest level since Nov. 24. The 10-year Treasury yield also jumped 6.2 basis points to 1.542%, finishing at a five-week high.                                                                                                                                                                                      , GET FOX BUSINESS ON THE GO BY CLICKING HERE                                                                                                                                                                                                                                                                                                                                , On the economic data front, pending home sales fell 2.2% month over month in November, according to the National Association of Realtors. Economists surveyed by Refinitiv expected an increase of 0.5%.                                                                                                                                                                   , In stocks, Tesla shares finished flat Wednesday after CEO Elon Musk exercised all of his stock options set to expire in 2022.                                                                                                                                                                                                                                              , Cal-Maine Foods ended Wednesday's trading session down more than 5% after earning 2 cents per share for its latest quarter, falling short of Refinitiv's 30-cent consensus estimate.                                                                                                                                                                                       , Shares of Chinese ride-hailing firm Didi also dropped 8% on Wednesday after Reuters reported that the company would list in Hong Kong in mid-2022 without issuing more shares or raising additional capital. Alibaba and Weibo also took a hit following a report that the former was considering selling its 30% stake in the latter to state-owned Shanghai Media Group. , Victoria's Secret also rallied 12% after the intimate apparel retailer announced a $250 million share repurchase program. In addition, the company reaffirmed its fourth-quarter guidance of diluted earnings per share in the range of $2.35 to $2.65 and total fourth-quarter sales in the range of flat to up 3% versus last year's $2.1 billion during the same period., CLICK HERE TO READ MORE ON FOX BUSINESS                                                                                                                                                                                                                                                                                                                                    , Overseas, Japan's benchmark Nikkei 225 index lost 0.5%, Hong Kong's Hang Seng index dropped 0.8% and China's Shanghai Composite shed 0.9%. In Europe, London's FTSE rose 0.6%, Germany's DAX declined 0.7%, and France's CAC40 Index fell 0.2%.                                                                                                                            , FOX Business' Ken Martin contributed to this report. </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/united-states/stock-market </td>
    <td style="text-align:left;"> 2021-12-29 22:32:43 </td>
    <td style="text-align:left;"> US Stocks Steady </td>
    <td style="text-align:left;"> US stocks were little changed on Wednesday after the Dow Jones booked its 5th straight session of gains and the S&amp;P hit an intraday record the day before. Traders continue to wonder what will be the impact of omicron coronavirus variant on the global economy while expecting the Fed to continue to tighten next year amid persistent high inflation and a robust economic recovery. On the corporate front, Tesla shares rose 0.5%, following news that Elon Musk has exercised the last of his stock options for next year while stocks of BioNTech (-3%) and Moderna (-1.8%) were in the red. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> http://www.marketwatch.com/news/story/cruise-stocks-fall-cdc-investigates/story.aspx?guid={17387A79-B611-4932-8AB0-75970E698CB7}&amp;siteid=rss </td>
-   <td style="text-align:left;"> 2021-12-29 21:53:37 </td>
-   <td style="text-align:left;"> Cruise stocks fall as CDC investigates more ships with COVID cases climbing - MarketWatch </td>
-   <td style="text-align:left;"> Shares of cruise operators fell Wednesday, after the number of ships being investigated and observed by the Centers for Disease Control and Prevention as a result of COVID-19 cases reported has increased, fueling fears that the CDC could call for another pause in sailings. Shares of Carnival Corp. 
-        CCL,
-        -0.53%
-       dropped 0.9% in premarket trading, Norwegian Cruise Line Holdings Ltd. 
-        NCLH,
-        -1.51%
-       slid 1.4% and Royal Caribbean Group 
-        RCL,
-        -0.04%
-       slumped 1.1%. Meanwhile, futures 
-        ES00,
-        -0.01%
-       for the S&amp;P 500 
-        SPX,
-        +0.14%
-       slipped less than 0.1% ahead of the open. The CDC said as of Dec. 28, the number of Carnival ships that have reached "yellow" status, which indicates reported cases of COVID-19 have met the threshold for investigation, rose to 32 from 25 on Tuesday. For Norwegian, the number of "yellow" status ships rose to 15 from 12, while the number of Royal Caribbean's "yellow" status ships grew to 25 from 20. , Analysts at Wedbush point to three catalysts, including China demand, that could drive Tesla stock higher in 2022.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/united-kingdom/currency </td>
@@ -682,90 +753,6 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
    <td style="text-align:left;"> Greece Total Credit Growth at 1-Year Low </td>
    <td style="text-align:left;"> The annual growth rate of total credit extended to the Greek economy eased to 12.2 percent in November of 2021 from a downwardly revised 12.4 percent in the previous month. It was the lowest growth rate since October of 2020 as credit rose at softer pace for the government (46.3 percent vs 43.3 percent in October). On the other hand, credit edged up for the private sector (1.1 percent vs 0.9 percent). </td>
   </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/portugal/retail-sales-annual </td>
-   <td style="text-align:left;"> 2021-12-29 19:31:58 </td>
-   <td style="text-align:left;"> Portugal Retail Sales Growth at 6-Month High </td>
-   <td style="text-align:left;"> Portugal’s retail trade rose 9.9 percent year-on-year in November of 2021, accelerating from a downwardly revised 3.3 percent in the previous month. It was the fastest growth in retail trade since May, partly reflecting a low base year due to last year’s curbs on social and business activities, as well as travel restrictions. Main upward pressure came from non-food stores (14.0 percent vs 4.4 percent in October), with significant support from sales in stores of textiles, clothing, footwear, and leather products. Meanwhile, trade in food stores rose at a faster pace (4.9 percent vs 2.0 percent). On a monthly basis, retail sales went up by 2.8 percent, slightly faster than October’s 2.3 percent increase. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/austria/manufacturing-pmi </td>
-   <td style="text-align:left;"> 2021-12-29 19:12:29 </td>
-   <td style="text-align:left;"> Austria Manufacturing PMI Edges Higher </td>
-   <td style="text-align:left;"> The UniCredit Bank Austria Manufacturing PMI rebounded to 58.7 in December of 2021 from 58.1 in the previous month. The uptick in factory growth was attributed to a faster increase in output, with a rate of production in line with pre-pandemic standards. December also saw an increase in new orders, driven by a faster rise in new export business and a less manufacturers reporting long delivery times for inputs. On the other hand, supply chain imbalances and higher energy costs drove input price up. In turn, manufacturers marked another rise in purchasing activity to build up inventories and counter shortage possibilities. At the same time, backlogs of work continued to rise, as businesses had difficulty keeping up with demand, partly due to staffing constraints. Hence, employment furthered its steady rise in December. Looking ahead, firms expect a rise in production over the next 12 months, although optimism is at its lowest since August 2020.s </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/iron-ore </td>
-   <td style="text-align:left;"> 2021-12-29 19:11:00 </td>
-   <td style="text-align:left;"> Iron Ore Heads for 27% Yearly Loss </td>
-   <td style="text-align:left;"> Spot prices of iron ore with 63.5% iron content for delivery to Tianjin remained above $115 a tonne at the end of a turbulent 2021 year, recovering from a 16-month low of about $85 in November but remaining below a record of $229.5 hit in May. Still, iron ore headed for an over 27% yearly loss in 2021 and is expected to remain under pressure in 2022 due to steel curbs imposed by the Chinese government to control carbon emissions, a drop in demand for metals on the back of energy shortages, a slowdown in China's property sector following the spillover from China Evergrande Group's debt and improving production growth from Brazil and Australia. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/gold </td>
-   <td style="text-align:left;"> 2021-12-29 18:53:00 </td>
-   <td style="text-align:left;"> Gold traded below 1795 USD/t.oz </td>
-   <td style="text-align:left;"> Gold decreased below 1795, according to trading on a contract for difference (CFD). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/uk-natural-gas </td>
-   <td style="text-align:left;"> 2021-12-29 18:47:55 </td>
-   <td style="text-align:left;"> UK Natural Gas Down 45% from All-Time High </td>
-   <td style="text-align:left;"> UK natural gas prices slumped more than 45% to a three-week low of 243 pence a therm, from a record high of 451.72 pence reached on December 21st, as more US LNG tankers rerouted to the UK and the EU to ease the ongoing natural gas crunch. Furthermore, weather forecasts see milder temperatures for the coming days, reducing the pressure on utilities to generate power and provide heating to households and businesses. More than 20 US LNG tankers declared destinations in Europe this week, compared with 10 tankers last week, and at least eight ships originally headed to Asia have been diverted to Europe, as local spot prices became more competitive. For the year, prices soared roughly 57% amid dwindling inventories, insufficient supplies from Russia, and colder than usual weather. Upside risks also came from rising geopolitical tensions in eastern Europe and delays in the approval of the Nord Stream 2 pipeline. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/bosnia-and-herzegovina/retail-sales-annual </td>
-   <td style="text-align:left;"> 2021-12-29 18:44:39 </td>
-   <td style="text-align:left;"> Bosnia and Herzegovina Retail Sales Growth Slows in November </td>
-   <td style="text-align:left;"> Retail sales in Bosnia and Herzegovina increased 16 percent year-on-year in November of 2021, easing from an upwardly revised 18.2 percent in the previous month. Sales slowed for non-food products (16.8 percent vs 20.3 percent in October) such as other goods (24.9 percent vs 35 percent), while rose slightly for food, beverages and tobacco (7.6 percent vs 7.4 percent). On a monthly basis, retail sales declined 0.3 percent, following a 0.2 percent fall in the previous month. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/palm-oil </td>
-   <td style="text-align:left;"> 2021-12-29 18:35:00 </td>
-   <td style="text-align:left;"> Palm Oil Heads for 30% Yearly Gain </td>
-   <td style="text-align:left;"> Malaysian palm futures traded above MYR 4,600 per tonne at the end of a record year in 2021, having touched an all-time closing high of MYR 5,071 on October 20th and heading for an over 30% yearly gain, as demand for edible oils rebounded and supply remained limited. In addition, a shortage of workers in Malaysia and heavier rains than usual in key growing areas hit palm oil production. Prices are expected to remain high during the first quarter of the year as supply tightness persists, amid low seasonal production, the La Nina weather pattern and strong demand for Chinese New Year, before starting to fall in subsequent quarters as output growth accelerates due to improvements in both availability of labor and fertilizer application. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/eu-natural-gas </td>
-   <td style="text-align:left;"> 2021-12-29 18:34:36 </td>
-   <td style="text-align:left;"> EU Natural Gas at 3-Week Low </td>
-   <td style="text-align:left;"> EU natural gas prices extended losses for the sixth session in a row to €100 per megawatt-hour, the lowest in three weeks and roughly 45% below a record high of €180.27 reached last week, on expectations that a convoy of US LNG tankers will help ease the energy crunch and forecasts of milder temperatures. More than 20 US LNG tankers declared destinations in Europe this week, compared with 10 tankers last week, and at least eight ships originally headed to Asia have been diverted to Europe, where spot prices are more competitive. For the year, prices have soared almost 60% amid dwindling inventories, insufficient supplies from Russia, and colder than usual weather. Upside risks also came from rising geopolitical tensions in eastern Europe and delays in the approval of the Nord Stream 2 pipeline. Russia blames European utilities for prioritizing spot deals over long-term contracts and thus causing the recent surge in prices. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/united-states/government-bond-yield </td>
-   <td style="text-align:left;"> 2021-12-29 18:31:00 </td>
-   <td style="text-align:left;"> US 10-Year Treasury Yield Below 1.5% </td>
-   <td style="text-align:left;"> The yield on the benchmark 10-year Treasury note remained below 1.5% at the end of December, as investors continue to assess the economic impact of the Omicron coronavirus variant and prospects of faster policy tightening by the Federal Reserve. US policymakers turned more hawkish in their final policy meeting of 2021 and signalled a three quarter-point rate hike next year. The yields could go slightly higher next year as inflation will likely remain elevated for some time while GDP growth and the labour market continue to recover from the pandemic hit. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/italy/stock-market </td>
-   <td style="text-align:left;"> 2021-12-29 18:16:43 </td>
-   <td style="text-align:left;"> Italian Stocks Edge Lower </td>
-   <td style="text-align:left;"> The FTSE MIB was 0.3% lower to trade around the 27,400 level on Wednesday, as stronger pandemic related restriction measures dented investors’ sentiment on business. Italy’s daily case count has hit a fresh record yesterday, as quarantine periods from close contacts with infections were extended to seven days for the vaccinated and ten days for the unvaccinated. Health experts criticized the extended quarantine times, stating the country could risk paralysis when the highly infectious Omicron strain should be dominant by January. At the moment, around 2.5 million people are estimated to be in isolation from contact with positive cases. On the corporate front, industry and tech stocks led the losses, as seen in Cnh Industrial (-1.1%) and Nexi (-0.8%). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/crude-oil </td>
-   <td style="text-align:left;"> 2021-12-29 17:57:46 </td>
-   <td style="text-align:left;"> WTI Crude Steadies after 5-Day Rally </td>
-   <td style="text-align:left;"> WTI crude futures steadied around $76 a barrel on Wednesday, pausing a 5-day rally but remaining close to the highest in near five weeks, as investors welcome signs the omicron variant is less severe than initially expected while fresh API data showed US crude inventories fell for a 5th consecutive week.The American Petroleum Institute Report indicated US crude inventories fell by 3.091 million barrels in the week ended on December 24th, compared with market expectations of a 3.233 million decrease. Also, investors grew confident there will be no need to impose more restrictions on movements amid more evidence Omicron is less severe than previous strains. Oil is on track to book a more than 50% gain for 2021, its strongest performance in more than a decade, amid rising demand and supply constraints. Traders now await the next OPEC+ meeting on January 4th, as the group is set to decide whether to go ahead with a planned 400,000 barrels per day production increase in February. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/australia/government-bond-yield </td>
-   <td style="text-align:left;"> 2021-12-29 17:54:17 </td>
-   <td style="text-align:left;"> Australia 10Y Bond Yield at 2-Week Low </td>
-   <td style="text-align:left;"> The yield on Australian 10-year government bonds fell to 1.55%, the lowest in two weeks and near levels not seen since October 5th, on growing concerns about surging coronavirus infections domestically. Although state governments have denied going back to lockdowns, restrictions on mobility and social activities have been reintroduced and consumers have reduced their activities. In New South Wales, Australia’s most populous state, authorities have brought back capacity restrictions to indoor venues, two weeks after the local government had reaffirmed its commitment to continue easing public health rules. Now traders await major economic releases in the second half of January 2022, namely the RBA’s December job report and inflation data for the final quarter of the current year, to look for clues on the outlook of the central bank’s bond buying scheme. For the year, Australia’s 10Y bond yield has climbed 0.57% in 2021. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/bulgaria/stock-market </td>
-   <td style="text-align:left;"> 2021-12-29 17:41:58 </td>
-   <td style="text-align:left;"> Stocks in Bulgaria Hit 3-year High </td>
-   <td style="text-align:left;"> SOFIX increased to a 3-year high of 637.69 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.bbc.co.uk/news/uk-59814598?at_medium=RSS&amp;at_campaign=KARANGA </td>
-   <td style="text-align:left;"> 2021-12-29 17:41:37 </td>
-   <td style="text-align:left;"> UK cost of living squeeze in 2022, says think tank </td>
-   <td style="text-align:left;"> Millions of families are facing a "year of the squeeze" in 2022, a think tank has warned.                                                                                                                                                                                                                              , The Resolution Foundation predicts higher energy bills, stagnant wages and tax rises could leave households with a £1,200 a year hit to their incomes.                                                                                                                                                                 , Its report highlights the rise in the energy price cap and National Insurance contributions in April.                                                                                                                                                                                                                  , The government says it has put £4.2bn in place to support families.                                                                                                                                                                                                                                                    , According to the Resolution Foundation, millions of families are facing a "cost-of-living catastrophe" next year.                                                                                                                                                                                                      , It says a 1.25% increase in National Insurance contributions will cost the average household £600 a year while the higher energy bills cap is expected to add an additional £500 to spending. Both will come into force in April.                                                                                      , The impact of the failure of many firms in the energy sector would see another £100 added to gas and electricity bills. Customers of collapsed energy companies have been shifted to new suppliers but it means they could pay a different - and potentially more expensive - tariff than their previous energy deal.  , In recent months, wholesale gas prices have risen to unprecedented levels. Last week, they hit a new record of 450p per therm, which experts think could take average annual gas bills to about £2,000 next year.                                                                                                      , Earlier this week, business secretary Kwasi Kwarteng met bosses from the UK's energy companies and the industry's regulator Ofgem "to discuss the ongoing effects of record high global gas prices on the sector".                                                                                                     , Labour has suggested the government immediately remove VAT from household energy bills over winter to help households.                                                                                                                                                                                                 , Stephen Fitzpatrick, chief executive of Ovo Energy, who attended the virtual meeting on Monday, also suggested the government should remove "some of the environmental social policy costs that we have seen increase over the years".                                                                                 , Meanwhile, the cost of living in the UK surged by 5.1% in the 12 months to November - the highest increase in 10 years - Office for National Statistics data showed.                                                                                                                                                   , Inflation is set to peak at 6% in the spring, according to the Bank of England, and the Resolution Foundation warned that real wage growth, which was flat in October, "almost certainly started falling last month and is unlikely to start growing again until the final quarter of 2022".                           , Resolution Foundation chief executive Torsten Bell, said: "The overall picture is likely to be one of prices surging and pay packets stagnating."                                                                                                                                                                      , He told the BBC that the UK employment market had shown signs of resilience during the pandemic following the end of the government's furlough scheme on 30 September, with the unemployment rate close to pre-Covid levels at 4.2%.                                                                                   , He also highlighted that the national living wage will rise in April, by 6.6%, which he said means "the lowest earners will be protected from some of these price rises we are seeing".                                                                                                                                , However, Mr Bell said that while some areas of the workforce have seen sharp wage rises - such as in-demand HGV drivers - "overall the story is prices going up for everybody while wages go up for some".                                                                                                             , Mr Bell said Chancellor Rishi Sunak could face increased pressure to take action to alleviate his economic plan set out in the Autumn Budget.                                                                                                                                                                          , The report by the foundation says that poorer families are going to be the worse hit by the "year of the squeeze", as they spend a higher proportion of their income on energy.                                                                                                                                        , A government spokesman said its help included reducing the Universal Credit taper, as well as measures to assist with bills, including cold weather payments and a freeze in alcohol and fuel duty.                                                                                                                    , The lads are on a Christmas quest to catch an elusive English salmon                                                                                                                                                                                                                                                   , Who is the strange cloaked figure in The Mezzotint?                                                                                                                                                                                                                                                                    , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
-  </tr>
 </tbody>
 </table></div>
 
@@ -780,7 +767,7 @@ Last Updated: 2021-12-30 10:03:45 UTC +8
 
 
 
-Last Updated: 2021-12-30 10:04:28 UTC +8
+Last Updated: 2021-12-30 14:15:38 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -793,1654 +780,1920 @@ Last Updated: 2021-12-30 10:04:28 UTC +8
 <tbody>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:03:44 </td>
-   <td style="text-align:left;"> $SPY BAC is lucky to survive 10 years.. lol </td>
+   <td style="text-align:left;"> 2021-12-30 14:14:21 </td>
+   <td style="text-align:left;"> $SPY Ruh roh here bears </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:03:41 </td>
-   <td style="text-align:left;"> $SPY futures confirming crash is imminent by eow. Keep buying bulls and see what it get you! </td>
+   <td style="text-align:left;"> 2021-12-30 14:13:18 </td>
+   <td style="text-align:left;"> $SPY woke lol </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:03:06 </td>
-   <td style="text-align:left;"> $QQQ $spy massive deferred tax gain selling likely to slam the markets in the first week or two of January. By selling in Jan., investors and funds can defer cap. gains taxes until 2023. Also geopolitical events and pandemic news could hurt. I expect a decline of at least 15% next month, but a larger decline is possible once the selling starts and panic sets in. The markets are a game of musical chairs after all. </td>
+   <td style="text-align:left;"> 2021-12-30 14:13:12 </td>
+   <td style="text-align:left;"> $SPY $TSLA $RIOT silver to diamond with top lane even tho i havent played in so long </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:02:59 </td>
-   <td style="text-align:left;"> $SPY why BAC trading at 13 pe ratio when they almost went bankrupt in 1 year </td>
+   <td style="text-align:left;"> 2021-12-30 14:12:47 </td>
+   <td style="text-align:left;"> $SPY index at all time highs while growth stocks get slaughtered to all time lows. Moral of the story ? We don’t anymore more success stories , join the program and crawl on your knees to financial freedom. Well Fuck the system , bulls coming back 2022. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:02:51 </td>
-   <td style="text-align:left;"> $SPY Futes green. </td>
+   <td style="text-align:left;"> 2021-12-30 14:10:47 </td>
+   <td style="text-align:left;"> $NILE $IWM $SPY $AYRO Facts!! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:02:46 </td>
-   <td style="text-align:left;"> $SPY No Options. Just old fashioned vanilla ice cream homemade. I sleep so well these days. Life is good. Respect for all of you traders.
+   <td style="text-align:left;"> 2021-12-30 14:10:43 </td>
+   <td style="text-align:left;"> Post here $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:10:19 </td>
+   <td style="text-align:left;"> Keep compounding $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:09:00 </td>
+   <td style="text-align:left;"> $SPY anyone see anything wrong in this pic </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:07:54 </td>
+   <td style="text-align:left;"> $SPY don’t care what direction this moves tomorrow. Just move. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:06:27 </td>
+   <td style="text-align:left;"> $SPY HSI sliced through multiyear support let&amp;#39;s see what chaos it brings to market world wide. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:05:51 </td>
+   <td style="text-align:left;"> $spy rainbow bearz have the options edge into tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:05:34 </td>
+   <td style="text-align:left;"> $SPY All I want in life is a 263ft $100M Yacht. Is that so much to ask? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:05:05 </td>
+   <td style="text-align:left;"> $SPY $SPX GREAT READ AND WHY I LOVE @BookmapPro
 
-https://www.youtube.com/watch?v=agCYX2Fyp2M </td>
+https://www.onlyticks.com/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:02:45 </td>
-   <td style="text-align:left;"> 🚨 #livestream alert 
-🔥 we are now live for the midweek update
-im going to break down 👇
-👉my top picks 
-📈 were to get in and out  
-🔥 how to trade for the rest of the week  
-click   https://us02web.zoom.us/j/87572141513 $SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:01:58 </td>
+   <td style="text-align:left;"> $SPY new work culture 😂 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:02:32 </td>
-   <td style="text-align:left;"> $SPY $QQQ Goldman sees inflation normalizing lower, as it tends to do.  Worth a read if you&amp;#39;re the worrying or shit-posting type:  https://heisenbergreport.com/2021/12/29/why-goldman-expects-inflation-to-settle-down-in-2022/ </td>
+   <td style="text-align:left;"> 2021-12-30 14:00:41 </td>
+   <td style="text-align:left;"> $SPY … </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:02:31 </td>
-   <td style="text-align:left;"> $SPY futes green bears fucked </td>
+   <td style="text-align:left;"> 2021-12-30 14:00:18 </td>
+   <td style="text-align:left;"> $SPY HSI hanging by thread on multi year support again. It&amp;#39;s likely to slice through it today. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:02:28 </td>
-   <td style="text-align:left;"> $SPY $QQQ I’ve been looking at my positions too closely lately.  Time to step back and look from a distance. </td>
+   <td style="text-align:left;"> 2021-12-30 13:59:45 </td>
+   <td style="text-align:left;"> $SPY $SPX #ES_F the anatomy of a trade in 2 pics </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:02:17 </td>
-   <td style="text-align:left;"> $SPY lol bears are stupid </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:02:09 </td>
-   <td style="text-align:left;"> $SPY I assume VIX will hit 14 before the largest market losses in history will occur by market cap </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:02:01 </td>
-   <td style="text-align:left;"> $SPY I’m legitimately curious how we combat the record high inflation numbers we’ve seen this past year. This isn’t a bearish post- genuinely asking because it seems like an insurmountable task. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:01:50 </td>
-   <td style="text-align:left;"> $SPY When are we getting more stimulus checks? There&amp;#39;s a new variant there should be checks damn </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:01:36 </td>
-   <td style="text-align:left;"> $SPY sheeesh can&amp;#39;t wait for 2022 pivots to come out </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:01:16 </td>
-   <td style="text-align:left;"> $SPY $QQQ $IWM $DIA At this point I don’t even care anymore if futures are up, I’d rather have it down and have the markets run up during session…. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:01:00 </td>
-   <td style="text-align:left;"> The $VIX has remained elevated for the past 2 years.  Lowest level this year was back in June.  Scary times.   Bullish $SPY. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:00:59 </td>
-   <td style="text-align:left;"> $SPY Keep the money printers going ! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:00:45 </td>
-   <td style="text-align:left;"> $SPY We all know it is coming, the question is when? A twenty percent correction could present itself as early as in 2022, but not until we hit 500. How much cash are you taking to the sidelines in 2022? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:00:13 </td>
+   <td style="text-align:left;"> 2021-12-30 13:59:27 </td>
    <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:00:06 </td>
-   <td style="text-align:left;"> $SPY this is definitely if higher short more scenario, just glad I got in today </td>
+   <td style="text-align:left;"> 2021-12-30 13:59:23 </td>
+   <td style="text-align:left;"> $SPY $SPX #ES_F the anatomy of a trade in two images </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 10:00:05 </td>
+   <td style="text-align:left;"> 2021-12-30 13:59:00 </td>
+   <td style="text-align:left;"> Keep going $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:58:51 </td>
+   <td style="text-align:left;"> $SPY 
+
+ Why is bear so poor all the time ??
+
+🤔🤔📈🙂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:57:28 </td>
+   <td style="text-align:left;"> $SPY what the Hell is that all about ?! 👽👀 $UFO </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:56:55 </td>
+   <td style="text-align:left;"> https://www.investing.com/indices/indices-futures  $f $tsla $ccl  $spy $qqq </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:55:35 </td>
+   <td style="text-align:left;"> $SPY juice wrld bought this stock </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:55:11 </td>
+   <td style="text-align:left;"> $SPY hmm so Putin wants to talk to Biden. I’m sure this will be completely improvised and they haven’t already spoken and made some sore of agreement </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:55:06 </td>
+   <td style="text-align:left;"> Some other interesting option trades...
+
+$QQQ $SPY $EEM </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:54:54 </td>
+   <td style="text-align:left;"> $SPY https://youtu.be/1szayJV505M </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:53:39 </td>
+   <td style="text-align:left;"> $SPY I need a gf lmao </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:51:23 </td>
+   <td style="text-align:left;"> $SPY Ima need you to do that 480 thingy by Friday ☺️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:46:52 </td>
+   <td style="text-align:left;"> $SPY Mac Miller got me in my feelings </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:45:03 </td>
+   <td style="text-align:left;"> $SPY If you think the bull market is done get ready 2022 is going to be even larger. Globally rates are still frozen at 0% so all of the new money has to go somewhere. It’s not hard to see SPY hitting $600 end of next year https://www.cnbc.com/2021/12/16/big-wealth-investors-are-likely-to-put-money-to-work-in-stocks-after-amassing-record-levels-of-cash.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:44:14 </td>
+   <td style="text-align:left;"> $spy I&amp;#39;m more burnt out on government control than I am of COVID. I think we need to take our governments back, peacefully. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:43:40 </td>
+   <td style="text-align:left;"> $DWAC $SPY $QQQ 
+Total psy-op false flag Lefty scam..
+
+https://m.youtube.com/watch?v=qwYIWno8EJo&amp;amp;feature=share </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:42:46 </td>
+   <td style="text-align:left;"> $SPY $SPX $QQQ 
+
+Anyone heard from Crossing Trends? Or did he go broke? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:42:25 </td>
+   <td style="text-align:left;"> $SPY 🙏🏾 let’s close this year </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:41:26 </td>
+   <td style="text-align:left;"> $SPY futus are rippin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:40:45 </td>
+   <td style="text-align:left;"> $SPY $SPOT https://www.youtube.com/watch?v=4LSdLh7dsR0 fire song </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:40:20 </td>
+   <td style="text-align:left;"> $SPY pretty clear that the worlds investors still thinks America is the place to put their money for the next decade. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:40:10 </td>
+   <td style="text-align:left;"> $SPY chinese futures died quickly... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:39:52 </td>
+   <td style="text-align:left;"> $SPY $TSLA$juicewrld $QQQ $NFLX $DIS alexa play all girls are the same </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:39:19 </td>
+   <td style="text-align:left;"> $SPY tomorrow is going to be flat so Brandon can say how good the economy is. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:39:19 </td>
+   <td style="text-align:left;"> $SPY  HSI ready for waterfall. Let see if it&amp;#39;s going to break multi year support today. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:39:05 </td>
    <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:59:51 </td>
-   <td style="text-align:left;"> $SPY Put-Call Ratio (Open Interest)
-2.2317 </td>
+   <td style="text-align:left;"> 2021-12-30 13:38:35 </td>
+   <td style="text-align:left;"> $SPY latexc9091331a933e41ffe06b14954714c36SPY 
+$WISH </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:59:05 </td>
-   <td style="text-align:left;"> $SPY yup China and Russia front running PUTs, I wouldn’t touch puts … ur a commie if you’re a bear </td>
+   <td style="text-align:left;"> 2021-12-30 13:36:50 </td>
+   <td style="text-align:left;"> $SPY I have calls and puts. Fk you SPY. Only theta can hurt me now </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:58:48 </td>
-   <td style="text-align:left;"> $SPY 
+   <td style="text-align:left;"> 2021-12-30 13:36:11 </td>
+   <td style="text-align:left;"> $SPY 20 SMA on 60m. Still key level according to me. Goodnight. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:35:59 </td>
+   <td style="text-align:left;"> $SPY be advised </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:35:41 </td>
+   <td style="text-align:left;"> $SPY bounced hard af off liquidity level and retest of breakout on /nq 16400 and they&amp;#39;re still buying puts. I&amp;#39;m going to enjoy this </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:35:26 </td>
+   <td style="text-align:left;"> $spy looks like every night Fauci comes with a statement to arouse the bear to fuck them hard by the first hour of market open.. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:35:22 </td>
+   <td style="text-align:left;"> $SPY I Am  bull again I am bull </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:33:52 </td>
+   <td style="text-align:left;"> $SPY what’s your 2022 5-10 bagger Tickers???  lot of brilliant people here. What say you? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:32:49 </td>
+   <td style="text-align:left;"> $SPY it’s just... I mean c’mon.  If tumbles through every support then magically V rallies straight up right back above every resistance and bounces off the highest support? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:32:38 </td>
+   <td style="text-align:left;"> $SPY haha we are going higher bear meat again tomorrow.. consolidation done … </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:32:24 </td>
+   <td style="text-align:left;"> $SPY loaded puts all day 474s 477s &amp;amp; 470s Jan 22 … will I become rich or blow up my account. Stay tuned </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:32:11 </td>
+   <td style="text-align:left;"> $SPY hey guys just spoke to Dave portnoy on my T Mobile Sidekick. He loaded up calls and he’s ready to paper hand them at the smallest 0.8% drop. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:31:43 </td>
+   <td style="text-align:left;"> $BTC.X $SPY “guilt is an illusion “ Ted Bundy 🤣👍 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:31:42 </td>
+   <td style="text-align:left;"> $SPY they bounced the nasdaq off 16400 today </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:31:37 </td>
+   <td style="text-align:left;"> $WMT $SPY If the china problem isn&amp;#39;t resolved may plummet
 
-Futes Bidening </td>
+$UVXY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:58:35 </td>
-   <td style="text-align:left;"> $SPY last time I checked, we were running the globe, that way </td>
+   <td style="text-align:left;"> 2021-12-30 13:31:08 </td>
+   <td style="text-align:left;"> $SPY How easy would it be for ST to make an algo that scans for posts who say - “I went broke then I made a 300k in a week when I joined scamyou discord server” and blocks them. That fucking easy. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:57:38 </td>
-   <td style="text-align:left;"> $SPY omg legoat 
-https://twitter.com/RentFreeLakers/status/1476371296896180225?t=R7YoAKfHGgVAW7s0BvWjNw&amp;amp;s=19 </td>
+   <td style="text-align:left;"> 2021-12-30 13:30:35 </td>
+   <td style="text-align:left;"> $SPY anyone know of magic spell to cause broad rally beyond the chosen five </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:57:19 </td>
-   <td style="text-align:left;"> $SPY The crash is either tomorrow or Friday based on the charts and data. </td>
+   <td style="text-align:left;"> 2021-12-30 13:29:52 </td>
+   <td style="text-align:left;"> $SPY  How many lolita express passengers going to board runaway express?
+https://www.dailymail.co.uk/news/article-10332169/Underage-orgies-possible-pregnancy-key-moments-Ghislaine-Maxwells-sensational-trial.html </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:56:42 </td>
-   <td style="text-align:left;"> $SPY Hollywood pushing vaccines….  nuf said… </td>
+   <td style="text-align:left;"> 2021-12-30 13:29:46 </td>
+   <td style="text-align:left;"> $SPY so a beautiful phone call tomorrow?  Yeah the trash news recycling </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:56:27 </td>
-   <td style="text-align:left;"> $SPY FUCK THIS PIECE OF SHIT MARKET! What happened to the Santa Rally? What happened to big swings? This market has been fucking FLAT! Finally futures started to signal some movement for tomorrow but NOPE! Went FLAT again! Fuck out of here! </td>
+   <td style="text-align:left;"> 2021-12-30 13:29:39 </td>
+   <td style="text-align:left;"> $SPY starting to look like they intend to prop until Friday </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:56:14 </td>
-   <td style="text-align:left;"> $SPY omicron looks to be mildly affecting economic life. </td>
+   <td style="text-align:left;"> 2021-12-30 13:29:06 </td>
+   <td style="text-align:left;"> $SPY what’s your 2022 5-10 bagger Tickers??? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:55:53 </td>
-   <td style="text-align:left;"> $SPY Hollywood likes crypto…. nuf said…. </td>
+   <td style="text-align:left;"> 2021-12-30 13:29:00 </td>
+   <td style="text-align:left;"> $SPY can’t imagine how screwed some of these meme stock traders are in April. Hit gold a couple times and took the short term gain, then lost it on other trades that went bad. Why do you think wall st is crushing growth stocks? They want retail out of the market. They’re taking everything back. Hopefully traders are ready to cut one of the biggest checks they’ll ever have to write. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:55:40 </td>
-   <td style="text-align:left;"> $SPY 465 coming in hot. Pack your bags bulls, you’ll have to sell your house to cover the losses. </td>
+   <td style="text-align:left;"> 2021-12-30 13:28:17 </td>
+   <td style="text-align:left;"> $SPY the prop is annoying </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:55:29 </td>
-   <td style="text-align:left;"> $SPY Love the truth. </td>
+   <td style="text-align:left;"> 2021-12-30 13:27:48 </td>
+   <td style="text-align:left;"> $SPY lmfaoooo </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:55:04 </td>
-   <td style="text-align:left;"> $SPY Truth </td>
+   <td style="text-align:left;"> 2021-12-30 13:27:47 </td>
+   <td style="text-align:left;"> $spy Hong Kong with the crash candle now =🌈 rainbow bear for the win again. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:54:42 </td>
-   <td style="text-align:left;"> $SPY Omicron looks to be airborne….spreading like wildfire… </td>
+   <td style="text-align:left;"> 2021-12-30 13:27:14 </td>
+   <td style="text-align:left;"> $SPY And as mysteriously as he appeared, the duck had vanished </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:54:35 </td>
-   <td style="text-align:left;"> $SPY i want 480. And i know this may disappoint my bear friends but its better for us later. </td>
+   <td style="text-align:left;"> 2021-12-30 13:27:04 </td>
+   <td style="text-align:left;"> $SPY $AAPL $TSLA  I have a 2k/day quota that I have to meet day trading with the occasional 10k/day when the market is volatile enough. My daily driver is a Tesla, occasional driver Lamborghini, just moved into a massive new place in NY and I&amp;#39;m single. 
+If I can do it, YOU can do it </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:54:30 </td>
-   <td style="text-align:left;"> $BTC.X what&amp;#39;s with this hodler bruhs? $QQQ $ETH.X $SPY https://youtu.be/7ZBC3mJxZGk </td>
+   <td style="text-align:left;"> 2021-12-30 13:25:32 </td>
+   <td style="text-align:left;"> $SPY I don’t really hate anybody I’m just saying that cause I love u all ❤️👍 tough love 😜 micky d hiring </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:54:04 </td>
-   <td style="text-align:left;"> $SPY futs rippin. </td>
+   <td style="text-align:left;"> 2021-12-30 13:24:37 </td>
+   <td style="text-align:left;"> $SPY How the bears see the market. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:54:03 </td>
-   <td style="text-align:left;"> $SPY 480 Friday. </td>
+   <td style="text-align:left;"> 2021-12-30 13:24:16 </td>
+   <td style="text-align:left;"> $SPY you guys seeing these videos coming out of China? Supply chain issues may make an aggressive comeback. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:53:37 </td>
-   <td style="text-align:left;"> $SPY future red! 473 tomorrow , below 470 friday! </td>
+   <td style="text-align:left;"> 2021-12-30 13:22:16 </td>
+   <td style="text-align:left;"> $SPY We are gonna open at 476 right? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:53:37 </td>
-   <td style="text-align:left;"> $SPY I&amp;#39;m blind and dumb so, </td>
+   <td style="text-align:left;"> 2021-12-30 13:20:56 </td>
+   <td style="text-align:left;"> $SPY so what? Is it crashing or going to The Moon tomorrow ? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:53:19 </td>
-   <td style="text-align:left;"> $SPY 
+   <td style="text-align:left;"> 2021-12-30 13:20:13 </td>
+   <td style="text-align:left;"> $SPY $TKAT $CRO.X $ASTR this still working??
+https://youtu.be/_W_BWkNl1pU </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:19:12 </td>
+   <td style="text-align:left;"> $SPY so sleepy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:19:01 </td>
+   <td style="text-align:left;"> $SPY Golds irrelevant. I’m going all in on sand. Apparently we’re using it all up at a rapid rate. I’ll pass it onto my children and they’ll pass it onto their children. 1 tonne will be worth 27.5 BTC (today’s value $27,479,002,974,019,736,010 accounting for inflation) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:18:55 </td>
+   <td style="text-align:left;"> $SPY Word of wise advice: Don&amp;#39;t be a Cathy. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:17:53 </td>
+   <td style="text-align:left;"> $SPY $SPX South Korea’s factory production jumped the most since mid-2020 last month, suggesting supply disruptions that hurt manufacturing in key industries are easing
+https://www.bloomberg.com/news/articles/2021-12-30/korea-production-jumps-most-in-17-months-as-supply-woes-ease?utm_source=twitter&amp;amp;utm_campaign=socialflow-organic&amp;amp;utm_content=markets&amp;amp;cmpid%3D=socialflow-twitter-markets&amp;amp;utm_medium=social </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:16:34 </td>
+   <td style="text-align:left;"> $SPY James Harden just might be the king of natural immunity. 💃 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:16:08 </td>
+   <td style="text-align:left;"> $SPY what’s up guys I’m gonna blow my account up on puts and then in 2022 I’m gonna turn the 5 dollars I have left into 5 million. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:15:47 </td>
+   <td style="text-align:left;"> $SPY if futures are flat it means it either gonna go up or down tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:15:24 </td>
+   <td style="text-align:left;"> Day 118- $21400
 
-How over-priced are we?
+$100 - $250k journey 
 
-At a normal (and stable) rate of climb, we should be +64% off of the March 2020 low.  Instead, we&amp;#39;re at +119%.  We should be trading around 360 right now.
+Have now turned 100 bucks into 21k 
+Slow and steady has been key with heavy sizing. 
 
-Something to keep in mind way the hell up here . . . </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:53:14 </td>
-   <td style="text-align:left;"> $SPY U k-now  things all mucked up when half the posts feature JPow.
+Today - $NAKD  $2600
 
-Hey, bud, that should tell ya something! </td>
+$AMC $WISH $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:52:36 </td>
-   <td style="text-align:left;"> latex010b8c34b59d0bcee52bf3a130c049a0, 455$ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:51:25 </td>
-   <td style="text-align:left;"> $SPY if i accidentally took delivery of oil contract
+   <td style="text-align:left;"> 2021-12-30 13:14:58 </td>
+   <td style="text-align:left;"> ETF Sentiment: $SPY is the #1 ETF that institutions are trading with 306.5K options contracts.
 
-What to do </td>
+Market analysis included in screenshot of dashboard from http://insiderfinance.io. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:50:33 </td>
-   <td style="text-align:left;"> $SNIPF Just imagine when there are screens everywhere with advertisements. Digital Marketing is not even 1% where it will be in 10yrs $SPY $IWM $AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 13:14:58 </td>
+   <td style="text-align:left;"> $SPY 🤣🤣 https://babylonbee.com/news/fda-assures-vaccine-is-almost-as-safe-for-kids-as-covid </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:50:29 </td>
-   <td style="text-align:left;"> $SPY $QQQ $DJIA 
+   <td style="text-align:left;"> 2021-12-30 13:14:45 </td>
+   <td style="text-align:left;"> $SNES The government better start investing in sustainable rodent control infrastructure before we get more spread between rodents and people. Vaccines are obviously not going to make this go away. We better start getting real and Learn to manage this. Especially keeping our farms and livestock safe by keeping rodent populations at bay by using Contrapest made by Senestech. $SPY $IWM $IWC 
 
-U.S. Covid cases rise to pandemic high as delta and omicron circulate https://www.cnbc.com/2021/12/29/us-covid-cases-rise-to-pandemic-high-as-delta-and-omicron-circulate.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard
-Stocks set to drop . Expect a circuit breaker an $VIX to go up </td>
+https://www.nbcnewyork.com/news/coronavirus/omicron-variant-might-come-from-transmission-between-humans-and-mice-study-says/3451661/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:49:55 </td>
-   <td style="text-align:left;"> $SPY hope tomm be a day where index falls and other stocks than top 5 go up 5% each. </td>
+   <td style="text-align:left;"> 2021-12-30 13:13:32 </td>
+   <td style="text-align:left;"> $SPY $SPX yes crashing tomorrow 🌈🐻 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:48:53 </td>
-   <td style="text-align:left;"> $SPY $SPX 🤤🤤🤤🤤🤤😏😏😏😏😏 </td>
+   <td style="text-align:left;"> 2021-12-30 13:12:54 </td>
+   <td style="text-align:left;"> $SPY these are some weird futures something up. Either face ripper rally tomorrow or big ass sell off. Leaning
+Towards the latter so I can position
+Myself into calls lol </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:48:50 </td>
-   <td style="text-align:left;"> $SPY if biden want to keep his job in 2024, we better see $470 sometime this week </td>
+   <td style="text-align:left;"> 2021-12-30 13:12:17 </td>
+   <td style="text-align:left;"> $SPY $SPX buy puts bears 
+and pay me </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:48:21 </td>
-   <td style="text-align:left;"> $SPY WASHINGTON, D.C.—According to sources, Biden is just kicking himself after looking at his to-do list for 2021 and realizing he forgot to shut down the virus. 
+   <td style="text-align:left;"> 2021-12-30 13:11:54 </td>
+   <td style="text-align:left;"> $SPY oh these controlled red futes have been fun this week </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:11:52 </td>
+   <td style="text-align:left;"> $SPY $SPX DIX GEX </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:11:32 </td>
+   <td style="text-align:left;"> $SPY JPM has a 5000 price target for s&amp;amp;p500 end of 2022
 
-&amp;quot;Ah, dadgummit!&amp;quot; Biden exclaimed to a nearby potted plant while slapping his forehead. &amp;quot;I knew I was forgetting something! That&amp;#39;s too bad because it was otherwise a flawless year for me!&amp;quot; 
-
-Health experts say COVID deaths surged all through 2021 and cases are currently skyrocketing because Biden misplaced his small spiral-bound notebook where he keeps track of all the items on his to-do list. &amp;quot;We all forget—It happens to the best of us,&amp;quot; said Dr. Fauci. &amp;quot;I&amp;#39;m sure he&amp;#39;ll put this item at the top of his list for next year.&amp;quot;
-
-White House insiders say that instead Biden decided there is no federal government solution to the virus and happily crossed the item off his list in time for the new year. 
-
-https://babylonbee.com/news/oops-biden-checks-his-to-do-list-and-realizes-he-totally-forgot-to-shut-down-the-virus </td>
+Standard ~10% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:47:34 </td>
-   <td style="text-align:left;"> $SPY ST got wrong price. One job. Red AH. Let’s go. </td>
+   <td style="text-align:left;"> 2021-12-30 13:11:05 </td>
+   <td style="text-align:left;"> $SPY pretty interesting that this is an exactly perfect wave where the pullbacks are just… bullflags. 12345, we may very well see a small abc move up here before moving to and over $480. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:47:30 </td>
-   <td style="text-align:left;"> $SPY This market reminds me of the advice that my father gave me: &amp;quot;fight fire with fire&amp;quot;. He was the worst firefighter in the history of our town </td>
+   <td style="text-align:left;"> 2021-12-30 13:10:41 </td>
+   <td style="text-align:left;"> $SPY $SPX YES BEARS WE CRASHING </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:46:45 </td>
-   <td style="text-align:left;"> $SPY seeing sustained chatter on 4chan over the last few days
-
-Via topstonks.com/stocks/SPY?st_spy
-
-#spy    #4chan </td>
+   <td style="text-align:left;"> 2021-12-30 13:10:31 </td>
+   <td style="text-align:left;"> $SPY flat activity. GEX and DIX at neutral levels. However SPY a bit toppy could experience a small pullback. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:46:42 </td>
-   <td style="text-align:left;"> $SPY gren futs </td>
+   <td style="text-align:left;"> 2021-12-30 13:10:19 </td>
+   <td style="text-align:left;"> $VXX slip sliding into the depths of Hell while $SPY RSI resets thru time .... </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:46:32 </td>
-   <td style="text-align:left;"> Which way are we going $SPY $SPX </td>
+   <td style="text-align:left;"> 2021-12-30 13:09:07 </td>
+   <td style="text-align:left;"> $SPY going to buy contracts that allow me to buy this for more than it has ever cost tomorrow with a premium. Seems smart. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:46:03 </td>
-   <td style="text-align:left;"> $SPY Everyone quit worrying whether it will go up or down. VIX is getting near the floor again - time to load up your options! Get some deep ITM calls to the next expiry - you can get the equivalent to 100 spy shares for about $1500 right now for Friday expiry. Hedge with two 25 delta puts for a 30 day expiry - maintain that 2 to 1 delta ratio and constantly roll. If VIX drops below 15 hedge with three 17 to 18 delta puts - again 30 days out on those. This is the Vega (volatility) bomb.
-
-Roll puts and calls constantly! If puts go up a few handles, just cash in and buy whatever higher strike you need to maintain the 95 plus delta. This is why calls are far superior to shares with VIX low like this - you can take profit and not lose delta!
-
-Always maintain exposure! </td>
+   <td style="text-align:left;"> 2021-12-30 13:07:15 </td>
+   <td style="text-align:left;"> $SPY futes bloody red.  not good for you bulls.  the bears have won this Santa Claus rally </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:46:01 </td>
-   <td style="text-align:left;"> $SPX $SPY C&amp;amp;I loans fall. The last 2 times contractions like this occurred 2000 and 2007. Both periods had bear markets follow. Did COVID pull forward too much? Stagflation and rising rates not good for loan growth? $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:45:54 </td>
-   <td style="text-align:left;"> $SPY much better </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:45:15 </td>
-   <td style="text-align:left;"> $SPY Maaan, those Auburn Tigers play the D almost as good as Jpow vs shorts $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:45:02 </td>
-   <td style="text-align:left;"> $SPY JP FOR POTUS!! 
-
-https://youtu.be/N-VDi8WJtBI </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:44:52 </td>
-   <td style="text-align:left;"> $SPY Almost lost all the power hour pump, after hours. Like someone was desperate to undo the 69 ATHs, at all cost. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:44:05 </td>
-   <td style="text-align:left;"> $SPY What if the stock market crash has been saved by people predicting the stock market crash? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:43:54 </td>
-   <td style="text-align:left;"> $SPY - Is the market open on Friday? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:43:48 </td>
-   <td style="text-align:left;"> $SPY starting a cantina; thinking of naming it “The Wet Taco”
-
-💦 🌮 
-
-What are your thoughts? 🤷‍♂️ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:42:18 </td>
-   <td style="text-align:left;"> $SPY the FEDs didn’t pump it this high today have it go down the shitter… they were robbing bulls and bears focused on the retail but if war is coming they’re scanning who’s buying PUTs to front run for Russia and China… my theory … they’re gonna rip faces and rob these bastards… probably some of y’all are gonna get caught up in but whatever… DYOR </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:42:18 </td>
-   <td style="text-align:left;"> $SPY fuk i give up. Im holding short but prob going up all night so ill loose. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:42:04 </td>
-   <td style="text-align:left;"> $SPY anymore dillusional bulls here? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:41:29 </td>
-   <td style="text-align:left;"> $SPY stories these bull told is night and day </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:40:34 </td>
-   <td style="text-align:left;"> $SPY is a chess game, and market makers are FCKD unless they can keep the market flat or up playing dark pool and stealing options premium, game over. I buy SPY calls and volatility now as I have shit ton of broad puts on 16 different tickers Into Summer 2022.  Nobody covering short positions any longer, so its only question of when this collapses.  GLTA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:40:03 </td>
-   <td style="text-align:left;"> $SPY bouncing off ceiling </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:39:28 </td>
-   <td style="text-align:left;"> $SPY futes choppy </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:38:47 </td>
-   <td style="text-align:left;"> TP 65min: all 3 in strong RSI bull ranges above the rising MA bands. Bumping up agains some levels. just digesting for now $SPY $IWM $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:38:41 </td>
-   <td style="text-align:left;"> Yall see what’s happening with $BTC.X , $SPY is Next😈 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:38:27 </td>
-   <td style="text-align:left;"> $QQQ Glimpse of Putin and Biden going at it tomorrow. 😆 $SPY $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:38:21 </td>
-   <td style="text-align:left;"> $SPY futes Bout to rip faces </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:37:43 </td>
-   <td style="text-align:left;"> $SPY name something chineese you bought that broke and pissed you off?
-
-Mine is my fake life proof case and $JD stock 
-
-😃 👍 💴 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:37:20 </td>
-   <td style="text-align:left;"> Ticker: $SPY
-Buy: December 31, 2021 $478.00 Calls
-Entry Price: $1.11 - $1.12
-Exit Price: $1.25
-Stop Loss: $0.98
-Potential ROI: 13%
-Estimated Hold Time: 21 Minutes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:37:15 </td>
-   <td style="text-align:left;"> $AAPL $QQQ $TSLA $NVDA $SPY Rest in peace to the legend... may he continue to pomp eet from the grave :( </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:37:14 </td>
-   <td style="text-align:left;"> $SPY 472 tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:35:59 </td>
-   <td style="text-align:left;"> $SPY just don&amp;#39;t trade anymore this year, don&amp;#39;t need to hear ya cryin </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:35:46 </td>
-   <td style="text-align:left;"> $SPY I think it’s about time to short this. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:35:19 </td>
-   <td style="text-align:left;"> TP Daily: Not a spot where we want $IWM to turn back. So far nothing more than a rest day after a few on the go... $SPY $QQQ don&amp;#39;t look too worried. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:35:01 </td>
-   <td style="text-align:left;"> $TSLA $SPY $QQQ $ARKK
-
-futes up bigly... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:34:19 </td>
-   <td style="text-align:left;"> $SPY 🤣🤣🤣🤣 $BTC.X </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:34:08 </td>
-   <td style="text-align:left;"> $QQQ $spy don&amp;#39;t bet what you can&amp;#39;t afford to lose of course. But my forecast is for a significant decline in January. I&amp;#39;m laddering weekly puts. Higher strikes for near term (Jan3,5,7) and lower strikes for the second and 3rd week of Jan. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:33:56 </td>
-   <td style="text-align:left;"> $SPY Invest in Microcaps that have low cost and profitable like $SNIPF </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:33:21 </td>
-   <td style="text-align:left;"> $SPY can’t wait to vote for trump in 2024! Biden is bad for my stock portfolio! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:33:10 </td>
-   <td style="text-align:left;"> $SPY Criminal Nikkei future. So Criminal 🤡🤬 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:33:08 </td>
-   <td style="text-align:left;"> $SPY Kirk is no better than Columbus. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:33:05 </td>
-   <td style="text-align:left;"> $SPY covid is basically herpes at a frat house. You might as well just get it and get it over with. It’s really not that bad ya pussies 
-
-🍍 💴 😃 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:32:13 </td>
+   <td style="text-align:left;"> 2021-12-30 13:07:09 </td>
    <td style="text-align:left;"> $SPY SPY 2021-12-29 Options Analysis Video: 
 https://www.youtube.com/watch?v=ws1oYd0LMC8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:32:03 </td>
+   <td style="text-align:left;"> 2021-12-30 13:06:40 </td>
+   <td style="text-align:left;"> $SPY squeeze or die </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:05:49 </td>
+   <td style="text-align:left;"> $SPY start trimming profits once we get 480-485... we might see some volatility soon, and a corrective wave around there before we rally to 500 by mid/late January </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:05:47 </td>
+   <td style="text-align:left;"> $SPY ? https://www.reddit.com/r/MillennialBets/comments/rro07z/ktta_the_shorts_are_actually_trapped_here/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:05:15 </td>
+   <td style="text-align:left;"> $SPY I just watched a doc about Ghislane and her brother must be the biggest pos in the world. Omg this guy his accent and wow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:03:27 </td>
+   <td style="text-align:left;"> $SPY Just finished the Matrix…I am woke… </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:03:27 </td>
+   <td style="text-align:left;"> $SPY she wanna fuck me, she don’t love me
+Lifestyle, lifestyle </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:02:51 </td>
+   <td style="text-align:left;"> $ES_F Opening 4650, Type: SHORT $SPY 20 point tolerance </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 13:02:01 </td>
    <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:31:59 </td>
-   <td style="text-align:left;"> $SPY Now that the Maxwell trial is over, Covid will start to die down in the media. the big distraction is close to completion. </td>
+   <td style="text-align:left;"> 2021-12-30 13:01:41 </td>
+   <td style="text-align:left;"> $SPY im running for congress. Will easily turn 1 dollar into a million in 10 trading days </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:31:58 </td>
-   <td style="text-align:left;"> $SPY Funny how we’re seeing some rotation into cyclicals yet small caps are still notoriously shitting the bed. </td>
+   <td style="text-align:left;"> 2021-12-30 13:00:51 </td>
+   <td style="text-align:left;"> $SPY why did this drop 16% ? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:31:52 </td>
-   <td style="text-align:left;"> $SPY that 4h chart on ES. In this whole run up, 3am candle breaks out of the flag and continues through the day. I feel I won&amp;#39;t be able to sleep in anticipation today, the flags are evident here </td>
+   <td style="text-align:left;"> 2021-12-30 12:59:52 </td>
+   <td style="text-align:left;"> $SPY bears do u see a bull flag </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:31:41 </td>
-   <td style="text-align:left;"> $BA cant be bullish with $spy at ATH  $IWM </td>
+   <td style="text-align:left;"> 2021-12-30 12:59:11 </td>
+   <td style="text-align:left;"> $SPY  Some professionals in this market are pitiful beings </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:31:30 </td>
-   <td style="text-align:left;"> $SPY finna go green soon 👀 </td>
+   <td style="text-align:left;"> 2021-12-30 12:58:21 </td>
+   <td style="text-align:left;"> $SPY  Cathie used Macro economic data as an excuse to sell off even more of her losing “investments” </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:31:20 </td>
-   <td style="text-align:left;"> $SPY No crash yet everyone - how do I know this? Because most everyone is expecting it right now! </td>
+   <td style="text-align:left;"> 2021-12-30 12:58:15 </td>
+   <td style="text-align:left;"> $SPY New year, new trades and better improved strategies are on the way for me. Bullish for 2022 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:31:18 </td>
-   <td style="text-align:left;"> $SNIPF 20M in sales just this year, company only valued at 50M. Let&amp;#39;s not mention them debt free with cash on hand, and cutting costs at the same time $SPY $AMC $GME $CCL ⚡️⚡️ </td>
+   <td style="text-align:left;"> 2021-12-30 12:57:34 </td>
+   <td style="text-align:left;"> $TSLA , $SPY $49,000 a day keeps the 9 to 5 away; Stay patient and the let the trade play out.. stockplays.livetradeview.net </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:30:15 </td>
-   <td style="text-align:left;"> $SPY softest shit I&amp;#39;ve ever seen lol wow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:29:52 </td>
-   <td style="text-align:left;"> $SPY I feel like OFG wanna take a Samurai sword to the bears! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:29:51 </td>
-   <td style="text-align:left;"> $SPY …. https://youtu.be/l56aTSyjhHs </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:29:39 </td>
-   <td style="text-align:left;"> $SPY goodnight guys </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:29:09 </td>
-   <td style="text-align:left;"> $SPY gettin turnt on a Wednesday.
+   <td style="text-align:left;"> 2021-12-30 12:57:05 </td>
+   <td style="text-align:left;"> $SPY yikes . X
 
-Waiting for a “bull” with a day job to come tell me how imma get margin called </td>
+https://dailysceptic.org/2021/12/22/triple-vaccinated-more-than-four-times-more-likely-to-test-positive-for-omicron-than-unvaccinated-data-shows/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:28:43 </td>
-   <td style="text-align:left;"> $SPY thinking 480-483 range for the highest point tomorrow. </td>
+   <td style="text-align:left;"> 2021-12-30 12:57:04 </td>
+   <td style="text-align:left;"> $SPY this is just top of the golden bear porn by Cathy https://mobile.twitter.com/cathiedwood/status/1476377783580471297 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:27:43 </td>
-   <td style="text-align:left;"> $SPY - A certain American will be doing this tomorrow. </td>
+   <td style="text-align:left;"> 2021-12-30 12:55:58 </td>
+   <td style="text-align:left;"> $SPY  Ever ride one of these ? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:27:38 </td>
-   <td style="text-align:left;"> $SPY hey guys, you know how t read charts. What is this telling you? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:27:25 </td>
-   <td style="text-align:left;"> $SPY why they keep pumpin this shit to ath and leaving small cap behind </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:27:09 </td>
-   <td style="text-align:left;"> latex749081a558de02cc5c732af1b58ef13dNVDA: Retested breakout level and held. As long as 300 holds, can scalp 320 calls next week exp
-$DVN: Energy name that is flagging nicely. Above 45, can swing 49 calls April exp </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:26:49 </td>
-   <td style="text-align:left;"> $SPY I hate people that try to tell me something, but then can&amp;#39;t remember what it was. They steal my time for absolutely nothing, if you can&amp;#39;t even trust your own memory then don&amp;#39;t bother speaking in the first place </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:26:47 </td>
-   <td style="text-align:left;"> $PTON PTON 30.00 breaks then 28.00 then back to COVID-19 2020 Lows 17.70
+   <td style="text-align:left;"> 2021-12-30 12:55:54 </td>
+   <td style="text-align:left;"> $SPY new strategy for 2022
 
-While Market $SPY and $QQQ near ATHs however the Whole Market is likely to drop ( -10 % possibly) early next year in January 2022 sometime or shortly afterwards . </td>
+Short more uvxy </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:26:10 </td>
-   <td style="text-align:left;"> $SPY and ofc the red is eliminated 😂 </td>
+   <td style="text-align:left;"> 2021-12-30 12:55:50 </td>
+   <td style="text-align:left;"> $SPY for the bulls, i would start trimming calls at around 484 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:25:42 </td>
-   <td style="text-align:left;"> $SPY “BuT wE nEeD oUr StImUlUs CheCks AnD tRiLlIOn $ BiLlS” what a joke. No longer about producing anything of value now it’s all about “equality”. In the end handouts cause more inequality. https://www.cnbc.com/2021/12/29/economists-warn-of-inflation-inequality-in-2022.html </td>
+   <td style="text-align:left;"> 2021-12-30 12:55:32 </td>
+   <td style="text-align:left;"> $SPY the 460 days are gone like my puts 🤡 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:25:34 </td>
-   <td style="text-align:left;"> $SPY i have a couple thousand worth of calls…. i feel like them hoes gonna go worthless </td>
+   <td style="text-align:left;"> 2021-12-30 12:55:27 </td>
+   <td style="text-align:left;"> $SPY THE RUG SALESMAN is coming for your MONEY 💰 let the PULL BEGIN ❗️❗️❗️ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:25:33 </td>
-   <td style="text-align:left;"> $SPY lol </td>
+   <td style="text-align:left;"> 2021-12-30 12:55:19 </td>
+   <td style="text-align:left;"> $SPY whats the word? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:25:25 </td>
-   <td style="text-align:left;"> $SPY futes perky </td>
+   <td style="text-align:left;"> 2021-12-30 12:55:10 </td>
+   <td style="text-align:left;"> $SPY why do you 
+
+Take a Ho
+
+To a hotel?
+
+Because a Ho tell er body. Even the Mayor. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:25:10 </td>
+   <td style="text-align:left;"> 2021-12-30 12:55:01 </td>
+   <td style="text-align:left;"> $SPY How are the Bears struggling to even have this retrace to the 4 EMA? 😂 At least create another dip to buy lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:54:38 </td>
+   <td style="text-align:left;"> $SPY i get a follower here and there from time to time, and while not all, i get weird looks when i ask to be unfollowed.
+
+Listen, i am no one. I am not deserving of your follow. If you really want to follow someone, follow Jesus. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:53:31 </td>
+   <td style="text-align:left;"> $SPY bears fuk </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:53:23 </td>
+   <td style="text-align:left;"> $SPY 
+ 
+Danish study released on Pfizer and MODERNA yikes 
+
+https://mobile.twitter.com/ezralevant/status/1474106318206255113?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1474106318206255113%7Ctwgr%5E%7Ctwcon%5Es1_&amp;amp;ref_url=https%3A%2F%2Fwww.naturalnews.com%2F2021-12-29-covid-vaccines-damage-your-immune-system.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:53:05 </td>
+   <td style="text-align:left;"> $SPY we need a breather to 474 then back up </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:52:54 </td>
+   <td style="text-align:left;"> $SPY  Ok guys Duck said watch out for a $30 green pp candle 🕯 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:52:40 </td>
+   <td style="text-align:left;"> $SPY $QQQ corrupt govt..corrupt market </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:52:25 </td>
+   <td style="text-align:left;"> $SPY $AAPL im
+Ready 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:52:13 </td>
+   <td style="text-align:left;"> $SPY oh man lol those are incredibly bearish candles the last 2 days… here comes the drop you delusional bulls are in for a rude awakening now-Friday. 😂😂😂😂 enjoy. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:52:11 </td>
    <td style="text-align:left;"> $SPY 
 
-https://youtu.be/YgbVxToJyzU
+Cathy sold everything yesterday  bought nothing
 
-👍🇺🇲👍 </td>
+curious </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:25:08 </td>
+   <td style="text-align:left;"> 2021-12-30 12:52:06 </td>
+   <td style="text-align:left;"> $SPY God Bless the bulls! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:51:41 </td>
+   <td style="text-align:left;"> $SPY wild year for cathie and ark. i&amp;#39;ll never forget that sht. at least shes transparent </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:51:23 </td>
+   <td style="text-align:left;"> $ARDX $NVDA $TSLA $SPY For a limited time,from Xtrades  we are opening our trading chatroom to the public. Get access to chatrooms, stock alerts, option alerts,, portfolios, and more...  https://www.discord.io/xEvE2Aatrp </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:51:07 </td>
+   <td style="text-align:left;"> $SPY send it duck </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:50:57 </td>
+   <td style="text-align:left;"> $SPY  historically the last trading day of the year we rally!! Get ur helmets on bulls 🚀!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:50:39 </td>
+   <td style="text-align:left;"> $SPY futes flat af </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:50:37 </td>
+   <td style="text-align:left;"> $SPY coin flip test sell at all time highs. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:49:45 </td>
+   <td style="text-align:left;"> $SPY ducks back. 500 eoy confirmed ?🤔 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:49:25 </td>
+   <td style="text-align:left;"> $SPY Update on our Biden winter of Death. Took in another movie at Cinemark then hit Costco. Wife wanted to go to Hobby Lobby.....nope. dropped me off and rode my new Nordic Track s22i through Costa Rica. It&amp;#39;s badass. Had some cocktails. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:49:11 </td>
+   <td style="text-align:left;"> $SPY 480 tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:48:38 </td>
+   <td style="text-align:left;"> $SPY all in on angry pitbull club </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:48:25 </td>
+   <td style="text-align:left;"> $SPY 🥰 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:48:14 </td>
+   <td style="text-align:left;"> $SPY road to 500 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:48:10 </td>
+   <td style="text-align:left;"> $SPY  I’m on my duck isshh tonight @HOODuck </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:47:25 </td>
+   <td style="text-align:left;"> $SPY The duck is back </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:46:36 </td>
+   <td style="text-align:left;"> $AAPL $SPY $QQQ i just apply for cash account and option from help from holly , y’all get ready 🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:46:28 </td>
+   <td style="text-align:left;"> $SPY Covid is the new Logan’s Run. Change my mind. 😬🥳 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:46:10 </td>
+   <td style="text-align:left;"> $SPY I love when people try and compare todays market or economy to ones 40 years ago. We have daddy. Way different    Brrrrrrrrr </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:43:35 </td>
+   <td style="text-align:left;"> $SPY  They all want our Capital Markets. Forever. Data from Oct 28 2021 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:43:01 </td>
+   <td style="text-align:left;"> $SPY wow, sleepy Joe’s first year stock market is off to a betters start than Trump’s.  29 vs 21%.  Trump must be fuming.  Who knew. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:42:00 </td>
+   <td style="text-align:left;"> $SPY has an average volume of 72698700. This is a good sign as it is always nice to have a liquid stock. https://www.chartmill.com/stock/analyzer/stock/SPY?key=84303b30-e7bc-44d7-b0b1-1493858db9a2&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=SPY&amp;amp;utm_campaign=social_tracking </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:41:56 </td>
+   <td style="text-align:left;"> $SPY  Same shit different century </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:41:44 </td>
+   <td style="text-align:left;"> $SPY so true 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:39:58 </td>
    <td style="text-align:left;"> $SPY 
 
-Here&amp;#39;s some perspective on the sheer degree of lunacy that we&amp;#39;ve seen since Feb 2020:  A comparison of the recovery from the 2008 crash, to that of the &amp;quot;Covid crash&amp;quot;: </td>
+Looks familiar? Just plot it over the DOW and S&amp;amp;P 500 since 2018. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:25:08 </td>
-   <td style="text-align:left;"> $SPY ….screw the Ukraine i guess. Putin tired of getting his ass kicked in the Okympics by the Ukraine anyway. Got to look good in China games </td>
+   <td style="text-align:left;"> 2021-12-30 12:39:49 </td>
+   <td style="text-align:left;"> $SPY It is all about the 2 second chart </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:25:04 </td>
-   <td style="text-align:left;"> $SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:38:51 </td>
+   <td style="text-align:left;"> $SPY futes ripping - good night everybody </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:24:56 </td>
-   <td style="text-align:left;"> $SPY futures dipping </td>
+   <td style="text-align:left;"> 2021-12-30 12:38:49 </td>
+   <td style="text-align:left;"> $SPY 2 points up tomorrow and  3 points dump Friday to 477. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:24:28 </td>
-   <td style="text-align:left;"> $SPY - how will Joe respond tomorrow if he can’t read the message cards?  He will have to answer unknown questions. </td>
+   <td style="text-align:left;"> 2021-12-30 12:38:29 </td>
+   <td style="text-align:left;"> $SPY lines of covid here are like a mile long?
+WTF is going on </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:23:57 </td>
-   <td style="text-align:left;"> $SPY it&amp;#39;s all over!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:23:23 </td>
-   <td style="text-align:left;"> $MU heading under $85 $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:22:33 </td>
-   <td style="text-align:left;"> $SPY imaging being low iq </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:22:23 </td>
-   <td style="text-align:left;"> $SPY 470 eow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:21:53 </td>
-   <td style="text-align:left;"> $QQQ $spy $dia markets down 15-25% early next year. Going to be a very bad two weeks into mid January. Especially in QQQ. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:21:49 </td>
-   <td style="text-align:left;"> $AAPL $SPY here&amp;#39;s your &amp;quot;futures rip&amp;quot; </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:21:46 </td>
-   <td style="text-align:left;"> On the Close
+   <td style="text-align:left;"> 2021-12-30 12:37:31 </td>
+   <td style="text-align:left;"> $SPY holy shite cathy woods taking a play from the SOC playbook 
 
-DJI
-36488.63
-90.42
-0.25%
-NASDAQ
-15766.22
--15.51
--0.10%
-S&amp;amp;P 500
-4793.06
-6.71
-0.14%
+https://twitter.com/cathiedwood/status/1476377783580471297?s=21 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:37:19 </td>
+   <td style="text-align:left;"> $SPY Tomorrow seems like a green day </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:36:34 </td>
+   <td style="text-align:left;"> $SPY Message volume currently at support. Could get ugly the next few days. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:35:10 </td>
+   <td style="text-align:left;"> $SPY oh no even VIX is red </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:34:48 </td>
+   <td style="text-align:left;"> $SPY futures should be deciding a direction soon here. Wont stay camped put for much longer </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:34:11 </td>
+   <td style="text-align:left;"> $SPY Vaccination is the key to spreading the virus because people are asymptomatic.
+And the  unvaccinated get all the ass kicks </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:33:57 </td>
+   <td style="text-align:left;"> $SPY  I’ll take the average yearly Spy return. But monthly with options </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:33:04 </td>
+   <td style="text-align:left;"> $SPY  Death is only the beginning for Options traders. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:32:05 </td>
+   <td style="text-align:left;"> $SPY This is an amazing country
 
-$SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:21:25 </td>
-   <td style="text-align:left;"> $SPY this board is saying one thing but VIX is saying another…. I see lots of big names on ST looking like real phonies right now. 🥸 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:20:08 </td>
-   <td style="text-align:left;"> $SPY calls printing tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:20:03 </td>
-   <td style="text-align:left;"> $SPY: Mentioned to expect low volume chop, which is exactly what we got today. Expecting the same for the rest of the week. 478 resistance. Above that, we can see 480. Look for 476 and then 474 to act as support. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:19:38 </td>
-   <td style="text-align:left;"> $SPY $SPX BEARS I WANT YOUR PREMIUM </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:19:34 </td>
-   <td style="text-align:left;"> $SPY 480 tomorrow? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:19:24 </td>
-   <td style="text-align:left;"> $SPY good evening bears time to get fuked tomorrow again </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:19:14 </td>
-   <td style="text-align:left;"> $SPY $AAPL $TSLA  You drank the new generation future just in two years cause you wanted your 401k grow up non-stop. Want to feel safe and comfy? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:18:30 </td>
-   <td style="text-align:left;"> $SPY Putin saying to Biden tomorrow: “ Military operations against Ukraine have begun.Bye.” Lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:18:14 </td>
-   <td style="text-align:left;"> $SPY I&amp;#39;ve noticed that a lot of people these days don&amp;#39;t trust the science. I was born to trust the science. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:18:11 </td>
-   <td style="text-align:left;"> $SPY futes rippin </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:18:10 </td>
-   <td style="text-align:left;"> $SPY approach trading everyday like Jordan in the 90s. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:17:39 </td>
-   <td style="text-align:left;"> $SPY 480 then short this 🐷 😬 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:17:07 </td>
-   <td style="text-align:left;"> $SPY $482 eow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:17:04 </td>
-   <td style="text-align:left;"> $SPY I was never under the impression that the shots would stop the spread, but I studied the hell out of it. I suppose there was news out there that they&amp;#39;d stop spreading it, I didn&amp;#39;t follow those news outlets. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:17:03 </td>
-   <td style="text-align:left;"> $SPY I want back all  the money I lost back tomorrow from
- This rigged market </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:16:57 </td>
-   <td style="text-align:left;"> $QQQ $SPY 📈✅ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:15:25 </td>
-   <td style="text-align:left;"> $SPY https://rumble.com/vri0e0-they-sold-the-vaccines-as-if-they-stop-transmission.html </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:15:11 </td>
-   <td style="text-align:left;"> $SPY lets go lakeshow 🥳 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:14:34 </td>
-   <td style="text-align:left;"> $SPY bought puts </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:14:28 </td>
-   <td style="text-align:left;"> $SPY https://twitter.com/litcapital/status/1476350975422181377?s=21 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:14:26 </td>
-   <td style="text-align:left;"> $SPY this will cause chaos in a month or so
+Vaccination is the key to spreading the virus because people are asymptomatic.
+There are at least 5 infected  people sitting mask less in our office making fun of the two unvaccinated who never tested positive as they are much careful than others.
 
-https://twitter.com/reuters/status/1473475879653330952?s=21 </td>
+And the  unvaccinated get all the ass kicks </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:13:38 </td>
-   <td style="text-align:left;"> $SPY my only regret is that i didnt double down on my puts when we broke 478 this afternoon. Was doing family stuff. See you tomorrow bulls. </td>
+   <td style="text-align:left;"> 2021-12-30 12:31:00 </td>
+   <td style="text-align:left;"> $SPY holy shit futures are down so much.. bahahahaha </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:13:13 </td>
-   <td style="text-align:left;"> $SPY I can see that bullshit from a mile away </td>
+   <td style="text-align:left;"> 2021-12-30 12:30:54 </td>
+   <td style="text-align:left;"> $SPY  Trading above 5 moving averages as we speak. That’s the bull thesis 🥂💨🏦 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:12:44 </td>
-   <td style="text-align:left;"> $SPY 480+ tomorrow. </td>
+   <td style="text-align:left;"> 2021-12-30 12:29:14 </td>
+   <td style="text-align:left;"> $SPY Just a little more to go before global economic collapse. Maybe 2023 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:12:26 </td>
-   <td style="text-align:left;"> $SPY What its like to post your position on here </td>
+   <td style="text-align:left;"> 2021-12-30 12:29:14 </td>
+   <td style="text-align:left;"> $SPY the rippin and the tearin </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:12:24 </td>
-   <td style="text-align:left;"> $SPY  Futes decrypting </td>
+   <td style="text-align:left;"> 2021-12-30 12:28:34 </td>
+   <td style="text-align:left;"> $SPY gold should be at $2260 I’m sure that the fed factors in bank manipulation in gold price as lower inflation data 🤡s $GLD </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:11:24 </td>
-   <td style="text-align:left;"> $SPY gona theta burn right here for a whole year. .. 476_478😱 </td>
+   <td style="text-align:left;"> 2021-12-30 12:28:06 </td>
+   <td style="text-align:left;"> $SPY I like trading and suggesting trades that I can’t enter myself here. Helps people and makes me feel complete 🥂 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:11:09 </td>
-   <td style="text-align:left;"> $SPY Trying to figure out why quarantine period went from 10 days to 5 days…I’m glad the authorities are getting smarter, but were we doing 10 days this whole time for nothing? </td>
+   <td style="text-align:left;"> 2021-12-30 12:26:18 </td>
+   <td style="text-align:left;"> $SPY Is anybody thinking of going all-in on crypto? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:09:59 </td>
-   <td style="text-align:left;"> $SPY I got the Rona.....
-Biiiiig Ronies, I mean 😎 </td>
+   <td style="text-align:left;"> 2021-12-30 12:25:54 </td>
+   <td style="text-align:left;"> $SPY https://www.youtube.com/watch?v=n7hiDaN3NH8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:09:10 </td>
-   <td style="text-align:left;"> $SPY anybody else find themselves almost every night pulling up Futes, tell themselves this means absolutely nothing until the morning, closes Futes,  and 30 minutes later pulls up Futes again? 
+   <td style="text-align:left;"> 2021-12-30 12:25:51 </td>
+   <td style="text-align:left;"> $SPY bear extinction after year 2022 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:23:50 </td>
+   <td style="text-align:left;"> $SPY  I just wanna say I love 3 chi products 💨 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:23:36 </td>
+   <td style="text-align:left;"> $SPY ive been living fast fast fast fast
+Feeling really bad bad bad bad </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:23:27 </td>
+   <td style="text-align:left;"> $SPY futes are fuckin rippin amirite </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:23:15 </td>
+   <td style="text-align:left;"> $SPY hi bear
 
-About 3-4 times/night? Smh
+how has this year been for you ??
 
-Why am I like this.. </td>
+🤡🤡📈🙂 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:08:29 </td>
-   <td style="text-align:left;"> Believe in yourself and put that work in every day $SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:22:28 </td>
+   <td style="text-align:left;"> $SPY It&amp;#39;s dumb ass Idiots like this that just Love the Pandemic Love wearing a mask and love the idea of endless booster shots 🤬
+https://www.today.com/health/woman-tests-positive-covid-19-flight-isolates-5-hours-bathroom-rcna10303?cid=sm_npd_nn_fb_ma </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:07:57 </td>
-   <td style="text-align:left;"> $SPY So there is no such thing as fear in the markets anymore!? 🧐🤨 </td>
+   <td style="text-align:left;"> 2021-12-30 12:22:18 </td>
+   <td style="text-align:left;"> $SPY Jeez, futures are flat enough to get pimped out by Maxwell </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:07:27 </td>
-   <td style="text-align:left;"> $SPY Time you enjoy wasting is not wasted time. </td>
+   <td style="text-align:left;"> 2021-12-30 12:21:39 </td>
+   <td style="text-align:left;"> $SPY  Crown Me. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:07:03 </td>
-   <td style="text-align:left;"> $SPY VIX FUTURES UP 0.45% </td>
+   <td style="text-align:left;"> 2021-12-30 12:21:36 </td>
+   <td style="text-align:left;"> $SPY any death pools on the next octogenarian celebrity to go? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:06:10 </td>
-   <td style="text-align:left;"> $SPY theta burn for the last two days or nah? </td>
+   <td style="text-align:left;"> 2021-12-30 12:21:25 </td>
+   <td style="text-align:left;"> $SPY @InternetQ1234 I live in a place that you dream of. Does that bother you? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:05:52 </td>
-   <td style="text-align:left;"> $SPY Joe should not be on the phone alone with this guy.  Next thing you know California will be blown away. </td>
+   <td style="text-align:left;"> 2021-12-30 12:21:19 </td>
+   <td style="text-align:left;"> $SPY Posting non stop why brother..no one minds will change. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:05:28 </td>
-   <td style="text-align:left;"> $SPY decent flow today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:05:17 </td>
-   <td style="text-align:left;"> 2nd page $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:05:11 </td>
-   <td style="text-align:left;"> $SPY Been a while. Not holding anything overnight other than some core positions I rarely look at. Best feeling. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:04:53 </td>
-   <td style="text-align:left;"> $SPY With the increase rates of covid uncertain and different variants, I’m very sure there wouldn’t be tapering and rate hikes anytime soon 🔜 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:04:34 </td>
-   <td style="text-align:left;"> $SPY Another victim of Brandon&amp;#39;s Dark Winter </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:04:25 </td>
-   <td style="text-align:left;"> $APPS $SPY $MGNI $FUBO $FSR sad POS market. New ATH in main index every day but for some reason all the stocks retail buy is perpetually red like heggies shit hole. Sad ... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:04:18 </td>
-   <td style="text-align:left;"> $ZOM everyone needs to let everyone else know in person and online about ZOM and squeeze em out! I want $5+ now! 
-
-$AMC $NASDAQ $GME $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:04:05 </td>
-   <td style="text-align:left;"> $SPY Profits will prolly be taken overnight while you&amp;#39;re 😴 bawwwwhahaha!!! Machines trading this week are annoying af </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:04:03 </td>
-   <td style="text-align:left;"> $SPY nice little pop in futes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:03:22 </td>
-   <td style="text-align:left;"> $SPY getting pro </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:03:04 </td>
-   <td style="text-align:left;"> $SPY $QQQ ….Thursday meeting with Putin goes….Come on man the Ukraine hasn’t paid Hunter in years now and that damn laptop and Rudy…have at it. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:03:03 </td>
-   <td style="text-align:left;"> $SPY &amp;quot;hurdur I&amp;#39;m real smart I bought SPY at 480&amp;quot; man stfu </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:02:46 </td>
-   <td style="text-align:left;"> $SPY Biden vs Putin $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:01:39 </td>
-   <td style="text-align:left;"> $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 09:00:03 </td>
-   <td style="text-align:left;"> $SPY .., </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:59:56 </td>
-   <td style="text-align:left;"> $SPY A repeat. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:59:52 </td>
-   <td style="text-align:left;"> $SPY $SPX 
-stonks, bacteria, and papers </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:59:51 </td>
-   <td style="text-align:left;"> $SPY .. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:59:35 </td>
-   <td style="text-align:left;"> $SPY guess we are not going to drop tomorrow either </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:59:33 </td>
-   <td style="text-align:left;"> $SPY $PFE </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:59:27 </td>
-   <td style="text-align:left;"> $SPY  Covid Cold War </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:59:24 </td>
-   <td style="text-align:left;"> $SPY man, bears emotional for a huge breakdown. Talking this early!? They crazy </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:59:07 </td>
-   <td style="text-align:left;"> $SPY  not many in retail know this Biden and Putin had Missionary Anal years ago </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:59:02 </td>
-   <td style="text-align:left;"> $SPY 💡 Trade Idea 💡- extremely probable that this triggers tomorrow especially with the Q&amp;#39;s sitting on a fresh bounce off support. 1/18/22 485s should trigger in the 2.1 range with a profit margin between 60-100%. GL to you all. $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:58:43 </td>
-   <td style="text-align:left;"> $SPY man I was a fucking idiot might be one </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:58:29 </td>
-   <td style="text-align:left;"> $SPY I mean it&amp;#39;s extremely obvious. I wonder what you will be thinking when this is trading at 330 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:58:10 </td>
-   <td style="text-align:left;"> $SPY really </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:58:10 </td>
-   <td style="text-align:left;"> $SPY I notice most have no idea how to read a simple chart. It’s literally in consolidation. Typically what happens before a next drastic move up or down. In this case, up unless another world wide shut down. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:57:41 </td>
-   <td style="text-align:left;"> $SPY Do they sell this ticker as an NFT? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:57:30 </td>
-   <td style="text-align:left;"> $SPY  the FUD has been initiated .  Now it’s Nuclear war lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:57:15 </td>
-   <td style="text-align:left;"> $SPY you paid for these recent earnings about 3 years ago </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:56:51 </td>
-   <td style="text-align:left;"> $SPY flying high until you crash and burn it is inevitable good luck . Why you ask? Cause it&amp;#39;s based on nothing just like bitcoin </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:56:48 </td>
-   <td style="text-align:left;"> $SPY ….Biden advise to Putin…Ukraine hasn’t paid Hunter in years </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:56:11 </td>
-   <td style="text-align:left;"> $SPY $NVDA $BTC.X Going LIVE in 5 minutes to cover:
-
-📈 General Market Outlook
-👀 Stocks on my Watchlist
-🙋‍♂️ Chart requests from YOU!
-
-See you there! 👇
-https://youtu.be/NEDzxbFLsOQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:55:40 </td>
-   <td style="text-align:left;"> $SPY bunch of clowns squeezing the people with more than 3 brain cells it&amp;#39;s extremely obvious </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:55:04 </td>
-   <td style="text-align:left;"> $SPY my account is getting destroyed after hours </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:55:03 </td>
-   <td style="text-align:left;"> $SPY are futes ripping yet? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:55:00 </td>
-   <td style="text-align:left;"> $SMURF $SPY $BTC.X $FB $META 
-The metaverse is a multi trillion dollar opportunity 👀👀
-
-https://www.cnbc.com/video/2021/12/29/tokens-com-ceo-kiguel-says-the-metaverse-is-a-multi-trillion-dollar-opportunity.html </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:54:53 </td>
+   <td style="text-align:left;"> 2021-12-30 12:20:52 </td>
    <td style="text-align:left;"> $SPY 
-🤔 </td>
+Futes are rippin! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:54:51 </td>
-   <td style="text-align:left;"> $SPY I’m sure he has learned from this but I always get a kick out of reading predictions in 2008 for the S&amp;amp;P eoy. Its why I take these expert predictions with a grain of salt. </td>
+   <td style="text-align:left;"> 2021-12-30 12:20:02 </td>
+   <td style="text-align:left;"> $SPY  and you thought I was pulling numbers out of my ass. Hehe 
+TINA </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:54:48 </td>
-   <td style="text-align:left;"> $SPY Futes </td>
+   <td style="text-align:left;"> 2021-12-30 12:19:52 </td>
+   <td style="text-align:left;"> $SPY $AAPL A Bogandoff twin has died. What effect will this have on stock and crypto markets? I predict wide scale uncertainty and bearish on crypto as 1/2 of its creator is no more. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:54:46 </td>
-   <td style="text-align:left;"> $QQQ $SPY NY is going to lockdown tomorrow. Mark this. Not that it matters that much but it gives the push for these inflated assets to pop a little bit sooner. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:54:29 </td>
-   <td style="text-align:left;"> $SPY thousands of marines, being relieved from duty due to Covid &amp;quot;vaccine&amp;quot;.  China+ Russia just need a few more weeks until they can go forward with their ops. Expect the Donbass to fall shortly. Could be a substantial market event end of jan </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:54:02 </td>
-   <td style="text-align:left;"> Faster results invest more $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:53:34 </td>
-   <td style="text-align:left;"> $SPY $BTC.X </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:53:26 </td>
-   <td style="text-align:left;"> $SPY Month of December 1HR signals
+   <td style="text-align:left;"> 2021-12-30 12:18:12 </td>
+   <td style="text-align:left;"> $SPY $CODX $CEMI $XBI $XHE
+U.S. COVID update: New cases set world record, number in hospital rising
 
-Couple in there woulda burned ya but not bad </td>
+- New cases: 484,377
+- Average: 302,132 (+34,394)
+- States reporting: 50/50
+- In hospital: 84,293 (+5,594)
+- In ICU: 17,577 (+220)
+- New deaths: 1,937
+- Average: 1,232 (-17) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:52:53 </td>
-   <td style="text-align:left;"> $SPY Spy will probably go over $500 when Putin attacks, nothing makes any sense Powell must be working for the enemy this is just stupid at this point. </td>
+   <td style="text-align:left;"> 2021-12-30 12:17:30 </td>
+   <td style="text-align:left;"> $SPY Covid </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:52:50 </td>
-   <td style="text-align:left;"> $SPY $AMZN not only could he out pay on us anything. Now he can kick our ass
+   <td style="text-align:left;"> 2021-12-30 12:16:27 </td>
+   <td style="text-align:left;"> $SPY 450 and $490 PT with Vix being low???? Cmon people do better </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:15:05 </td>
+   <td style="text-align:left;"> $SPY The only path forward is open the economy up for more people to come internationally to the U.S... it will create a rising GDP and fill jobs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:14:59 </td>
+   <td style="text-align:left;"> $BA  SP500 $SPY GOES TO 5600 in 2022.  And that’s a conservative estimate. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:14:44 </td>
+   <td style="text-align:left;"> $SPY #themoreyouknow #confirmed </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:14:12 </td>
+   <td style="text-align:left;"> $SPY  market always made a stop or back with theses news </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:14:03 </td>
+   <td style="text-align:left;"> $SPY I’m a few hours ahead located in China, futures are ripping! Green as fuck 45pts. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:12:47 </td>
+   <td style="text-align:left;"> $SPX $SPY $EZA  #SouthAfrica #Omicron cases are now crashing from the peak.  Click on the 7-day moving average on the &amp;quot;new cases&amp;quot; chart here... https://www.worldometers.info/coronavirus/country/south-africa/  
 
-What kind of cyborg sht is this man </td>
+Should see a similar pattern in the US as #COVID19 Omicron burns through the unvaccinated older/sicker population in particular, and &amp;quot;naturally boosts&amp;quot; the vaccinated, even the boosted who don&amp;#39;t wear masks over the next few weeks.  
+
+Unfortunately it will also kill some older/sicker vaxed and boosted patients who don&amp;#39;t realize they have poor immune responses, and the usual seemingly random group of healthy, younger patients who also did not realize their immune system was suppressed.  
+
+The vaccine does not improve a patient&amp;#39;s immune response.   It gets it primed to variable degrees depending on the strength of a patient&amp;#39;s immune response to fight the virus from day one.  Masks and distancing are the only other things that will more completely protect the older/sicker. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:52:38 </td>
-   <td style="text-align:left;"> These memes $SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:12:25 </td>
+   <td style="text-align:left;"> $SPY futures bout to go deep green. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:52:18 </td>
-   <td style="text-align:left;"> $SPY 2/2 may go i to waterfall mode, failed to push above the cross </td>
+   <td style="text-align:left;"> 2021-12-30 12:12:04 </td>
+   <td style="text-align:left;"> $SPY Futures not bad at this time of night, as you know this will be the last buying opportunity of 2021, how bout some options 9n the SPY $483 for January 4th???  BABY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:51:40 </td>
-   <td style="text-align:left;"> $SPY holy shit </td>
+   <td style="text-align:left;"> 2021-12-30 12:11:29 </td>
+   <td style="text-align:left;"> $SPY The game of using shrinkflation to keep reported inflation running softer is over. We now have shrinkflation with inflation running amock. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:51:16 </td>
-   <td style="text-align:left;"> $SPY look at Nasdaq futures. 1/2 </td>
+   <td style="text-align:left;"> 2021-12-30 12:10:57 </td>
+   <td style="text-align:left;"> $SPY history repeats 
+
+https://rightsfreedoms.wordpress.com/2021/08/13/the-1918-spanish-flu-only-the-vaccinated-died/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:51:03 </td>
-   <td style="text-align:left;"> Trading $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:50:33 </td>
-   <td style="text-align:left;"> Schiff $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:50:21 </td>
+   <td style="text-align:left;"> 2021-12-30 12:10:52 </td>
    <td style="text-align:left;"> $SPY 
 
-Massive distribution for sure. </td>
+The bear market will last over 30 years when it arrives - and it will arrive. 
+Ask Japan how they did it! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:50:13 </td>
-   <td style="text-align:left;"> $SPY Anybody else expecting a lot of media crap to draw attention away from Maxwell Trial? 🤔. I can see the obnoxious headlines now already. </td>
+   <td style="text-align:left;"> 2021-12-30 12:10:19 </td>
+   <td style="text-align:left;"> $BTC.X $SPY what would happen to btc and spx if China collapsed?  It’s already happening and no one is talking about it.  China catches a cold and the world catches Pneumonia. 30% of Chinese GDP is predicated on housing. 70% of Chinese wealth is in their homes.  90% of Chinese home buyers canceled the last 60 days. house value to income is 50/1. Japan at the peak in 1989 was at 17/1.  If deleveraging starts it’s going to get really ugly but no one knows when this will start. Evergrande and all Chinese  developers’ bonds are selling pennies on a dollar. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:50:01 </td>
-   <td style="text-align:left;"> $SPY $SPX &amp;quot;Riskier Bonds Rule&amp;quot;
+   <td style="text-align:left;"> 2021-12-30 12:10:07 </td>
+   <td style="text-align:left;"> $SPY hahahahahahahahahahahahaha </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:10:06 </td>
+   <td style="text-align:left;"> $SPY Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. True Love never ends. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:09:58 </td>
+   <td style="text-align:left;"> $SPY tomorrow market hours?? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:09:29 </td>
+   <td style="text-align:left;"> $SPY Somebody said futures are crashing? You mean that red pixel? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:09:20 </td>
+   <td style="text-align:left;"> $SPY $FB today I saw a video of Zuck shooting dice in the metaverse with meta gloves on so he can actually touch shit in there. Blew my mind. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:09:02 </td>
+   <td style="text-align:left;"> $SPY where do you guys see futures crashing lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:08:40 </td>
+   <td style="text-align:left;"> $SPY man, what I wouldn’t do to see the future </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:08:23 </td>
+   <td style="text-align:left;"> $SPX $spy $SSNLF $MU  Smooth one 🇨🇳 China! Lockdown the city where Samsung and Micron build memory chips.  Which is the only city the has the “only outbreak” in a Country with $1billion+ people.  Lol. If they don’t get Taiwan, then “no chips for you”
 
-While defensive assets have failed to catch any meaningful bid, we haven&amp;#39;t seen many definitive signals supporting a more risk-on tone...until now. $HYG $IEI
-
-Read more @allstarcharts </td>
+https://www.reuters.com/world/china/micron-warns-dram-chip-delays-due-chinas-xian-lockdown-2021-12-29/?utm_medium=Social&amp;amp;utm_source=twitter </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:49:54 </td>
+   <td style="text-align:left;"> 2021-12-30 12:08:14 </td>
+   <td style="text-align:left;"> $SPY dad? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:08:03 </td>
+   <td style="text-align:left;"> $SPY futures crashing at this hour is actually very bullish. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:07:41 </td>
+   <td style="text-align:left;"> $SPY stop paying attention to the futures and start paying attention to these MM crooks </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:07:40 </td>
+   <td style="text-align:left;"> $SPY she fuck with me cause I got the vision! 👁 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:07:21 </td>
+   <td style="text-align:left;"> $SPY $FB all I know is Zuckerberg sold shares at ATH and conveniently right before the name change. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:07:09 </td>
+   <td style="text-align:left;"> $SPY The market is struggling just above the upper daily BB. Model is still long, but waning strength. https://grizzlybulls.com/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:06:13 </td>
+   <td style="text-align:left;"> $SPY SPY 2021-12-29 Daily Forecast Video: 
+https://www.youtube.com/watch?v=Mwo1loGaMiE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:05:41 </td>
+   <td style="text-align:left;"> $SPY futures Crashing. Bye bye bulls </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:05:16 </td>
+   <td style="text-align:left;"> $SPY You wanna see a real collapse? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:05:13 </td>
+   <td style="text-align:left;"> $GME $AMC $SPY $XRT XRT which is riddled with FTDS had a major FTD cover today volume candle and it resulted in GME flying as well. Shorts have shorted this index into oblivion trying to facilitate naked short selling &amp;amp; death spiral algorithm. Fun times ahead </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:04:12 </td>
    <td style="text-align:left;"> $SPY 
-https://www.dailymail.co.uk/news/article-10353503/UKs-daily-Covid-cases-hit-pandemic-high-183-037.html </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:49:17 </td>
-   <td style="text-align:left;"> $SPY there you go, up and above 480 easy </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:49:10 </td>
-   <td style="text-align:left;"> $SPY SPACs, IPOs, Crypto, Ark type of P&amp;amp;Ds are all spiralling down &amp;amp; huge inflows into value, risk off is obvious </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:49:08 </td>
-   <td style="text-align:left;"> $PTON
-$PTON Descending🔺Breakdown
-Also Big Losers: $ZM $DKNG $PINS
 
-$SPY Market at or near ATH </td>
+One day closer to sonic leAving forever and bernie sanders retirement </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:48:49 </td>
-   <td style="text-align:left;"> $SPY We&amp;#39;re stuck like an almond in the middle of a chocolate bar. </td>
+   <td style="text-align:left;"> 2021-12-30 12:03:04 </td>
+   <td style="text-align:left;"> McClellan Oscillator: The Best Market Timing Indicator?
+
+$NKLA $NIO $PLTR $LCID $SPY 
+
+http://www.chartlearning.com/2021/11/what-is-the-mcclellan-oscillator-indicator.html </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:48:38 </td>
-   <td style="text-align:left;"> $SPY </td>
+   <td style="text-align:left;"> 2021-12-30 12:02:42 </td>
+   <td style="text-align:left;"> $SPY market open on Friday or closed ? Thanks </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:48:21 </td>
-   <td style="text-align:left;"> $SPY lol get in the trenches bull </td>
+   <td style="text-align:left;"> 2021-12-30 12:02:06 </td>
+   <td style="text-align:left;"> $STUDY 2022 contribution💰 hits the Roth IRA on 3 January, how are you deploying it? Or what are you waiting to buy on a dip? 
+
+$SPY $QQQ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:48:11 </td>
-   <td style="text-align:left;"> $SPY This dude is breaking all of the woman’s swimming records. Does he have the record for the biggest penis in a woman’s locker room? </td>
+   <td style="text-align:left;"> 2021-12-30 12:01:35 </td>
+   <td style="text-align:left;"> $SPY 🤣🤣 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:48:04 </td>
-   <td style="text-align:left;"> $SPY bears need to stop…it’s just a healthy pullback to 453-454 </td>
+   <td style="text-align:left;"> 2021-12-30 12:00:28 </td>
+   <td style="text-align:left;"> $SPY maybe dips tomorrow finally </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:47:53 </td>
-   <td style="text-align:left;"> $SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:58:53 </td>
+   <td style="text-align:left;"> $SPY $RLFTF $NXRP
+
+https://www.nrxpharma.com/wp-content/uploads/2021/12/NRX-Aviptadil-Breakthrough-Designation-Request-Dec-28.pdf </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:47:48 </td>
-   <td style="text-align:left;"> $QQQ Roflmao...goodbye easystreet $SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:58:50 </td>
+   <td style="text-align:left;"> $SPY I see aunt Jemima is all upset and running ads now to make pearl milling company cool now lol </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:47:34 </td>
-   <td style="text-align:left;"> $SPY according to bulls here we moon soon,everyday </td>
+   <td style="text-align:left;"> 2021-12-30 11:57:23 </td>
+   <td style="text-align:left;"> $FTK We have a buyer in the house! An American company for sale. Who wouldn&amp;#39;t want to take part? $SPY $TSLA 
+
+1.11$ so far 
+
+(NYSE: FTK) has received an unsolicited indication of interest for a potential transaction for all or part of the Company. To assist in evaluating this unsolicited indication of interest, Flotek&amp;#39;s Board of Directors has engaged Piper Sandler &amp;amp; Co. (&amp;quot;Piper Sandler&amp;quot;) as a financial advisor to assist with the evaluation process. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:47:17 </td>
-   <td style="text-align:left;"> $SPY biden market taking it to the finish line </td>
+   <td style="text-align:left;"> 2021-12-30 11:57:08 </td>
+   <td style="text-align:left;"> $SPY 
+
+https://www.cnbc.com/amp/2021/12/29/us-covid-cases-rise-to-pandemic-high-as-delta-and-omicron-circulate.html </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:46:44 </td>
-   <td style="text-align:left;"> $SPY how low should we open up tomorrow?😘 </td>
+   <td style="text-align:left;"> 2021-12-30 11:56:19 </td>
+   <td style="text-align:left;"> $SPY they said it was going to 450 so I bought puts they said they said. Bears! Lol </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:46:39 </td>
-   <td style="text-align:left;"> $SPY  They didn’t expect $470
-To go from resistance to support. Did they </td>
+   <td style="text-align:left;"> 2021-12-30 11:56:15 </td>
+   <td style="text-align:left;"> $SPY  SPY top stocks were red today and continued to drop AH, futes are all red.. Expect a lot volatility tomorrow. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:46:38 </td>
-   <td style="text-align:left;"> $SPY your calls you bought at close lol 😆 </td>
+   <td style="text-align:left;"> 2021-12-30 11:55:01 </td>
+   <td style="text-align:left;"> $SPY All I want is the truth. I just want the dam truth. Is that so much to ask?
+
+https://www.youtube.com/watch?v=8MJio3s2wFI </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:46:34 </td>
-   <td style="text-align:left;"> $UVXY $SPY     Draw your own conclusions!   Putin demanding call, troops moving Hmm☠️🚀 </td>
+   <td style="text-align:left;"> 2021-12-30 11:54:37 </td>
+   <td style="text-align:left;"> $SPY — CONSERVATIVELY — SPY goes to 5600 in 2022. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:46:33 </td>
-   <td style="text-align:left;"> $SPY every time someone gives me a dirty look for not wearing a mask in public i simply explain to them that i already have covid and therefore i cannot catch it from them 🤔🤔 </td>
+   <td style="text-align:left;"> 2021-12-30 11:54:00 </td>
+   <td style="text-align:left;"> $SPY I can draw lines too! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:46:20 </td>
-   <td style="text-align:left;"> $SPY it looks a nice set up for 1-2% gap down and be aligned with Asian markets, they were down for 3 sessions around 2%, global markets are in harmony, like stock tickers in different exchanges around the world. </td>
+   <td style="text-align:left;"> 2021-12-30 11:53:18 </td>
+   <td style="text-align:left;"> $SPY should be a green day, no matter what </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:46:16 </td>
-   <td style="text-align:left;"> $SPY https://babylonbee.com/news/kim-jong-un-attends-ivy-league-university-to-learn-new-brainwashing-techniques </td>
+   <td style="text-align:left;"> 2021-12-30 11:51:36 </td>
+   <td style="text-align:left;"> $SPY I hereby declare Covid-19 over. Run to the nearest public bathroom and lick the floor, it&amp;#39;s safe now! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:46:09 </td>
-   <td style="text-align:left;"> $SPY in all seriousness, Wave 2 is coming soon, i believe that will be the next catalyst for the long awaited correction bears have been seeking for months. </td>
+   <td style="text-align:left;"> 2021-12-30 11:50:32 </td>
+   <td style="text-align:left;"> $SPY waiting for a VIX spike so I can short it’s products </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:46:04 </td>
-   <td style="text-align:left;"> $AAPL $SPY I can&amp;#39;t wait for Russia sanctions to kick off. Specifically that part where they stop selling them  smartphones. </td>
+   <td style="text-align:left;"> 2021-12-30 11:49:59 </td>
+   <td style="text-align:left;"> $SPY clot shots 
+
+https://conejoguardian.org/2021/12/14/more-vc-nurses-blow-whistle-on-overwhelming-numbers-of-heart-attacks-clotting-strokes/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:46:02 </td>
-   <td style="text-align:left;"> $SPX Watching Tom Lee and Josh Brown - well done
-Some eye-opening analysis herein - especially the last few minutes
-https://youtu.be/VJBt17yBSss $SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:49:47 </td>
+   <td style="text-align:left;"> $SPY I think better outcome can come on trade by this method. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:45:22 </td>
-   <td style="text-align:left;"> $SPY $480 by 2022! </td>
+   <td style="text-align:left;"> 2021-12-30 11:48:17 </td>
+   <td style="text-align:left;"> $SPY 
+Biden’s winter of death is coming for you bulls </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:45:16 </td>
-   <td style="text-align:left;"> $TSLA $SPY $QQQ The market is open Friday everyone. Why does everyone think tomorrow is the last trading day? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:45:13 </td>
-   <td style="text-align:left;"> $SPY stock analysis based on today&amp;#39;s closing price 
+   <td style="text-align:left;"> 2021-12-30 11:46:59 </td>
+   <td style="text-align:left;"> $SPY stock analysis.  What is next? 480 or something else 🤔 
+
+Watch
 
 https://youtu.be/gsCANGVrpi0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:45:13 </td>
-   <td style="text-align:left;"> $SPY CNN and Foxnews are both equally the worst. It&amp;#39;s a tie. </td>
+   <td style="text-align:left;"> 2021-12-30 11:45:47 </td>
+   <td style="text-align:left;"> $SPY am I the only one that sees this, if it follows trend, this needs a $450-$455 pull back before it can go to $500, learn how to play both sides of the market </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:45:06 </td>
-   <td style="text-align:left;"> $SPY  The most positive board on the twits. </td>
+   <td style="text-align:left;"> 2021-12-30 11:45:44 </td>
+   <td style="text-align:left;"> $SPY thank goodness im hedged with some calls and short uvxy. Looks like Vix is headed to hell. 🥴... </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:43:35 </td>
-   <td style="text-align:left;"> $SPY Elliott waves 👯‍♀️🕺💃 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:43:21 </td>
-   <td style="text-align:left;"> $ARKK $SPY $QQQ &amp;gt;&amp;gt; 497 Stocks made New 52 Week Lows Today &amp;gt;&amp;gt; 
+   <td style="text-align:left;"> 2021-12-30 11:45:41 </td>
+   <td style="text-align:left;"> $SPY I wonder how badly the corporate media will be damaged by their fear campaign when everyone knows Omicron is basically a cold next month.
 
-Which stocks on that list are going to rebound in January?
-
-https://stockcharts.com/def/servlet/SC.scan?s=TSAL[t.t_eq_s]![as0,20,tv_gt_40000]![tl0_lt_an1,253,tl]&amp;amp;report=predefall </td>
+https://youtu.be/OM2VgBm9pTI </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:43:17 </td>
-   <td style="text-align:left;"> $SPY Just found out my dog got spina bifida after eating a tray of chicken tamales. Say prayers, he helped me get through the loss of George Bush Sr </td>
+   <td style="text-align:left;"> 2021-12-30 11:44:48 </td>
+   <td style="text-align:left;"> $SPY y’all the market IMO for your money 💴 and then you get the same boat 🛥 buy a bunch and then we’ll find something different lol 😆 we will see you tomorrow if you’re interested or if you’d like 👍 can </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:42:47 </td>
-   <td style="text-align:left;"> $SPY whoever made bic lighters is a genius </td>
+   <td style="text-align:left;"> 2021-12-30 11:44:00 </td>
+   <td style="text-align:left;"> $SPY I see now.  Government sees Omicron as best chance for herd immunity so they are hoping for as many to catch it as possible.  Damn </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:42:32 </td>
-   <td style="text-align:left;"> $SPY $SPX Hey guys! Just remember Pelkian wisdomism: 
-Bears are always early, 
-Bulls are always late.
-We are at an inflection point 
-transition
-transition 
-transition </td>
+   <td style="text-align:left;"> 2021-12-30 11:43:46 </td>
+   <td style="text-align:left;"> $SPY Never ever forget that it is good to be alive. Remember that.
+https://www.youtube.com/watch?v=VqhCQZaH4Vs </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:42:14 </td>
-   <td style="text-align:left;"> $spy why are there bullish tags in stream. wake up bro </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:42:09 </td>
-   <td style="text-align:left;"> $SPY i will leave this here for when bear dirtbags come around </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:41:52 </td>
-   <td style="text-align:left;"> $SPY Is she singing yet? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:41:49 </td>
-   <td style="text-align:left;"> $SPY $QQQ futures aren’t even down bad chill lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:40:57 </td>
-   <td style="text-align:left;"> $SPY Tom lee calling for
-- January SPY 500
--most likely pullback of 10% in spy by June
--double digit close in the year 2022 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:40:17 </td>
-   <td style="text-align:left;"> $SPY You see, the hard reality is how much money we accumulate in life is not a function of who&amp;#39;s president or the economy or bubbles bursting or bad breaks or bosses. It&amp;#39;s about the American work ethic. The one that made us the greatest country on Earth. It&amp;#39;s about bucking the media&amp;#39;s opinion as to what constitutes a good parent. Deciding to miss the ball game, the play, the concert, because you&amp;#39;ve resolved to work and invest in your family&amp;#39;s future. And taking responsibility for the consequences of those actions. Patience. Frugality. Sacrifice. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:39:53 </td>
-   <td style="text-align:left;"> $SPY 
-
-Real talk:
-Anyone here ever buy a business to give their spouse something to focus on? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:39:45 </td>
-   <td style="text-align:left;"> Santa Rally nothing but a scam! Rich continue to get richer. Small caps continue to be bearish 
-
-50% of the market declining. 53% reaching new lows 
-
-Media continues to ignore!
-
-$SPY $QQQ $IWM </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:39:19 </td>
-   <td style="text-align:left;"> $SPY I somehow lost money on my calls and puts lmao </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:39:16 </td>
-   <td style="text-align:left;"> $SPY market on the cusp. Only thing not bearish is the overl6 bearish sentiment. Which my putz are not hqppy with. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:38:17 </td>
-   <td style="text-align:left;"> $SPY $QQQ $XBI $CEMI $CODX 
-BREAKING: U.S. reports 400,000 new coronavirus cases, the biggest one-day increase on record, with some states yet to report </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:38:01 </td>
-   <td style="text-align:left;"> $SPY …how do we short Ukraine… looks like we wont get involved </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:38:00 </td>
-   <td style="text-align:left;"> $SPY has an average volume of 72670300. This is a good sign as it is always nice to have a liquid stock. https://www.chartmill.com/stock/quote/SPY/technical-analysis?key=84303b30-e7bc-44d7-b0b1-1493858db9a2&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=SPY&amp;amp;utm_campaign=social_tracking </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:37:46 </td>
-   <td style="text-align:left;"> $SPY one thing I respect about SPY is that after a big rally a usually somewhat short period of “absolutely none of you gets to make money flipping these options overnight” comes up. Thats pretty normal and expected. SPY sometimes moves like a meme but more often than not it does a whole lot of nothing. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:37:40 </td>
-   <td style="text-align:left;"> $SPY  Putin asked for the meeting which means Biden’s bluff on financial sanctions worked. Imo </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:37:35 </td>
-   <td style="text-align:left;"> $SPY i will gladly except some female Ukrainian refugees... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:37:34 </td>
-   <td style="text-align:left;"> $SPY looking for a break of 4772 on es for a move down tomorrow or a bounce to ATH. Might swing some trades tonight since I never play futs </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:37:19 </td>
+   <td style="text-align:left;"> 2021-12-30 11:41:28 </td>
    <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:37:14 </td>
-   <td style="text-align:left;"> $SPY whatever happened to stackindollaz? He was entertaining- on this board especially </td>
+   <td style="text-align:left;"> 2021-12-30 11:41:19 </td>
+   <td style="text-align:left;"> $SPY C’mon man.. the lions too?ZOOKEEPER: 3 Unvaxxed Lions At New Orleans Zoo Test Positive For COVID-19, Can&amp;#39;t Stop Coughing and Sneezing - Breaking911  https://breaking911.com/3-unvaxxed-lions-at-new-orleans-zoo-test-positive-for-covid-19-cant-stop-coughing-and-sneezing/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:36:38 </td>
-   <td style="text-align:left;"> $UVXY $SPY    If PUTIN DEMANDED A EMERGENCY CALL FROM TRUMP WE WOULD
-NOT KNOW, Hmmm.   Tomorrow could be a game changer for everyone. DD⬇️☠️ </td>
+   <td style="text-align:left;"> 2021-12-30 11:40:13 </td>
+   <td style="text-align:left;"> $SPY yah definitely easier to play the up side </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:36:31 </td>
-   <td style="text-align:left;"> $SPY https://www.youtube.com/watch?v=J9gKyRmic20 </td>
+   <td style="text-align:left;"> 2021-12-30 11:39:50 </td>
+   <td style="text-align:left;"> $SPY we all should wait for Pelosi to release her new set of trades </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:36:29 </td>
-   <td style="text-align:left;"> $SPY This market better break $480+ and STAY there in the next two days or there will be not be a happy ASIAN in CHINATOWN this weekend. </td>
+   <td style="text-align:left;"> 2021-12-30 11:39:13 </td>
+   <td style="text-align:left;"> $SPY So Omicron is milder, provides good immunity against the previous variants. AND, the vaccines work against it. 
+ 
+A covid pill is approved so let&amp;#39;s now load up a fleet of C17s and drop this all over Africa, India and the middle East. 
+ 
+Time to wrap this up for the history books! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:36:13 </td>
-   <td style="text-align:left;"> $SPY  Ukraine invasion so bullish we will sell hella military Equipment to Europe. Or just give it for free and write it off like Taliban ? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:36:09 </td>
-   <td style="text-align:left;"> $SPY DRAIN THE SWAMP!!!$IWM $QQQ $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:36:00 </td>
-   <td style="text-align:left;"> $SPY when is last date for tax harvest? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:35:55 </td>
-   <td style="text-align:left;"> $SPY $SPX Do my eyes deceive me?? $500 EOY??😅😅
-The flag all 🌈🐻s despise 
-😂😂😂😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:35:52 </td>
-   <td style="text-align:left;"> $SPY that feeling when you start playing a game and literally just the opening atmosphere and characters are enough to recognize it’s going to be amazing </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:35:45 </td>
-   <td style="text-align:left;"> $SPY the FEDs are gonna pump this bitch hard… enjoy the temporary red </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:35:26 </td>
-   <td style="text-align:left;"> $SPY Greed Costs…
-It’s obvious what market sentiment is… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:35:12 </td>
-   <td style="text-align:left;"> $SPY im not sure i really care that those mullet sporting U-ruskies get invaded. No offense but thats europes problem. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:35:08 </td>
-   <td style="text-align:left;"> $SPY safe to say, most act hard but innocent </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:35:08 </td>
-   <td style="text-align:left;"> $SPY I’m a bear and some bears on here act crazy when it drop 40 cents 😂 lol. When it drops a few dollars then celebrate. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:34:57 </td>
-   <td style="text-align:left;"> $SPY bears eating good tomorrow? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:34:34 </td>
-   <td style="text-align:left;"> $SPY that might’ve been the bottom 🤭 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:34:13 </td>
-   <td style="text-align:left;"> $SPY lol now bulls are the COVID conspiracy theorists used to be just bears </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:33:45 </td>
-   <td style="text-align:left;"> $SPY look guys, guys karaoke was a failure </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:33:39 </td>
-   <td style="text-align:left;"> $SPY Ah man I got fucked so hard today for 12-29 $478 calls. 😔 The bears win this round. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:33:07 </td>
-   <td style="text-align:left;"> $SPY bears act like no one ever got sick before Covid. No one ever had heart disease, cancer, kidney disease, etc. they are beyond delusional. Be quiet bears!!! Sit down! Wealth is not for you! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:33:03 </td>
-   <td style="text-align:left;"> January &amp;gt;&amp;gt; This is the Month where one person&amp;#39;s trash 🗑 becomes another person&amp;#39;s treasure 🤑 💰 
+   <td style="text-align:left;"> 2021-12-30 11:38:24 </td>
+   <td style="text-align:left;"> $SPY 
 
-Make a list of the beaten down stocks that have the best chance of rebounding in January &amp;gt;&amp;gt;
+The theme of 2021:  Progressives ran off the Indian, but kept the land. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:37:26 </td>
+   <td style="text-align:left;"> $SPY tank it </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:36:43 </td>
+   <td style="text-align:left;"> $SPY miracle green on the AM, no worries </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:36:25 </td>
+   <td style="text-align:left;"> $SPY $BTC.X 
+When they all think it’s going to crash…. You know it’s actually time to buy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:35:52 </td>
+   <td style="text-align:left;"> $SPY futes zzzzzzZZZ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:35:21 </td>
+   <td style="text-align:left;"> $SPY I like to post bannon on occasion cuz it gets the lefties to go apeshit. Never vote in my life. Natalie Winters is hot.
 
-$SPY $QQQ $ARKK </td>
+https://rumble.com/vrml9a-pfizer-partnered-with-chinas-vaccine-passport.html </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:32:53 </td>
-   <td style="text-align:left;"> $SPY  its just a troll but i do my duty </td>
+   <td style="text-align:left;"> 2021-12-30 11:34:52 </td>
+   <td style="text-align:left;"> $SPY lmao </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 08:32:39 </td>
-   <td style="text-align:left;"> Asset Classes ranked by price strength and momentum re Dec. 29 close: $USO $DIA $FAB $SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:34:47 </td>
+   <td style="text-align:left;"> $SPY OMG!! I was trying to tell the Bears about this bull run but of course they didn’t listen and now they missed out on   thousands of dollars because they are persistent at being small minded. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:34:11 </td>
+   <td style="text-align:left;"> $SPY $QQQ
+The Omicron cycle for me was eight days from first symptoms to no more signs of it, if anyone wants a data point.  Only the first day or so was like the flu.  Not sure why anyone would bother to get tested.  If you have symptoms just assume you have it. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:34:04 </td>
+   <td style="text-align:left;"> $SPY Still waiting for black swan and “the big one” </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:32:25 </td>
+   <td style="text-align:left;"> $SPY can we just drop so I can sell tons of puts again fcking ey </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:32:17 </td>
+   <td style="text-align:left;"> $BTC.X $SPY 
+Tomorrow should be green </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:31:47 </td>
+   <td style="text-align:left;"> $SPY 3rd flat future night in a row. Will there be last chance tax selling tomorrow or friday? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:31:46 </td>
+   <td style="text-align:left;"> $TSLA I just rode in a 2020 Model 3 Performance. Fastest car I ever have been in. Torque is mind blowing. New update is amazing. It&amp;#39;s Game Over. Buying more TSLA tomorrow. $GM and $F. $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:30:49 </td>
+   <td style="text-align:left;"> $SPY Apple PB ratio 2018 = 10
+APPLE PB ratio 2021 = 46
+hmm </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:30:39 </td>
+   <td style="text-align:left;"> $SPY Actually volume was not too low today 55mm. We have had many 40mm days before at such low vix. Lets see if we make a move to 4800+ on futures. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:30:34 </td>
+   <td style="text-align:left;"> $SPY Futes looking like they are about to take a huge dump </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:30:02 </td>
+   <td style="text-align:left;"> Always do your hw have friends that know carpentry, plumbing etc do your research check the neighborhood talk to the neighbors $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:29:21 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:29:07 </td>
+   <td style="text-align:left;"> $SPY  Now every day matters as it is a battle of angels and demons (bulls vs. bears) for control of the very fate of the market.  This break out can become a bull trap very fast and if that happens now it results in a quick move down and as the first the 2 weeks of Jan go so does the year. Last 2 days are Dojis so that is good in that we may get few days of sideways action and calm some nerves.  If you are a bull you want as few Dojis as possible and want the SC rally to take effect and duh want price to move higher.  The MACD is encouraging also here as it is moving higher for the bulls.  Price is the number one indicator so that is mainly what it is all about as higher prices will fetch higher prices until Jan 14th if all goes right for the bulls best case senario, but I am looking at it hour by hour.  Look, a lot of people have one foot out the door or are out of the market.  The megacaps have to lead, but all caps matter and are connected. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:28:53 </td>
+   <td style="text-align:left;"> $SPY making 1 million dollars is easy, just ask 1 million people for a dollar ez </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:27:52 </td>
+   <td style="text-align:left;"> $SPY Trump mentioned dark winter during a group photo op before the virus hit, and when asked to explain, he just answered with &amp;quot;you&amp;#39;ll see&amp;quot; 
+
+You do what you want with that info </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:27:49 </td>
+   <td style="text-align:left;"> $SPY wow boring week </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:27:12 </td>
+   <td style="text-align:left;"> $SPY apple price to book = 46 .. yeah ok </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:26:57 </td>
+   <td style="text-align:left;"> $MSFT $AAPL $SPY $BRK.B 
+
+FINKLE IS EINHORN! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:26:20 </td>
+   <td style="text-align:left;"> latex6ca81b859ec167504fb5a505f2aaaaafSMH)
+mRNA technology ($PFE, $MRNA)
+quantum computing ($IBM)
+search engine (GOOGL)
+etc.
+
+Think of taxpayers as long-term investors (timescale of decades, even sometimes &amp;gt;50 years). It is the taxpayers who invested in these ideas via the means of government. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:25:35 </td>
+   <td style="text-align:left;"> $SPY this whole *pandemic* was just to steal an election. And they played trump, he sold out too. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:24:44 </td>
+   <td style="text-align:left;"> $SPY You see the entire value is speculation beyond 1 price to book, even at 1 there is a chance for decline AKA EGO at 0.47 price to book. It is all speculation on the future earnings. What does this mean? It means there is a long way down </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:24:30 </td>
+   <td style="text-align:left;"> $SPY I&amp;#39;ll take a 20 percent correction </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:23:57 </td>
+   <td style="text-align:left;"> $SPY bloodbath next two days. Crash imminent. $470 friday </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:23:52 </td>
+   <td style="text-align:left;"> $SPY 
+
+https://rumble.com/vrmdjh-its-time-stop-the-vaccination-and-treat-the-vaccine-injured.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:23:23 </td>
+   <td style="text-align:left;"> $SPY covid crash </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:23:05 </td>
+   <td style="text-align:left;"> $SPY https://www.youtube.com/watch?v=LTseTg48568 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:22:50 </td>
+   <td style="text-align:left;"> $SPY I disagree with those saying Omicron was dear mongering... 
+ 
+The response was fully warranted until the variant was understood but now we know it is not the beast it could have been. Onwards to 500, LFG! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:22:31 </td>
+   <td style="text-align:left;"> $SPY covid going to crash this again. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:22:30 </td>
+   <td style="text-align:left;"> $SPY  The S&amp;amp;P ytd is 28% with an average of 15% over 10 years... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:21:56 </td>
+   <td style="text-align:left;"> $SPY hmmm where will it spike </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 11:21:46 </td>
+   <td style="text-align:left;"> $SPY S&amp;amp;P limit down and it still wasn&amp;#39;t done .. lol.. who will be the last one out this time? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:58:10 </td>
+   <td style="text-align:left;"> $QQQ well test 399.7 tomorrow, if that don’t hold, we’ll most likely try 392 support by Friday. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:56:55 </td>
+   <td style="text-align:left;"> https://www.investing.com/indices/indices-futures  $f $tsla $ccl  $spy $qqq </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:55:06 </td>
+   <td style="text-align:left;"> Some other interesting option trades...
+
+$QQQ $SPY $EEM </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:53:00 </td>
+   <td style="text-align:left;"> $QQQ has an average volume of 48426300. This is a good sign as it is always nice to have a liquid stock. https://www.chartmill.com/stock/analyzer/stock/QQQ?key=d8dac8fb-a874-4422-96db-185a5752c108&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=QQQ&amp;amp;utm_campaign=social_tracking </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:43:40 </td>
+   <td style="text-align:left;"> $DWAC $SPY $QQQ 
+Total psy-op false flag Lefty scam..
+
+https://m.youtube.com/watch?v=qwYIWno8EJo&amp;amp;feature=share </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:42:46 </td>
+   <td style="text-align:left;"> $SPY $SPX $QQQ 
+
+Anyone heard from Crossing Trends? Or did he go broke? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:40:20 </td>
+   <td style="text-align:left;"> $QQQ Get ready! I might get in. And when I do it crashes. LOL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:39:52 </td>
+   <td style="text-align:left;"> $SPY $TSLA$juicewrld $QQQ $NFLX $DIS alexa play all girls are the same </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:38:35 </td>
+   <td style="text-align:left;"> $SPY $QQQ bull flag will break by 3 am </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:18:42 </td>
+   <td style="text-align:left;"> ETF Sentiment: $QQQ is the #2 ETF that institutions are trading with 55.3K options contracts.
+
+Market analysis included in screenshot of dashboard from http://insiderfinance.io. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:05:17 </td>
+   <td style="text-align:left;"> $QQQ https://www.reddit.com/r/MillennialBets/comments/rro07z/ktta_the_shorts_are_actually_trapped_here/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 13:01:07 </td>
+   <td style="text-align:left;"> $QQQ 405.71 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 12:52:40 </td>
+   <td style="text-align:left;"> $SPY $QQQ corrupt govt..corrupt market </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 12:46:36 </td>
+   <td style="text-align:left;"> $AAPL $SPY $QQQ i just apply for cash account and option from help from holly , y’all get ready 🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 12:35:15 </td>
+   <td style="text-align:left;"> McClellan Oscillator: The Best Market Timing Indicator?
+
+$QQQ $DWAC $NVDA $RIVN $PLUG
+
+https://www.chartlearning.com/2021/11/what-is-the-mcclellan-oscillator-indicator.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 12:25:09 </td>
+   <td style="text-align:left;"> $QQQ stonks only go up -🥸 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 12:09:18 </td>
+   <td style="text-align:left;"> $QQQ easy 100% on puts tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 12:02:06 </td>
+   <td style="text-align:left;"> $STUDY 2022 contribution💰 hits the Roth IRA on 3 January, how are you deploying it? Or what are you waiting to buy on a dip? 
+
+$SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:49:37 </td>
+   <td style="text-align:left;"> $QQQ stock analysis 
+
+https://youtu.be/7ISQQLghTaw </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:44:02 </td>
+   <td style="text-align:left;"> $AMZN $QQQ not a lot of details, but Amazon posted on their blog their 3p sellers did  record sales this holiday season.
+
+https://www.aboutamazon.com/news/small-business/independent-selling-partners-broke-amazon-records-this-holiday </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:34:11 </td>
+   <td style="text-align:left;"> $SPY $QQQ
+The Omicron cycle for me was eight days from first symptoms to no more signs of it, if anyone wants a data point.  Only the first day or so was like the flu.  Not sure why anyone would bother to get tested.  If you have symptoms just assume you have it. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:24:32 </td>
+   <td style="text-align:left;"> $QQQ can someone tell me why VTIVX is down 13% it’s a fund </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:18:59 </td>
+   <td style="text-align:left;"> $mrna $BNTX my predictions are coming true. many of you who know me knew I said there would be a winter surge and another variant in September. I said there would be increased hospitalizations and death with this latest variants weeks back. I said children’s cases would surge and fill ICUs  $nvax $spy $qqq how often is my broken clock right? This does not bring me satisfaction To say these things aside from laughing at those that deny me this much.  
+https://deadline.com/2021/12/omicron-surge-slams-los-angeles-hospitals-1234902721/amp/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:18:08 </td>
+   <td style="text-align:left;"> $SPY $QQQ i guess both calls and puts are getting killed this week </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:14:19 </td>
+   <td style="text-align:left;"> $QQQ puts </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:05:00 </td>
+   <td style="text-align:left;"> In the last month $QQQ has a been trading in the 377.47 - 404.58 range, which is quite wide. https://www.chartmill.com/stock/quote/QQQ/technical-analysis?key=d8dac8fb-a874-4422-96db-185a5752c108&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=QQQ&amp;amp;utm_campaign=social_tracking </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:03:59 </td>
+   <td style="text-align:left;"> $PTON Hedge funds walk away from Peloton amid post-COVID decline and 52-week lows
+Turn the lights out for Peloton💩 while Market $SPY $QQQ near ATHS </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:03:49 </td>
+   <td style="text-align:left;"> This is a great breakdown $VOO $VTI $QQQ $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:03:08 </td>
+   <td style="text-align:left;"> The most unusual job market in modern American history, explained
+
+https://www.washingtonpost.com/business/2021/12/29/job-market-2021/
+
+$TQQQ $SQQQ $QQQ $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 11:02:17 </td>
+   <td style="text-align:left;"> Opinion: Which ‘gray swan’ risk could derail the U.S. economy and the stock market in 2022?
+
+https://www.google.com/amp/s/www.marketwatch.com/amp/story/which-gray-swan-risk-could-derail-the-u-s-economy-and-the-stock-market-in-2022-11640799334
+
+$TQQQ $SQQQ $QQQ $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:44:36 </td>
+   <td style="text-align:left;"> $QQQ Been making lower highs and it didn’t break above previous high while $SPY did, interesting… </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:42:49 </td>
+   <td style="text-align:left;"> $SPY $QQQ $ARKK Hope people finally realize that last year was just a lucky year for Cathie Wood, stop treating her like some kind of genius. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:28:38 </td>
+   <td style="text-align:left;"> $SPY WHAT IF I TOLD U THAT FOR THE PAST 6 TRADING SESSIONS A CRIMINAL BID SPOOFING MANIPULATING CITADEL SCAM ALGORITHM IS MANIPULATING SHARE PRICE, STEALING BILLIONS IN OPTIONS PREMIUM, AND PROPPING MARKETS FOR A MASSIVE CRASH THAT WILL BANKRUPT THE MIDDLE CLASS, ONLY TO ENRICH THE 1%? $QQQ $IWM $AAPL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:27:47 </td>
+   <td style="text-align:left;"> $SPY $QQQ I see the internet still allows broke $$ ignorance and zero accountability.  Its like the last 150+ monster BTD winners in a row somehow are forgotten and the bearish idiots still want to fight $$. We can wipe you out without even trying.
+ 
+The best part of all this BS drama is knowing bears have failed lives.
+
+Market will always go to ATH and 90% of idiots posting fear mongering BS get wiped out, lets dance on their graves!!!
+
+Non-stop Winning and making $$ because human ignorance never stops paying me. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:27:16 </td>
+   <td style="text-align:left;"> ($slv $gld $gold $gld) hedges and stores of value tore up. All hail tech $qqq it&amp;#39;s been this way for awhile now. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:25:19 </td>
+   <td style="text-align:left;"> $SPY $QQQ If you stay stubborn and keep shorting in 2022 then you are very likely to continue to lose money </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:24:12 </td>
+   <td style="text-align:left;"> $SPY $QQQ they pump the futures overnight everyday to green and then the market struggles to hold it. if you don&amp;#39;t see a problem then.... well I have nothing left to say just good luck. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:23:09 </td>
+   <td style="text-align:left;"> $QQQ https://youtu.be/TMYaE-1bTZM ❤️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:21:34 </td>
+   <td style="text-align:left;"> $SPY $QQQ Biggest difference between 2020 and 2021 is that in 2020 we had a reality show clown in the White House who had no idea how to deal with COVID and in 2021 we have a strong and smart leader who know exactly what to do to fight against COVID, that&amp;#39;s why this year is so much better than last year </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:21:33 </td>
+   <td style="text-align:left;"> latexfb138c22d24a7045dcb62e6e13a67e1a in graphic processing unit (GDU) maker NVIDIA Corporation (NVDA) one month before reports surfaced that the company&amp;#39;s chips would be used in a U.S. supercomputer&amp;#39;
+
+$QQQ $IWM </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:21:01 </td>
+   <td style="text-align:left;"> $DWAC $SPY $QQQ .. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:17:50 </td>
+   <td style="text-align:left;"> $qqq $spy $dia the unexpected shock could be a big decline in January. Most people are positioned for a rally. But January plunges have happened before. Few are prepared for it and valuations are stretched. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:16:44 </td>
+   <td style="text-align:left;"> $SPY $QQQ Looks like we are heading for a fairly flat day tomorrow then the market will open 2022 sharply higher next Monday </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:14:35 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DJIA Can someone tell me why 81 million people voted for these Dem socialist parasites in DC? They just want to suck the life out of every hard worker, entrepreneur, business owner. Higher taxes, more restrictions, new mandates. They never created anything they just want take take take. Trillions of $$$s wasted &amp;amp; it’s never enough. Stop voting for them you idiots!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:14:08 </td>
+   <td style="text-align:left;"> $SPY ASIA IS DEEP RED. DAX IS ABOUT TO GET SHORED. GOLDMAN IS ALERTING CLIENTS, JP MORGAN IS PAYING OFF CNBC TO HIDE PUMP UP MARKETS ITS NOT LOOKING GOOD FOR THE BULLS. $480 IS A TARGET THAT RIS NOT ATTAINABLE $QQQ $IWM $ES_f </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:09:23 </td>
+   <td style="text-align:left;"> $QQQ 😎 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 10:03:52 </td>
+   <td style="text-align:left;"> Another day of trading is behind us now! 
+$SPY treated us well today as did $QQQ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
@@ -3033,30 +3286,6 @@ $TQQQ $SQQQ $QQQ $SPY </td>
    <td style="text-align:left;"> QQQ </td>
    <td style="text-align:left;"> 2021-12-30 06:10:36 </td>
    <td style="text-align:left;"> $QQQ Looks like Santa took a great big crap in the bulls stocking. best hope ot wasnt infected with coronacold </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 06:09:39 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TSLA 
-
-$1k - $1m challenge update as usual 🚀
-
-Initial: $1,000
-Current: $12,046
-Goal: $1,000,000 by March 1
-- 1 trade per day 
-
-Today was another really fun volatility day, and there were numerous opportunities for quick and easy scalps, especially on a 0dte day. The options challenge trade was a nice and easy 24% scalp today, overachieving the 15% daily goal.
-
-(People really don’t know that 15% a day can make you over $1m in one month and they just hate because they can’t do it themselves 🤷‍♂️) 
-
-Posted the graph of the challenge so far below as well!
-
-Keep giving us volatility into the new year!
-
-More info: the-band-trades.square.site/
-
-Show must go on, @da224 offline for a bit, will be posting here for a couple days. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
@@ -3930,11 +4159,6 @@ Y’all need to regain your leadership </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:54:16 </td>
-   <td style="text-align:left;"> $QQQ $SPY 🤮🤮🤮 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
    <td style="text-align:left;"> 2021-12-30 03:53:14 </td>
    <td style="text-align:left;"> $NVDA every institution and retailers want to load this for 2022  and seeing $1Trillion in a month it seems $qqq $spy $tsla $GOOG  road is cleared </td>
   </tr>
@@ -3969,267 +4193,370 @@ EVERYONE I NEED HELP I WANT TO DAY TRADE THIS WITH OPTIONS. THOTS? </td>
    <td style="text-align:left;"> $SPY $AAPL $TSLA $QQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:48:03 </td>
-   <td style="text-align:left;"> $QQQ wow Theta is strong today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:46:49 </td>
-   <td style="text-align:left;"> $SPY $QQQ we are 90 days out from the end of QE as it stands per the Fed. The return of parity and an actual two sided market is sure to be a major theme in 22 with the conclusion of CB asset purchases. Especially with the indicies which since the advent of QE have been in an orderly uptrend since the pandemic V bottom in March 2020. With only 3 instances of the SPY holding below the 50dma to only reverse and recover each time. Add In we have not touched the 200sma in 18 months. Which is a trend that is likely to change. Things are going to be much more challenging for the perma bulls. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:46:37 </td>
-   <td style="text-align:left;"> $QQQ $SPY Dark pool activity (DIX%) across major ETFs for the month of December. BTD! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:45:25 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TSLA 
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 14:14:10 </td>
+   <td style="text-align:left;"> $AAPL $TSLA 
 
-The poots have been added 😜 </td>
+FUTES RIPPING 😆🖕 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:43:34 </td>
-   <td style="text-align:left;"> $QQQ 
-What is QQQ </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 14:03:29 </td>
+   <td style="text-align:left;"> $AAPL Simulated 182.5 dollar CALLS for Thursday&amp;#39;s open on StockOrbit.
+ https://apps.apple.com/us/app/stockorbit/id1541560646 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:42:09 </td>
-   <td style="text-align:left;"> $SPY $QQQ 
-
-Make Printers Great Again!! </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 14:00:35 </td>
+   <td style="text-align:left;"> $AAPL I hope it goes up 2% so I can get some puts </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:41:36 </td>
-   <td style="text-align:left;"> $QQQ 
-
-CALLS 🤣at the close 💋💋 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 13:54:01 </td>
+   <td style="text-align:left;"> @GoodieGood $tsla dip into earnings then rip $aapl rip into earnings then dip heard it here first 🥦💨😮‍💨😴✌🏾 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:40:29 </td>
-   <td style="text-align:left;"> $QQQ 
-
-Yep that’s all </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 13:46:31 </td>
+   <td style="text-align:left;"> Here&amp;#39;s some option&amp;#39;s overview for high volume trades. $AMD $AAPL $MSFT $MU $SNOW </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:40:27 </td>
-   <td style="text-align:left;"> $spy $qqq https://www.youtube.com/watch?v=_FQeO7oXGiE </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 13:27:04 </td>
+   <td style="text-align:left;"> $SPY $AAPL $TSLA  I have a 2k/day quota that I have to meet day trading with the occasional 10k/day when the market is volatile enough. My daily driver is a Tesla, occasional driver Lamborghini, just moved into a massive new place in NY and I&amp;#39;m single. 
+If I can do it, YOU can do it </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:40:22 </td>
-   <td style="text-align:left;"> $QQQ who has ever seen a 2% drop in 15 mins? Serious Q </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 13:21:08 </td>
+   <td style="text-align:left;"> $AAPL $200 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:39:39 </td>
-   <td style="text-align:left;"> $QQQ 
-
-No volume 🤣🤣🤣 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 13:19:32 </td>
+   <td style="text-align:left;"> $AAPL way oversold </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:39:36 </td>
-   <td style="text-align:left;"> $QQQ Bears bitch and whine and I make shitloads of money ... LMFAO </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 13:19:00 </td>
+   <td style="text-align:left;"> The Piotroski-F score of $AAPL is 7.00. This indicates good health for $AAPL. https://www.chartmill.com/stock/quote/AAPL/fundamental-analysis?key=bb853040-a4ac-41c6-b549-d218d2f21b32&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=FA&amp;amp;utm_content=AAPL&amp;amp;utm_campaign=social_tracking </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:39:33 </td>
-   <td style="text-align:left;"> $QQQ dump incoming? </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 13:12:19 </td>
+   <td style="text-align:left;"> $PTON I mean $AAPL paid billions for a dogshit headphone company.  Might be some value here </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:38:55 </td>
-   <td style="text-align:left;"> $QQQ 
-
-And 
-
-Back down we go 🙈 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 13:11:43 </td>
+   <td style="text-align:left;"> $AAPL Still bullish on long Intraday 180 calls for Dec. 31st </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:38:14 </td>
-   <td style="text-align:left;"> $QQQ 
-
-AFTERNOON HOODIE 🤣🤣TRAP 
-
-On schedule 🤣🤣calls </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 13:10:51 </td>
+   <td style="text-align:left;"> $AAPL ❤️ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:37:30 </td>
-   <td style="text-align:left;"> $SPY $QQQ power hour </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 12:52:25 </td>
+   <td style="text-align:left;"> $SPY $AAPL im
+Ready 😂 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:37:03 </td>
-   <td style="text-align:left;"> $SPY Tomorrow , is the last trading day of the year. Going ATH. $QQQ </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 12:50:11 </td>
+   <td style="text-align:left;"> Apple trying to retain talent with unusual $180,000 bonuses. $AAPL.
+https://bit.ly/3pD84tC </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:36:28 </td>
-   <td style="text-align:left;"> $SPY $QQQ $AAPL calls and puts are getting killed but bears are having a hard time 👍 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 12:50:07 </td>
+   <td style="text-align:left;"> $AAPL I checked my local Costco every Apple product is oos! </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:36:13 </td>
-   <td style="text-align:left;"> $BTC.X does anyone know if bitcoin is being bought here with USD or teather usdt? If usdt what their game plan? Print usdt, accumulate Bitcoin with usdt, and sell Bitcoin to retail for real USD for cash out? $QQQ $SPY $ETH.X </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 12:48:51 </td>
+   <td style="text-align:left;"> Apple (AAPL) puts Foxconn Technology Group&amp;#39;s (HNHPF) India plant on probation. $AAPL.
+https://bit.ly/3pD84tC </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:35:42 </td>
-   <td style="text-align:left;"> $AAPL $SPY $QQQ lookkng weak </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 12:46:36 </td>
+   <td style="text-align:left;"> $AAPL $SPY $QQQ i just apply for cash account and option from help from holly , y’all get ready 🤣 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:35:29 </td>
-   <td style="text-align:left;"> $QQQ big dogs don’t give a shit what you feel or think. They will always screw you over. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 12:35:43 </td>
+   <td style="text-align:left;"> $AAPL Bullish pattern forming today. Follow for more </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:35:19 </td>
-   <td style="text-align:left;"> $SPY if q&amp;#39;s break 401.9 bears will be extremely fukT $QQQ already tested previous resistance as support. Should be high flying from here soon. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:34:48 </td>
-   <td style="text-align:left;"> $VIX is laughing at you and CNN $VXX $SPY $QQQ dont short a bull this time of year or get run over </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:33:58 </td>
-   <td style="text-align:left;"> $NVAX Thank you and Let&amp;#39;s go: $SPY $DIA $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:33:23 </td>
-   <td style="text-align:left;"> $QQQ this shit closing green today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:33:00 </td>
-   <td style="text-align:left;"> $QQQ $SPY $RUT What a terrible market. Indexes are completely out of touch and do not represent the breadth of individual stocks especially small to mid caps which have been decimated after March. One of the biggest shams ever witnessed. HFs and MMs  have screwed this market to oblivion. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:32:47 </td>
-   <td style="text-align:left;"> $SHOP $qqq about to go green. Shorts are fried. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:32:46 </td>
-   <td style="text-align:left;"> $QQQ what a market, should burn but idk what people see tbh </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:32:00 </td>
-   <td style="text-align:left;"> $QQQ held $400 nicely building support on previous resistance levels. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:30:42 </td>
-   <td style="text-align:left;"> $QQQ this is ridiculous , we need a red day and correction.
-Under neath market is horrible and will remain that way until index correct </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:29:20 </td>
-   <td style="text-align:left;"> You know wa&amp;#39;am sayin&amp;#39; 
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 12:33:06 </td>
+   <td style="text-align:left;"> $AAPL, easistet money ever 2024 120 puts….. they will print many times over imo… 
  
-$NQ_F $QQQ $NDX </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:26:41 </td>
-   <td style="text-align:left;"> $SPY $QQQ 
-
-Don’t fight the fed bears, you won’t win. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:23:25 </td>
-   <td style="text-align:left;"> $SPY $QQQ 
-
-If this is people locking in profits before the end of year look out for 2022 bears cause when buyers step back in those pumps are gonna be ferocious. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:23:18 </td>
-   <td style="text-align:left;"> $QQQ Day trade is killing it ..... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:21:52 </td>
-   <td style="text-align:left;"> $QQQ dark pool equity print: 
-
-Quantity: 287,872
-Spot: 401.51
-Amount: $115.6M
-
-#darkpool </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:21:11 </td>
-   <td style="text-align:left;"> $QQQ 12 year old bull market reaching end of life. Last phase of resistance in Q1/Q2 IMO📉📉 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:20:37 </td>
-   <td style="text-align:left;"> $NVDA doji today and tomorrow 5% up to close 320 and then friday open at 325+ and close around 325 $spy $QQQ $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:20:36 </td>
-   <td style="text-align:left;"> $QQQ red to green? 😅 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:19:50 </td>
-   <td style="text-align:left;"> $AMZN  GREEN CLOSE... ABOUT TO EXPLODE!! 🔥🚀🚀🚀🚀
-.
-$QQQ  $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:19:26 </td>
-   <td style="text-align:left;"> $QQQ $DIA $SPY setting up for a nice afternoon dump 💩 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:17:46 </td>
-   <td style="text-align:left;"> Here&amp;#39;s a great video on being a more patient trader! Check it out! $QQQ $SPY #Patience #Discipline #Money #Trading 
+ wait for the rug pull on this market…. 25-50 companies have bloated themselves to larger bubble than 01…. during a near economic collapse of productivity with covid…. 👍 👌  
  
- https://youtu.be/n5gIBsxQdW8 </td>
+see you in 2024 😜 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:17:32 </td>
-   <td style="text-align:left;"> $VIX on track for 6th down day in a row.  This happens about 2x/yr with 7 consecutive down days about 1x/yr.  Seasonal factors increase odds of this happening in December. $UVXY $VXX $SPY $QQQ </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 12:30:59 </td>
+   <td style="text-align:left;"> $AAPL gonna hit $200 on 14th Jan. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:16:20 </td>
-   <td style="text-align:left;"> $QQQ VOLUME SPIKE </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 12:19:52 </td>
+   <td style="text-align:left;"> $SPY $AAPL A Bogandoff twin has died. What effect will this have on stock and crypto markets? I predict wide scale uncertainty and bearish on crypto as 1/2 of its creator is no more. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:16:17 </td>
-   <td style="text-align:left;"> $QQQ Thanks to Brandon and Jerome, this garbage can&amp;#39;t even pull back properly 🥲 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 12:03:02 </td>
+   <td style="text-align:left;"> $UPST $TSLA $AAPL 
+Short selling has become normalized but how much of it is legit/legal?  If you have major hedge funds and institutional investors shorting a stock they obviously have major pull and can pull the stock down.  This is what people mean when they say &amp;quot;market manipulation&amp;quot;.  And the ones doing this have so much power that it&amp;#39;s very unlikely for them to get caught.  I think this will be dealt with behind the scenes as not to affect the market because if the true nature of manipulation was made public it would scare away many retail investors.  Stocks will rise in 2022. Corruption eventually always gets exposed. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:14:31 </td>
-   <td style="text-align:left;"> we need 1100 today!!!! 1100!!! 1100!!! 1100!!!!!!! 
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:57:51 </td>
+   <td style="text-align:left;"> $AAPL Bloomberg really has an axe to grind with Apple. Now they believe the market will fall each time the stock reaches a new Trillion market cap level, yea, so maybe tomorrow, or next week or eventually. Bloomberg nutjobs.
+https://youtu.be/kLbiq0VIT9w </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:57:36 </td>
+   <td style="text-align:left;"> $AAPL $AMC $AMD Print and Post in your trading station so you have a constant reminder. Enjoy the Stacks!🤗 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:55:48 </td>
+   <td style="text-align:left;"> $AAPL $AMZN $NAKD Print and Post in your trading station as a reminder!
+Happy Stacking! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:53:47 </td>
+   <td style="text-align:left;"> $AAPL Apple To Release Special Beats Studio Buds To Celebrate The &amp;#39;Year Of The Tiger&amp;#39; 
+
+https://newsfilter.io/a/431a278b7c3efe8ea75d775c1f8fe637 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:53:34 </td>
+   <td style="text-align:left;"> $EMAN $AAPL 
+
+&amp;quot;US firm eMagin is also working on MicroOLED FMM with Apple&amp;quot;
+
+Going to go to blue sky territory soon. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:51:44 </td>
+   <td style="text-align:left;"> McClellan Oscillator: The Best Market Timing Indicator?
+
+$TSLA $MRNA $AAPL $FUBO $GME 
+
+https://www.chartlearning.com/2021/11/what-is-the-mcclellan-oscillator-indicator.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:48:26 </td>
+   <td style="text-align:left;"> $AAPL I guess we are looking at 3 trillion dollars mark next week and not this week. We have tomm for any movement going up and not Friday for the weekly. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:41:15 </td>
+   <td style="text-align:left;"> Apple (AAPL) puts Foxconn Technology Group&amp;#39;s (HNHPF) India plant on probation. $AAPL.
+https://www.tiktok.com/@stockcryptotok </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:34:23 </td>
+   <td style="text-align:left;"> $AAPL surprised Apple hasn’t taken over $PTON </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:33:03 </td>
+   <td style="text-align:left;"> $AAPL AAPL 2021-12-29 Dark Pool &amp;amp; Short Interest Data: 
+https://www.youtube.com/watch?v=LZ12BXDRLVc </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:28:39 </td>
+   <td style="text-align:left;"> $AAPL - TFC flow is not showing much weakness into the year end after back to back days of consolidation. 
+https://thefinancial.cloud/join/?ref=haseebhack </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:26:57 </td>
+   <td style="text-align:left;"> $MSFT $AAPL $SPY $BRK.B 
+
+FINKLE IS EINHORN! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:26:52 </td>
+   <td style="text-align:left;"> Equity Sentiment: $AAPL is the #1 stock that institutions are trading with 63.8K options contracts.
+
+Market analysis included in screenshot of dashboard from http://insiderfinance.io. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:21:28 </td>
+   <td style="text-align:left;"> $AAPL 
+🍏🎄
+https://www.cnbc.com/amp/2021/12/29/apple-ditched-intel-and-it-paid-off.html?__source=instagram%7Cmain </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:21:17 </td>
+   <td style="text-align:left;"> $AABB $SPY $TSLA $AAPL $MSFT  What does this INDICATE? The Short% wen&amp;#39;t from 50% to 35% to 54% to 16% to 4% . No more shares available to short. Paid bashers flooding the board and the global exchange just launched. LOADING ZONE! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:21:16 </td>
+   <td style="text-align:left;"> $RIDE $GOEV $WKHS will merge and create an EVJV funded by $AAPL. Manufacturing by Foxconn to take the Apple car and Apple truck public….
+
+Licenses…tech…battery production and supply agreement….fully “moated” new EV entrant with zero legacy interference….
+
+Watch!
+
+Make your own decisions! Do your own DD! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:19:06 </td>
+   <td style="text-align:left;"> $AAPL $NAKD $DIS Like and Follow if you will achieve this goal! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:15:31 </td>
+   <td style="text-align:left;"> $SPY $AAPL $MSFT $FB Praying for a red day tomorrow as I&amp;#39;ve just gone in heavy. Fill or kill, or kill myself. 
  
-$tsla $spy $qqq </td>
+Just the desperating millennials need now to get a house down payment. I already got screwed out of the 2021 season by Bill FKing Ackman, and now will have to pay 20% extra. 
+ 
+😿🤞🏻🙏🏼 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:15:05 </td>
+   <td style="text-align:left;"> $AABB $SPY $TSLA $AAPL $MSFT New Exchange and massive paid bashing! You know what that means 1000% </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:14:37 </td>
+   <td style="text-align:left;"> $JASMY.X I’m cash out my $SOXL $AAPL  yesterday, market definitely in correction mode.. 
+cash is king … I will add more $JASMY.X every other day or 2 …
+No sweat about red… 
+Just common sense that Japan legally accepting $JASMY.X , so no way this is fall , unless else where change… 
+Stay strong ,, fuck the  clown 🤡/ FUD, cry babies </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:13:21 </td>
+   <td style="text-align:left;"> $AAPL next target is $181 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:05:42 </td>
+   <td style="text-align:left;"> $AAPL i d love $182 on friday so the puts on my wishlist are cheaper </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:04:26 </td>
+   <td style="text-align:left;"> Top Sell Flow Money - 12.29.2021 - $AAPL $TSLA $IEF $FXI via Super Stocks App </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:03:00 </td>
+   <td style="text-align:left;"> $AAPL is currently trading near its 52 week high, which is a good sign. https://www.chartmill.com/stock/quote/AAPL/technical-analysis?key=bb853040-a4ac-41c6-b549-d218d2f21b32&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=AAPL&amp;amp;utm_campaign=social_tracking </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:02:26 </td>
+   <td style="text-align:left;"> $AAPL Simulated 182.5 dollar CALLS for Thursday&amp;#39;s open on StockOrbit.
+ https://apps.apple.com/us/app/stockorbit/id1541560646 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:00:32 </td>
+   <td style="text-align:left;"> $AAPL watching for the flag break to see ath by end of week.
+
+Link in bio for free discord where i provide daily and pre mkt analysis with price targets. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 11:00:20 </td>
+   <td style="text-align:left;"> $AAPL  CnH? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:58:38 </td>
+   <td style="text-align:left;"> $AAPL sorry to say this, but who ever have puts and shorted will be printing tomorrow big time..!!!  Unfortunately its going to be RED.  GL to all..!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:56:19 </td>
+   <td style="text-align:left;"> $AAPL I am bullish on Apple long term, but I just don’t trust these cocksuckers on WallStreet. 3 trill hype so they can unload at the top before Friday’s dump. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:43:56 </td>
+   <td style="text-align:left;"> $AAPL below 175 this week. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:39:35 </td>
+   <td style="text-align:left;"> $AAPL 3 Trillion Market Cap Before 2022? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:33:54 </td>
+   <td style="text-align:left;"> $AAPL $300 in 2023 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:32:36 </td>
+   <td style="text-align:left;"> $MVIS the only way they getting projection like that is $MVIS what do you say $AAPL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:29:12 </td>
+   <td style="text-align:left;"> $AAPL why short a stock everyone knows that’s just dumb! Market always uptrending you can’t bet against the American economy!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:28:38 </td>
+   <td style="text-align:left;"> $SPY WHAT IF I TOLD U THAT FOR THE PAST 6 TRADING SESSIONS A CRIMINAL BID SPOOFING MANIPULATING CITADEL SCAM ALGORITHM IS MANIPULATING SHARE PRICE, STEALING BILLIONS IN OPTIONS PREMIUM, AND PROPPING MARKETS FOR A MASSIVE CRASH THAT WILL BANKRUPT THE MIDDLE CLASS, ONLY TO ENRICH THE 1%? $QQQ $IWM $AAPL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:27:36 </td>
+   <td style="text-align:left;"> $AAPL https://rumble.com/vrk7op-trump-releases-devastating-new-video-exposing-bidens-total-failure-on-covid.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:22:08 </td>
+   <td style="text-align:left;"> $AAPL 175 before 3 trill </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:16:41 </td>
+   <td style="text-align:left;"> $SPY shorts are hunting the market now, most tickers are cut down to size already, only few juggernauts left supporting indexes, GAME OVER $aapl  $msft $tsla $nvda </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:14:48 </td>
+   <td style="text-align:left;"> $AAPL 3 trillion </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:12:42 </td>
+   <td style="text-align:left;"> $AAPL ➡️LCLP 50% up in 2 days and just the beginning https://drive.google.com/file/d/1ZkjjuQMGsf5sU9LhicQR3rDl0iPK72En/view </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 10:06:07 </td>
+   <td style="text-align:left;"> $AAPL buy more apple stock
+https://shop.robindrip.com/collections/aapl </td>
   </tr>
   <tr>
    <td style="text-align:left;"> AAPL </td>
@@ -4304,17 +4631,6 @@ FOLLOW ME HERE FOR MORE TRADE IDEAS 👈🏻 💎 </td>
    <td style="text-align:left;"> AAPL </td>
    <td style="text-align:left;"> 2021-12-30 09:07:37 </td>
    <td style="text-align:left;"> $QQQ $FB $AAPL https://www.bloomberg.com/news/articles/2021-12-28/apple-pays-unusual-180-000-bonuses-to-retain-engineering-talent </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 09:02:28 </td>
-   <td style="text-align:left;"> Ticker: $AAPL
-Buy: December 31, 2021 $180.00 Calls
-Entry Price: $1.01 - $1.04
-Exit Price: $1.41
-Stop Loss: $0.89
-Potential ROI: 40%
-Estimated Hold Time: 20 Minutes </td>
   </tr>
   <tr>
    <td style="text-align:left;"> AAPL </td>
@@ -5575,375 +5891,926 @@ https://www.youtube.com/watch?v=LZ12BXDRLVc </td>
    <td style="text-align:left;"> $AAPL the shorts are taking it today right up the ……. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:30:08 </td>
-   <td style="text-align:left;"> $CFVI - recommended selling this and buying $DVAX and $AAPL at 10:45am. Did anyone take my advice. DVAX is up about 7% since then while CFVI has been tanking. Not financial advice just trying to make you people stock itch rich! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:30:04 </td>
-   <td style="text-align:left;"> $AAPL 🍏 Oil Mkts, now Closed. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:28:21 </td>
-   <td style="text-align:left;"> $AAPL       🍏 👍 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:27:01 </td>
-   <td style="text-align:left;"> $SPY Bye Bye $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:26:45 </td>
-   <td style="text-align:left;"> $AAPL is it happening? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:26:44 </td>
-   <td style="text-align:left;"> $AAPL damn, looks like another day of everyone being wrong on stocktwits lol.. 
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:14:10 </td>
+   <td style="text-align:left;"> $AAPL $TSLA 
 
-Lot of people said this was going to 182 </td>
+FUTES RIPPING 😆🖕 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:26:33 </td>
-   <td style="text-align:left;"> $AAPL get ready </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:13:12 </td>
+   <td style="text-align:left;"> $SPY $TSLA $RIOT silver to diamond with top lane even tho i havent played in so long </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:21:15 </td>
-   <td style="text-align:left;"> $AAPL such a boring day </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:11:45 </td>
+   <td style="text-align:left;"> $TSLA     Bears are going to suffer.  That&amp;#39;s what I think.   Several back-to back catalysts will occur that will bump the price up several dollars each time. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:20:51 </td>
-   <td style="text-align:left;"> $SPY $AAPL $BA $FB let&amp;#39;s roll! </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:08:17 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2021-12-29 Technical Analysis Video: 
+https://www.youtube.com/watch?v=GMQxgDrix7Q </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:19:45 </td>
-   <td style="text-align:left;"> Can&amp;#39;t beat buy and hold $AAPL! 🍏💰💰💰💰💰💰💰💰💰 
- 
-https://www.ped30.com/2021/12/29/apple-squashed-stock-pickers/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:19:41 </td>
-   <td style="text-align:left;"> $AAPL today fake break down on daily. Instantly reject and then go nowhere. Likely more new lows to follow in coming days. Weak longs stopped, knee jerk shorts enter, probably retreated and flipped long on the strong bounce. Now we have weaker longs, unhappy shorts underwater or at a loss and price flatline. No short termers happy here. And reactive. Not looking for any move to have follow thru. More likely a game of stop out one side then the other over and over until we resolved and that is likely to the downside at least temporarily. A 1-2 day squeeze to new highs before that is possible too. Building power for amove down. Seeing $176 again soon. A gap up tomorrow and run up to $186 would be epic. 😂 Wow this is so incredibly boring. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:19:34 </td>
-   <td style="text-align:left;"> $AAPL 
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:06:31 </td>
+   <td style="text-align:left;"> $TSLA She tweakin bro
 
-Let me go!!!
+https://m.theepochtimes.com/cathie-sells-another-22-million-worth-of-shares-in-tesla-on-tuesday_4182750.html/amp </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:57:50 </td>
+   <td style="text-align:left;"> $TSLA   Lets do a poll....I say we make this a Yogi-free Post. I&amp;#39;m SO tired of hearing and blocking garbage from these fuzz balls.....not to mention having to endure the lamentations of their women.....WINTER IS COMING yogi....long,cold,and bleak.and I pity your sorry hides. Didn&amp;#39;t you get the memo? Elon is going to now skin your sorry hides once and for all....have a HAPPY NEW YEAR. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:56:55 </td>
+   <td style="text-align:left;"> https://www.investing.com/indices/indices-futures  $f $tsla $ccl  $spy $qqq </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:54:01 </td>
+   <td style="text-align:left;"> @GoodieGood $tsla dip into earnings then rip $aapl rip into earnings then dip heard it here first 🥦💨😮‍💨😴✌🏾 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:52:23 </td>
+   <td style="text-align:left;"> $UWMC $FCEL $TSLA $AMC $49,000 a day keeps the 9 to 5 away; Stay patient and the let the trade play out...🚀 https://www.discord.io/rBHacCP </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:50:07 </td>
+   <td style="text-align:left;"> $tsla $f $gm $NKLA $tm https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=newssearch&amp;amp;cd=&amp;amp;ved=2ahUKEwiD_6Kn6Yr1AhVbj4kEHTn-DIEQxfQBKAB6BAgREAI&amp;amp;url=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2021%2F12%2F13%2Fwhy-ford-general-motors-nikola-and-other-auto-stoc%2F&amp;amp;usg=AOvVaw2MhG8qiUXB1vQCvL54duc8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:48:47 </td>
+   <td style="text-align:left;"> https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=newssearch&amp;amp;cd=&amp;amp;ved=2ahUKEwiD_6Kn6Yr1AhVbj4kEHTn-DIEQxfQBKAB6BAgPEAI&amp;amp;url=https%3A%2F%2Fwww.barrons.com%2Farticles%2Fstock-ford-gm-tesla-outlook-51639508218&amp;amp;usg=AOvVaw0yqVmLotxS6Par7SmU32hd $tsla $f $gm </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:48:11 </td>
+   <td style="text-align:left;"> Getting Paid Over $25,000 For My Used Honda! Carvana or Carmax? https://youtu.be/txYxrwQrkYQ $CVNA $KMX $HTZ $CAR $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:43:11 </td>
+   <td style="text-align:left;"> @GoodieGood $tsla I want $1020 retest and the Rip 🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:40:01 </td>
+   <td style="text-align:left;"> $JOBY We are close to 10000 watchers  !!
 
-179.29 and pinned hard </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:19:12 </td>
-   <td style="text-align:left;"> $AAPL I really need Neo &amp;amp; Trinity to beat the shit out of the architect &amp;amp; put the market back right. This top heavy flood into large caps bs is insane </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:18:17 </td>
-   <td style="text-align:left;"> $AMD ↗️ + $XLNX ⏳?
+It’s going to be a great milestone for sure !! The power of retail when stayed together is under estimated 
 
-$TSM | $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:17:51 </td>
-   <td style="text-align:left;"> $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:17:35 </td>
-   <td style="text-align:left;"> $AAPL rebound </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:16:38 </td>
-   <td style="text-align:left;"> $SOFI do you guys think Apple should buy SoFi? $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:16:16 </td>
-   <td style="text-align:left;"> $AAPL Buy it now or Regret later </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:12:11 </td>
-   <td style="text-align:left;"> $AAPL I’m going all in here. This is just too cheap to overlook. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:11:01 </td>
-   <td style="text-align:left;"> $AAPL it’s clear EOD PT will be 179.50 to 180 on green note! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:09:29 </td>
-   <td style="text-align:left;"> $CRO.X $SDC $FB $AAPL $BTC.X @Stocktwits is trying to censor us users too much. The joy of this platform is that users can and should express themselves however they may want to. I&amp;#39;ve known too many users that have been banned from this platform for stupid reasons and I&amp;#39;m under the impression I&amp;#39;m next. Stocktwits, if you&amp;#39;re listening, don&amp;#39;t become like Yahoo and censor your users. Stay the way you are, you beautiful thing you. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:08:48 </td>
-   <td style="text-align:left;"> $VXX $UVXY $SPY $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:07:39 </td>
-   <td style="text-align:left;"> $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:07:37 </td>
-   <td style="text-align:left;"> $AAPL And when Apple joins the party, the bears will REALLY feel it. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:07:12 </td>
-   <td style="text-align:left;"> $AAPL buy some $PIXY and $PBTS $OLB 100 %potential today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:06:12 </td>
-   <td style="text-align:left;"> $AAPL trillions
+$TSLA  meets $UBER is $JOBY 
 
-isnt that quite a lot of moneys?
+Disruption is inevitable </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:38:07 </td>
+   <td style="text-align:left;"> $TSLA ROTFLMAO at the graveyard shift of TESLA bulls and sheeples hard at work, or better yet,hardly working, jawboning long TESLA silliness. The folk that keep on giving  ... thanks 🐂&amp;#39;s for lending 🐻&amp;#39;s your shares to short for profits at your expense. 😉 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:36:58 </td>
+   <td style="text-align:left;"> $TSLA TSLA reallt fuvked me this week down 1.1k and maybe another 300 tomorrow. Holding my contract till 0 I suppose </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:34:30 </td>
+   <td style="text-align:left;"> $TSLA wow, looks like elon and cathie are both in sink these days dumping their bags onto retail fomoing in at the top... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:29:55 </td>
+   <td style="text-align:left;"> $TSLA Run </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:28:39 </td>
+   <td style="text-align:left;"> $DWAC $F $GM $TSLA does it really work??
+https://youtu.be/_W_BWkNl1pU </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:28:30 </td>
+   <td style="text-align:left;"> $PTRA $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:27:04 </td>
+   <td style="text-align:left;"> $SPY $AAPL $TSLA  I have a 2k/day quota that I have to meet day trading with the occasional 10k/day when the market is volatile enough. My daily driver is a Tesla, occasional driver Lamborghini, just moved into a massive new place in NY and I&amp;#39;m single. 
+If I can do it, YOU can do it </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:23:33 </td>
+   <td style="text-align:left;"> $TSLA Futes fucking ripping bears asses in half with these enormous green hulk dicks. Tesla to the fucking moon tomorrow, these WSB pumps never fail when we all get together and yolo money on a gamme squeeze. We can certainly afford it with tesla options. To the moon, to the moon 🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:14:49 </td>
+   <td style="text-align:left;"> $TSLA no catalyst. Flat day. We all lose money. Bear or bull lose money </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:14:33 </td>
+   <td style="text-align:left;"> $TSLA tomorrow 1050 below </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:14:00 </td>
+   <td style="text-align:left;"> $TSLA is currently trading in the upper part of its 52 week range, slightly lagging the index. https://www.chartmill.com/stock/analyzer/stock/TSLA?key=b3fb89e7-ce52-4df4-906a-b4ccaf80eec8&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=TSLA&amp;amp;utm_campaign=social_tracking </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:11:56 </td>
+   <td style="text-align:left;"> $TSLA FUTURES RUPPING LETS GO ALL IN ON SHORT TERM EXPIRY TESLA OPTIONS AGAIN 🚀 🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:10:38 </td>
+   <td style="text-align:left;"> $TSLA I guess it will be another flat day or close slightly lower </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:09:50 </td>
+   <td style="text-align:left;"> $TSLA 
+above 1098 it can see 1125-1140
+below 1059 it can see 995-1005 intraday </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:08:43 </td>
+   <td style="text-align:left;"> $MVIS $DNAY $AMC $TSLA For a limited time,from Xtrades  we are opening our trading chatroom to the public. Get access to chatrooms, stock alerts, option alerts,, portfolios, and more...  https://www.discord.io/rBHacCP </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:07:54 </td>
+   <td style="text-align:left;"> $TSLA GIGA TEXAS🤯👉 https://youtu.be/B5tQ3ktVUOU </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:07:14 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2021-12-29 Options Analysis Video: 
+https://www.youtube.com/watch?v=9i7Q9FtIDeA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 13:02:53 </td>
+   <td style="text-align:left;"> latexed8d9ba3b9fcf689f915d2dab010d4e4 OTM options anyway between 1097 and 1100? NOTHING
 
-heh? </td>
+I had 1400 calls for next week. 
+You best believe i sold at 1097. 
+
+3$ is the difference between a baggie and a profit maker. 
+
+Remember it can be less, or more. But the point is SPTP , see profit take profit. Don&amp;#39;t wait for that nice round even number. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:05:52 </td>
-   <td style="text-align:left;"> $AAPL pump </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:59:46 </td>
+   <td style="text-align:left;"> $TSLA $DOGE.X </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:05:17 </td>
-   <td style="text-align:left;"> If you’re trading this week, Read This! $AAPL in +2.67% Uptrend, growing for three consecutive days on December 27, 2021. View odds for this and other indicators: https://srnk.us/go/3281615 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:57:34 </td>
+   <td style="text-align:left;"> $TSLA , $SPY $49,000 a day keeps the 9 to 5 away; Stay patient and the let the trade play out.. stockplays.livetradeview.net </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:04:35 </td>
-   <td style="text-align:left;"> $AAPL don’t BTD today… </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:56:12 </td>
+   <td style="text-align:left;"> $TSLA halted? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:02:50 </td>
-   <td style="text-align:left;"> Equity Sentiment: $AAPL is the #1 stock that institutions are trading with 32.9K options contracts.
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:54:17 </td>
+   <td style="text-align:left;"> $METX we will have our day ladies and gents $VISL $GME $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:51:23 </td>
+   <td style="text-align:left;"> $ARDX $NVDA $TSLA $SPY For a limited time,from Xtrades  we are opening our trading chatroom to the public. Get access to chatrooms, stock alerts, option alerts,, portfolios, and more...  https://www.discord.io/xEvE2Aatrp </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:51:12 </td>
+   <td style="text-align:left;"> $TSLA  let’s have Elon give a tweet before the year is over and toast the shorts and large hedge funds! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:47:40 </td>
+   <td style="text-align:left;"> $TSLA 
+Everyone tomorrow 🤣🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:46:32 </td>
+   <td style="text-align:left;"> $TSLA Elon has been selling off his shares and putting it all in Petco, incase y’all are wondering why $WOOF is trending rn </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:43:05 </td>
+   <td style="text-align:left;"> $TSLA Tesla Group is made of
+
+Tesla Auto
+The Autopilot by Tesla Auto
+The Boring Company
+Neuralink
+SpaceX
+
+The Boring Company alone is valued $200B
+
+Therefore, Tesla Group is currently undervalued. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:43:02 </td>
+   <td style="text-align:left;"> $TSLA $WKEY “WISeKey announced its IoT Picosatellites WISeSat-1 and WISeSat-2 are tested and ready to launch onboard of SpaceX Falcon 9 in January 2022”
+
+“announced that they have completed the installation of the first ground station that will serve as the control base for the direction of IoT satellites. With this installation, marks the completion of the first phase of the MoU signed earlier this year between the municipality of La Línea and WISekey for the creation of a 4th Industrial Revolution Center of Excellence”
+
+https://www.globenewswire.com/news-release/2021/11/12/2333564/0/en/WISeKey-announced-its-IoT-Picosatellites-WISeSat-1-and-WISeSat-2-are-tested-and-ready-to-launch-onboard-of-SpaceX-Falcon-9-in-January-2022.html
+
+https://llg4ir.com </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:39:47 </td>
+   <td style="text-align:left;"> $TSLA SpaceX&amp;#39;s Starship Orbital Debut Pushed To March As FAA Flooded With Public Comments 
+
+https://newsfilter.io/a/8c104024f218a2d2ba735b0f563db3ee </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:38:31 </td>
+   <td style="text-align:left;"> $TSLA aftee last Friday tho daily movement looks like s huge beartrap bluff... Should have bought Mondays but instead today bought 10!11170c for Jan21 hopefully gain 50~75 % catching the delivery numbers and the er fomo. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:35:21 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2021-12-29 Largest Trades Data: 
+https://www.youtube.com/watch?v=0Aho2hBtUf4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:34:08 </td>
+   <td style="text-align:left;"> $SPCE sorry guys $WOOF is the future. 🚀 $TSLA $AMZN </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:34:04 </td>
+   <td style="text-align:left;"> $AMD 96% bullish.  Chart is very similar to $TSLA , bull run. 
+
+Free discord in bio for real time updates </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:33:55 </td>
+   <td style="text-align:left;"> $TSLA https://www.tesmanian.com/blogs/tesmanian-blog/tesla-model-3-from-hertz-large-order-started-arriving-will-be-rolled-out-to-new-markets-next-year </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:33:18 </td>
+   <td style="text-align:left;"> $TSLA Still undervalued </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:30:54 </td>
+   <td style="text-align:left;"> $TSLA i deposited 25,000$ today on TD but dont have that in my bank account but im day trading with it tmr before it bounces and if i make money do i keep the profits while ach bounces??? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:30:17 </td>
+   <td style="text-align:left;"> $TSLA fu bears </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:29:31 </td>
+   <td style="text-align:left;"> $TSLA in last three days market makers scared shitt out of majority of options buyers and forced them to sell their positions so that they run with their losses also they made bears fall into their trap by giving them a false hope that it may go towards $1000 so far so good the plan of fuckking both side worked out so well. Even in Casino, You play against each other but Casino owner is the one who fuckk both sides </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:28:53 </td>
+   <td style="text-align:left;"> $TSLA Price always does opposite of what I do. I buy Calls, immediately drops once the order fills and keeps going south. Have no worry bulls. If I load up on Puts tomorrow it&amp;#39;s bound to rocket north. 
+
+Guess that&amp;#39;s the game plan tomorrow 🤣 I say this while out drinking captain tonight btw 😁 lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:28:26 </td>
+   <td style="text-align:left;"> $TSLA $$$$$$$$$$$$
+https://www.reuters.com/markets/us/elon-musks-spacex-raises-over-337-mln-fresh-funding-2021-12-29/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:20:45 </td>
+   <td style="text-align:left;"> $TSLA Quiet because I had Elon&amp;#39;s green monster cock in my mouth 🍆🤤🤤 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:16:42 </td>
+   <td style="text-align:left;"> $TSLA another half percent .
+Bs. Lets rip today </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:13:11 </td>
+   <td style="text-align:left;"> $TSLA this thread is very quite tonight, l like it </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:12:11 </td>
+   <td style="text-align:left;"> $TSLA  I AM GOING TO PLAY THE SIDELINES  ON THIS TILL Q4 EARNINGS NEXT MONTH </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:09:12 </td>
+   <td style="text-align:left;"> $TSLA $TQQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:09:05 </td>
+   <td style="text-align:left;"> $TSLA Take it serious or not but my all instincts say that Tesla will hit $1160 by this Friday </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:08:40 </td>
+   <td style="text-align:left;"> $TSLA $TQQQ 
+They are identical </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:06:18 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2021-12-29 Daily Forecast Video: 
+https://www.youtube.com/watch?v=ikdiN8pX3C8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:05:02 </td>
+   <td style="text-align:left;"> $TSLA market closed Friday ? For New Years ? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:03:44 </td>
+   <td style="text-align:left;"> $TSLA Is buying TSLA an IQ test? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:03:02 </td>
+   <td style="text-align:left;"> $UPST $TSLA $AAPL 
+Short selling has become normalized but how much of it is legit/legal?  If you have major hedge funds and institutional investors shorting a stock they obviously have major pull and can pull the stock down.  This is what people mean when they say &amp;quot;market manipulation&amp;quot;.  And the ones doing this have so much power that it&amp;#39;s very unlikely for them to get caught.  I think this will be dealt with behind the scenes as not to affect the market because if the true nature of manipulation was made public it would scare away many retail investors.  Stocks will rise in 2022. Corruption eventually always gets exposed. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 12:02:56 </td>
+   <td style="text-align:left;"> $ILUS IN TALKS WITH $TSLA !! AMAZING NEWS!
+
+https://youtu.be/iw0LndRBZIM </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:58:45 </td>
+   <td style="text-align:left;"> $TSLA 
+
+Elon Musk&amp;#39;s SpaceX raises over $337 mln in fresh funding
+
+🙏🏻🐉🦅
+
+https://www.reuters.com/markets/us/elon-musks-spacex-raises-over-337-mln-fresh-funding-2021-12-29/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:57:23 </td>
+   <td style="text-align:left;"> $FTK We have a buyer in the house! An American company for sale. Who wouldn&amp;#39;t want to take part? $SPY $TSLA 
+
+1.11$ so far 
+
+(NYSE: FTK) has received an unsolicited indication of interest for a potential transaction for all or part of the Company. To assist in evaluating this unsolicited indication of interest, Flotek&amp;#39;s Board of Directors has engaged Piper Sandler &amp;amp; Co. (&amp;quot;Piper Sandler&amp;quot;) as a financial advisor to assist with the evaluation process. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:56:21 </td>
+   <td style="text-align:left;"> $NKLA $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:52:12 </td>
+   <td style="text-align:left;"> $IPOF Chammy sold his entire $TSLA position to buy a jet…no very eco friendly. Why would Elon give him Starlink or SpaceX. Only shitty companies go SPAC and Elon’s companies are neither. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:51:44 </td>
+   <td style="text-align:left;"> McClellan Oscillator: The Best Market Timing Indicator?
+
+$TSLA $MRNA $AAPL $FUBO $GME 
+
+https://www.chartlearning.com/2021/11/what-is-the-mcclellan-oscillator-indicator.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:51:16 </td>
+   <td style="text-align:left;"> $TSLA honestly, I don’t blame it if it bleeds tmmr. However, I would like to see another run or a pp touch @1098.
+
+If it can’t surpass it, buy them poooots </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:50:27 </td>
+   <td style="text-align:left;"> $TSLA moving sideways eating premium all week this will </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:48:58 </td>
+   <td style="text-align:left;"> $TSLA good read! Let’s see what this window dressing does tomorrow and after tomorrow 😎 https://www.investopedia.com/terms/w/windowdressing.asp </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:47:44 </td>
+   <td style="text-align:left;"> $TSLA Red to Green move:  -2.24%  to +0.07% https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan&amp;amp;type=redtogreenDaily </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:47:32 </td>
+   <td style="text-align:left;"> $TSLA Are sales and profits up after 4th Quarter 2021 in comparison with 2020 ? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:46:31 </td>
+   <td style="text-align:left;"> $TSLA aww down she goes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:46:19 </td>
+   <td style="text-align:left;"> $TSLA rip grichka the legend </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:46:07 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:44:54 </td>
+   <td style="text-align:left;"> $TSLA best in the world!
+
+https://www.freep.com/story/money/cars/mark-phelan/2021/12/29/2022-lucid-air-care-electric-vehicle-luxury-sedan-review-price/9016627002/?gnt-cfr=1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:43:52 </td>
+   <td style="text-align:left;"> $TSLA breaks out tomorrow! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:42:23 </td>
+   <td style="text-align:left;"> $TSLA 
+
+Bulls are Mammals.
+
+Bears are Fungus.
+
+. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:40:21 </td>
+   <td style="text-align:left;"> $TSLA too bullish in here. 
+
+A good sign for my puts. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:39:16 </td>
+   <td style="text-align:left;"> $TSLA 
+
+Apples and Oranges
+~~~~~~~~~~~~~~~~~
+
+https://m.facebook.com/story.php?story_fbid=1667505413599561&amp;amp;id=395068240843291&amp;amp;fs=1&amp;amp;focus_composer=0&amp;amp;m_entstream_source=feed_mobile
+
+.
+. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:38:48 </td>
+   <td style="text-align:left;"> Tesla (TSLA) CEO Elon Musk sold another $1.02B in common stock. $TSLA.
+https://www.tiktok.com/@stockcryptotok </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:35:10 </td>
+   <td style="text-align:left;"> $TSLA Damn.  Cathie in sync with Elon.  😅🤣😂😆🤪😁💲💰💲💰 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:34:48 </td>
+   <td style="text-align:left;"> $TSLA the condition they deliver some cars in is funny as hell. 😂 doesn’t seem to stop anyone from buying them though, I suppose a cult can be a business. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:34:44 </td>
+   <td style="text-align:left;"> $TSLA bottom catching </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:34:40 </td>
+   <td style="text-align:left;"> Cathie Wood&amp;#39;s ARK Investment sold 27.9K shares of Tesla today. $TSLA.
+https://www.tiktok.com/@stockcryptotok </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:34:19 </td>
+   <td style="text-align:left;"> Equity Sentiment: $TSLA is the #3 stock that institutions are trading with 26.0K options contracts.
 
 Market analysis included in screenshot of dashboard from http://insiderfinance.io. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:02:27 </td>
-   <td style="text-align:left;"> $AAPL are there any upcoming meetings, releases etc? We need some good news so to go over 180. </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:33:49 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2021-12-29 Dark Pool &amp;amp; Short Interest Data: 
+https://www.youtube.com/watch?v=uy2ic7uRIdA </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:02:20 </td>
-   <td style="text-align:left;"> $AAPL sideways smh </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:32:38 </td>
+   <td style="text-align:left;"> $TSLA may crack level 4 autonomy this year. The best real-world functioning AI in the world. Long-term, the bot division  may surpass auto production. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:00:38 </td>
-   <td style="text-align:left;"> $AAPL $NAKD $AMZN Another PERFECT day for our ALERTS!
-Are you ready for the next alert play? </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:31:46 </td>
+   <td style="text-align:left;"> $TSLA I just rode in a 2020 Model 3 Performance. Fastest car I ever have been in. Torque is mind blowing. New update is amazing. It&amp;#39;s Game Over. Buying more TSLA tomorrow. $GM and $F. $SPY </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:59:59 </td>
-   <td style="text-align:left;"> $AAPL early power hour starts today at 2 PM EST </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:31:42 </td>
+   <td style="text-align:left;"> $TSLA uh oh..... </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:59:34 </td>
-   <td style="text-align:left;"> $QQQ Prior ATH tested and held... 
- 
-$TSLA $AMZN $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:58:18 </td>
-   <td style="text-align:left;"> $AAPL $SPY I take that back. When I read 12 of the 20 stores were closed due to staffing shortages, I didn&amp;#39;t think curbside would still be available. You know, due to staffing shortages. 
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:24:31 </td>
+   <td style="text-align:left;"> $TSLA for Christmas, New Year and all there after🇺🇸😎🍾🍾
 
-I was wrong. Shouldn&amp;#39;t have assumed. </td>
+https://media0.giphy.com/media/QT4ecsgzl8s7ALZQsX/giphy.gif?cid=5e2148861a956387ca31b77bc3d88ecfacbc26b7a6751dd3&amp;amp;rid=giphy.gif&amp;amp;ct=g </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:57:34 </td>
-   <td style="text-align:left;"> $AAPL 
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:22:35 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:21:17 </td>
+   <td style="text-align:left;"> $AABB latex0f9d564db5d008c4ad116a87af112b05BBIO
+$BFRI </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:17:22 </td>
+   <td style="text-align:left;"> $TSLA love seeing it stay up all week, it’s going to the moon after the 1st </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:15:05 </td>
+   <td style="text-align:left;"> $AABB $SPY $TSLA $AAPL $MSFT New Exchange and massive paid bashing! You know what that means 1000% </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:13:00 </td>
+   <td style="text-align:left;"> Looking at the yearly performance, $TSLA did better than 93% of all other stocks. https://www.chartmill.com/stock/quote/TSLA/technical-analysis?key=b3fb89e7-ce52-4df4-906a-b4ccaf80eec8&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=TSLA&amp;amp;utm_campaign=social_tracking </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:12:54 </td>
+   <td style="text-align:left;"> $VLN $DDAIF $F $TSLA $RIVN $INDI 
 
-Run Forrest Run </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:57:00 </td>
-   <td style="text-align:left;"> The Piotroski-F score of $AAPL is 7.00. This indicates good health for $AAPL. https://www.chartmill.com/stock/analyzer/stock/AAPL?view=fundamental-analysis&amp;amp;key=bb853040-a4ac-41c6-b549-d218d2f21b32&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=FA&amp;amp;utm_content=AAPL&amp;amp;utm_campaign=social_tracking </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:53:47 </td>
-   <td style="text-align:left;"> $SPY $TSLA $AAPL Crab Walk! I don&amp;#39;t even understand how my crab talk </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:51:49 </td>
-   <td style="text-align:left;"> $AAPL cmon baby gurl. Break $179.6 and run up to $180+ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:49:01 </td>
-   <td style="text-align:left;"> $SPY $AAPL lol I&amp;#39;m not exactly a rocket scientist but can someone smarter than me explain how you can order online and pick up in stores in NYC when 20 stores are CLOSED?
+Doing some DD on VLN . I know a couple months old .. any idea on truck they could be referencing? @ 
 
-Reply of the year candidate here imo </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:47:51 </td>
-   <td style="text-align:left;"> $AAPL 
+https://m.calcalistech.com/Article.aspx?guid=3913730
 
-2022 AAPL Plan in Play
+We are in Mercedes and we have another deal in trucks, we will soon announce a product that does not exist in any truck and it is a game changer for the driver.&amp;quot;
 
-More Apple TV+ shows
-Metaverse AR / VR product release
-IPhone SE 5G
-IPhone 14 eSIM card
+@_HCMC_MoneyTeam_GNCP_ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:11:20 </td>
+   <td style="text-align:left;"> $TSLA $NIO $RIVN https://youtu.be/4KvroPV1zY8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:10:47 </td>
+   <td style="text-align:left;"> $TSLA $NVDA amazing year for these two large cap. Expecting eoy performance rally. Holding calls. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:09:05 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:08:17 </td>
+   <td style="text-align:left;"> $TSLA 🚀🚀🚀😩😩🔥🔥🤪🤪✅ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:07:47 </td>
+   <td style="text-align:left;"> $F $TSLA Ford Bags Large Mustang Mach-E Order From NYC, With Tesla Also In The Fray 
 
-Potential Surprises
-Apple Bitcoin
-Apple Car Partnerships
+https://newsfilter.io/a/161946949cc1f0a3a5b6ec5a1558ab52 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:07:31 </td>
+   <td style="text-align:left;"> $TSLA oh sheet! 40% down on the South African Exchange!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:05:56 </td>
+   <td style="text-align:left;"> $TSLA I&amp;#39;m honestly surprised by the amount of misinformation and flawed reasoning that the bears have on this board. Some bulls too. But mostly the bears. For example, they take one piece of information, that Elon sold shares, and conclude that he&amp;#39;s &amp;quot;dumping&amp;quot; because he doesn&amp;#39;t believe in TSLA anymore. Really? They don&amp;#39;t understand that he&amp;#39;s actually &amp;quot;cash poor&amp;quot; and had no choice to sell shares, because he needed to pay taxes on his options, which are expiring next year. That&amp;#39;s public information. But they don&amp;#39;t get it. Either they&amp;#39;re too stupid, or they actually do understand but are intentionally twisting the truth for their own gain. Not sure which is worse... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:05:47 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:05:19 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2021-12-29 Technical Analysis Video: 
+https://www.youtube.com/watch?v=GMQxgDrix7Q </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:05:16 </td>
+   <td style="text-align:left;"> $TSLA next target is $1142 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:04:43 </td>
+   <td style="text-align:left;"> $TSLA this stocktraderhub is an idiot what is cathie woods down for the year about 25 percent loss in 2021 for her ark fund, previous year up 180 percent did it with tesla stock, paired out of tesla in 2021 for various reasons now losing her ass </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:04:26 </td>
+   <td style="text-align:left;"> Top Sell Flow Money - 12.29.2021 - $AAPL $TSLA $IEF $FXI via Super Stocks App </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:04:13 </td>
+   <td style="text-align:left;"> $TSLA Wow the days before the first stock split &amp;amp; S&amp;amp;P inclusion were announced </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:03:05 </td>
+   <td style="text-align:left;"> $TSLA  Anyone knows the source of this predective tsla chart? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 11:02:41 </td>
+   <td style="text-align:left;"> $TSLA getting close to me weekly $1175 yolo </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:59:10 </td>
+   <td style="text-align:left;"> $TSLA watching for flag break to see 1131+
 
-Think about it 
+Link in bio for free discord where i provide daily and pre mkt analysis with price targets. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:58:36 </td>
+   <td style="text-align:left;"> $TSLA Tesla delivery Jan 3rd..get in before then!! Just saying! ;) It&amp;#39;s going to the moon! This is Tesla&amp;#39;s year. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:54:31 </td>
+   <td style="text-align:left;"> $TQQQ $TSLA $NVDA fut need to make up their mind.. and FeD need to stop pumping this 5#i7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:50:27 </td>
+   <td style="text-align:left;"> $TSLA technical analysis for tomorrow
 
-One of the possibilities coming out will help power this stock pass 200
+https://youtu.be/l8y33AH7QTE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:49:49 </td>
+   <td style="text-align:left;"> Thursday Watchlist Part 5: 🚀
 
-Think about it!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:47:19 </td>
-   <td style="text-align:left;"> $AAPL  🍏  Will TSLA make a surprising Announcement soon, now that Elon Musk has “exercised All Stock Options”?  Was there a reason, Elon waited to exercise these Options right up until New Year’s Eve came knocking?  There is “Buzz”.  Will AAPL Shareholders be delighted?  Depends, on whether the “Buzz”, turns out to be fact or folly. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:47:02 </td>
-   <td style="text-align:left;"> $AAPL MM trapping fools all day today…. But but but we’re going to 3T, shit not until after earnings! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:45:29 </td>
-   <td style="text-align:left;"> $AAPL I don’t like you </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:44:25 </td>
-   <td style="text-align:left;"> $AAPL 2% pump by Friday for $3T market cap </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:42:15 </td>
-   <td style="text-align:left;"> $AAPL 
+1) $ISIG
+2) $SPY
+3) $TSLA
+4) $SNDL
+5) $ENSC 
 
-I keep loving that people are starting to forget about magic walls are fading ..
+There Will Be More Huge Runners Coming. 🤫💯🔥🦍 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:49:42 </td>
+   <td style="text-align:left;"> $DCRN spac target Tritium is the only $TSLA Supercharger competitor. $F EVs will rely on this international infrastructure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:44:54 </td>
+   <td style="text-align:left;"> $BTC.X Since this and $TSLA are joined at the hip, is this bringing TSLA down or the other way around?  Hmmmm.... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:42:12 </td>
+   <td style="text-align:left;"> $TSLA I just saw hood raised the margin requirement from low to med and increased from 25% to 35% maintenance…when I see this it was Feb/March this year…I hope these mofos don’t take our share again…expecting pains ahead but am bullish AF..I ll sell my rollover IRA to fund my margin even </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:41:49 </td>
+   <td style="text-align:left;"> $TSLA Literally all of smart money CEO included! Are dumping tesla and the bulls are eating it up, it&amp;#39;s wild really. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:40:45 </td>
+   <td style="text-align:left;"> 🚨 ARK LATEST TRADES 🚨 :
 
-It will be hell of fun ride soon </td>
+$TDOC - $TSLA - $VRTX - $XPEV - $BLDE 💰 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:40:02 </td>
-   <td style="text-align:left;"> $AAPL $184. By Friday </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:40:31 </td>
+   <td style="text-align:left;"> $TSLA strong hold on highs past 2 days , will buy risking 1080 , thinking $TSLA will close all time highs or around 1200 next 2 days </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:38:39 </td>
-   <td style="text-align:left;"> Just remember folks, if you Buy $DWAC the machines &amp;amp; space lasers are redirecting  your Buys to $aapl </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:36:13 </td>
-   <td style="text-align:left;"> $SDIG take your dough to here! $BTC.X $RIOT $TSLA $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:35:16 </td>
-   <td style="text-align:left;"> $AAPL NEW ARTICLE : ProShares Wants to Launch a Metaverse ETF. Here&amp;#39;s What You Should Know. https://www.stck.pro/news/AAPL/20545087 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:35:04 </td>
-   <td style="text-align:left;"> $AAPL let&amp;#39;s go baby girl!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:33:31 </td>
-   <td style="text-align:left;"> $AAPL uh oh;) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:33:21 </td>
-   <td style="text-align:left;"> $AAPL         🍏  The VIX: </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:32:21 </td>
-   <td style="text-align:left;"> $AAPL should i buy shares right now? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:29:20 </td>
-   <td style="text-align:left;"> $AMZN $SPY $F $TSLA $AAPL
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:40:22 </td>
+   <td style="text-align:left;"> 🚀Watchlist for Thursday #4:
+1) $EFOI (Gapper potential)
+2) $TSLA (TL resistance rejection)
+3) $SPY (Holding highs still)
+4) $NRXP (Wedge forming)
+5) $NEW (Vwap break can see next leg)
 
-Apple $3T
-Ford valuable than GM 
-Tesla car maker is $1.2T
-Apple all time highs 😂😂 every say
-SPY became a penny stock 
-AMC moved from bankruptcy to free cash
-hertz has cash and ordered 100K teslas 🤫
-Amazon still the same. I feel I have a memory loss as I see almost same
-Levels since a year a compared to most pumped  stocks above
-FB all time high. Everyone became expert in Metaverse solving world
-Problems already 
-
-2022 Not gonna be like 2021/2020..
-Short term might see small pump in markets but gonna be a bear market until 1st rate increase and certainly after Q4 results in JANUARY. Tesla will be pumped even if Elon farts 😂 .
-
-FEB :
-SPY 430 ish Tesla if there is no Split $900 FB $270  Apple 140+
-
-NO JPOW papa involvement is good for the country. We are about to see how real markets will behave by 2022 summer. This bubble needs correction. Gonna buy puts at the close for FEB and forget about it and as well as DT. </td>
+Congrats if you banked today on CPOP $2.86-3.50 (22% daytrade✅) I gave out bangers early everyday🧨🤑🔮More coming! </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:28:30 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TSLA $AAPL $SPX 
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:39:05 </td>
+   <td style="text-align:left;"> $TSLA zzz. Cathie wood is still selling tesla. Didnt she say tesla is the best and she will only sell tesla when it reaches her goal of 7k? What a hypocrite. To make things worse. She is selling tesla and deploying the money to buy chinese ev xpeng 🤦‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:38:52 </td>
+   <td style="text-align:left;"> $TSLA tomorrow we pop, just because last 2 days looked like it was going to rally and drop !! , tesla rarely make any sense </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:38:36 </td>
+   <td style="text-align:left;"> Tesla Motors&amp;#39;s SVP Powertrain and Energy Eng. just cashed-in 3,500 options  https://www.conferencecalltranscripts.com/summary/?id=10272968 $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:37:26 </td>
+   <td style="text-align:left;"> AMD Ryzen And 12V Li-Ion Battery Spotted In New Model 3/Y In US $amd $tsla $nvda $soxx $smh  https://insideevs.com/news/557722/amd-12v-liion-model3y-us/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:35:21 </td>
+   <td style="text-align:left;"> $TSLA gonna be honest, this is going down tomorrow… long and strong though </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:34:30 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2021-12-29 Daily Forecast Video: 
+https://www.youtube.com/watch?v=ikdiN8pX3C8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:33:50 </td>
+   <td style="text-align:left;"> $TSLA 
 
-going out on a limb here, 
+Imagine treating every FLU 😷 case as a COVID case ?!! Or every COVID case as FLU 😷 case — what ?! !!! is there a difference  ! 
 
-buying puts was the wrong idea once again </td>
+🙏🏻🐉🦅 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:28:22 </td>
-   <td style="text-align:left;"> latex81a9420fdc13045695157c3081bfade4NVDA 363k (66% call/34% put)
-$MU 317k (85% call/15% put) </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:31:51 </td>
+   <td style="text-align:left;"> $TSLA more insiders dumping. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:24:58 </td>
-   <td style="text-align:left;"> $AAPL $$$$ </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:29:49 </td>
+   <td style="text-align:left;"> $TSLA 📜 SEC Form 4: Baglino Andrew D exercised 3,500 shares at a strike of $62.72 and sold $3,755,500 worth of shares (3,500 units at $1,073.00) as part of a pre-agreed trading plan
+
+https://quantisnow.com/insight/2194064?s=s
+
+45 seconds delayed. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 02:23:20 </td>
-   <td style="text-align:left;"> $aapl $msft $xlk https://www.youtube.com/watch?v=1jnfZaEyseE </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:29:20 </td>
+   <td style="text-align:left;"> Insider Andrew D Baglino reports selling 3,500 shares of $TSLA for a total cost of $3,755,500.00 https://fintel.io/n/us/tsla/baglino-andrew-d?utm_source=stocktwits.com&amp;amp;utm_medium=Referral&amp;amp;utm_campaign=insider </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:29:17 </td>
+   <td style="text-align:left;"> $TSLA [15s. delayed] filed SEC form 4: SVP Powertrain and Energy Eng. Baglino Andrew D: 
+Disposed 3,500 of Common Stock at price $1,073 an https://s.flashalert.me/Al5zn </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:28:44 </td>
+   <td style="text-align:left;"> $TSLA $3,535,980.00 of shares sold by Baglino Andrew D (SVP Powertrain and Energy Eng.), reported in a new form 4 filed with the SEC  
+
+https://newsfilter.io/a/3ef08100b572c526a4bc2bb1837d09d5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:24:50 </td>
+   <td style="text-align:left;"> $TSLA tomorrow will break out, 3 days at top of bearish trend line on the daily. If the market is even decent I&amp;#39;m looking for a jump </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:24:08 </td>
+   <td style="text-align:left;"> $arkk $arkg $tsla — Samsung buying … Biogen?   
+ https://news.yahoo.com/samsung-talks-buy-biogen-42-225844053.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:22:24 </td>
+   <td style="text-align:left;"> $TSLA Asian Fomo </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:21:41 </td>
+   <td style="text-align:left;"> $TSLA how’s is looking tmr shit </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:20:53 </td>
+   <td style="text-align:left;"> $TSLA 1020 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:18:48 </td>
+   <td style="text-align:left;"> $TSLA en always pull the trigger to early on calls need to wait till about 11 lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:17:22 </td>
+   <td style="text-align:left;"> $TSLA headed to $10T </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:16:41 </td>
+   <td style="text-align:left;"> $SPY shorts are hunting the market now, most tickers are cut down to size already, only few juggernauts left supporting indexes, GAME OVER $aapl  $msft $tsla $nvda </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:15:52 </td>
+   <td style="text-align:left;"> $TSLA ➡️LCLP 💎 up 50% 🚨in 2 days and just the beginning! Imagine just putting one Tesla share into LCLP and letting it sit 🚀! DD Package below https://drive.google.com/file/d/1ZkjjuQMGsf5sU9LhicQR3rDl0iPK72En/view </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:13:56 </td>
+   <td style="text-align:left;"> $TSLA  😂 people on here are funny . Elon pays 8 billion in capital gain taxes from the sale of his Tesla shares. Hedge funds are dumping shares all of them 🤣 as they take your money . Who sales that much if they think it&amp;#39;s going higher ?  But ya buy more fan boys. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:13:42 </td>
+   <td style="text-align:left;"> $TSLA Asian markets doing good </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:12:22 </td>
+   <td style="text-align:left;"> $TSLA TIMBER!!!! Another ominous sign for tomorrow. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:11:46 </td>
+   <td style="text-align:left;"> $TSLA 1124.87 eod tomorrow 🥃🎆🎇🎆🎇🎉🎆🎆🎆🎆🎇🎇🎇🎉🎉🎉 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:10:57 </td>
+   <td style="text-align:left;"> $TSLA Likes to put in these 7-9 day consolidations at levels of resistance....But which way will it break?  Prior examples this year were during an overall larger period of consolidation and price suppression.  If we&amp;#39;re in the middle of an overall larger expansion, these smaller consolidations might tend towards breaking higher.  Just a though. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:09:30 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 10:06:28 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2021-12-29 Largest Trades Data: 
+https://www.youtube.com/watch?v=0Aho2hBtUf4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
@@ -6204,17 +7071,6 @@ $TSLA is a Ponzi fraud </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 09:11:37 </td>
-   <td style="text-align:left;"> Ticker: $TSLA
-Buy: December 31, 2021 $1090.00 Calls
-Entry Price: $14.85 - $14.95
-Exit Price: $16.78
-Stop Loss: $13.07
-Potential ROI: 13%
-Estimated Hold Time: 22 Minutes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
    <td style="text-align:left;"> 2021-12-30 09:10:43 </td>
    <td style="text-align:left;"> $TSLA The Shorts were out in force in after hours.  Usually they mask their after hours trading with neutral buys.  Tonight they straight up bought in.  Not one green fill in after hours.  The final fill price not included was $1078. </td>
   </tr>
@@ -6251,11 +7107,6 @@ CW continues to unload Tesla although her fund is way underweight!
    <td style="text-align:left;"> TSLA </td>
    <td style="text-align:left;"> 2021-12-30 09:07:25 </td>
    <td style="text-align:left;"> $TSLA  Elon Musk is currently in Shanghai China at the giga-factory where every 38 seconds a  tesla  Model Y  leaves the plant - He is also going to announce a 2nd Giga factory to double the 1 million cars sold this year ( China sales ) and will be using China as an export hub -   GLTA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 09:06:55 </td>
-   <td style="text-align:left;"> $TSLA ppl said this would do 10% today lewl </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
@@ -6745,918 +7596,6 @@ For 2 days now </td>
    <td style="text-align:left;"> TSLA </td>
    <td style="text-align:left;"> 2021-12-30 08:05:30 </td>
    <td style="text-align:left;"> $TSLA We need a green day tomorrow. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:05:22 </td>
-   <td style="text-align:left;"> $TSLA touching the 1 min 5 min 15 min 30 min and 1 hr buy trigger just has to move a hair to trigger them all 🤞🏼 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:04:46 </td>
-   <td style="text-align:left;"> Public service announcement for bulls and sheeples jawboning self serving nonsense at $f $tsla $ccl  ... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:02:56 </td>
-   <td style="text-align:left;"> Welcome to Crash Thursday https://www.investing.com/indices/indices-futures 😈
-I covered my short $ccl at a loss Tuesday, no matter on that trade, made a lot of money on recent short CCL trades, unbelievable CCL has not sold of hard, what a scam it came sonclose to 19s only to rally higher.  Yesterday pist CCL I went short TESLA Wednesday and covered for profits, thereafter short FORD which is ridiculously overpriced in tandem with lots of negative news re driveshaft recalls, et al https://www.google.com/search?q=ford+motor+company+news+f&amp;amp;client=tablet-android-samsung-rev2&amp;amp;biw=1262&amp;amp;bih=652&amp;amp;tbs=qdr%3Ad&amp;amp;tbm=nws&amp;amp;ei=YPXMYdm3DsG3tQa9sJWACA&amp;amp;ved=0ahUKEwjZ547Zmor1AhXBW80KHT1YBYAQ4dUDCA0&amp;amp;uact=5&amp;amp;oq=ford+motor+company+news+f&amp;amp;gs_lcp=Cgxnd3Mtd2l6LW5ld3MQAzIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB46BAgAEEM6BQgAEIAEUPEHWNMKYNETaABwAHgAgAFYiAH5AZIBATOYAQCgAQHAAQE&amp;amp;sclient=gws-wiz-news  Biden is a joke mandating EVs, get over it, Karen, mandate vaccines.  EVs represent a very small percentage of vehicle sales.  Furthermore we have an Armageddon Depression in queue in tandem with many other socioeconomic concerns including an income stock market crash. Carry on sticking forks in the stock markets and bitcoin at large for profits. Good health and trading to all.  Thank dog that I am here to help @Profit_Maker https://stocktwits.com/Profit_Maker 💀😈☠🐻✔ $f $tsla $ccl $spy $qqq and more 👍 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:01:21 </td>
-   <td style="text-align:left;"> $TSLA 1125 tomorrow because I said so </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:00:55 </td>
-   <td style="text-align:left;"> $TSLA let&amp;#39;s not forget about the trickles. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:00:41 </td>
-   <td style="text-align:left;"> $TSLA 
-
-I just want to get this out of my chest as we exit 2021 knowing that Tesla is a mega cap S&amp;amp;P 500 included security with all privileges being held by top Funds &amp;amp; Passive ones “at maintain” specified percentage determined by the “Index” and supervised by the “Committee” during a process called balancing every Q ! 
-
-As we wrap up Q4 tomorrow- last trading day, I can say for certain based on my own calculations, these funds are massively underweight Tesla and NOT in compliance !! 
-
-I challenge the committee to enforce the rules set by the index as I challenge SEC to enforce the rules set by the DOJ I also challenge all our representatives who were elected by the very  Democratic process that gives them the power for balance and justice to enforce or the entire system is deemed dead and time for “Direct Democracy” with no special interests bought representatives !! 
-
-BigNews
-🙏🏻🐉🦅 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:00:11 </td>
-   <td style="text-align:left;"> These 3 Insider Trading insights were important today:
-
-1. $ARDX 📜 SEC Form SC 13D/A filed by Ardelyx, Inc. (Amendment): https://quantisnow.com/insight/2193879?s=qnps
-2. $IDEX 📜 SEC Form SC 13D/A filed by Ideanomics, Inc. (Amendment): https://quantisnow.com/insight/2193661?s=qnps
-3. $TSLA 📜 SEC Form 4: Musk Elon exercised 1,554,176 shares at a strike of $6.24 and sold $1,007,908,791 worth of shares (923,435 units at $1,091.48) (for withholding tax): https://quantisnow.com/insight/2189686?s=qnps </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:59:31 </td>
-   <td style="text-align:left;"> $TSLA Bulls... huddle up!!! It&amp;#39;s OK. We know they pin and do illegal crap all day long to the TSLA machine. But you know what? Delivery numbers and ER are right around the corner!!! We got this!!! Time is ticking!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:58:53 </td>
-   <td style="text-align:left;"> The market is still in no competition with $TSLA $AAPL 🙏🏾. Stocks only go up and down 💪🏾 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:58:17 </td>
-   <td style="text-align:left;"> $NAKD 
-
-Join us
-
-$gme $amc $koss $tsla </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:58:07 </td>
-   <td style="text-align:left;"> Sweep Options Activity: $TSLA is the #3 ticker with sweep activity where institutions are trading options urgently with 24.9K sweep contracts, a leading indicator of market movement.
-
-Market analysis and options contracts included in screenshot of dashboard from http://insiderfinance.io. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:55:39 </td>
-   <td style="text-align:left;"> $TSLA &amp;quot;... THIS RULE 10B5-1 TRADING PLAN WAS COMPLETED ON DECEMBER 28, 2021.&amp;quot; </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:55:09 </td>
-   <td style="text-align:left;"> $TSLA erma gerd
- https://www.reddit.com/r/Epic_Economics/comments/rrmnmw/no_cash_for_new_years/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:54:38 </td>
-   <td style="text-align:left;"> $TSLA everyone was so sure this would go up today. market is never that easy. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:54:29 </td>
-   <td style="text-align:left;"> $TSLA haha Elon says he has more shares to sell tomorrow 🤣🤣🤣 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:53:57 </td>
-   <td style="text-align:left;"> $TSLA ummm WeBull spazzing again?? 👀👀🤔 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:52:32 </td>
-   <td style="text-align:left;"> $SPY messi vs Ronaldo $tsla </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:51:45 </td>
-   <td style="text-align:left;"> $TSLA Unfortunately, Failed to make new weekly high.
-Wait for tomorrow daily candle to short or put!
-We can see latex59de13dc70bce6d4c0389ae74dabc80cBABA - 72% call flow
-$MU - 93% call flow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:47:22 </td>
-   <td style="text-align:left;"> $TSLA Where’s all the Elon selling posts with calculations of how much is left? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:47:18 </td>
-   <td style="text-align:left;"> $TSLA just tweet Elon that you are really done!!!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:47:02 </td>
-   <td style="text-align:left;"> $TSLA analyst call 1800$ on target 
-
-https://finance.yahoo.com/news/why-tesla-stock-may-be-headed-to-1800-analyst-170246746.html </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:46:25 </td>
-   <td style="text-align:left;"> $TSLA big day tomm.. Elon done selling. Fomo bout to kick in </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:44:59 </td>
-   <td style="text-align:left;"> $TSLA  I am swinging a PUT here to see what happens.. good rejection of 1,119 trend line…. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:43:50 </td>
-   <td style="text-align:left;"> “Partnered with @Microsoft $MSFT to create Group Text the World. 
-Check it out and share something you are hoping for or something you are resolved to change ❤️📝 #nextyear
-
-#PumpTheJuice always and often ✌🏽
-
-nextyear.macklemore.com
-$AMD ↗️ + $XLNX
-
- $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:43:04 </td>
-   <td style="text-align:left;"> $TSLA NEWS - TSLA Elon Sells Shares To Reduce His Stake: 
-https://www.youtube.com/watch?v=13Kn0gGQ_eE </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:42:08 </td>
-   <td style="text-align:left;"> $TSLA roll your calls </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:41:48 </td>
-   <td style="text-align:left;"> $TSLA $F Plaid vs. Shelby GT500
-Can&amp;#39;t deny I like the growl of the Mustang, though. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:39:28 </td>
-   <td style="text-align:left;"> Unusual Options Activity: $TSLA is the #27 ticker with unusual activity from institutional traders with an average of 13% out of the money, a leading indicator of market movement.
-
-Market analysis and options contracts included in screenshot of dashboard from http://insiderfinance.io. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:39:03 </td>
-   <td style="text-align:left;"> $TSLA BUT!!! We had a great bull party last night!
-At least we had a lot of joy!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:38:45 </td>
-   <td style="text-align:left;"> $TSLA I give up on this </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:36:05 </td>
-   <td style="text-align:left;"> $GGPI  i think tax loss sell happened today and AH but this is  now oversold areas(merge announcement date  pop).. I plan to double the position if I see another fast dip.. it is spac so $10 floor ; less risk .. $rivn still over price with $tsla and i like $nio $lcid too </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:34:51 </td>
-   <td style="text-align:left;"> $TSLA sitting on my hands rest of week. Still holding few calls paid for with house money. Will let ‘em burn to ground before I come off em. Price action is just aggravating.  MM in full control since yesterday. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:34:08 </td>
-   <td style="text-align:left;"> $TSLA If this isn’t rock 🪨 bottom
-I’m not sure what is; That Bull Flag has me bullish 🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:34:03 </td>
-   <td style="text-align:left;"> $TSLA New York City gets green light to purchase up to 250 Tesla Model 3s for NYPD - Drive Tesla https://driveteslacanada.ca/model-3/new-york-city-gets-green-light-to-purchase-up-to-250-tesla-model-3s-for-nypd/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:33:20 </td>
-   <td style="text-align:left;"> $TSLA Going to just wait for major zones since we’re in the chop currently. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:33:14 </td>
-   <td style="text-align:left;"> $TSLA next 2 days tant gonna be pretty. hang on!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:33:13 </td>
-   <td style="text-align:left;"> $TSLA Low key 🔑 feel like we got played </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:33:06 </td>
-   <td style="text-align:left;"> $TSLA nothing can bring tesla down they’ve been shorting us since ipo And we overcame. 2T by eoy 2022 and we will overtake $AAPL by 2023 .  Fuck the haters 🦍 in elon mush we trust </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:32:35 </td>
-   <td style="text-align:left;"> $SPY giving money to the poor only enrich us the rich
-
-We should promote higher minimum wage and more payout
-
-Im not an economist on a paycheck, I&amp;#39;m a millionaire holding million in stocks
-Perhaps economist is wrong and im right, because im richer than them 
-
-$tsla </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:31:31 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:30:55 </td>
-   <td style="text-align:left;"> $TSLA this should hit 1050 tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:30:14 </td>
-   <td style="text-align:left;"> $TSLA Yep </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:28:47 </td>
-   <td style="text-align:left;"> $TSLA gonna leave this here. I said this almost two weeks ago almost the exact same situation. Let’s see if history repeats…👀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:27:16 </td>
-   <td style="text-align:left;"> $TSLA 2 red days, should be green tomorrow riding over shorts. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:27:02 </td>
-   <td style="text-align:left;"> $GEVO THESIS STRONGER THAN EVER!!! GREET confirmed!!! Just waiting for the Argonne lab to publish the results now. Who knows...maybe even a large Government grant to assist with the growth like the one the Hydrogen company received last week and $TSLA back in 2013.
-
-Regardless, here are the near-term catalyst formula: GREET + FEED + (OS INCREASE = $CVX  &amp;amp; $ADM CONTRACTS) + BBB + RNG + NZ2+ = $15+ in the next six months!!!
-
-2022 and beyond is going to be LIT!!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:26:20 </td>
-   <td style="text-align:left;"> $TSLA who voted for the dems now is facing the idea of taxing returns on unsold stock and other assets. MFs </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:26:04 </td>
-   <td style="text-align:left;"> $TSLA futs looking awesome! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:24:44 </td>
-   <td style="text-align:left;"> $TSLA did Musk sell more shares today? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:24:09 </td>
-   <td style="text-align:left;"> $TSLA Announce the split 12/29 😆 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:24:03 </td>
-   <td style="text-align:left;"> $TSLA When are we leaving for Mars, Mr. Musk. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:23:36 </td>
-   <td style="text-align:left;"> $TSLA screw it pump it massively then sell it off everyone wins to end the year lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:23:02 </td>
-   <td style="text-align:left;"> $TSLA bulls was so excited this morning 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:22:52 </td>
-   <td style="text-align:left;"> $TSLA YOU VANTS ET YOU GOTS ET! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:22:14 </td>
-   <td style="text-align:left;"> $TSLA 1050 area tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:21:16 </td>
-   <td style="text-align:left;"> $TSLA Elon: I&amp;#39;m done selling.   also Elon : goteem again⏬ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:20:44 </td>
-   <td style="text-align:left;"> $TSLA there’s a potential doji on 4hr chart </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:19:10 </td>
-   <td style="text-align:left;"> $TSLA Shut up </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:18:49 </td>
-   <td style="text-align:left;"> $TSLA a 50 dollar gain is noting for this big boy stock let’s get it tomorrow bulls! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:17:28 </td>
-   <td style="text-align:left;"> $TSLA red is to be expected tomorrow at this point </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:16:53 </td>
-   <td style="text-align:left;"> $SPY losing money is a crime in bull market $tsla </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:16:46 </td>
-   <td style="text-align:left;"> $TSLA will Meade posted and said this is going to $1250 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:16:40 </td>
-   <td style="text-align:left;"> $TSLA how about we don&amp;#39;t gap up and prompt an opening bell/before the bell sell off tomorrow and just have this thing get some legs of its own </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:16:30 </td>
-   <td style="text-align:left;"> $TSLA all in puts </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:16:19 </td>
-   <td style="text-align:left;"> $TSLA  
-BMW goes Bananas on EV cars next year!😳 
- 
-6000 New Jobs next year!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:15:37 </td>
-   <td style="text-align:left;"> $TSLA “is building machines that make machines“ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:15:06 </td>
-   <td style="text-align:left;"> $TSLA 
-
-@elonmusk is NOW at 100% mental power, IQ challenge on two most important matters as important as life or death to him !! 
-
-1- STARSHIP ENGINE (Material)
-2- FSD (VectorSpace-4D tagging) 
-
-Sources have expressed his working north of 12 hrs a day recently- 2.5B in cash back up to get things done ✔️ !!! (This is urgent to him ) 
-
-“F👀CK THAT WE ARE GOING TO GET IT DONE!!” 
- ~@elonmusk 
-
-🙏🏻🐉🦅 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:12:03 </td>
-   <td style="text-align:left;"> $TSLA watching some super riches farting with their pants down in panic </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:11:00 </td>
-   <td style="text-align:left;"> $TSLA: The Revenue has been growing by 50.78% on average over the past 5 years. This is a very strong growth! https://www.chartmill.com/stock/quote/TSLA/fundamental-analysis?key=b3fb89e7-ce52-4df4-906a-b4ccaf80eec8&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=FA&amp;amp;utm_content=TSLA&amp;amp;utm_campaign=social_tracking </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:10:52 </td>
-   <td style="text-align:left;"> $TSLA Elon still had $1.5 billion to sell after yesterday.. wonder if he finished that up today 🤔 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:10:25 </td>
-   <td style="text-align:left;"> $TSLA https://www.teslarati.com/tesla-elon-musk-tsla-options-completed/ We can move on now </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:09:38 </td>
-   <td style="text-align:left;"> $TSLA TSLA 2021-12-29 Daily Forecast Video: 
-https://www.youtube.com/watch?v=ikdiN8pX3C8 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:08:50 </td>
-   <td style="text-align:left;"> $TSLA UR CEO IS A CONVICTED SECURITIES FRAUDSTER MEANWHILE UR LITERALLY BUYING THE SHARES HES DUMPING ON UR ASS HOW RETARDED DO U HAVE TO BE IN HERE 🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️ $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:06:59 </td>
-   <td style="text-align:left;"> Well pretty much last weeks read on the major indices up trend was correct and the studied stocks called target have all hit, $TSLA, $NVDA. But this week though markets are continuing in the up trend and hitting again record highs. Volume has been low across the major indices with a lot of fluff rolling volume, IE just not real action, resulting in what we are seeing in these flat trends and stalled options action. Todays economical reports did not come in all that well, but had been disregarded for the most part, as though they missed the said to be experts expectation. They pretty much came as most of the smart money had predicted they would. IE they where as expected aside from the housing report which was worse then expected all around. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:06:36 </td>
-   <td style="text-align:left;"> $GME $AMC $TSLA https://twitter.com/hypedapedavid/status/1475957257611399180?s=12 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:05:59 </td>
-   <td style="text-align:left;"> $NVAX thank you this.  check out 34-35min mark. talks about best in class Novavax using time tested technology  
- 
-$MRNA $SNDL  
- 
-this low float is going to turn around BIG with tomorrow the start.  
- 
-India ,WHO and EU Emergency use authorization done.  US UK and Japan forthcoming with US (submission) and UK anticipated this week. $TLRY  
- 
-100mil doses ready for distribution immediately on US acceptance of EUA submission. $TSLA  
- 
-$2 Billion expected 2022 revenue. most growth from unvaccinated around the world </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:05:14 </td>
-   <td style="text-align:left;"> $SPY $TSLA we need to resurrect Carl Sagan. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:03:46 </td>
-   <td style="text-align:left;"> $TSLA Elon definitely sold more this morning. Bullish long term but makes me scared for the rest of the week </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:02:36 </td>
-   <td style="text-align:left;"> $TSLA loooord. Give us bulls a miracle tomorrow🥺🙏. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:01:48 </td>
-   <td style="text-align:left;"> $TSLA  So he sold yesterday, so what?!!! We knew he was going to sell. This gives us an Explanation to the dumps. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:01:00 </td>
-   <td style="text-align:left;"> $TSLA some more bullish TA:
-1) bull flag pattern on the weekly
-2) currently sitting right on top of 2 month declining trend line. It’s fought this trend line for 2 days now. 
-3) Hammer candle close on the daily. 
-
-Let’s see if any of these keep us on this bullish path. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 07:00:53 </td>
-   <td style="text-align:left;"> $TSLA Supposedly Musk sold over a billion dollars in shares yesterday </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:58:53 </td>
-   <td style="text-align:left;"> $TSLA 😁 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:58:38 </td>
-   <td style="text-align:left;"> $TSLA but there are no doge daddy dips 🤔🤣🤣
- https://www.reddit.com/r/Epic_Economics/comments/rrlbhq/simpcoiners_get_used_to_it/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:56:58 </td>
-   <td style="text-align:left;"> $TSLA My re-entry is either of the 2 yellow boxes. Preferably the lower long box, close to the trend line (which also happens to be the 200dma)😁 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:56:55 </td>
-   <td style="text-align:left;"> $NAKD saying we won&amp;#39;t reach double or triple digits is like saying $TSLA and $AMZN will never reaxch xxx nor xxxx </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:56:22 </td>
-   <td style="text-align:left;"> $TSLA Do you Guys Really think this is going to be Red 3 days in a Row Lol. 3 Day Rule in Effect </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:55:48 </td>
-   <td style="text-align:left;"> $TSLA   There goes your BATTERIES. Putin doing bad things, WAR eminently TERROR⬇️☠️.  Putin requests call to Biden in morning.  Hmmm. DD </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:53:36 </td>
-   <td style="text-align:left;"> $TSLA Thanks Elon 🖕🏼 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:51:26 </td>
-   <td style="text-align:left;"> $TMC easily $5 by February.
-
-$SNDL $TSLA $LCID </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:51:25 </td>
-   <td style="text-align:left;"> Finally leaving my apartment😂🤣 who else not doing shit all week? Praying no hot guys see me🤪 $GME $AMC $SPY $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:51:14 </td>
-   <td style="text-align:left;"> $SPY ALL SECTORS HAVE ALREADY ENTERED BEAR MARKET TERRITORY. MM , CITADEL, FED, WALL ST ARE ALL PROPPING UP THE DOG SHITTER FAANG OVERBOUGHT, OVERVALUED FRAUD STOCKS $MSFT $TSLA $AAPL LIKE IN THE DOT COM BUBBLE MEANWHILE SMALL CAPS ARE GETTING OBLITERATED. WHEN THEY POP THIS PONZI BUBBLE JUST PRAY YOU AREN&amp;#39;T CAUGHT UNDER IT. CLOSE UR CALLS IMMEDIETELY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:49:13 </td>
-   <td style="text-align:left;"> $TSLA Grimes and Elon is a tale as old as time. Like Beauty and the Beast and Jane Eyre. All women wish they could find a Mr. Rochester to keep them safe </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:48:55 </td>
-   <td style="text-align:left;"> $TSLA hoping for a bounce up tomorrow🙏 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:48:19 </td>
-   <td style="text-align:left;"> $TSLA just gap it over today’s resistance and instead of sell off and pin going to keep going up $1100+ break the 3 day pattern. No position overnight. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:48:12 </td>
-   <td style="text-align:left;"> $TSLA Was hoping to be up 30k today. Instead down 7k unrealized 🤦‍♂️ Still firm we can see $1160+ this week! Let’s get it! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:47:24 </td>
-   <td style="text-align:left;"> $TSLA will close between 1100 and 1070 tomorrow. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:46:35 </td>
-   <td style="text-align:left;"> $GGPI look who is promoting POLESTAR in his live ;), they talking that it is same bussines system like $TSLA. You can watch this LIVE VIDEO in youtube Meet Kevin channel ;) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:46:27 </td>
-   <td style="text-align:left;"> $TSLA Got a little too excited last night 🤣 All good. 2022 will be wild </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:46:14 </td>
-   <td style="text-align:left;"> $TSLA better get your doge daddy pumpin
- https://www.reddit.com/r/Epic_Economics/comments/rrl2dw/bitcoin_death_cross/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:45:05 </td>
-   <td style="text-align:left;"> $NAKD $SPCE $AMC $BTC.X $TSLA What a way to end the year, check out this amazing video of some of the craziest trades this past year, enjoy this and your new year guys! https://youtu.be/WsEQB_8GTWg </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:44:59 </td>
-   <td style="text-align:left;"> $TSLA anybody saying anything about up or down doesn’t know 🤣 could go either way but hey I’m still 😏 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:44:37 </td>
-   <td style="text-align:left;"> $TSLA a lot of call options bought expiring this Friday worth millions, I guess others share the same conviction on a bull run into Friday. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:44:34 </td>
-   <td style="text-align:left;"> $TSLA how do I contact a Tesla robotaxi to pick me up from the office? Doesn&amp;#39;t Tesla have over a million robotaxis? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:44:06 </td>
-   <td style="text-align:left;"> $F old Musky is rocket focused… this is the new $TSLA … american renaissance.. only ev company with history and no future of bullshit models .. follow me </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:42:42 </td>
-   <td style="text-align:left;"> $TSLA Up 5%+ tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:40:18 </td>
-   <td style="text-align:left;"> $TSLA wouldn’t be surprised to see another form 4 tonight with all of us saying “he’s definitely done selling now” 🤡 $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:38:51 </td>
-   <td style="text-align:left;"> $TSLA Down to 1020-1040 tmr </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:38:44 </td>
-   <td style="text-align:left;"> $TSLA check the revenue and p/e for these faang mega cap stocks.  What’s strange about Tesla compared to the category it’s been placed in? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:38:41 </td>
-   <td style="text-align:left;"> $TSLA 7% tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:38:24 </td>
-   <td style="text-align:left;"> $TSLA We saw such BS many times here. Massive catalyst, but the stock is not moving. And it just doesn&amp;#39;t move several days despite common sense. And then rally next week. The funny thing: everywhere headlines, that Tesla runs because of that catalyst, which was one week ago.
-
-How can it be? Nobody knows, but this is how option mafia does it&amp;#39;s business. They sold overpriced OTM weeklies. They burn it to zero. And only after that they let the stonk run.
-
-No kidding, all long term followers remember this  pattern. Happened 10 times at least.
-That is why wise men say, only fools play weeklies </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:38:21 </td>
-   <td style="text-align:left;"> $NIO  undervalued here. P/S ratio under 9, with tons more growth ahead Global expand in2 25 countries . $TSLA is around 30..NIO is not owned by hedge funds. The company&amp;#39;s CEO William Li is the largest shareholder with 10% of shares outstanding .. there are couple of other big share holders Ballie Gifford n Tencent they are not going sell their shares .. d hedge funds are desperate  to take a position in NIO only people they can target is retail share holders scare them to sell their shares </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:37:46 </td>
-   <td style="text-align:left;"> $TSLA put city or call city 🧐 Elon sold 1.08B+ shares YESTERDAY 🤯 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:37:26 </td>
-   <td style="text-align:left;"> $TSLA Breaking News:🚀🚀🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:37:14 </td>
-   <td style="text-align:left;"> $TSLA 
-
-I’ll be just fantastic if stock split is announced tomorrow or next week !! 
-
-It’ll be awesome 😎!! 
-
-Last day with the biggest bang !! 
-
-🙏🏻🐉🦅
-Just saying 👀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:36:11 </td>
-   <td style="text-align:left;"> $TSLA So much for moonshot. Looks like kill the options week. Monday should be plain cray cray. GL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:35:58 </td>
-   <td style="text-align:left;"> $TSLA no way this will ever go over 1100 this week I’m a fool for buying back in today thinking we would close green 😔 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:32:13 </td>
-   <td style="text-align:left;"> $TSLA  LOL! When you like Electric Cars but your from Texas. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:31:46 </td>
-   <td style="text-align:left;"> $TSLA TSLA 2021-12-29 Largest Trades Data: 
-https://www.youtube.com/watch?v=0Aho2hBtUf4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:31:26 </td>
-   <td style="text-align:left;"> $TSLA 1200+ 12/31 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:30:57 </td>
-   <td style="text-align:left;"> $TSLA Well what the hell is it?!!! I&amp;#39;m so sick and tired of hearing about COVID AND ALL IT&amp;#39;S DAMN COUSINS!!!! OVER IT!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:30:35 </td>
-   <td style="text-align:left;"> $TSLA https://www.tesmanian.com/blogs/tesmanian-blog/tesla-model-3-from-hertz-large-order-started-arriving-will-be-rolled-out-to-new-markets-next-year 🏎🚀🤖🔋 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:29:40 </td>
-   <td style="text-align:left;"> $TSLA 
-
-TSLA Key Levels Grid For Dec 30 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:29:06 </td>
-   <td style="text-align:left;"> $TSLA tomorrow I close all my positions and sell all of my shares and move onto to something else, once and for all. GLTA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:27:33 </td>
-   <td style="text-align:left;"> $TSLA Tesla following BTC.  Bitcoin on a one week slide.  Remember when Musk bragged about taking BTC as payment for one of his cars?  LOL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:27:00 </td>
-   <td style="text-align:left;"> $TSLA I like this company and I have two of the vehicles but I have my concerns about investing any more money with all the new EV cars hitting the market maybe it’s time to cut my losses here and buy myself some Ford Nissan or Toyota </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:26:58 </td>
-   <td style="text-align:left;"> $TSLA Wih-whu, whuh what happened tesla, I thought u was going to the moon today 
-
-$SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:26:30 </td>
-   <td style="text-align:left;"> $TSLA relax, nothing is going to happen here this week. Two more days of low vol BS price action and option Killa mode
-IMO of course, most likely, bla-bla-bla not an advice </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:26:07 </td>
-   <td style="text-align:left;"> $TSLA come pick me up@ $1035...bullish... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:26:01 </td>
-   <td style="text-align:left;"> $AAPL $NAKD $TSLA Make sure you check out this episode of WNW!
-
-https://youtu.be/Bot0p2x1Eko </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:24:21 </td>
-   <td style="text-align:left;"> Unusual Option Alert on $TSLA $2,250,360 call sweep traded with $1065.0 strike expiring on 2022-01-07. Via: https://www.stockgrid.io/optionsflowcumulativestats/TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:24:06 </td>
-   <td style="text-align:left;"> $TSLA we green tomorrow?  Last trading day of the year. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:23:40 </td>
-   <td style="text-align:left;"> $TSLA robotaxi revenue stayed flat this year, representing a total of $0, a 0% increase year over year. This is consistent with every year Tesla has ever existed. Where are they, and why are they already priced in? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:23:24 </td>
-   <td style="text-align:left;"> $TSLA   Chill
-
-Last day of tax selling was today .
-
-$spy  $QQQ   was green where all major stock were red .
-
-#buythedip !🙏 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:23:02 </td>
-   <td style="text-align:left;"> $AAPL $NVDA $MSFT $TSLA $FB 
-
-No shit Ghislaine Macwell was guilty, but I want to know all of the other pedophiles she was guilty with. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:22:09 </td>
-   <td style="text-align:left;"> $TSLA not much telling base on the price action of the trading lately, they prop when it should dump and pop on no real news…too much noise to get any clear direction….hopefully they do some big spike and dump so both side can get one last nice trade in this year. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:19:11 </td>
-   <td style="text-align:left;"> $TSLA 1100 soon, we can do it </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:17:02 </td>
-   <td style="text-align:left;"> $TSLA daily. things change quick around here  AROON 🔮🚀👐 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:15:35 </td>
-   <td style="text-align:left;"> $TSLA hey bulls, why don’t you tell us the revenue and profit of this joke from all the non-car junk they sell since this isn’t a car company? How come we never hear those numbers talked about come earnings, aren’t you proud of the failure solar city was? We want a good laugh. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:14:58 </td>
-   <td style="text-align:left;"> $NAKD we piss on $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:13:09 </td>
-   <td style="text-align:left;"> $TSLA This is the time to consider buying! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:13:06 </td>
-   <td style="text-align:left;"> $NAKD 
-$TSLA 
-+100% tomorrow..!!!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:12:09 </td>
-   <td style="text-align:left;"> $TSLA Today didn’t go as planned but there were some small wins if you played it right. Let’s see how the rest of the week plays out. 
-
-The recovery we had from $1064 low back to 61.8% Fib was impressive because we could have easily went down to $1020 there. 
-
-The daily to me still shows a short term gap up to $1130 and an inverted H&amp;amp;S if you take in account why the sell off started. The right side of the daily is flagging just needs to break that $1120 resistance. 
-
-I’m still swinging my $1150 calls full into Thursday. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:11:36 </td>
-   <td style="text-align:left;"> $TSLA when is the stock split? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:11:26 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:10:56 </td>
-   <td style="text-align:left;"> $TSLA 
-
-What was the most washed body part in 2021?
-
-A) Hands 
-B) Brain
-
-Beakyparker.com </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:09:46 </td>
-   <td style="text-align:left;"> $TSLA 1200 tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:09:45 </td>
-   <td style="text-align:left;"> $TSLA will this stay above 1k ? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:09:39 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TSLA 
-
-$1k - $1m challenge update as usual 🚀
-
-Initial: $1,000
-Current: $12,046
-Goal: $1,000,000 by March 1
-- 1 trade per day 
-
-Today was another really fun volatility day, and there were numerous opportunities for quick and easy scalps, especially on a 0dte day. The options challenge trade was a nice and easy 24% scalp today, overachieving the 15% daily goal.
-
-(People really don’t know that 15% a day can make you over $1m in one month and they just hate because they can’t do it themselves 🤷‍♂️) 
-
-Posted the graph of the challenge so far below as well!
-
-Keep giving us volatility into the new year!
-
-More info: the-band-trades.square.site/
-
-Show must go on, @da224 offline for a bit, will be posting here for a couple days. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:09:18 </td>
-   <td style="text-align:left;"> $TSLA Shitting the bed between now and next Friday.  I want to see &amp;lt;$850. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:08:51 </td>
-   <td style="text-align:left;"> $TSLA Starting Jan. 1, Tesla starts matching employee contributions to their 401k retirement funds </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:08:50 </td>
-   <td style="text-align:left;"> $TSLA so insane </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 06:03:48 </td>
-   <td style="text-align:left;"> $TSLA delivery report 1/3. Elon hates short sellers. You know the rest. 
-
-My Feb Calls look juicy. </td>
   </tr>
 </tbody>
 </table></div>
