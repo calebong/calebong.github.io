@@ -45,7 +45,7 @@ My portfolio exhibits some examples data analytics and financial modelling that 
 [Introductory Document for Clients](/pdf/Introduction-To-PromiseLand-s-Economic-Forecasts.pdf)
 
 TBA:
-[View the latest Economic Forecasts](/Monthly-Market-Outlook--Jan-2022-.md)
+[View the latest Economic Forecasts](/Monthly-Market-Outlook--Jan-2022--html.md)
 
 <img src="images/ghpEconPlotUpper.png?raw=true"/>
 <img src="images/ghpEconPlotMid.png?raw=true"/>
