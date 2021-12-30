@@ -44,8 +44,7 @@ My portfolio exhibits some examples data analytics and financial modelling that 
 
 [Introductory Document for Clients](/pdf/Introduction-To-PromiseLand-s-Economic-Forecasts.pdf)
 
-TBA:
-[View the latest Economic Forecasts](/Monthly-Market-Outlook--Jan-2022--html.md)
+[View the latest Economic Forecasts](/pdf/Monthly-Market-Outlook--Jan-2022-.pdf)
 
 <img src="images/ghpEconPlotUpper.png?raw=true"/>
 <img src="images/ghpEconPlotMid.png?raw=true"/>
@@ -91,7 +90,7 @@ At present, sources of news include:
 
 
 
-Last Updated: 2021-12-30 14:14:28 UTC +8
+Last Updated: 2021-12-30 14:37:38 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -103,6 +102,24 @@ Last Updated: 2021-12-30 14:14:28 UTC +8
   </tr>
  </thead>
 <tbody>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/russia/composite-pmi </td>
+   <td style="text-align:left;"> 2021-12-30 14:27:57 </td>
+   <td style="text-align:left;"> Russian Private Sector Returns to Expansion </td>
+   <td style="text-align:left;"> The IHS Markit Russia Composite PMI rose to 50.2 in December 2021 from 48.4 in the prior month. This was the first growth in private sector activity since September, driven by a further expansion in manufacturing production, while the drag from the falling service sector eased. New orders remained in contraction, with the rate of fall being the second-fastest in over a year as demand was weighed down by COVID-19 curbs. Export sales slipped back into decline, although the rate of contraction was softer than those seen earlier in the year. Meantime, backlogs of work fell at the fastest pace since August, amid a renewed fall in employment on the service sector. On the cost side,  input price inflation hit its highest since May.  That said, that pace of charge inflation was broadly in line with that seen in November. Finally, sentiment weakened to its lowest since October 2020, reflecting pandemic uncertainty and weak demand conditions. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/australia/stock-market </td>
+   <td style="text-align:left;"> 2021-12-30 14:27:25 </td>
+   <td style="text-align:left;"> Australian Shares End Near 4-Month High </td>
+   <td style="text-align:left;"> The S&amp;P/ASX 200 Index rose 0.05% to close at 7,513 on Thursday, as gains in Australian miners offset losses in technology stocks. The index also finished close to 4-month highs despite surging local Covid infections, with the Australian government changing the definition of a Covid close contact on Thursday in a bid to take the pressure off testing systems. A business group also called on state governments to continue easing Covid restrictions and ramp up use of rapid antigen tests to enable staff to return quickly to work. Australian miners supported the market with gains from BHP Group (0.85%), Pilbara Minerals (1.89%), Lynas Rare Earth (1.28%), Mineral Resources (2.38%) and Syrah Resources (6.82%). As 2021 draws to a close, the benchmark index is set to add nearly 14% this year and reverse losses from the pandemic-battered 2020, boosted by record-low interest rates and monetary stimulus. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/russia/services-pmi </td>
+   <td style="text-align:left;"> 2021-12-30 14:15:00 </td>
+   <td style="text-align:left;"> Russia Services Sector Shrinks for 3rd Month </td>
+   <td style="text-align:left;"> The IHS Markit Russia Services PMI increased to 49.5 in December 2021 from 47.1 in the previous month. The latest reading pointed to the third straight month of contraction in the service sector, amid a further COVID-19 restrictions. Both output and new orders continued to contract, amid subdued demand conditions. Meanwhile, employment fell for the third time in the last five months, and the joint-sharpest pace in 2021. On the price front, input cost inflation accelerated to a seven-month high, due to greater transportation and wage bills, increased subcontractor charges, and unfavourable exchange rates. Meanwhile, output price inflation eased to a four-month low, as an effort to drive sales. Finally, business morale weakened to the lowest since August 2020, amid concerns regarding the ongoing pandemic. </td>
+  </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/new-zealand/stock-market </td>
    <td style="text-align:left;"> 2021-12-30 14:12:48 </td>
@@ -131,7 +148,7 @@ Last Updated: 2021-12-30 14:14:28 UTC +8
   <tr>
    <td style="text-align:left;"> https://www.cnn.com/2021/12/30/asia/korean-war-armistice-peace-explained-intl-hnk-ml/index.html </td>
    <td style="text-align:left;"> 2021-12-30 13:48:51 </td>
-   <td style="text-align:left;"> The Korean War never officially ended. That might soon change - CNN </td>
+   <td style="text-align:left;"> Didn't the Korean War end in 1953? The short answer is no - CNN </td>
    <td style="text-align:left;"> Hong Kong (CNN)Is the Korean War about to come to an end?                                                                                                                                                                                                                                                                                                                             , Some people might answer: "Didn't that happen in 1953?"                                                                                                                                                                                                                                                                                                                               , Others may know that it was only an armistice that brought hostilities to a halt in 1953 -- but there's never been a treaty to end the conflict between North Korea (and its chief ally China) and South Korea and its allies, most notably the United States.                                                                                                                        , With the top South Korean diplomat on Wednesday saying Seoul and Washington have "effectively" agreed on a draft agreement to end the war, here's a primer on what that means.                                                                                                                                                                                                        , What was the Korean War?                                                                                                                                                                                                                                                                                                                                                              , The war broke out on June 25, 1950, when the first of what the US military estimated as 135,000 North Korean forces stormed across the 38th parallel dividing North and South Korea in an effort to take total control of the Korean Peninsula.                                                                                                                                       , The United States, under President Harry Truman, responded with what was called a "police action," assembling a group of international allies under the auspices of the "United Nations Command" to come to the aid of South Korea. Twenty-two nations contributed combat troops or medical support units to the US-led effort.                                                       , Communist-controlled North Korea had the support of both the Soviet Union and China, with Beijing actively intervening on the military front in October 1950, sending almost a quarter-million troops into the Korean Peninsula as the US-led forces were advancing toward China's border with North Korea.                                                                           , Chinese support of the North pushed the UN advance back down the peninsula and by 1951 stalemate emerged along the 38th parallel, where the border between the two Koreas sits today.                                                                                                                                                                                                 , How did the fighting stop?                                                                                                                                                                                                                                                                                                                                                            , Armistice talks began in 1951 and occurred intermittently until a final agreement to end combat was made at Panmunjom on the 38th parallel on July 27, 1953. Within three days, both sides withdrew their troops to be at least 2 kilometers (1.2 miles) from the cease-fire line.                                                                                                    , Why didn't the armistice end the war?                                                                                                                                                                                                                                                                                                                                                 , The signatories of the July 27, 1953 agreement to end hostilities were the heads of the UN Command, the North Korean army and of Chinese troops on the Korean Peninsula. South Korea is not a signee, and the agreement specifically says it is not a peace treaty.                                                                                                                   , According to the armistice preamble, it is made "in the interest of stopping the Korean conflict, with its great toil of suffering and bloodshed on both sides, and with the objective of establishing an armistice which will insure a complete cessation of hostilities and of all acts of armed force in Korea until a final peaceful settlement is achieved."                     , What has happened since 1953?                                                                                                                                                                                                                                                                                                                                                         , There was no official contact between the North and South Korean governments until 1971, according to the US State Department.                                                                                                                                                                                                                                                        , By 1991 though, tensions had eased enough that Pyongyang and Seoul signed on to the North-South Basic Agreement, which said reunification was the goal of both parties. But a State Department history says the North's budding weapons programs and the death of its longtime leader Kim Il-Sung in 1994, coupled with political turmoil in the South, led to new tensions.          , The first inter-Korean summit was held in June 2000, but the thaw it provided ended with North Korea's admission in 2002 that it was pursuing nuclear weapons.                                                                                                                                                                                                                        , That admission led to a series of negotiations about the North's nuclear program among North Korea, China, Russia, South Korea, the US and Japan, known as the six-party talks. North Korea pulled out of that effort in 2009 after restarting its Yongbon nuclear reactor and launching a series of missile tests.                                                                   , In 2007, South Korean President Roh Moo-hyun and North Korean leader Kim Jong Il met in Pyongyang and agreed to try to bring peace to and reunify the peninsula without the intervention of outside parties. But conservative Lee Myung-bak was elected South Korean President a few months later, and switched to a hard line on the North's weapons program, chilling peace efforts., Tensions thawed again in 2018 when North Korean leader Kim Jong Un met with South Korean President Moon Jae-in in Panmunjom. The two said they would work to turning the 1953 armistice into a peace treaty.                                                                                                                                                                          , Later that year the two met again in Pyongyang and signed a joint declaration to pursue denuclearization while working toward peace on the peninsula.                                                                                                                                                                                                                                 , Three meetings between US President Donald Trump and Kim -- the first between a sitting US President and a North Korean leader -- also failed to make any progress toward denuclearization of the North, despite their historic nature. Efforts have since stalled.                                                                                                                   , So what does the announcement of a possible peace treaty draft mean?                                                                                                                                                                                                                                                                                                                  , Essentially, not much -- for now. Whatever deal the US and South Korean diplomats make on draft language, it would still need approval within their respective governments. Of course, North Korea would have to agree and, as a party to the armistice, so would China.                                                                                                              , But there is some room for optimism.                                                                                                                                                                                                                                                                                                                                                  , South Korean Foreign Minister Chung Eui-yong said Wednesday that North Korea has been quickly and positively responding to South Korea's movement to declare the end of the Korean War.                                                                                                                                                                                               , And Kim Yo Jong, sister of the North Korean leader, in September termed the South Korean President's proposal to declare an end to the war "interesting" and "an admirable idea," but questioned the timing and demanded a hostile policy against the North must be withdrawn first.                                                                                                  , North Korea has yet to respond in detail about the declaration though, even through China, Chung said.                                                                                                                                                                                                                                                                                , </td>
   </tr>
   <tr>
@@ -151,7 +168,7 @@ Last Updated: 2021-12-30 14:14:28 UTC +8
    <td style="text-align:left;"> https://www.bbc.co.uk/news/business-59824407?at_medium=RSS&amp;at_campaign=KARANGA </td>
    <td style="text-align:left;"> 2021-12-30 12:54:46 </td>
    <td style="text-align:left;"> China ride-hailing giant Didi sees losses deepen after crackdown </td>
-   <td style="text-align:left;"> Chinese ride-hailing giant Didi Chuxing has seen its losses deepen after Beijing ordered online stores not to offer the company's app.                                                                                                                                                                                       , The firm reported an operating loss of $6.3bn (£4.7bn) for the first nine months of year as revenues in China fell by 5% in the third quarter.                                                                                                                                                                               , The Chinese crackdown came just days after Didi made its New York stock market debut at the end of June.                                                                                                                                                                                                                     , This month, it said it will move its share listing to Hong Kong from the US.                                                                                                                                                                                                                                                 , In recent months, Didi has become one of the most high profile targets of Beijing's clampdown on the country's technology industry.                                                                                                                                                                                          , The restrictions placed on it by authorities in China have hit its share price in the US hard.                                                                                                                                                                                                                               , The company's value on the New York Stock Exchange has fallen by 65% since its debut less than six months ago.                                                                                                                                                                                                               , In its latest report to investors the firm also said that its board had authorised it to pursue a listing of its shares on the main board of the Hong Kong Stock Exchange.                                                                                                                                                   , "The company is executing above plans and will update investors in due course," Didi said.                                                                                                                                                                                                                                   , Didi's announcement early in December that it planned to leave the US stock market came on the same day that the US Securities and Exchange Commission said it had finalised rules that would mean US-listed foreign companies can be delisted if their auditors do not comply with requests for information from regulators., "Following careful research, the company will immediately start delisting on the New York stock exchange and start preparations for listing in Hong Kong," the company said at the time.                                                                                                                                     , Didi also said in Thursday's announcement that Daniel Zhang, the chief executive of Chinese e-commerce giant Alibaba, who had served as a director on its board since 2018, has resigned from the role.                                                                                                                      , As well as coming under intense scrutiny from Chinese regulators, Didi now faces tough competition in its home market from ride-hailing services launched by car makers Geely and SAIC Motor.                                                                                                                                , This video can not be played                                                                                                                                                                                                                                                                                                 , The man himself on ten key lyrics, including some of The Beatles' classics                                                                                                                                                                                                                                                   , Abbey Road's amazing history of making music for films and games                                                                                                                                                                                                                                                             , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
+   <td style="text-align:left;"> Chinese ride-hailing giant Didi Global has seen its losses deepen after Beijing ordered online stores not to offer the company's app.                                                                                                                                                                                        , The firm reported an operating loss of $6.3bn (£4.7bn) for the first nine months of year as revenues in China fell by 5% in the third quarter.                                                                                                                                                                               , The Chinese crackdown came just days after Didi made its New York stock market debut at the end of June.                                                                                                                                                                                                                     , This month, it said it will move its share listing to Hong Kong from the US.                                                                                                                                                                                                                                                 , In recent months, Didi has become one of the most high profile targets of Beijing's clampdown on the country's technology industry.                                                                                                                                                                                          , The restrictions placed on it by authorities in China have hit its share price in the US hard.                                                                                                                                                                                                                               , The company's value on the New York Stock Exchange has fallen by 65% since its debut less than six months ago.                                                                                                                                                                                                               , In its latest report to investors the firm also said that its board had authorised it to pursue a listing of its shares on the main board of the Hong Kong Stock Exchange.                                                                                                                                                   , "The company is executing above plans and will update investors in due course," Didi said.                                                                                                                                                                                                                                   , Didi's announcement early in December that it planned to leave the US stock market came on the same day that the US Securities and Exchange Commission said it had finalised rules that would mean US-listed foreign companies can be delisted if their auditors do not comply with requests for information from regulators., "Following careful research, the company will immediately start delisting on the New York stock exchange and start preparations for listing in Hong Kong," the company said at the time.                                                                                                                                     , Didi also said in Thursday's announcement that Daniel Zhang, the chief executive of Chinese e-commerce giant Alibaba, who had served as a director on its board since 2018, has resigned from the role.                                                                                                                      , As well as coming under intense scrutiny from Chinese regulators, Didi now faces tough competition in its home market from ride-hailing services launched by car makers Geely and SAIC Motor.                                                                                                                                , This video can not be played                                                                                                                                                                                                                                                                                                 , The man himself on ten key lyrics, including some of The Beatles' classics                                                                                                                                                                                                                                                   , Abbey Road's amazing history of making music for films and games                                                                                                                                                                                                                                                             , © 2021 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/iran/inflation-cpi </td>
@@ -324,8 +341,8 @@ Last Updated: 2021-12-30 14:14:28 UTC +8
         -0.10%
        finish about 0.1% lower, according to preliminary data from FactSet. High-growth tech stocks tend to be sensitive to rising rates. The yield on the 10-year Treasury note 
         TMUBMUSD10Y,
-        1.547%
-       climbed to 1.542% Wednesday, the highest since Nov. 24 based on trading levels at 3 p.m. Eastern Time, according to Dow Jones Market Data. Investors traded amid omicron variant concerns and fresh economic data showing the U.S. trade deficit in goods surged to an all-time high in November, a trade gap that largely reflected faster improvement in the world's largest economy compared to most other countries in the pandemic., Here's what to know.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , </td>
+        1.545%
+       climbed to 1.542% Wednesday, the highest since Nov. 24 based on trading levels at 3 p.m. Eastern Time, according to Dow Jones Market Data. Investors traded amid omicron variant concerns and fresh economic data showing the U.S. trade deficit in goods surged to an all-time high in November, a trade gap that largely reflected faster improvement in the world's largest economy compared to most other countries in the pandemic., The Santa Claus rally is off to the best start in over 20 years and historically that bodes well for the entire seasonal period, Dow Jones data show.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.foxbusiness.com/real-estate/reits-romped-2021-property-values-soared </td>
@@ -376,7 +393,7 @@ Last Updated: 2021-12-30 14:14:28 UTC +8
        has rallied 24.5% and the S&amp;P 500 
         SPX,
         +0.14%
-       has advanced 27.6%., The U.S. has started shipping some doses of the recently authorized COVID-19 antivirals developed by Pfizer and Merck.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       has advanced 27.6%.                                                                                                                                                                                                                                                                                                                                                                                                 , Shares of FuelCell Energy Inc. undefined sank 5.1% toward 13-month low in premarket trading Wednesday, after the fuel cell technology company reported a wider-than-expected fiscal fourth-quarter loss as revenue surprisingly declined. The net loss for the quarter to Oct. 31 was $24.98 million, or 7 cents a share, after a loss of $19.66 million, or 8 cents a share, in the year-ago period. The number of shares outstanding increased to a weighted average of 366.67 million from 236.38 million. The FactSet consensus for per-share losses was 3 cents. Total revenue dropped 18.0% to $13.94 million, while the FactSet consensus called for 28% increase to $21.77 million. The decline in revenue was driven by a $5.6 million, or 102% decline, in service agreements and license revenue to negative $0.1 million, while the FactSet consensus was for a 22% increase to $6.6 million. The company said the backlog was largely unchanged. "Looking forward, we are focused on executing against our existing project backlog, while simultaneously increasing our annualized production rate, repositioning our brand for the future and building the next generation sales structure," said Chief Executive Jason Few. The stock has tumbled 47.5% this year, while the S&amp;P 500 undefined has climbed 27.4%., Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.bbc.co.uk/news/technology-59818796?at_medium=RSS&amp;at_campaign=KARANGA </td>
@@ -420,11 +437,11 @@ Last Updated: 2021-12-30 14:14:28 UTC +8
         +0.14%
        components. Benchmark analyst Mark Miller said he believes the rally is being driven by South Korea-based rival Samsung Electronics Co. Ltd.'s 
         005930,
-        -0.13%
+        -0.51%
        announcement that it had to "temporarily adjust operations" a its manufacturing facilities in Xi'an, China, had to put its plant Xian, China as a result of the "ongoing COVID-19 situation." Miller reiterated the buy rating he's had on Western Digital's stock since at least the past 2 1/2 years, and kept his stock price target at $92, which implies a TK% upside from current levels. The stock, which was headed for the highest close since Aug. 11, has soared 18.7% during its current win streak, which would be the longest since the six-day stretch ended Feb. 19. The stock's rally Wednesday comes as the SPDR Technology Select Sector 
         XLK,
         +0.09%
-       slipped 0.1% while the S&amp;P 500 inched up 0.1%. , Elon Musk sold another $1 billion worth of Tesla Inc. stock Tuesday, as he closes in on his goal of divesting 10% of his stake in the electric-vehicle maker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       slipped 0.1% while the S&amp;P 500 inched up 0.1%. , Lynsi Snyder-Ellingson, president of the fast-food chain, lost more than than $1 million on the home, which she bought for $17.4 million nearly a decade ago                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.foxbusiness.com/economy/champagne-shortage-ahead-of-new-years-eve-as-supply-chain-issues-hit-wine-industry </td>
@@ -469,7 +486,7 @@ Last Updated: 2021-12-30 14:14:28 UTC +8
        had rallied 37.1% and the S&amp;P 500 
         SPX,
         +0.14%
-       had advanced 27.4%., Shares of FuelCell Energy Inc. undefined sank 5.1% toward 13-month low in premarket trading Wednesday, after the fuel cell technology company reported a wider-than-expected fiscal fourth-quarter loss as revenue surprisingly declined. The net loss for the quarter to Oct. 31 was $24.98 million, or 7 cents a share, after a loss of $19.66 million, or 8 cents a share, in the year-ago period. The number of shares outstanding increased to a weighted average of 366.67 million from 236.38 million. The FactSet consensus for per-share losses was 3 cents. Total revenue dropped 18.0% to $13.94 million, while the FactSet consensus called for 28% increase to $21.77 million. The decline in revenue was driven by a $5.6 million, or 102% decline, in service agreements and license revenue to negative $0.1 million, while the FactSet consensus was for a 22% increase to $6.6 million. The company said the backlog was largely unchanged. "Looking forward, we are focused on executing against our existing project backlog, while simultaneously increasing our annualized production rate, repositioning our brand for the future and building the next generation sales structure," said Chief Executive Jason Few. The stock has tumbled 47.5% this year, while the S&amp;P 500 undefined has climbed 27.4%.                                                                                                                , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       had advanced 27.4%., Amazon, Visa, Nordstrom, and AT&amp;T are among the stocks pegged to outperform the S&amp;P 500 next year.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.cnn.com/2021/12/29/us/denver-shooting-spree-wednesday/index.html </td>
@@ -625,7 +642,7 @@ Last Updated: 2021-12-30 14:14:28 UTC +8
        dropped 0.8% in morning trading Wednesday, reversing earlier intraday gains of as much as 1%, after the Wall Street Journal reported that the social-media and metaverse company looked to divide lawmakers along party lines to forestall any bipartisan attempt to install tougher rules on social-media platforms. Citing people described as familiar with the conversations, the report said Facebook's Washington team called Republican lawmakers to push the narrative that former Facebook employee and whistleblower Frances Haugen was trying to help Democrats, while at the same time calling Democrats to warn them that Republicans were focused on Facebook's decision to ban expressions of support for Kyle Rittenhouse, who was charged with killing two people during civil unrest in Wisconsin, and later acquitted. The report said Chief Executive Mark Zuckerberg told employees not to apologize. Meta's stock has gained 1.2% over the past three months and has rallied 25.8% this year, while the S&amp;P 500 
         SPX,
         +0.14%
-       has advanced 9.8% in the past three months and has run up 27.4% in 2021., Analysts at Wedbush point to three catalysts, including China demand, that could drive Tesla stock higher in 2022.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       has advanced 9.8% in the past three months and has run up 27.4% in 2021., Elon Musk sold another $1 billion worth of Tesla Inc. stock Tuesday, as he closes in on his goal of divesting 10% of his stake in the electric-vehicle maker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/united-states/currency </td>
@@ -735,24 +752,6 @@ Last Updated: 2021-12-30 14:14:28 UTC +8
    <td style="text-align:left;"> Coal on Track for 110% Gain in 2021 </td>
    <td style="text-align:left;"> Newcastle coal futures were trading slightly above $170 per metric ton in the end of December, well below a record high of $269.50 hit in October, but booking a nearly 110% gain for the 2021 year on strong demand and limited supplies. Higher than normal natural gas prices have been boosting coal appeal in Europe with stockpiles in plants hitting their lowest level since 1970's. Also, demand from India and China remains strong. Earlier this year, China introduced power curbs especially for energy-intensive businesses and restrictions on coal imports, aiming to reach its climate targets but such curbs led to a serious power crunch. The Chinese government then lifted some restrictions to balance the coal market and slow record prices. As a result, global coal power generation is on course to increase by 9% to an all-time high of 10,350 terawatt-hours in 2021, according to the latest IEA report. For 2022, the IEA forecasts both coal production and demand to rise to the highest ever levels. </td>
   </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/croatia/stock-market </td>
-   <td style="text-align:left;"> 2021-12-29 20:00:22 </td>
-   <td style="text-align:left;"> Stocks in Croatia Hit Near 5-year High </td>
-   <td style="text-align:left;"> CROBEX increased to a near 5-year high of 2063 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/south-africa/stock-market </td>
-   <td style="text-align:left;"> 2021-12-29 19:47:03 </td>
-   <td style="text-align:left;"> South Africa Shares Hit New Record High </td>
-   <td style="text-align:left;"> The FTSE/JSE All Share Index extended gains towards an all-time high of 73,000 on Wednesday, amid thin trading volumes and optimism about the economic recovery backed by recent studies about the omicron variant. On the pandemic front, South Africa’s government put the implementation of the latest quarantine rules, which discarded self-isolation for asymptomatic infected individuals, on hold and said it would release an amended version. In contrast, a top advisory council is set to meet this week to discuss the possibility of reintroducing tighter restrictions in the country. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/greece/loan-growth </td>
-   <td style="text-align:left;"> 2021-12-29 19:33:59 </td>
-   <td style="text-align:left;"> Greece Total Credit Growth at 1-Year Low </td>
-   <td style="text-align:left;"> The annual growth rate of total credit extended to the Greek economy eased to 12.2 percent in November of 2021 from a downwardly revised 12.4 percent in the previous month. It was the lowest growth rate since October of 2020 as credit rose at softer pace for the government (46.3 percent vs 43.3 percent in October). On the other hand, credit edged up for the private sector (1.1 percent vs 0.9 percent). </td>
-  </tr>
 </tbody>
 </table></div>
 
@@ -767,7 +766,7 @@ Last Updated: 2021-12-30 14:14:28 UTC +8
 
 
 
-Last Updated: 2021-12-30 14:15:38 UTC +8
+Last Updated: 2021-12-30 14:38:15 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -778,6 +777,112 @@ Last Updated: 2021-12-30 14:15:38 UTC +8
   </tr>
  </thead>
 <tbody>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:32:17 </td>
+   <td style="text-align:left;"> $SPY clot shots $MRNA .. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:30:48 </td>
+   <td style="text-align:left;"> $SPY the irony in bears posts is literally mind boggling, it hurts. Stocks only go up </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:30:33 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:28:18 </td>
+   <td style="text-align:left;"> $BTC.X bears here are super beta compared to $SPY  bears. Just sayin. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:27:51 </td>
+   <td style="text-align:left;"> $TSLA $SPY $DJIA $QQQ Elon trolling the lib tards on Twitter, you all should sell your Tesla. You all never built anything, just looking to take take take other peoples work. Nobody wants you brainwashed parasites around </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:27:42 </td>
+   <td style="text-align:left;"> $SPY seeing an uptick in chatter on 4chan over the last 24 hours
+
+Via topstonks.com/stocks/SPY?st_spy
+
+#spy    #4chan </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:27:09 </td>
+   <td style="text-align:left;"> $SPY I ain&amp;#39;t afraid of no ghost. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:26:47 </td>
+   <td style="text-align:left;"> $SPY public fear can be easily struck if claiming covid can persist in brain and cause permanent damage even if &amp;quot;cured&amp;quot; https://fortune.com/2021/12/26/covid-19-organs-brain-fog-long-covid-symptoms-treatment-causes/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:25:13 </td>
+   <td style="text-align:left;"> $SPY I mean if $ABT sells 330 million test at $24. Not a tax. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:23:26 </td>
+   <td style="text-align:left;"> $SPY An analysis by the Penn Wharton Budget Model found that low- and middle-income households spent about 7% more in 2021 for the same products they bought in 2020 or 2019, an average of about $3,500. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:23:21 </td>
+   <td style="text-align:left;"> $UVXY $SPY 📉😎 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:22:05 </td>
+   <td style="text-align:left;"> $SPY isis loves snatching up young children….. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:21:40 </td>
+   <td style="text-align:left;"> $SPY $TSLA $DOGE.X oh snap. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:20:58 </td>
+   <td style="text-align:left;"> $SPY   Bloodbath next two days. Crash imminent! $470 friday. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:18:11 </td>
+   <td style="text-align:left;"> $SPY I’m a bull and I wouldn’t even mind a dip here </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:18:01 </td>
+   <td style="text-align:left;"> $SPY people who voted for Biden so brained demoshits need to goto another planet 500 next </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:17:50 </td>
+   <td style="text-align:left;"> $SPY could be a big move if this breaks to the upside by morning 👀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:17:14 </td>
+   <td style="text-align:left;"> $SPY GUYS CRASH TOMORROW PLS BUY MORE PUTS 
+ 
+I PROMISE WE CRASH </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:17:14 </td>
+   <td style="text-align:left;"> $SPY The USD is collapsing! Quick let’s blame the middle class. Get into Crypto ASAP $BTC.X $LRC.X </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2021-12-30 14:15:16 </td>
+   <td style="text-align:left;"> $SPY pay-tience is a virtue </td>
+  </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
    <td style="text-align:left;"> 2021-12-30 14:14:21 </td>
@@ -2313,113 +2418,14 @@ hmm </td>
    <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:29:07 </td>
-   <td style="text-align:left;"> $SPY  Now every day matters as it is a battle of angels and demons (bulls vs. bears) for control of the very fate of the market.  This break out can become a bull trap very fast and if that happens now it results in a quick move down and as the first the 2 weeks of Jan go so does the year. Last 2 days are Dojis so that is good in that we may get few days of sideways action and calm some nerves.  If you are a bull you want as few Dojis as possible and want the SC rally to take effect and duh want price to move higher.  The MACD is encouraging also here as it is moving higher for the bulls.  Price is the number one indicator so that is mainly what it is all about as higher prices will fetch higher prices until Jan 14th if all goes right for the bulls best case senario, but I am looking at it hour by hour.  Look, a lot of people have one foot out the door or are out of the market.  The megacaps have to lead, but all caps matter and are connected. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 14:27:51 </td>
+   <td style="text-align:left;"> $TSLA $SPY $DJIA $QQQ Elon trolling the lib tards on Twitter, you all should sell your Tesla. You all never built anything, just looking to take take take other peoples work. Nobody wants you brainwashed parasites around </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:28:53 </td>
-   <td style="text-align:left;"> $SPY making 1 million dollars is easy, just ask 1 million people for a dollar ez </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:27:52 </td>
-   <td style="text-align:left;"> $SPY Trump mentioned dark winter during a group photo op before the virus hit, and when asked to explain, he just answered with &amp;quot;you&amp;#39;ll see&amp;quot; 
-
-You do what you want with that info </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:27:49 </td>
-   <td style="text-align:left;"> $SPY wow boring week </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:27:12 </td>
-   <td style="text-align:left;"> $SPY apple price to book = 46 .. yeah ok </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:26:57 </td>
-   <td style="text-align:left;"> $MSFT $AAPL $SPY $BRK.B 
-
-FINKLE IS EINHORN! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:26:20 </td>
-   <td style="text-align:left;"> latex6ca81b859ec167504fb5a505f2aaaaafSMH)
-mRNA technology ($PFE, $MRNA)
-quantum computing ($IBM)
-search engine (GOOGL)
-etc.
-
-Think of taxpayers as long-term investors (timescale of decades, even sometimes &amp;gt;50 years). It is the taxpayers who invested in these ideas via the means of government. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:25:35 </td>
-   <td style="text-align:left;"> $SPY this whole *pandemic* was just to steal an election. And they played trump, he sold out too. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:24:44 </td>
-   <td style="text-align:left;"> $SPY You see the entire value is speculation beyond 1 price to book, even at 1 there is a chance for decline AKA EGO at 0.47 price to book. It is all speculation on the future earnings. What does this mean? It means there is a long way down </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:24:30 </td>
-   <td style="text-align:left;"> $SPY I&amp;#39;ll take a 20 percent correction </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:23:57 </td>
-   <td style="text-align:left;"> $SPY bloodbath next two days. Crash imminent. $470 friday </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:23:52 </td>
-   <td style="text-align:left;"> $SPY 
-
-https://rumble.com/vrmdjh-its-time-stop-the-vaccination-and-treat-the-vaccine-injured.html </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:23:23 </td>
-   <td style="text-align:left;"> $SPY covid crash </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:23:05 </td>
-   <td style="text-align:left;"> $SPY https://www.youtube.com/watch?v=LTseTg48568 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:22:50 </td>
-   <td style="text-align:left;"> $SPY I disagree with those saying Omicron was dear mongering... 
- 
-The response was fully warranted until the variant was understood but now we know it is not the beast it could have been. Onwards to 500, LFG! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:22:31 </td>
-   <td style="text-align:left;"> $SPY covid going to crash this again. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:22:30 </td>
-   <td style="text-align:left;"> $SPY  The S&amp;amp;P ytd is 28% with an average of 15% over 10 years... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:21:56 </td>
-   <td style="text-align:left;"> $SPY hmmm where will it spike </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2021-12-30 11:21:46 </td>
-   <td style="text-align:left;"> $SPY S&amp;amp;P limit down and it still wasn&amp;#39;t done .. lol.. who will be the last one out this time? </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2021-12-30 14:23:47 </td>
+   <td style="text-align:left;"> $TSLA only up 20% from February highs to right now. The $QQQ has given the same exact return since that exact time. Tesla should be $1,400 + </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
@@ -4182,15 +4188,31 @@ Read: https://www.channelchek.com/news-channel/Peter_Lynch_Echoes_Michael_Burrys
 $SPY $QQQ $SQQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:50:05 </td>
-   <td style="text-align:left;"> $QQQ 
-EVERYONE I NEED HELP I WANT TO DAY TRADE THIS WITH OPTIONS. THOTS? </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 14:26:57 </td>
+   <td style="text-align:left;"> $TSLA $AAPL has returned 30% gains since February 2021 and tesla only 20%!!! If Elon did not start the selling we would be at $1,400. Great prices right now. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2021-12-30 03:48:45 </td>
-   <td style="text-align:left;"> $SPY $AAPL $TSLA $QQQ </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 14:23:36 </td>
+   <td style="text-align:left;"> $AAPL An analysis by the Penn Wharton Budget Model found that low- and middle-income households spent about 7% more in 2021 for the same products they bought in 2020 or 2019, an average of about $3,500 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2021-12-30 14:15:00 </td>
+   <td style="text-align:left;"> WATCHLIST 12/30 THURSDAY
+PT-5
+OPTIONS
+
+$COST - Stock hitting all time highs today; still potential to go higher. Calls above $570
+
+$NKE - Stock close to breaking trendline resistance at $170 . Calls above it. 
+
+$DG - Stock breaking out and close to breaking all time highs. Calls above $234
+
+$MRNA - vaccine stock seeing some momentum. Looking for calls above $250
+
+$AAPL - stock holding well. Close to hitting a $3 trillion market cap. Calls above $180 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> AAPL </td>
@@ -5876,19 +5898,114 @@ Pumping up at the close of day! </td>
 https://www.youtube.com/watch?v=LZ12BXDRLVc </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:32:10 </td>
-   <td style="text-align:left;"> $AAPL first psychological mark 3 T and then second one for 200$ </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:37:31 </td>
+   <td style="text-align:left;"> $TSLA Blood will flow tomorrow🩸Bulls will cry Bears will paint the streets red.. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:31:17 </td>
-   <td style="text-align:left;"> $SPY $AAPL $TSLA $SNIPF Snipp cutting costs big time, while growing revenues. And recently crossed over into positive cash flow, impressive for a new company </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:30:19 </td>
+   <td style="text-align:left;"> $TSLA - Following Std Deviation channel..  Like the VWAP touch and hold today.  Looking for a push up to 1180-1200. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2021-12-30 03:30:17 </td>
-   <td style="text-align:left;"> $AAPL the shorts are taking it today right up the ……. </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:28:16 </td>
+   <td style="text-align:left;"> $GGPI which one is the best deal? $tsla $lcid $f $nio
+
+https://youtu.be/2-CacQNdDUg </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:27:51 </td>
+   <td style="text-align:left;"> $TSLA $SPY $DJIA $QQQ Elon trolling the lib tards on Twitter, you all should sell your Tesla. You all never built anything, just looking to take take take other peoples work. Nobody wants you brainwashed parasites around </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:27:38 </td>
+   <td style="text-align:left;"> $TSLA    You tell him, Mary </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:26:57 </td>
+   <td style="text-align:left;"> $TSLA $AAPL has returned 30% gains since February 2021 and tesla only 20%!!! If Elon did not start the selling we would be at $1,400. Great prices right now. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:26:28 </td>
+   <td style="text-align:left;"> $TSLA    You think Elon does not have this whole thing under control?    Ah, HAHAHAHAHAHA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:25:06 </td>
+   <td style="text-align:left;"> $TSLA 
+
+Seriously 👀!! 🙏🏻🐉🦅😷
+
+@elonmusk 👇😱 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:24:45 </td>
+   <td style="text-align:left;"> $TSLA the futes bouncing? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:24:37 </td>
+   <td style="text-align:left;"> $TSLA    My cousin, Jules Dinero, mentoring a slow-learning bear </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:24:16 </td>
+   <td style="text-align:left;"> $TSLA if one exercises one options apparently it’s going to dip today! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:23:47 </td>
+   <td style="text-align:left;"> $TSLA only up 20% from February highs to right now. The $QQQ has given the same exact return since that exact time. Tesla should be $1,400 + </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:23:43 </td>
+   <td style="text-align:left;"> $TSLA tomorrow we open over 1100 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:22:38 </td>
+   <td style="text-align:left;"> $TSLA  is a little like Mt. St. Helens </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:21:40 </td>
+   <td style="text-align:left;"> $SPY $TSLA $DOGE.X oh snap. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:21:37 </td>
+   <td style="text-align:left;"> $TSLA cockadoodledoo </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:21:02 </td>
+   <td style="text-align:left;"> Some of these $TSLA bears and shorts actually think TSLA will start losing sales to competitors. 
+ 
+Newsflash:  TSLA will sell every car it can make and most will be sold before they are even started being built. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2021-12-30 14:14:46 </td>
+   <td style="text-align:left;"> WATCHLIST 12/30 THURSDAY
+PT-4
+OPTIONS
+
+$MU - Stock seeing a lot of call activity coming. CO announced better than expected earnings recently. Calls above $96
+
+$MSFT - Stock in a very good uptrend with a lot of call activity. Looking for all time highs. Calls above $343.
+
+$HD - Stock looking strong and continuing to uptrend. Calls above $411
+
+$UNH - stock continues to move higher breaking all time highs. Calls above $506
+
+$TSLA - Tesla Analyst Says 2022 Could Be An Inflection Point For EV Maker; Sees Capacity Double By End Of Year. calls above $1100 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
@@ -5934,11 +6051,6 @@ https://m.theepochtimes.com/cathie-sells-another-22-million-worth-of-shares-in-t
    <td style="text-align:left;"> TSLA </td>
    <td style="text-align:left;"> 2021-12-30 13:54:01 </td>
    <td style="text-align:left;"> @GoodieGood $tsla dip into earnings then rip $aapl rip into earnings then dip heard it here first 🥦💨😮‍💨😴✌🏾 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 13:52:23 </td>
-   <td style="text-align:left;"> $UWMC $FCEL $TSLA $AMC $49,000 a day keeps the 9 to 5 away; Stay patient and the let the trade play out...🚀 https://www.discord.io/rBHacCP </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
@@ -7497,105 +7609,6 @@ Tesla means Elon. Nothing else. Actually its bad for tesla.  Will wait til EOW f
    <td style="text-align:left;"> TSLA </td>
    <td style="text-align:left;"> 2021-12-30 08:19:37 </td>
    <td style="text-align:left;"> $TSLA after this friday exp probably wont be trading tesla for a while </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:19:28 </td>
-   <td style="text-align:left;"> $TSLA doesnt like to stay up. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:19:03 </td>
-   <td style="text-align:left;"> $TSLA so what will bidenstein do with elons $11b tax he paid?? Build back better?🤣🤣🤣 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:18:21 </td>
-   <td style="text-align:left;"> $TSLA Bigger the consolidation, bigger the move 😈 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:17:03 </td>
-   <td style="text-align:left;"> $TSLA I will buy tomorrow 🤔 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:15:13 </td>
-   <td style="text-align:left;"> $TSLA what a fucking joke </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:13:41 </td>
-   <td style="text-align:left;"> $ENPH $PLUG $SPWR $TSLA 
-
-If Democrats want to save Build Back Better, it must be paid for in full
-
-Much of the attention since Manchin&amp;#39;s announcement has focused on what&amp;#39;s in and what&amp;#39;s out. Those decisions will be difficult, but regardless of the specific policy compromises that will be necessary to get the bill over the finish line, Manchin laid down one overall marker that should serve as the guiding principle for rebuilding the BBBA: ensure that its provisions are fully and transparently funded over the long-term. 
-
-That is not the case with the version that passed in the House. In an effort to enact as many new or expanded programs as possible while keeping the official 10-year cost to about $2 trillion without increasing 10-year budget deficits, House Democrats chose to simply end (sunset) several key provisions after a few years while offsetting them with permanent revenue increases.
-
-https://thehill.com/opinion/white-house/587499-if-democrats-want-to-save-build-back-better-it-must-be-paid-for-in-full </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:13:15 </td>
-   <td style="text-align:left;"> I ❤ Dan ✔ Enjoy the Armageddon Depression my friends, followers, haters and those on block for jawboning stupid 😈 https://www.cnbc.com/video/2021/12/29/satori-fund-founder-dan-niles-on-why-hes-bullish-on-energy-and-financials-in-2022.html  ...   https://www.cnbc.com/video/2021/12/29/watch-cnbcs-full-interview-with-satori-funds-dan-niles-on-markets-and-inflation.html   $ccl $tsla $f  $spy $qqq </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:11:53 </td>
-   <td style="text-align:left;"> $TSLA This is looking nice. January is about to be crazy everybody.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:10:42 </td>
-   <td style="text-align:left;"> $TSLA If you want to add emotions with your trading, just buy and uninstall your app and open it after 3-5 yrs, thank me later
-
-Once again, THIS IS SHORT TERM
-
-Do you guys HONESTLY think tesla will be less than here in 5 yrs with more than 5 catalysts coming?  These NUMEROUS bear posts are just ridiculous and have no basis, even the pros on mainstream media </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:09:02 </td>
-   <td style="text-align:left;"> $TSLA still don’t understand why this pumps 20 dollars pre market the past 3 days and close lower we all got fucking played $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:08:30 </td>
-   <td style="text-align:left;"> $TSLA 1060 break even for this Friday. how screwed and I? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:08:11 </td>
-   <td style="text-align:left;"> $TSLA .. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:07:55 </td>
-   <td style="text-align:left;"> $TSLA Red to Green move:  -2.24%  to +0.07% https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan&amp;amp;type=redtogreenDaily </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:06:06 </td>
-   <td style="text-align:left;"> $TSLA 
-Ummm Good news Bulls
-For 2 days now </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:05:41 </td>
-   <td style="text-align:left;"> $TSLA  I I starting to doubt myself..... tesla and appl can&amp;#39;t make the breakthrough..... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:05:38 </td>
-   <td style="text-align:left;"> $TSLA market is painted red </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2021-12-30 08:05:30 </td>
-   <td style="text-align:left;"> $TSLA We need a green day tomorrow. </td>
   </tr>
 </tbody>
 </table></div>
