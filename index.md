@@ -90,7 +90,7 @@ At present, sources of news include:
 
 
 
-Last Updated: 2022-01-10 10:53:32 UTC +8
+Last Updated: 2022-01-10 16:05:51 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -103,10 +103,233 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/romania/balance-of-trade </td>
+   <td style="text-align:left;"> 2022-01-10 15:57:45 </td>
+   <td style="text-align:left;"> Romania Trade Gap Widens in November </td>
+   <td style="text-align:left;"> Romania's trade deficit widened to EUR 2.16 billion in November 2021 from EUR 1.58 billion gap in the same month the previous year. Exports grew 17.5 percent year-on-year to EUR 7.09 billion, while imports rose at a faster 21.5 percent to a new record high of EUR 9.25 billion. Considering the first eleven months of the year, the trade gap increased sharply to EUR 21.37 billion from EUR 16.44 billion in the same period of 2020. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/switzerland/government-bond-yield </td>
+   <td style="text-align:left;"> 2022-01-10 15:54:05 </td>
+   <td style="text-align:left;"> Switzerland 10Y Bond Yield Hits 3-year High </td>
+   <td style="text-align:left;"> Switzerland 10 Year Government Bond Yeld increased to a 3-year high of 0.016% </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/united-kingdom/stock-market </td>
+   <td style="text-align:left;"> 2022-01-10 15:50:26 </td>
+   <td style="text-align:left;"> UK Stocks Set to Open Higher </td>
+   <td style="text-align:left;"> The FTSE 100 headed for a positive session on Monday, extending a third week of gains, as investors across the globe await another US inflation print later this week that could provide further guidance on the Federal Reserve's monetary policy path. US policymakers are now expected to start raising interest rates four times this year as the CPI is seen hitting a near four-decade high of 7% year-on-year. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/austria/government-bond-yield </td>
+   <td style="text-align:left;"> 2022-01-10 15:49:35 </td>
+   <td style="text-align:left;"> Austria 10Y Bond Yield Hits 21-month High </td>
+   <td style="text-align:left;"> Austria 10 Year Government Bond Yeld increased to a 21-month high of 0.201% </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/denmark/inflation-cpi </td>
+   <td style="text-align:left;"> 2022-01-10 15:48:12 </td>
+   <td style="text-align:left;"> Danish Inflation Rate Eases in December </td>
+   <td style="text-align:left;"> Denmark's annual inflation declined to 3.1% in December of 2021 from 3.4% a month earlier, due to softer rises in prices of food and non-alcoholic beverages (1.6% vs 2.1% in November),  housing, water, electricity, gas and other fuels (5.2% vs 5.3%), transport (6.6% vs 9.5%), and restaurants &amp; hotels (3.6% vs 3.7%). Meanwhile, prices continued to increase for clothing &amp; footwear (2.4% vs 1.3%), miscellaneous goods and services (1.6% vs 1.5%), while rebounded for furnishing, household maintenance (0.1% vs -1.3%), health (0.3% vs -0.3%), and furnishing, household maintenance (0.1% vs -1.3%). On the other hand, inflation was steady for recreation &amp; culture (at 1.5%), education (at 2.1%). By contrast, prices fell for: communication (-1.1% vs 0.1%), alcoholic beverages, tobacco (-0.2% vs -0.3%). On a monthly basis, consumer prices fell by 0.5%, reversing from a 0.3 percent gain in November. The harmonized index of consumer prices rose 3.4%, easing from a 3.8% growth in November. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/china/stock-market </td>
+   <td style="text-align:left;"> 2022-01-10 15:45:24 </td>
+   <td style="text-align:left;"> China Stocks Rise on Reform Expectations </td>
+   <td style="text-align:left;"> The Shanghai Composite rose 0.39% to close at 3,594 while the Shenzhen Component gained 0.44% to 14,407 on Monday, as mainland stocks erased early losses and staged a broad market rebound, led by Shanghai’s tech-focused STAR Market amid reform expectations. The China Securities Regulatory Commission said late on Friday it will pilot market-making on Shanghai’s Nasdaq-style STAR Market in a bid to deepen reforms and improve liquidity. The announcement followed pledges by the agency’s head to adopt various measures to stabilize the market, as an ugly start to 2022 prompted him to ease investors’ nerves. Nearly all sectors of the market rebounded following sharp declines last week, with notable gains from Kweichow Moutai (1.24%), China Mobile (2.05%), Tianqi Lithium (3.59%), Andon Health (1.82%) and Muyuan Foods (5.35%), among others. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/romania/unemployment-rate </td>
+   <td style="text-align:left;"> 2022-01-10 15:39:59 </td>
+   <td style="text-align:left;"> Romania Jobless Rate Unchanged at 5.2% </td>
+   <td style="text-align:left;"> Romania's seasonally adjusted unemployment was at 5.2 percent in November, unchanged from a downwardly revised figure in October, with the number of unemployed rising 8 thousand from the previous month to 432 thousand. Meanwhile, the jobless rate for men was stable (at 5.5 percent) while that for women increased (4.9 percent vs 4.7 percent). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/germany/stock-market </td>
+   <td style="text-align:left;"> 2022-01-10 15:39:00 </td>
+   <td style="text-align:left;"> European Shares Set to Start Week Higher </td>
+   <td style="text-align:left;"> European shares look set to open up slightly on Monday following losses last week, as investors remain cautious ahead of the release of a batch of economic data including the US inflation rate due Wednesday. The CPI is seen climbing to a near four-decade high of 7% year-on-year, which could prompt the Federal Reserve to deliver in March its first interest-rate hike since the pre-pandemic era. Last Friday, inflation in the Eurozone hit 5% in December, a new record high. Elsewhere, rising COVID-19 infections added to traders' concerns. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/ireland/government-bond-yield </td>
+   <td style="text-align:left;"> 2022-01-10 15:32:17 </td>
+   <td style="text-align:left;"> Ireland 10Y Bond Yield Hits 21-month High </td>
+   <td style="text-align:left;"> Ireland 10 Year Government Bond Yeld increased to a 21-month high of 0.372% </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/china/currency </td>
+   <td style="text-align:left;"> 2022-01-10 15:27:41 </td>
+   <td style="text-align:left;"> Chinese Yuan Gains on Corporate Demand </td>
+   <td style="text-align:left;"> The offshore yuan edged higher toward 6.375 per dollar on Monday, as corporate demand ahead of the Lunar New Year offset expectations of a more aggressive monetary tightening by the US Federal Reserve. The People’s Bank of China also set the midpoint rate at a near 3-week high of 6.3653 per dollar, 89 pips firmer than the previous fix of 6.3742. The moves came after the yuan depreciated last week as strong hawkish signals from the Fed sent US Treasury yields higher, squeezing the yield spread between Chinese and US 10-year government bonds and raising the risk of capital outflows. Meanwhile, the Chinese central bank is widely expected to ease monetary policy further  to cushion an economic slowdown. Investors also grew concerned over China’s zero-tolerance approach to Covid as the first cases of the omicron variant was reported in the city of Tianjin. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/denmark/balance-of-trade </td>
+   <td style="text-align:left;"> 2022-01-10 15:19:00 </td>
+   <td style="text-align:left;"> DanishTrade Surplus Widens in November </td>
+   <td style="text-align:left;"> Denmark's goods and services trade surplus increased to a seasonally adjusted DKK 17.6 billion in November 2021 from an upwardly revised DKK 16.6 billion in the previous month. Exports rose 3.7 percent month-on-month to DKK 135.8 billion. Meanwhile, imports grew at a softer 3.3 percent from a month earlier to DKK 118.1 billion. Considering the first eleven months of the year, the trade surplus widened to DKK 153.6 billion from DKK 151.1 billion a year earlier. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/turkey/unemployment-rate </td>
+   <td style="text-align:left;"> 2022-01-10 15:18:25 </td>
+   <td style="text-align:left;"> Turkish Jobless Rate Holds Steady at 11.2% </td>
+   <td style="text-align:left;"> The unemployment rate in Turkey stood at 11.2 percent in November 2021, unchanged from October's four-month low. The number of unemployed increased by 39 thousand from the previous month to 3.777 million and employment levels rose by 228 thousand to 29.855 million. Job gains occurred in all sectors: services (up 95 thousand); industry (up 73 thousand); agriculture (up 49 thousand); and construction (up 10 thousand). Meanwhile, the labor underutilization dropped to 22.1 percent from 22.8 percent a month earlier; while the youth jobless rate for those aged between 15-24 years was up 1.7 percentage points at 22.3 percent. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/denmark/current-account </td>
+   <td style="text-align:left;"> 2022-01-10 15:18:00 </td>
+   <td style="text-align:left;"> Denmark Current Account Surplus Widens </td>
+   <td style="text-align:left;"> Denmark's current account surplus rose to a seasonally adjusted DKK 21.4 billion in November 2021 from an upwardly revised DKK 20.8 billion in the previous month. It was the largest current account surplus since June 2020, as the surplus of goods account increased to DKK 7.3 billion from DKK 6.5 billion in October and that of services account edged up to DKK 10.3 billion from DKK 10 billion. Meantime, the surplus of primary income fell slightly to DKK 7.8 billion from DKK 8.1 billion in October; while the gap of secondary income was at DKK 4.0 billion, compared with a deficit of DKK 3.9 billion in October. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.cnn.com/2022/01/10/tennis/djokovic-australia-covid-hearing-intl-hnk/index.html </td>
+   <td style="text-align:left;"> 2022-01-10 15:14:43 </td>
+   <td style="text-align:left;"> Novak Djokovic:Judge orders tennis star be freed from immigration detention in Australia - CNN </td>
+   <td style="text-align:left;"> (CNN)World tennis No. 1 Novak Djokovic will be allowed to defend his men's singles title at the Australian Open in Melbourne this month, after a judge quashed the government's decision to cancel his visa and ordered him to be freed.                                                                                                                               , Following hours of deliberations, technical glitches and arguments from both sides, Justice Anthony Kelly ordered Djokovic to be released from a temporary hotel detention facility and his possessions returned within 30 minutes of the Monday ruling.                                                                                                                , Justice Kelly also ordered the respondent in the case -- the Australian Ministry of Home Affairs -- to pay Djokovic's legal costs.                                                                                                                                                                                                                                      , Following the decision, a lawyer for the government said Australia's Minister for Immigration reserves the right to personally intervene in the case. Christopher Tran, acting for the government, said Minister Alex Hawke retains ministerial power to remove Djokovic from the country, despite the ruling.                                                          , The ruling, held via video link at the Australian Federal Circuit Court in Melbourne, comes after days of speculation and public anger about whether the tennis star would be able to play in the Australian Open, despite being unvaccinated for Covid-19.                                                                                                             , The 34-year-old Serb flew to Australia on January 5, only to have his visa canceled after Australian Border Force deemed his medical exemption from requirements that all arrivals be fully vaccinated against Covid-19 was invalid.                                                                                                                                    , Faced with deportation and his hopes of winning a record 21st Grand Slam in jeopardy, Djokovic launched a legal challenge.                                                                                                                                                                                                                                              ,                                                                                                                                                                                                                                                                                                                                                                         , During the hearing, Djokovic's legal team argued he had obtained the required medical exemption to travel to Australia and bypass vaccination restrictions for Covid-19. That exemption had been granted on the grounds that Djokovic had natural immunity after being infected with Covid-19 in December, his defense argued.                                          , Djokovic, who has previously voiced opposition to Covid-19 vaccines and vaccine mandates, was unvaccinated when he arrived in Australia. In his ruling, the judge noted that if Djokovic had been deported, he would have been banned from Australia for three years.                                                                                                   , The case has attracted worldwide attention and sparked anger from both his supporters and critics, with some saying his case shows celebrities are getting special treatment when it comes to Australia's tough Covid-19 rules, which have seen families separated for years, and others who believe coronavirus restrictions are encroaching on their civil liberties. , Djokovic's situation has also highlighted the plight of asylum seekers in Australia -- with dozens of refugees inside the same hotel as Djokovic who have been locked up for years, and who face indefinite detention under Australia's tough immigration rules.                                                                                                        , The arguments                                                                                                                                                                                                                                                                                                                                                           , The arguments for both the defense and the government essentially centered around guidelines issued from an advisory group for the federal government called the Australian Technical Advisory Group on Immunization (ATAGI).                                                                                                                                           , Nick Wood, Senior Counsel representing Djokovic, argued ATAGI advice states that past Covid infection provides at least six months of natural protection -- "and therefore may be regarded as a temporary exemption to vaccination."                                                                                                                                    , He said Djokovic understood he'd been given approval to come to Australia by the government, and had made repeated appeals to federal officers in Melbourne that "he had done absolutely everything that he understood was required for him to enter Australia."                                                                                                        , "Any reasonable person would understand, and he did understand, that he had ticked absolutely every box," Wood added.                                                                                                                                                                                                                                                   ,                                                                                                                                                                                                                                                                                                                                                                         , Lawyers for Australian Minister for Home Affairs, Karen Andrews, defended the Australian Border Force decision to deport Djokovic, arguing the tennis star did not provide any medical reason why he could not be vaccinated against Covid-19.                                                                                                                          , The government said Djokovic was mistaken to think he was guaranteed entry, and that a previous Covid infection does not equate to a valid medical reason why he could not be vaccinated.                                                                                                                                                                               , They pointed to the same ATAGI guidelines, which say despite acknowledgment of natural protection, past infection "is not a contraindication to vaccination" -- meaning it is not a valid reason for somebody not to get the vaccine.                                                                                                                                   , The government also argued that while those guidelines suggest people can temporarily put off their vaccination after acute illness, "there was no suggestion Djokovic was seriously ill."                                                                                                                                                                              , "All he has said is that he tested positive for Covid-19. That is not the same," the government said in its court submission.                                                                                                                                                                                                                                           ,                                                                                                                                                                                                                                                                                                                                                                         , Tran, the government's barrister, said authorities have a low bar to canceling visas and that even the possibility of a risk to Australians' health was reason enough.                                                                                                                                                                                                  , Justice Anthony Kelly, however, appeared to acknowledge Djokovic's position, saying he was "agitated" by the burden placed on the tennis star to provide officials with evidence.                                                                                                                                                                                       , Djokovic had recorded a Covid-19 infection in December -- which two independent panels agreed to be a good enough reason to delay Djokovic's need to be vaccinated.                                                                                                                                                                                                     , "What more could this man have done?" Judge Kelly said.                                                                                                                                                                                                                                                                                                                 , What Djokovic is playing for at the Australian Open                                                                                                                                                                                                                                                                                                                     , The visa debacle had threatened Djokovic's chances of winning a record 21st Grand Slam at the Australian Open, which kicks off in Melbourne on January 17.                                                                                                                                                                                                              , Djokovic currently holds 20 Grand Slam victories, equaling the all-time record with tennis greats Spain's Rafael Nadal and Switzerland's Roger Federer.                                                                                                                                                                                                                 , A victory in Melbourne would mean Djokovic breaks the record for the most career grand slams ever held by a man.                                                                                                                                                                                                                                                        , That is a very real possibility -- Djokovic has won the Australian Open nine times before.                                                                                                                                                                                                                                                                              , Federer, 40, is not playing in Melbourne and while Nadal, 35, is set to play, he has been beset with injury.                                                                                                                                                                                                                                                            , The pair have faced each other 58 times, with Djokovic leading with 30 wins to 28. Nadal, who has won one Australian Open in 2009, is ranked world No. 6.                                                                                                                                                                                                               , CNN's Hilary Whiteman, Hannah Ritchie and Angus Watson contributed reporting. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/finland/government-bond-yield </td>
+   <td style="text-align:left;"> 2022-01-10 15:00:05 </td>
+   <td style="text-align:left;"> Finland 10Y Bond Yield Hits 21-month High </td>
+   <td style="text-align:left;"> Finland 10 Year Government Bond Yeld increased to a 21-month high of 0.192% </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/japan/currency </td>
+   <td style="text-align:left;"> 2022-01-10 14:59:44 </td>
+   <td style="text-align:left;"> Japanese Yen Steadies Amid Calls for Stability </td>
+   <td style="text-align:left;"> The Japanese yen steadied around 115.8 per US dollar on Monday, gaining some ground after dipping to 116.35 last week, as the Japanese finance minister stressed the need for currency stability and said he was watching market moves closely and their impact on the economy. Analysts have warned of negative implications from a weak yen, which pushes up import prices and households’ cost of living at a time when the economy is recovering from the pandemic. However, the yen remained close to 5-year lows as monetary policy between Japan and other countries continued to diverge. While other central banks signaled readiness to normalize monetary settings, the Bank of Japan is widely expected to maintain its ultra-loose policy as Japanese inflation remained well below the 2% central bank target. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/australia/currency </td>
+   <td style="text-align:left;"> 2022-01-10 14:51:42 </td>
+   <td style="text-align:left;"> Aussie Dollar Pressured as Fed, Virus Weigh </td>
+   <td style="text-align:left;"> The Australian dollar hovered below $0.72 on Monday, remaining under pressure amid a steady rise in US Treasury yields as traders braced for a more aggressive monetary tightening by the Federal Reserve. The latest Fed minutes revealed US policymakers considered quicker interest rate hikes and discussed quantitative tightening this year to tame persistently high inflation. The firm hawkish stance pushed US bond yields higher, hurting stocks and risk-sensitive currencies. Meanwhile, the Reserve Bank of Australia has repeatedly insisted that a hike in domestic rates is not likely until 2023, or until inflation pushes sustainably within its 2-3% target range. The latest omicron wave in the country also complicated the outlook for the economy and interest rates. Moreover, the RBA lagged behind other major central banks in dialing back pandemic-era stimulus, but is set to decide whether to end its bond-buying early this year at its Feb. 1 meeting. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/egypt/inflation-cpi </td>
+   <td style="text-align:left;"> 2022-01-10 14:39:00 </td>
+   <td style="text-align:left;"> Egypt Inflation Rate Below Estimes </td>
+   <td style="text-align:left;"> The annual inflation rate in Egypt increased to 5.9% in December of 2021 from 5.6% in November, but below market expectations of 6.1%. On a monthly basis, consumer prices edged down 0.1%, the first monthly decline in 11 months, reversing from a 0.1% rise in the previous </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/new-zealand/currency </td>
+   <td style="text-align:left;"> 2022-01-10 14:34:57 </td>
+   <td style="text-align:left;"> New Zealand Dollar Struggles for Momentum </td>
+   <td style="text-align:left;"> The New Zealand dollar hovered below $0.679 on Monday, struggling to gain momentum amid a steady rise in US Treasury yields as traders braced for a more aggressive monetary tightening by the Federal Reserve. The latest Fed minutes revealed US policymakers considered quicker interest rate hikes and discussed quantitative tightening this year to tame persistently high inflation. The firm hawkish stance pushed US bond yields higher, hurting stocks and risk-sensitive currencies. Meanwhile, the Reserve Bank of New Zealand has already hiked interest rates twice to 0.75% this year and is widely expected to move to 1.0% at its Feb. 23 policy meeting amid persistent inflation and record low unemployment. A milder than expected third quarter economic contraction in New Zealand also solidified expectations of further central bank monetary tightening, but moves in the currency remained subdued. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/commodity/steel </td>
+   <td style="text-align:left;"> 2022-01-10 14:28:00 </td>
+   <td style="text-align:left;"> Steel is down by 2.07% </td>
+   <td style="text-align:left;"> Steel Rebar decreased 2.07% to 4551 CNY/T but not far from CNY 4,600 a tonne, amid restocking demand and renewed steel production controls in Tangshan city as industrial companies in China's steel hub were ordered to cut their production after an orange alert for heavy pollution was issued on January 3rd. Top steel producer China is expected to keep output restrictions in place to ensure smog-free skies as it hosts the 2022 Winter Olympic Games in February. On the demand side, low temperatures have been reducing construction activity in many parts of China. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/australia/stock-market </td>
+   <td style="text-align:left;"> 2022-01-10 14:25:40 </td>
+   <td style="text-align:left;"> Australian Shares Fall as Tech Stocks Weigh </td>
+   <td style="text-align:left;"> The S&amp;P/ASX 200 Index shed 0.08% to close at 7,447 on Monday, as Australian tech names remained under pressure from prospects of higher interest rates, while investors continued to monitor the Covid situation closely. High-growth technology stocks sold off globally at the start of the year amid strong hawkish signals from the US Federal Reserve, which indicated that it could tighten monetary policy more aggressively than anticipated. The biggest decliners in local tech names include Xero Ltd (-2.75%), Afterpay (-2.31%), Wisetech Global (-2.72%), Nextdc Ltd (-1.63%) and Seek Ltd (-0.68%). Healthcare, consumer and financial stocks also fell, while energy and mining firms mostly gained. Meanwhile, authorities in the country reinstated some restrictions to battle a record spike in Covid cases, with an official modeling indicating that the omicron outbreak in New South Wales could peak by the end of January. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/kazakhstan/services-pmi </td>
+   <td style="text-align:left;"> 2022-01-10 14:23:03 </td>
+   <td style="text-align:left;"> Kazakhstan Services Sector Returns to Growth </td>
+   <td style="text-align:left;"> The Tengri Partners Kazakhstan Services PMI increased to 52.7.in December of 2021 from 48.7 in the previous month, signalling a rebound in the sector, as business activity rose strongly due to a fresh uplift in new work, amid reports of stronger client demand. Meanwhile, the rate of the job shedding eased to the softest since the current sequence of decline began in September and only marginal. On the price front, input prices increased due to a rise in prices of raw material and transport costs. Nonetheless, the rate of increase eased noticeably from November's peak, though it remained marked overall. Meanwhile, output cost inflation was largely unchanged. Looking ahead, business sentiment strengthened to a 6-month high on hopes that demand conditions would improve, and COVID-19 related issues subside in 2022. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/new-zealand/stock-market </td>
+   <td style="text-align:left;"> 2022-01-10 14:20:58 </td>
+   <td style="text-align:left;"> New Zealand Stocks Fall on Broad Decline </td>
+   <td style="text-align:left;"> The NZX 50 Index lost 0.6% to close at 12,893 on Monday, falling for a third straight session as stocks in New Zealand came under pressure from rising bond yields. The benchmark 10-year bond yield in New Zealand jumped to 2.54% on Monday, tracking a steady rise in US Treasury yields as traders braced for a more aggressive monetary tightening by the US Federal Reserve. Nearly all sectors of the market declined, with notable losses from Tourism Holdings (-4.55%), EBOS (-3.98%), Sky Network (-3.53%), Mercury NZ (-3.14%) and Serko (-2.99%), among others. Meanwhile, stocks that were able to resist the selloff include Sanford (2.67%), Restaurant Brands NZ (1.79%) and A2 Milk (1.56%). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/kazakhstan/composite-pmi </td>
+   <td style="text-align:left;"> 2022-01-10 14:20:00 </td>
+   <td style="text-align:left;"> Kazakhstan Private Sector Bounces Back </td>
+   <td style="text-align:left;"> The Tengri Partners Kazakhstan Composite PMI increased to 51.6 in December 2021 from 49.1 in the prior month, signaling a fresh upturn in private sector activity that was moderate overall. At the sector level, the first fall in factory production since August was counteracted by a return to growth in services. New orders expanded marginally following a slight dip in November, while employment fell at the softest rate in four months. Turning to prices, inflationary pressures remained severe by historical standards. Input prices rose further, but the rate of inflation eased significantly from November's peak. As a result, average charges went up the least since September. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/saudi-arabia/industrial-production </td>
+   <td style="text-align:left;"> 2022-01-10 14:08:37 </td>
+   <td style="text-align:left;"> Saudi Industrial Output Growth Strongest in 5 Months </td>
+   <td style="text-align:left;"> Industrial production in Saudi Arabia expanded by 10.3 percent year-on-year in November 2021, accelerating sharply from a 7.7 percent rise in the previous month. It was the fastest rate in industrial production since June, as production grew faster for mining and quarrying (10.4 percent vs 9.1 percent in October), manufacturing (9.7 percent vs 4.0 percent), and electricity and gas supply (11.9 percent vs 4.7 percent). On a seasonally adjusted monthly basis, industrial output rose by 2.0 percent in November, following a 1.7 percent gain in the prior month. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/india/stock-market </td>
+   <td style="text-align:left;"> 2022-01-10 14:02:00 </td>
+   <td style="text-align:left;"> Indian Shares Climb on Auto, Banking Boost </td>
+   <td style="text-align:left;"> The BSE Sensex and Nifty 50 indices each rose about 0.8% on Monday, extending gains to a second session as auto and bank stocks provided a boost, while investors remained on edge amid rising Covid cases. The market moves came after three weeks of strong gains from both averages as investors in Indian equities shrugged off prospects of higher global interest rates. Early market leaders include Tata Motors (2.3%), Maruti Suzuki (3.4%), Icici Bank (1.2%), State Bank of India (1.1%) and Kotak Mahindra Bank (1.6%). Technology firms also advanced, with sharp gains from Infosys (2.6%), KPIT Technologies (4.3%) and Tech Mahindra (1%). Meanwhile, India recorded 179,723 fresh Covid cases, with the fast-spreading omicron variant fuelling an almost eight-fold rise in daily infections since the start of the year. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/united-states/currency </td>
+   <td style="text-align:left;"> 2022-01-10 13:44:46 </td>
+   <td style="text-align:left;"> Dollar Steadies as Traders Eye Inflation Data </td>
+   <td style="text-align:left;"> The dollar index steadied near the 96 level on Monday, as traders await December US inflation data due later this week to guide the outlook for monetary policy. Markets also expect further hawkish commentary from Federal Reserve chair Jerome Powell as he testifies before the Senate this week, along with governor Lael Brainard, regarding their nominations. Meanwhile, the index dropped half a percent in the previous session as the December jobs report missed expectations. However, the case for monetary tightening remained intact following hawkish minutes from the Fed’s December meeting, which indicated the central bank could reduce its balance sheet in addition to hiking interest rates. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/netherlands/manufacturing-production </td>
+   <td style="text-align:left;"> 2022-01-10 13:39:00 </td>
+   <td style="text-align:left;"> Dutch Manufacturing Output Growth Accelerates in November </td>
+   <td style="text-align:left;"> The average daily output generated by the Dutch manufacturing industry grew by 10.6 percent year-on-year in November 2021, accelerating from a 9.9 percent rise in October. It was the ninth straight month of expansion in manufacturing output, as production expanded faster for machinery (58.7 percent vs 57.2 percent in October), metal products (7.9 percent vs 5.6 percent), rubber and plastic (3.8 percent vs 0.3 percent), food (3.2 percent vs 0.9 percent), and electrical industry (11.3 percent vs 10.5 percent). Meanwhile, output contracted further for transport equipment (-4.6 percent vs -15.7 percent) and repair and installation of machinery (-13.6 percent vs -0.5 percent). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/commodity/gold </td>
+   <td style="text-align:left;"> 2022-01-10 13:08:16 </td>
+   <td style="text-align:left;"> Gold Hovers Near 3-Week Low </td>
+   <td style="text-align:left;"> Gold hovered near 3-week lows below $1,800 on Monday, weighed down by firmer bond yields as traders braced for a more aggressive monetary tightening by the Federal Reserve in a bid to tame high inflation. US Treasury yields topped 1.8% last week following hawkish minutes from the Fed’s December meeting. It revealed the central bank discussed reducing its balance sheet in another move to aggressively dial back pandemic-era stimulus, after previously signaling three interest rate hikes this year.  Although investors view gold as a hedge against inflation, higher interest rates raise the opportunity cost of holding non-yielding bullion. Meanwhile, traders await December US inflation data that could reinforce the Fed’s hawkish stance after weaker jobs data. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.cnn.com/2022/01/10/politics/joe-biden-voting-rights-democracy-russia-diplomacy/index.html </td>
+   <td style="text-align:left;"> 2022-01-10 13:00:59 </td>
+   <td style="text-align:left;"> Analysis: Joe Biden confronts challenges to democracy at home and abroad this week - CNNPolitics </td>
+   <td style="text-align:left;"> (CNN)President Joe Biden's fresh vow to save democracy faces an immediate test at home and abroad this week, with a long-shot voting rights push and the most critical US diplomacy with Russia since the Cold War.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , With his forceful speech on the anniversary of the January 6 insurrection last week, Biden appeared to engineer a political pivot, putting his credibility on the line to pass new laws rolling back Republican state voter suppression bills and restoring minority voting rights. He will travel to Atlanta, a city synonymous with the civil rights movement, on Tuesday, to try to dislodge the "dagger" he suggested ex-President Donald Trump and his Republican Party are holding "at the throat of our democracy." But to be successful, Biden must find a way to overcome the roadblock that has so far also derailed his social spending and climate agenda -- opposition to amending Senate filibuster rules among moderate Democrats including Sens. Joe Manchin and Kyrsten Sinema.                                                                                                                                                                                                                                                            ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , Biden's administration is also locked in consequential work overseas, with a flurry of talks with Russia amid US warnings that President Vladimir Putin may be poised to invade a young democracy -- Ukraine. The Kremlin is using its former satellite state as a pawn in a gambit aimed at driving NATO out of Eastern European democracies that were once within its Cold War orbit. US efforts to convince Russia to stand down will have huge implications for the geopolitical situation in Europe. And Biden's tussle for influence with Putin is all the more ironic since the Russian leader is not only threatening democracy across the Atlantic. He is accused by US intelligence of interfering in US elections to help Trump, the ex-President who eventually sought to deny the will of voters in 2020 by attempting a coup and who often genuflected toward the Russian leader.                                                                                                                                                             , The talks in Europe, and Biden's capacity to unlock the voting rights puzzle in Washington, will be a marker of his presidential clout as he tries to bounce back after a rough political patch. The stakes of the voting rights initiative is huge, testing Democrats' ability to protect access to the franchise, especially for minority voters, which is under threat from GOP-led legislatures inspired by Trump's lies. And the two-front administration push will go a long way toward deciding the outcome in the US and internationally of a presidency Biden has dedicated to safeguarding the global democracy that he says is under mortal threat.                                                                                                                                                                                                                                                                                                                                                                                              , A full bore push for voting rights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          , Voting rights has often seemed less of a priority than other Biden agenda items in a first year in power dominated by the pandemic and ambitious spending proposals, including the bipartisan infrastructure law that passed and the stalled social safety net bill.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , But both Biden and Vice President Kamala Harris will travel to Atlanta to build support for the Freedom to Vote Act and the John Lewis Voting Rights Advancement Act. The first bill would make Election Day a public holiday, mandate same-day voter registration and allow all voters to request mail-in ballots, among other provisions. It would also reverse partisan takeovers of election administration contained in some recent GOP legislation in the states. The latter bill would restore federal government oversight of state voting laws gutted by the Supreme Court in a 2013 decision. Since Republicans universally oppose the Freedom to Vote Act and only one of their senators, Alaska's Lisa Murkowski, backs the measure named for civil rights hero and late Democratic Rep. John Lewis, Democrats must get around Republican use of the filibuster that requires a supermajority of 60 votes to pass most major legislation. But Manchin of West Virginia and Sinema of Arizona have been reluctant to water down filibuster rules., Many Democrats are pleading with them to relent, arguing that a cascade of voter suppression laws passed by Republican-run states represents an existential threat to free and fair elections that can only be reversed by federal action in what may be the waning months of Democratic power before midterm elections in November.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , Senate Majority Leader Chuck Schumer, a New York Democrat, has vowed to hold a vote by Martin Luther King Jr. Day -- a week from Monday -- if Republicans do not yield. Supporters of the legislation are pushing for a limited filibuster opt-out for a voting rights overhaul and are trying to get Manchin on board -- especially given that he wrote the Freedom to Vote Act himself, after Republicans balked at an earlier bill that contained more sweeping reforms.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 , "He pulled it together and they're still refusing to support it, so he has all the cover he needs to now step away and do what we need done, and that is provide the 49th vote and I hope that the 50th vote will come along," House Majority Whip James Clyburn said on CNN's "Newsroom" on Saturday.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , Speaking to Fox's Bret Baier on Sunday, the South Carolina Democrat increased the pressure on Manchin. He said he agreed with Massachusetts Democratic Sen. Elizabeth Warren that the Senate filibuster had "deep roots in racism" and should not be allowed to cement a veto for the minority.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , Manchin last week dealt a blow to the hopes of voting reform advocates like Clyburn, a key figure in rescuing Biden's then-languishing presidential campaign in early 2020 and an important ambassador to Black voters.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     , "I've always been for rules being done the way we've always done, two-thirds of the members voting," Manchin indicated to CNN's Jake Tapper. He warned that getting rid of the filibuster would hurt Democrats if Republicans win back control of the Senate. "The reason I say it's a heavy lift is once you change a rule or you have a carve out -- I've always said this -- anytime there's a carve out, you eat the whole turkey. There's nothing left because it comes back and forth," he said.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , But House Speaker Nancy Pelosi on Sunday poured more pressure on recalcitrant senators from her party, describing Republican state voting laws, which in many cases make it harder to cast ballots and easier for politicians to interfere in elections, as a "very major threat on our democracy."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         , "They are not only suppressing the vote ... they are nullifying elections," the California Democrat said on CBS's "Face the Nation."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , Republicans like Senate Minority Leader Mitch McConnell accuse Democrats of threatening the right of states to run their own elections. Many of the new state laws, however, are justified on the grounds of "election integrity" -- a code word rooted in Trump's lies about voter fraud in the 2020 presidential vote that have been disproved multiple times.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , Russia and China think 'democracy's days are numbered'                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , During his January 6 anniversary speech in Statuary Hall in the Capitol on Thursday, Biden warned that foreign enemies were watching to see whether the United States safeguarded its own democracy under an unprecedented threat in modern times.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          , "From China to Russia and beyond, they're betting that democracy's days are numbered," Biden said. "They're betting America's a place for the autocrat, the dictator, the strongman."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Two of the most dangerous US foreign policy challenges involve two democracies -- Taiwan and Ukraine -- pinning their hopes of survival on American support as they exist under threat from much more powerful and proprietorial autocracies, China and Russia.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , Biden has personally warned Putin at several virtual summits of devastating sanctions if he orders tens of thousands of Russia troops into Ukraine to follow up on the Russian annexation of Crimea in 2014. US officials will give the same message this week in talks that began on Sunday with a working dinner between Deputy Secretary of State Wendy Sherman and Russian Deputy Foreign Minister Sergei Ryabkov in Geneva. The talks will resume on Monday. Two days later, the NATO-Russia Council will convene in Brussels. The Vienna-based Organization for Security and Cooperation in Europe, which includes both Russia and the United States, meets on Thursday.                                                                                                                                                                                                                                                                                                                                                                              , But there is little hope of progress. The United States argues that Russia is demanding concessions that would permanently weaken NATO in Europe with its calls for the withdrawal of troops and weapons from ex-Warsaw Pact nations. Moscow also wants assurances that Ukraine -- a former Soviet state -- will never be allowed to join the alliance.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     , "It's hard to see making actual progress, as opposed to talking, in an atmosphere of escalation with a gun to Ukraine's head," US Secretary of State Antony Blinken told Tapper on "State of the Union" on Sunday. Ryabkov was equally downbeat, saying he was "disappointed" by signals from Washington and Brussels. "In short, they reflect a lack of understanding of what we need," he said before laying out a wish list the West will never accept. "We need legal guarantees, legal guarantees that NATO will not expand further, eliminate everything that the alliance has created, driven by anti-Russian phobias and all sorts of false ideas about what is the essence of Russian policy for the period since 1997."                                                                                                                                                                                                                                                                                                                           , His warning was chillingly resonant of late 20th century clashes between two ideologically opposed superpowers. While talk of a second Cold War now often refers to a building American clash with China rather than Russia, there is one big difference between the period between the end of World War II and the fall of the Berlin Wall.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                , Back then, the challenge to America democracy came mostly from abroad. Now, it is under siege at home.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/india/government-bond-yield </td>
+   <td style="text-align:left;"> 2022-01-10 12:31:00 </td>
+   <td style="text-align:left;"> India 10Y Bond Yield Hits 23-month High </td>
+   <td style="text-align:left;"> India 10 Year Government Bond Yield increased to a 23-month high of 6.551%, tracking a rally in US treasury yields after FOMC minutes showed the Fed might hike interest rates sooner than anticipated to cool inflation. Meanwhile, the Reserve Bank of India kept the interest rate at a record low of 4% and pledged to maintain an accommodative stance to support economic recovery from the pandemic-induced slump, which further weighed on the domestic bond market. At the same time, the Omicron strain of the coronavirus continues to spread rapidly in the country, prompting several state governments to impose fresh restrictions. Last year, the yield rose by 0.56% amid pandemic after falling by 0.66% in 2020. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/malaysia/industrial-production </td>
+   <td style="text-align:left;"> 2022-01-10 12:11:00 </td>
+   <td style="text-align:left;"> Malaysia Industrial Output Growth Strongest in 6 Months </td>
+   <td style="text-align:left;"> Industrial production in Malaysia jumped by 9.4 percent year-on-year in November 2021, accelerating sharply from a 5.5 percent rise in the previous month and easily beating market forecasts of 7.3 percent. This was the third straight month of increase in industrial output and the strongest pace since May, amid a further relaxation in COVID-19 restrictions and an upturn in the vaccination rate. Manufacturing output growth accelerated (11.3 percent vs 8.0 percent in October), buoyed by electrical &amp; electronics products (17.8 percent), food, beverages and tobacco (12.9 percent), and petroleum, chemical, rubber &amp; plastics (8.5 percent). Also, electricity production grew faster (5.1 percent vs 4.1 percent). In addition, mining activity rebounded strongly (3.7 percent vs -3.5 percent), due to a 10.2 percent increase in the natural gas index. On a monthly basis, industrial output expanded 0.9 percent, rising for the fourth month running. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/malaysia/unemployment-rate </td>
+   <td style="text-align:left;"> 2022-01-10 12:05:00 </td>
+   <td style="text-align:left;"> Malaysia Jobless Rate Down to 4.3% in November </td>
+   <td style="text-align:left;"> The unemployment rate in Malaysia declined to 4.3 percent in November 2021 from 4.8 percent in the same month a year earlier, as the economy recovered from the coronavirus disruptions. The number of unemployed dropped 9.2 percent from a year earlier to 694.4 thousand, while employment increased 2.7 percent to 15.61 million. Meantime, the labor force gained 2.2 percent to 16.30 million. In October 2021, the jobless rate was also at 4.3 percent. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/commodity/brent-crude-oil </td>
+   <td style="text-align:left;"> 2022-01-10 11:12:29 </td>
+   <td style="text-align:left;"> Brent Stabilizes as Supply Returns </td>
+   <td style="text-align:left;"> Brent crude futures steadied near $82 per barrel on Monday after a strong rally last week, as supplies returned in Libya and Kazakhstan. Libyan production rose to 900,000 barrels a day after maintenance in a major pipeline was completed, while some output was restored in Kazakhstan following unrest that interrupted supplies last week. Elsewhere, China began a city-wide testing campaign in the port city of Tianjin after 20 people tested positive, raising demand concerns in the world’s biggest oil importer as the country maintains its zero-tolerance approach to Covid. Meanwhile, oil prices have pushed higher at the start of 2022 amid optimism about global demand coupled with supply constraints. While OPEC+ agreed to boost output further, analysts suggest the group may not be able to deliver the planned amount in full. Declining US crude inventories also buoyed oil prices, with EIA reporting six straight weekly draws. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/indonesia/consumer-confidence </td>
+   <td style="text-align:left;"> 2022-01-10 11:12:00 </td>
+   <td style="text-align:left;"> Indonesia Consumer Morale Little-Changed </td>
+   <td style="text-align:left;"> Indonesia's consumer confidence index inched down 0.2 points to 118.3 in December from 118.5 in the previous month, as three of out the six main sub-indices weakened: economic outlook (down 1.0 points to 136.8); income expectations for the next six months (down 0.4 points to 137.5); and job availability expectations (down 1.2 points to 133.7). Meanwhile, sub-indices improved for current economic conditions (up 0.7 points to 99.9); the assessment of current income (up 1.3 points to 109.6); job availability compared to six months ago (up 1.8 points to 98.1). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/commodity/crude-oil </td>
+   <td style="text-align:left;"> 2022-01-10 11:09:00 </td>
+   <td style="text-align:left;"> Oil Steadies as Supply Concerns Ease </td>
+   <td style="text-align:left;"> WTI crude futures steadied near $79 per barrel on Monday after a strong rally last week, as supplies returned in Libya and Kazakhstan. Libyan production rose to 900,000 barrels a day after maintenance in a major pipeline was completed, while some output was restored in Kazakhstan following unrest that interrupted supplies last week. Elsewhere, China began a city-wide testing campaign in the port city of Tianjin after 20 people tested positive, raising demand concerns in the world’s biggest oil importer as the country maintains its zero-tolerance approach to Covid. Meanwhile, oil prices have pushed higher at the start of 2022 amid optimism about global demand coupled with supply constraints. While OPEC+ agreed to boost output further, analysts suggest the group may not be able to deliver the planned amount in full. Declining US crude inventories also buoyed oil prices, with EIA reporting six straight weekly draws. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.foxbusiness.com/markets/dollar-firm-as-inflation-test-looms </td>
+   <td style="text-align:left;"> 2022-01-10 10:34:03 </td>
+   <td style="text-align:left;"> Dollar firm as inflation test looms </td>
+   <td style="text-align:left;"> Check out what's clicking on FoxBusiness.com.
+                                                                                                                                                                                                  , SYDNEY - The dollar started the week with support as traders bet U.S. inflation data and appearances from several Federal Reserve officials would bolster the case for higher interest rates.                                                      , After dipping on Friday, the greenback stood around its 200-day moving average against the euro at $1.1357 in early Asia trade on Monday. It firmed slightly on the yen to 115.65, fairly close to last week's five-year high of 116.35 per dollar., Trade in the Asia session was thinned by a holiday in Japan.                                                                                                                                                                                       , HOW INFLATION WILL IMPACT YOUR 2022 TAXES                                                                                                                                                                                                          , Federal Reserve chair Jerome Powell and governor Lael Brainard testify before Senate committees this week regarding their nominations as chair and deputy chair at the Fed.                                                                        , U.S. inflation figures are due on Wednesday, with headline CPI seen climbing to a red-hot 7% year-on-year.                                                                                                                                         , The dollar started the week with support as traders bet U.S. inflation data and appearances from several Federal Reserve officials would bolster the case for higher interest rates. (iStock)                                                      , "The dollar index is likely to recoup some of its Friday losses this week on Powell's likely hawkish commentary and rising U.S. inflation," said Scotiabank FX strategist Qi Gao.                                                                  , Cryptocurrencies have faced pressure from broad selling in risk assets at the start of this year, but were steady in Asia after bitcoin managed to hold support at $40,000 through weekend trade.                                                  , Bitcoin last bought $41,784 and ether $3,145.                                                                                                                                                                                                      , Eventually, though, he added that the greenback would probably run out of steam, and the index head towards 94 once money markets fully price in a Fed hike in March.                                                                              , The dollar index last sat at 95.800.                                                                                                                                                                                                               , U.S.-Russia talks over rising tension in Ukraine also have traders on edge as the two sides seem far apart and failure risks an armed confrontation on Europe's doorstep.                                                                          , CLICK HERE TO GET FOX BUSINESS ON THE GO                                                                                                                                                                                                           , The Australian dollar was marginally weaker at $0.7179 early in the Asia session and has been held below resistance around $0.7190.                                                                                                                , The kiwi was steady at $0.6750.                                                                                                                                                                                                                    , The dollar had met with some selling late last week after a weaker-than-expected headline U.S. job-creation figure squeezed traders out of long dollar positions.                                                                                  , But analysts said better-than-expected unemployment numbers still made a good case for hikes sooner rather than later.                                                                                                                             , Fed funds futures have priced an almost 90% chance of a rate hike in March and a more than 90% chance of another one by June and U.S. yields have been surging higher.                                                                             , Sterling was also marginally weaker on the dollar but has been rallying with bets that the Bank of England (BOE) is likely to be hiking in tandem with the Fed.                                                                                    , It was last at $1.3590, near a two-month high, and close to last week's two-year peak on the euro . Strategists at MUFG reckon traders are too hawkish on their rates expectations in Britain but still think sterling will hold its own.          , CLICK HERE TO READ MORE ON FOX BUSINESS                                                                                                                                                                                                            , "We still expect two rate hikes by the BOE which should keep EUR/GBP under modest downward pressure, which will result in GBP/USD advancing to around the 1.4000 level," they said in an outlook note published over the weekend. </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> https://www.bbc.co.uk/news/business-59932551?at_medium=RSS&amp;at_campaign=KARANGA </td>
    <td style="text-align:left;"> 2022-01-10 10:33:12 </td>
    <td style="text-align:left;"> Crisis-hit Sri Lanka asks China to restructure its debt </td>
-   <td style="text-align:left;"> The president of crisis-hit Sri Lanka has asked China to restructure its debt repayments as part of efforts to help the South Asian country navigate its worsening financial situation.                                                                          , Gotabaya Rajapaksa made the request during a meeting with Chinese foreign minister Wang Yi on Sunday.                                                                                                                                                            , In the last decade China has lent Sri Lanka over $5bn (£3.7bn) for projects including roads, an airport and ports.                                                                                                                                               , But critics say the money was used for unnecessary schemes with low returns.                                                                                                                                                                                     , "The president pointed out that it would be a great relief to the country if attention could be paid on restructuring the debt repayments as a solution to the economic crisis that has arisen in the face of the Covid-19 pandemic," Mr Rajapaksa's office said., The statement also said China was asked to provide "concessional" terms for its exports to Sri Lanka, which amounted to around $3.5bn last year, without providing further details.                                                                              , Mr Rajapaksa also offered to allow Chinese tourists to return to Sri Lanka provided they adhere to strict coronavirus regulations.                                                                                                                               , Before the pandemic China was Sri Lanka's main source of tourists and it imports more goods from China than from any other country.                                                                                                                              , In recent months, Sri Lanka has been experiencing a severe debt and foreign exchange crisis, which has been made worse by the loss of tourist income during the pandemic.                                                                                        , China is Sri Lanka's fourth biggest lender, behind international financial markets, the Asian Development Bank and Japan.                                                                                                                                        , The country has received billions of dollars of soft loans from China but the island nation has been engulfed in a foreign exchange crisis which some analysts have said has pushed it to the verge of default.                                                  , Sri Lanka has to repay about $4.5bn in debt this year starting with a $500m international sovereign bond, which matures on 18 January.                                                                                                                           , The country's central bank has repeatedly assured investors that all of its debt repayments will be met and said funds for this month's bond repayment has already been allocated.                                                                               , Sri Lanka is a key part of China's Belt and Road Initiative, a long-term plan to fund and build infrastructure linking China to the rest of the world.                                                                                                           , However, some countries, including the US, have labelled the project a "debt trap" for smaller and poorer nations.                                                                                                                                               , Beijing has always rejected those accusations, and in response has accused some in the West of promoting this narrative to tarnish its image.                                                                                                                    , Last month a Sri Lankan government minister said the country planned to settle a debt for past oil imports from Iran by paying it off in tea.                                                                                                                    , It plans to send $5m worth of tea to Iran each month to clear a $251m debt.                                                                                                                                                                                      , In September, Sri Lanka declared an economic emergency, after a steep fall in the value of its currency, the rupee, caused a spike in food prices.                                                                                                               , Authorities said they would take control of the supply of basic food items, including rice and sugar, and set prices in an attempt to control rising inflation.                                                                                                  , This video can not be played                                                                                                                                                                                                                                     , The very best from around the world including Beck and The Bridge                                                                                                                                                                                                , Uncovering the story of one of America's most corrupt police units                                                                                                                                                                                               , © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
+   <td style="text-align:left;"> The president of crisis-hit Sri Lanka has asked China to restructure its debt repayments as part of efforts to help the South Asian country navigate its worsening financial situation.                                                                          , Gotabaya Rajapaksa made the request during a meeting with Chinese foreign minister Wang Yi on Sunday.                                                                                                                                                            , In the last decade China has lent Sri Lanka over $5bn (£3.7bn) for projects including roads, an airport and ports.                                                                                                                                               , But critics say the money was used for unnecessary schemes with low returns.                                                                                                                                                                                     , "The president pointed out that it would be a great relief to the country if attention could be paid on restructuring the debt repayments as a solution to the economic crisis that has arisen in the face of the Covid-19 pandemic," Mr Rajapaksa's office said., The statement also said China was asked to provide "concessional" terms for its exports to Sri Lanka, which amounted to around $3.5bn last year, without providing further details.                                                                              , Mr Rajapaksa also offered to allow Chinese tourists to return to Sri Lanka provided they adhere to strict coronavirus regulations.                                                                                                                               , Before the pandemic China was Sri Lanka's main source of tourists and it imports more goods from China than from any other country.                                                                                                                              , In recent months, Sri Lanka has been experiencing a severe debt and foreign exchange crisis, which has been made worse by the loss of tourist income during the pandemic.                                                                                        , China is Sri Lanka's fourth biggest lender, behind international financial markets, the Asian Development Bank and Japan.                                                                                                                                        , The country has received billions of dollars of soft loans from China but the island nation has been engulfed in a foreign exchange crisis which some analysts have said has pushed it to the verge of default.                                                  , Sri Lanka has to repay about $4.5bn in debt this year starting with a $500m international sovereign bond, which matures on 18 January.                                                                                                                           , The country's central bank has repeatedly assured investors that all of its debt repayments will be met and said funds for this month's bond repayment has already been allocated.                                                                               , Sri Lanka is a key part of China's Belt and Road Initiative, a long-term plan to fund and build infrastructure linking China to the rest of the world.                                                                                                           , However, some countries, including the US, have labelled the project a "debt trap" for smaller and poorer nations.                                                                                                                                               , Beijing has always rejected those accusations, and in response has accused some in the West of promoting this narrative to tarnish its image.                                                                                                                    , Last month a Sri Lankan government minister said the country planned to settle a debt for past oil imports from Iran by paying it off in tea.                                                                                                                    , It plans to send $5m worth of tea to Iran each month to clear a $251m debt.                                                                                                                                                                                      , In September, Sri Lanka declared an economic emergency, after a steep fall in the value of its currency, the rupee, caused a spike in food prices.                                                                                                               , Authorities said they would take control of the supply of basic food items, including rice and sugar, and set prices in an attempt to control rising inflation.                                                                                                  , This video can not be played                                                                                                                                                                                                                                     , Russell Kane and guests consider the life of the iconic musician                                                                                                                                                                                                 , Featuring music from The Wild Bunch and more                                                                                                                                                                                                                     , © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/china/stock-market </td>
@@ -115,16 +338,10 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
    <td style="text-align:left;"> The Shanghai Composite fell 0.1% while the Shenzhen Component rose 0.15% early on Monday, with losses in consumer, transportation and industrial stocks offsetting gains in technology and healthcare firms, as mainland stocks remained under pressure from the country’s zero-tolerance Covid strategy in the run-up to the Lunar New Year and WInter Olympics. Authorities in the Chinese port city of TIanjin said they began a city-wide testing campaign of its 14 million residents after a cluster of 20 children and adults tested positive for Covid, including two with the omicron variant. China’s approach of responding to small numbers of cases with mass testing and tight lockdowns contrasted with other countries, which have opened up following vaccination campaigns. The market laggards include Cosco Shipping (-4%), Power Construction (-3.9%) and China Tourism (-4.1%), while some gainers were Andon Health (3.9%), Shijiazhuang Yilin (4.5%) and China Greatwall (8.5%). </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> https://www.cnn.com/2022/01/09/entertainment/bob-saget-death-full-house/index.html </td>
-   <td style="text-align:left;"> 2022-01-10 09:19:48 </td>
-   <td style="text-align:left;"> Bob Saget, comedian and 'Full House' star, dead at 65 - CNN </td>
-   <td style="text-align:left;"> (CNN)Bob Saget, the comedian and actor arguably known best by audiences as wholesome patriarch Danny Tanner on the sitcom "Full House," has died, according to a statement from the Orange County Sheriff's Office in Orlando, Florida.                                                                                                                                                                                                   , He was 65.                                                                                                                                                                                                                                                                                                                                                                                                                                 , "Earlier today, deputies were called to the Ritz-Carlton Orlando, Grande Lakes for a call about an unresponsive man in a hotel room. The man was identified as Robert Saget &amp; pronounced deceased on scene. Detectives found no signs of foul play or drug use in this case," the Sheriff's statement read.                                                                                                                                , The cause of death will be determined by the medical examiner, the Sheriff's office added.                                                                                                                                                                                                                                                                                                                                                 , Saget was in Florida as part of his comedy tour. According to tour dates pinned to his Twitter account, he performed Saturday night at Ponte Vedra Beach, Florida.                                                                                                                                                                                                                                                                         , He tweeted after the show, "Loved tonight's show @PV_ConcertHall in Jacksonville. Appreciative audience. Thanks again to @RealTimWilkins for opening. I had no idea I did a 2 hr set tonight. I'm happily addicted again to this s—t."                                                                                                                                                                                                     , Saget, though known on the stage and among his friends for his raunchy humor, first became known to audiences on family-friendly programming. He starred as the widowed father of three girls on ABC's "Full House" and then as host of the network's "America's Funniest Home Videos" clip show.                                                                                                                                          , As Saget recalled to Jake Tapper in a July 2021 interview, the track of his career was unexpected.                                                                                                                                                                                                                                                                                                                                         , "'Full House' was an accident," he said. "I got fired on CBS and was asked to be in 'Full House.'"                                                                                                                                                                                                                                                                                                                                         , The sitcom, which starred Candace Cameron Bure, Jodie Sweetin and twins Mary Kate and Ashley Olsen in one role, ran for eight seasons. It lived on in syndication with strong enough nostalgia surrounding it that Netflix picked up a spin-off in 2016, "Fuller House," starring Bure but featuring frequent appearances from original stars, including Saget, Dave Coulier and John Stamos. It ran for five seasons, concluding in 2020. , "I'm close with all the kids. It doesn't happen a lot in the world where you stay close with all the people," Saget told Tapper. "We're an unusual cast in that way that I have been able to remain close with everybody, because I don't take eight years of my life lightly and then the other five or six years, six seasons."                                                                                                          , His "Full House" co-star Stamos expressed his grief over the loss of his friend and former colleague on Sunday.                                                                                                                                                                                                                                                                                                                            , "I am broken. I am gutted," Stamos wrote on Twitter. "I am in complete and utter shock. I will never ever have another friend like him. I love you so much Bobby."                                                                                                                                                                                                                                                                         , Following his first round of sitcom fame, Saget worked steadily in film and television roles but became known to a new generation of sitcom fans on CBS's "How I Met Your Mother," acting as narrator and the voice of future Ted Mosby. That show ran until 2014.                                                                                                                                                                         , Throughout the years, Saget remained a fixture in stand-up comedy, releasing multiple specials over the years and taking his show on the road.                                                                                                                                                                                                                                                                                             , Saget's reputation for reveling in a much edgier brand of comedy could be seen in movies like "The Aristocrats" -- exploring the competition among comics to tell the filthiest version of the same joke -- and his guest stint on HBO's "Entourage" as a version of himself.                                                                                                                                                              , Asked by Esquire to define his humor in a 2013 interview, Saget explained, "I am basically just a nine-year-old boy that evolved." Toward that end, Saget seemed to relish pushing back against his success in squeaky-clean shows, telling dirty jokes at ABC events to make the executives squirm.                                                                                                                                       , Saget was in the midst of a tour at the time of his death that was set to take him to locations in New York, Canada and several other locations in the coming months.                                                                                                                                                                                                                                                                      , According to his website, Saget often hosted comedy events to raise money for the Scleroderma Research Foundation, for which he served on the board of directors. He lost his sister to the chronic disease in 1994, his website said.                                                                                                                                                                                                     , In 2020, he launched a podcast, titled "Bob Saget's Here For You," an interview show where he welcomed guests like Tiffany Haddish, Jason Sudeikis, Whoopi Goldberg and Norman Lear.                                                                                                                                                                                                                                                       , Lear was one of the many who paid tribute to Saget on Sunday.                                                                                                                                                                                                                                                                                                                                                                              , "Bob Saget was as lovely a human as he was funny," Lear wrote on Twitter. "And to my mind, he was hilarious. We were close friends and I could not have loved him more."                                                                                                                                                                                                                                                                   , Fellow comedian and podcaster Marc Maron added: "Oh no. RIP Bob Saget. Truly one of the nicest guys and so funny. Very sad."                                                                                                                                                                                                                                                                                                               , Comedian Gilbert Gottfried described his "shock" over the news, writing on Twitter: "I just spoke with Bob a few days ago. We stayed on the phone as usual making each other laugh. RIP to friend, comedian &amp; fellow Aristocrat Bob Saget."                                                                                                                                                                                                , CNN's Joe Sutton and Brian Lowry contributed to this story. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/australia/stock-market </td>
-   <td style="text-align:left;"> 2022-01-10 09:05:29 </td>
-   <td style="text-align:left;"> Australian Shares Fall as Tech Stocks Weigh </td>
-   <td style="text-align:left;"> The S&amp;P/ASX 200 Index shed 0.1% to around 7,445 on Monday, as Australian tech names remained under pressure from prospects of higher interest rates, while investors continued to monitor the Covid situation closely. High-growth technology stocks sold off globally at the start of the year amid strong hawkish signals from the US Federal Reserve, which indicated that it could tighten monetary policy more aggressively than anticipated. The biggest decliners in local tech names include Xero Ltd (-3%), Afterpay (-2.6%), Wisetech Global (-3.6%), Nextdc Ltd (-1.9%) and Seek Ltd (-1%). Healthcare, consumer and financial stocks also fell, while energy and mining firms mostly gained. Meanwhile, authorities in the country reinstated some restrictions to battle a record spike in Covid cases, with an official modeling indicating that the omicron outbreak in New South Wales could peak by the end of January. </td>
+   <td style="text-align:left;"> https://www.cnn.com/2022/01/09/opinions/canadians-fear-us-democracy-collapse-obeidallah/index.html </td>
+   <td style="text-align:left;"> 2022-01-10 09:48:44 </td>
+   <td style="text-align:left;"> Opinion: Even Canadians fear US democracy could end soon - CNN </td>
+   <td style="text-align:left;"> Dean Obeidallah, a former attorney, is the host of SiriusXM radio's daily program "The Dean Obeidallah Show" and a columnist for The Daily Beast. Follow him @DeanObeidallah. The opinions expressed in this commentary are his own. View more opinion articles on CNN. This piece has been updated to reflect the latest news.                                                                                                                                                                                                                                                                                                                                                                                                             ,  (CNN)"The United States is coming to an end. The question is how." Those are the jarring opening lines of Canadian author Stephen Marche's new book, "The Next Civil War: Dispatches from the American Future." Released the same week as the anniversary of the January 6 attack on our Capitol that signaled how dangerous our political polarization has become, Marche's book shares different scenarios of how the United States could collapse.                                                                                                                                                                                                                                                                                      , Marche isn't the only Canadian worried about their southern neighbor's future. Just days before Marche's book released, political scientist Thomas Homer-Dixon -- the executive director of the Cascade Institute, which focuses on ways to address threats to society -- penned a powerful op-ed in Canada's "Globe and Mail" that begins with a similar warning. "By 2025, American democracy could collapse, causing extreme domestic political instability, including widespread civil violence," Homer-Dixon writes. "By 2030, if not sooner," he adds, "the country could be governed by a right-wing dictatorship."                                                                                                                  , As Americans, our first instinct when a person from outside of the US says something critical of our nation is often to dismiss the comment (or mock their country; be honest!). In this case, though, neither Marche nor Homer-Dixon wrote their words to belittle America or to make Canadians feel better about their country.                                                                                                                                                                                                                                                                                                                                                                                                           , In fact, as Marche explained on my SiriusXM radio show last week, it's the opposite: Marche wrote his book because he "loves" the US after working and living within its borders off and on for years. His hope, he says, is to warn Americans of where the nation is going before it's too late.                                                                                                                                                                                                                                                                                                                                                                                                                                           , In the case of Homer-Dixon, the warning is even more unnerving because the column is addressed not to Americans but to his fellow Canadians, to prepare them for what may be heading their way if America's democracy does collapse. Homer-Dixon bluntly cautions his compatriots: "A terrible storm is coming from the south, and Canada is woefully unprepared."                                                                                                                                                                                                                                                                                                                                                                          , When Canadians start to counsel one another on the threat posed to American democracy, you know we're in a dire position. This is not about scoring political points; rather, it emanates from a place of sincere concern for their own nation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , It's a sobering reminder that if our democratic republic ends it will have repercussions not just for our nation but the world -- from bolstering autocratic leaders, such as the type that former President Donald Trump had praised, to undermining Western democracies.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  , Homer-Dixon's words carry real weight: As he says, for more than 40 years he's studied the causes of war, revolution and social breakdown. "Today," he wrote to his countrymen and women, "as I watch the unfolding crisis in the United States, I see a political and social landscape flashing with warning signals."                                                                                                                                                                                                                                                                                                                                                                                                                     , To those who might view his premonitions as over the top, Homer-Dixon adds, "We mustn't dismiss these possibilities just because they seem ludicrous or too horrible to imagine. In 2014, the suggestion that Donald Trump would become president would also have struck nearly everyone as absurd." (Point taken with that one!)                                                                                                                                                                                                                                                                                                                                                                                                           , This scholar of violent conflict highlights the range of factors currently plaguing the US and contributing to our institutions' vulnerability, from growing income inequality to demographic change that has caused some "right-wing ideologues" to inflame "fears that traditional US culture is being erased and Whites are being 'replaced." (Fox News' Tucker Carlson has long been peddling this "replacement theory" -- although he's denied that's what he's doing -- and he's been rightfully denounced. And at least one other GOP elected official, Rep. Matt Gaetz, has joined him, claiming Democrats are "importing new voters" from other countries. As with Carlson, Gaetz insisted his views had nothing to do with race.) , Homer-Dixon even believes that using the "F word" -- fascism -- to describe the state of the GOP is accurate, citing the perspective of Canadian-American conservative David Frum: "Trumpism increasingly resembles European fascism in its contempt for the rule of law and glorification of violence." I couldn't agree more.                                                                                                                                                                                                                                                                                                                                                                                                             , But what truly resonates with me is Homer-Dixon's assessment that the "underpinning" of our politics "is a vital set of beliefs and values," and "if a substantial enough fraction of a population no longer holds those beliefs and values, then democracy can't survive."                                                                                                                                                                                                                                                                                                                                                                                                                                                                 , Alarmingly, a recent NPR/Ipsos poll found that two-thirds of Republicans agree with the demonstrably false statement that "voter fraud helped Joe Biden win the 2020 election." Fewer than half of Republicans, the poll found, agree that they are willing to accept the election's proven results.                                                                                                                                                                                                                                                                                                                                                                                                                                        , How can we have a functioning democratic republic when one side apparently believes that only elections they win are "legitimate"? The fact so many Republicans reject the results of the 2020 election was likely part of the motivation behind this memorable line in President Joe Biden's speech one year following the January 6 attack: "You can't love your country only when you win."                                                                                                                                                                                                                                                                                                                                              , For Homer-Dixon, all of this adds up to a crucial question for his country: How can Canadians prepare for the worst? For one, he says, "We need to start by fully recognizing the magnitude of the danger." He continues, "If Mr. Trump is re-elected" and ushers in a right-wing authoritarian regime, "The risks to our country in their cumulative effect could easily be existential, far greater than any in our federation's history."                                                                                                                                                                                                                                                                                                , For example, he theorizes, "What happens ... if high-profile political refugees fleeing persecution arrive in our country, and the U.S. regime demands them back. Do we comply?"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , To prepare for that kind of possible scenario, he implores Canada's prime minister, Justin Trudeau, to "immediately convene" a committee with representatives from the various political parties in government who "should receive regular intelligence analyses and briefings by Canadian experts on political and social developments in the United States and their implications for democratic failure there."                                                                                                                                                                                                                                                                                                                          , There's been a lot of talk lately by American leaders on the threat posed to our democracy by today's GOP. Former President Jimmy Carter wrote an op-ed for the New York Times titled, "I fear for our democracy," raising concerns that since the January 6 attack, "promoters of the lie that the election was stolen have taken over one political party and stoked distrust in our electoral systems."                                                                                                                                                                                                                                                                                                                                  , But there's something deeply compelling about reading the words of Canadians who have no skin in the game of American politics to offer such blunt words and warnings about the red flags they are seeing.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  , As Marche details in his book, there are Americans who hold a "desperate faith in their country's institutions that amounts nearly to delusion." These Canadians are warning us to break free of those delusions and instead understand that "it" can happen here -- with "it" being anything from fascism to a civil war that would collapse our democracy -- and to get a grasp on this reality before it's too late.                                                                                                                                                                                                                                                                                                                     , </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/australia/private-house-approvals- </td>
@@ -141,20 +358,26 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/united-states/stock-market </td>
    <td style="text-align:left;"> 2022-01-10 08:45:00 </td>
-   <td style="text-align:left;"> US Futures Slip After a Losing Week </td>
-   <td style="text-align:left;"> US stock futures slipped on Monday after a losing week for the three major averages, as investors grappled with prospects of higher interest rates. Dow and S&amp;P 500 futures each fell 0.2%, while Nasdaq 100 futures slid 0.15%. The Nasdaq Composite led the declines last week after falling 4.53%, as investors rotated out of high-growth names into value and pro-cyclical stocks. The S&amp;P 500 followed with a 1.87% weekly loss and the Dow shed 0.29%. Technology, healthcare and communication services stocks dropped the most, while energy and financial names gained. Equities came under pressure last week as the 10-year Treasury yield topped 1.8% following the release of the Federal Reserve’s December meeting minutes which indicated that the central bank could tighten monetary policy more aggressively than anticipated. The central bank is planning to reduce its balance sheet  in addition to hiking rates. Meanwhile, investors await key inflation and a slew of Q4 earnings reports in the week ahead. </td>
+   <td style="text-align:left;"> US Futures Mixed After a Losing Week </td>
+   <td style="text-align:left;"> US stock futures were mixed on Monday after a losing week for the three major averages, as investors grappled with prospects of higher interest rates. Dow futures fell 0.1%, while S&amp;P 500 and Nasdaq 100 futures rose 0.1% and 0.3%, respectively. The Nasdaq led the declines last week after falling 4.53%, as investors rotated out of high-growth names into value and cyclical stocks. The S&amp;P 500 followed with a 1.87% weekly loss and the Dow shed 0.29%. Technology, healthcare and communication services stocks dropped the most, while energy and financial names gained. Equities came under pressure last week as the 10-year Treasury yield topped 1.8% following the release of the Fed’s December meeting minutes which indicated that the central bank could tighten monetary policy more aggressively than anticipated. The central bank is planning to reduce its balance sheet  in addition to hiking rates. Meanwhile, investors await key inflation and a slew of Q4 earnings reports in the week ahead. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.cnn.com/videos/media/2022/01/09/tucker-carlson-coronavirus-treatment-fox-reiner-acostanr-vpx.cnn </td>
+   <td style="text-align:left;"> 2022-01-10 08:12:08 </td>
+   <td style="text-align:left;"> Hear doctor's challenge for Tucker Carlson - CNN Video </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.bbc.co.uk/news/business-59930934?at_medium=RSS&amp;at_campaign=KARANGA </td>
    <td style="text-align:left;"> 2022-01-10 08:02:33 </td>
-   <td style="text-align:left;"> Virgin and O2 users to not face EU roaming charges </td>
-   <td style="text-align:left;"> Virgin Media O2 phone users will not face roaming charges following announcements by other networks to reintroduce extra fees after Brexit.                                                                                                     , It means customers travelling to Europe will be able to use their mobile data and make calls and texts on the same deal as they have in the UK.                                                                                                 , Vodafone, EE and Three are set to reintroducing roaming fees this year for customers travelling to Europe.                                                                                                                                      , Consumer champion Which? urged the UK and EU to "strike a deal" on charges.                                                                                                                                                                     , Before the UK left the EU, users were able to use their calls, texts, and data allowance in their mobile plans in any EU country after the bloc removed roaming charges in 2017.                                                                , However, the EU trade deal of December 2020 gave mobile operators the option of reintroducing charges.                                                                                                                                          , Virgin Media O2 said a family of four going abroad for two weeks could see an extra £100 on their bill, based on analysis of rates from other providers.                                                                                        , "We're starting the year by giving our customers some certainty: we will not be reintroducing roaming fees in Europe for customers on O2 or Virgin Mobile," said Gareth Turpin, chief commercial officer.                                       , "With many Brits now looking to plan a trip abroad, we've got our customers covered and extra roaming charges will be one less thing to worry about."                                                                                           , Vodafone plans to bring back roaming charges at the end of January, while EE is set to in March. Both networks delayed reintroducing the charges earlier due to testing and technical issues respectively.                                      , Meanwhile, Three is to introduce fees in May.                                                                                                                                                                                                   , Customers who joined or upgraded with EE after 7 July 7 2021 face a £2 daily roaming charge in EU countries, while Vodafone will charge the same fee for people who joined the network after 11 August 11 or upgraded or renewed their contract., However, both companies will offer deals to avoid the fee, with EE customers able to buy a 30-day roaming pass for £10 and Vodafone users able to pay £1 a day for an eight or 15-day pass.                                                     , Three will bring in the £2 daily charge for people who joined or upgraded after 1 October 2021.                                                                                                                                                 , Sue Davies, head of consumer protection policy at Which?, said it was "reassuring" that Virgin Media O2 had offered some certainty to customers.                                                                                                , "As the UK continues to negotiate trade deals, it should take the opportunity to lower the cost of roaming for consumers travelling around the world," she added.                                                                               , "The UK and EU should also work to strike a deal on roaming charges to stop companies chipping away at the roaming benefits customers have become used to and to ensure the high charges people used to face do not return."                    , In April last year, a £31bn merger between Virgin Media and O2 was approved, making it one of the the UK's largest entertainment and telecoms firms.                                                                                            , The very best from around the world including Beck and The Bridge                                                                                                                                                                               , Uncovering the story of one of America's most corrupt police units                                                                                                                                                                              , © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
+   <td style="text-align:left;"> Virgin and O2 users will not face EU roaming charges </td>
+   <td style="text-align:left;"> Virgin Media O2 phone users will not face roaming charges following announcements by other networks to reintroduce extra fees after Brexit.                                                                                                     , It means customers travelling to Europe will be able to use their mobile data and make calls and texts on the same deal as they have in the UK.                                                                                                 , Vodafone, EE and Three are set to reintroduce roaming fees this year for customers travelling to Europe.                                                                                                                                        , Consumer champion Which? urged the UK and EU to "strike a deal" on charges.                                                                                                                                                                     , Before the UK left the EU, users were able to use their calls, texts, and data allowance in their mobile plans in any EU country after the bloc removed roaming charges in 2017.                                                                , However, the EU trade deal of December 2020 gave mobile operators the option of reintroducing charges.                                                                                                                                          , Virgin Media O2 said a family of four going abroad for two weeks could see an extra £100 on their bill, based on analysis of rates from other providers.                                                                                        , "We're starting the year by giving our customers some certainty: we will not be reintroducing roaming fees in Europe for customers on O2 or Virgin Mobile," said Gareth Turpin, chief commercial officer.                                       , "With many Brits now looking to plan a trip abroad, we've got our customers covered and extra roaming charges will be one less thing to worry about."                                                                                           , Vodafone plans to bring back roaming charges at the end of January, while EE is set to in March. Both networks delayed reintroducing the charges earlier due to testing and technical issues respectively.                                      , Meanwhile, Three is to introduce fees in May.                                                                                                                                                                                                   , Customers who joined or upgraded with EE after 7 July 7 2021 face a £2 daily roaming charge in EU countries, while Vodafone will charge the same fee for people who joined the network after 11 August 11 or upgraded or renewed their contract., However, both companies will offer deals to avoid the fee, with EE customers able to buy a 30-day roaming pass for £10 and Vodafone users able to pay £1 a day for an eight or 15-day pass.                                                     , Three will bring in the £2 daily charge for people who joined or upgraded after 1 October 2021.                                                                                                                                                 , Sue Davies, head of consumer protection policy at Which?, said it was "reassuring" that Virgin Media O2 had offered some certainty to customers.                                                                                                , "As the UK continues to negotiate trade deals, it should take the opportunity to lower the cost of roaming for consumers travelling around the world," she added.                                                                               , "The UK and EU should also work to strike a deal on roaming charges to stop companies chipping away at the roaming benefits customers have become used to and to ensure the high charges people used to face do not return."                    , In April last year, a £31bn merger between Virgin Media and O2 was approved, making it one of the the UK's largest entertainment and telecoms firms.                                                                                            , Russell Kane and guests consider the life of the iconic musician                                                                                                                                                                                , Featuring music from The Wild Bunch and more                                                                                                                                                                                                    , © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.bbc.co.uk/news/business-59917640?at_medium=RSS&amp;at_campaign=KARANGA </td>
    <td style="text-align:left;"> 2022-01-10 08:00:32 </td>
    <td style="text-align:left;"> Energy bills: Fix insulation to tackle cost of heating, PM told </td>
-   <td style="text-align:left;"> Better insulation could save UK households more than £500 a year on energy bills, according to a group of business organisations and charities.                                                                                                                                                      , The Energy Efficiency Infrastructure Group is calling on the prime minister to prioritise energy saving through home improvements.                                                                                                                                                                   , It could save the UK £7.8bn a year, the group says.                                                                                                                                                                                                                                                  , The government is under political pressure to take action over rocketing gas bills.                                                                                                                                                                                                                  , Households have seen energy bills rise in recent months and further increases will take effect in April, when the energy price cap will be raised to take higher wholesale gas prices into account.                                                                                                  , The government is exploring ways to support those on low incomes who will struggle to afford higher heating costs.                                                                                                                                                                                   , But the EEIG, which includes the CBI, Kingfisher, Energy Savings Trust and the green group WWF, says this and previous administrations are partly to blame for higher bills because they failed to ensure Britain's homes are adequately insulated.                                                  , "The cost-of-living crisis is being driven by soaring gas prices," said EEIG chairwoman Sarah Kostense-Winterton. "A permanent solution to lower bills is by reducing demand through energy efficiency measures.                                                                                     , "Emergency short-term measures for the most vulnerable households are crucial, but it's fundamental for the government to simultaneously focus on the long term to avoid futures crises.                                                                                                             , "Green home retrofits have significant social, environmental and economic co-benefits, and stand out as a 'no regrets' solution to the energy crisis, climate crisis, and levelling up agenda."                                                                                                      , Britain has the coldest and leakiest housing stock in western Europe, leaving residents particularly exposed to spikes in gas prices.                                                                                                                                                                , Successive governments have failed to implement policies to tackle the problem. The most recent insulation scheme, the Green Homes Grant, was scrapped after just six months.                                                                                                                        , The chancellor was urged by backbench MPs to use last autumn's Budget to introduce a multi-year energy efficiency programme, but he declined.                                                                                                                                                        , In the short term the EEIG wants the government to provide additional support for vulnerable households to prevent a fuel poverty emergency.                                                                                                                                                         , This would include expanding the Warm Homes Discount, an option the government is discussing.                                                                                                                                                                                                        , But the EEIG insists that ministers must also bolster the Energy Company Obligation (ECO) which requires energy suppliers to help low-income households to fit energy-saving measures.                                                                                                               , The group fears that the chancellor may suspend the long-term ECO funding and shift the cash to tackle the immediate bills problem instead.                                                                                                                                                          , The EEIG is warning that cutting ECO would be damaging for households and industry, and would stall progress in making fuel-poor homes more energy efficient, risking green jobs and keeping households hooked on expensive gas.                                                                     , In his manifesto Boris Johnson promised £9bn for energy efficiency up to 2030.                                                                                                                                                                                                                       , About £6bn was allocated to be spent this parliament but the EEIG says money not allocated amounts to a broken promise.                                                                                                                                                                              , The EEIG is also calling for a new £3.6bn grant or subsidy scheme to help all households, including private owners, to insulate their homes.                                                                                                                                                         , At the moment, the EEIG maintains, two-thirds of households have no financial support for insulation, even though insulation is a vital part of the strategy to cut carbon emissions.                                                                                                                , The insulation call was backed at the weekend by MPs on the Conservative Environment Network.                                                                                                                                                                                                        , A government spokesman said it had already made huge progress in upgrading the energy efficiency of England's homes - from 9% rated grade C in 2008, to 40% today.                                                                                                                                   , He said all new heating systems installed in UK homes from 2035 will be low-carbon technologies, like heat pumps or hydrogen-ready boilers. This will be a gradual, 14-year transition, and to cut the cost of heat pump, we're offering grants to households worth £5,000.                          , He added: "Improving energy efficiency is the best long term solution to tackling fuel poverty, which is why we are supporting households across the UK to improve their energy performance and reduce bills, having already invested £1.3bn this year alone to upgrade up to 50,000 homes.          , "The Energy Price Cap will remain in place, shielding millions of customers from rising global gas prices, and we are continuing to support lower-income households through £4.2bn in support, including the Home Upgrade Grant, Energy Company Obligation and the new £500m Household Support Fund.", Follow Roger on Twitter @rharrabin                                                                                                                                                                                                                                                                   , The very best from around the world including Beck and The Bridge                                                                                                                                                                                                                                    , Uncovering the story of one of America's most corrupt police units                                                                                                                                                                                                                                   , © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
+   <td style="text-align:left;"> Better insulation could save UK households more than £500 a year on energy bills, according to a group of business organisations and charities.                                                                                                                                                      , The Energy Efficiency Infrastructure Group is calling on the prime minister to prioritise energy saving through home improvements.                                                                                                                                                                   , It could save the UK £7.8bn a year, the group says.                                                                                                                                                                                                                                                  , The government is under political pressure to take action over rocketing gas bills.                                                                                                                                                                                                                  , Households have seen energy bills rise in recent months and further increases will take effect in April, when the energy price cap will be raised to take higher wholesale gas prices into account.                                                                                                  , The government is exploring ways to support those on low incomes who will struggle to afford higher heating costs.                                                                                                                                                                                   , But the EEIG, which includes the CBI, Kingfisher, Energy Savings Trust and the green group WWF, says this and previous administrations are partly to blame for higher bills because they failed to ensure Britain's homes are adequately insulated.                                                  , "The cost-of-living crisis is being driven by soaring gas prices," said EEIG chairwoman Sarah Kostense-Winterton. "A permanent solution to lower bills is by reducing demand through energy efficiency measures.                                                                                     , "Emergency short-term measures for the most vulnerable households are crucial, but it's fundamental for the government to simultaneously focus on the long term to avoid futures crises.                                                                                                             , "Green home retrofits have significant social, environmental and economic co-benefits, and stand out as a 'no regrets' solution to the energy crisis, climate crisis, and levelling up agenda."                                                                                                      , Britain has the coldest and leakiest housing stock in western Europe, leaving residents particularly exposed to spikes in gas prices.                                                                                                                                                                , Successive governments have failed to implement policies to tackle the problem. The most recent insulation scheme, the Green Homes Grant, was scrapped after just six months.                                                                                                                        , The chancellor was urged by backbench MPs to use last autumn's Budget to introduce a multi-year energy efficiency programme, but he declined.                                                                                                                                                        , In the short term the EEIG wants the government to provide additional support for vulnerable households to prevent a fuel poverty emergency.                                                                                                                                                         , This would include expanding the Warm Homes Discount, an option the government is discussing.                                                                                                                                                                                                        , But the EEIG insists that ministers must also bolster the Energy Company Obligation (ECO) which requires energy suppliers to help low-income households to fit energy-saving measures.                                                                                                               , The group fears that the chancellor may suspend the long-term ECO funding and shift the cash to tackle the immediate bills problem instead.                                                                                                                                                          , The EEIG is warning that cutting ECO would be damaging for households and industry, and would stall progress in making fuel-poor homes more energy efficient, risking green jobs and keeping households hooked on expensive gas.                                                                     , In his manifesto Boris Johnson promised £9bn for energy efficiency up to 2030.                                                                                                                                                                                                                       , About £6bn was allocated to be spent this parliament but the EEIG says money not allocated amounts to a broken promise.                                                                                                                                                                              , The EEIG is also calling for a new £3.6bn grant or subsidy scheme to help all households, including private owners, to insulate their homes.                                                                                                                                                         , At the moment, the EEIG maintains, two-thirds of households have no financial support for insulation, even though insulation is a vital part of the strategy to cut carbon emissions.                                                                                                                , The insulation call was backed at the weekend by MPs on the Conservative Environment Network.                                                                                                                                                                                                        , A government spokesman said it had already made huge progress in upgrading the energy efficiency of England's homes - from 9% rated grade C in 2008, to 40% today.                                                                                                                                   , He said all new heating systems installed in UK homes from 2035 will be low-carbon technologies, like heat pumps or hydrogen-ready boilers. This will be a gradual, 14-year transition, and to cut the cost of heat pump, we're offering grants to households worth £5,000.                          , He added: "Improving energy efficiency is the best long term solution to tackling fuel poverty, which is why we are supporting households across the UK to improve their energy performance and reduce bills, having already invested £1.3bn this year alone to upgrade up to 50,000 homes.          , "The Energy Price Cap will remain in place, shielding millions of customers from rising global gas prices, and we are continuing to support lower-income households through £4.2bn in support, including the Home Upgrade Grant, Energy Company Obligation and the new £500m Household Support Fund.", Follow Roger on Twitter @rharrabin                                                                                                                                                                                                                                                                   , Russell Kane and guests consider the life of the iconic musician                                                                                                                                                                                                                                     , Featuring music from The Wild Bunch and more                                                                                                                                                                                                                                                         , © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/commodity/natural-gas </td>
@@ -165,14 +388,27 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
   <tr>
    <td style="text-align:left;"> https://www.cnbc.com/2022/01/09/stock-market-futures-open-to-close-news.html </td>
    <td style="text-align:left;"> 2022-01-10 07:02:39 </td>
-   <td style="text-align:left;"> Stock futures fall after S&amp;P 500 posts 4-day losing streak </td>
-   <td style="text-align:left;"> , Stock futures were lower in overnight trading Sunday after a rocky start to 2022 for equity markets as interest rates rise.                                                                                                                                                                    , Futures on the Dow Jones Industrial Average shed about 85 points, or 0.2%. S&amp;P 500 futures dipped 0.2% and Nasdaq 100 futures lost 0.1%.                                                                                                                                                       , The three major stock averages all fell in the first week of the year. The S&amp;P 500 slid 0.4% on Friday for its first four-day losing streak since September. The Nasdaq Composite dropped 0.9%, also posting four straight losing days. The Dow Jones Industrial Average lost 4.81 points.     , Stocks, particularly high-growth names, have struggled as interest rates tick higher. The 10-year Treasury yield topped 1.8% on Friday, on a run after closing 2021 at the 1.51% level.                                                                                                        , "As we kick-started 2022 this week, trading attention fell on a definitive rotation into value and pro-cyclical stocks and out of growth as investors digested a sharply higher rate environment," Goldman Sachs' Chris Hussey said in a Friday note.                                          , The rising rates come as the Federal Reserve signaled it could dial back its easy monetary policy more aggressively than some expected. Minutes from the Fed's December meeting released Wednesday showed the central bank is planning to shrink its balance sheet in addition to hiking rates., Investors are awaiting key inflation reports in the week ahead. The consumer price index is set for release Wednesday and the producer price index is slated for Thursday.                                                                                                                     , Federal Chair Jerome Powell is scheduled to testify Tuesday at his nomination hearing before a Senate panel, while the hearing on Fed Governor Lael Brainard's nomination to the post of vice chair is set for Thursday.                                                                       , Delta Air Lines reports earnings Thursday and financial heavyweights JPMorgan Chase, Citigroup and Wells Fargo release quarterly results Friday.                                                                                                                                               , Got a confidential news tip? We want to hear from you.                                                                                                                                                                                                                                         , Sign up for free newsletters and get more CNBC delivered to your inbox                                                                                                                                                                                                                         , Get this delivered to your inbox, and more info about our products and services.                                                                                                                                                                                                               , © 2022 CNBC LLC. All Rights Reserved. A Division of NBCUniversal                                                                                                                                                                                                                               , Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.                                                                                                                                             , Data also provided by </td>
+   <td style="text-align:left;"> Stock futures reverse losses after S&amp;P 500 posts 4-day losing streak </td>
+   <td style="text-align:left;"> , Stock futures were mostly higher in overnight trading Sunday after a rocky start to 2022 for equity markets as interest rates rise.                                                                                                                                                            , Futures on the Dow Jones Industrial Average retraced most of their earlier losses and were down about 15 points, or 0.04%. S&amp;P 500 futures erased losses and rose 0.1% and Nasdaq 100 futures added 0.32%.                                                                                     , The three major stock averages all fell in the first week of the year. The S&amp;P 500 slid 0.4% on Friday for its first four-day losing streak since September. The Nasdaq Composite dropped 0.9%, also posting four straight losing days. The Dow Jones Industrial Average lost 4.81 points.     , Stocks, particularly high-growth names, have struggled as interest rates tick higher. The 10-year Treasury yield topped 1.8% on Friday, on a run after closing 2021 at the 1.51% level.                                                                                                        , "As we kick-started 2022 this week, trading attention fell on a definitive rotation into value and pro-cyclical stocks and out of growth as investors digested a sharply higher rate environment," Goldman Sachs' Chris Hussey said in a Friday note.                                          , The rising rates come as the Federal Reserve signaled it could dial back its easy monetary policy more aggressively than some expected. Minutes from the Fed's December meeting released Wednesday showed the central bank is planning to shrink its balance sheet in addition to hiking rates., Investors are awaiting key inflation reports in the week ahead. The consumer price index is set for release Wednesday and the producer price index is slated for Thursday.                                                                                                                     , Federal Chair Jerome Powell is scheduled to testify Tuesday at his nomination hearing before a Senate panel, while the hearing on Fed Governor Lael Brainard's nomination to the post of vice chair is set for Thursday.                                                                       , Delta Air Lines reports earnings Thursday and financial heavyweights JPMorgan Chase, Citigroup and Wells Fargo release quarterly results Friday.                                                                                                                                               , Got a confidential news tip? We want to hear from you.                                                                                                                                                                                                                                         , Sign up for free newsletters and get more CNBC delivered to your inbox                                                                                                                                                                                                                         , Get this delivered to your inbox, and more info about our products and services.                                                                                                                                                                                                               , © 2022 CNBC LLC. All Rights Reserved. A Division of NBCUniversal                                                                                                                                                                                                                               , Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.                                                                                                                                             , Data also provided by </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.cnn.com/2022/01/09/entertainment/golden-globes-winners-2022/index.html </td>
+   <td style="text-align:left;"> 2022-01-10 06:20:23 </td>
+   <td style="text-align:left;"> Golden Globe winners list 2022 - CNN </td>
+   <td style="text-align:left;"> (CNN)On a typical year, the Golden Globe Awards serve as the gold standard for tipsy fun. But this is not a typical year for Hollywood's quirkiest award show.                                                , Still, even as the Globes serve a time out as The Hollywood Foreign Press Association works to repair its reputation, there is no break being taken from recognizing the best films and television of the year., In a toned down, untelevised presentation, the winners of the Golden Globes were announced Sunday night.                                                                                                       , A full list of nominees follows below with winners indicated in bold.                                                                                                                                          , Television                                                                                                                                                                                                     , Best Performance by an Actor in a Television Series -- Musical or Comedy                                                                                                                                       , Anthony Anderson, "Black-ish"                                                                                                                                                                                  , Nicholas Hoult, "The Great"                                                                                                                                                                                    , Steve Martin, "Only Murders in the Building"                                                                                                                                                                   , Martin Short, "Only Murders in the Building"                                                                                                                                                                   , Jason Sudeikis, "Ted Lasso" *WINNER                                                                                                                                                                            ,                                                                                                                                                                                                                , Best Performance by an Actress in a Television Series -- Musical or Comedy                                                                                                                                     , Hannah Einbender, "Hacks"                                                                                                                                                                                      , Elle Fanning, "The Great"                                                                                                                                                                                      , Issa Rae, "Insecure"                                                                                                                                                                                           , Tracee Ellis Ross, "black-ish"                                                                                                                                                                                 , Jean Smart, "Hacks" *WINNER                                                                                                                                                                                    ,                                                                                                                                                                                                                , Best Performance by an Actor in a Television Series -- Drama                                                                                                                                                   , Brian Cox, "Succession"                                                                                                                                                                                        , Lee Jung-jae, "Squid Game"                                                                                                                                                                                     , Billy Porter, "Pose"                                                                                                                                                                                           , Jeremy Strong, "Succession" *WINNER                                                                                                                                                                            , Omar Sy, "Lupin"                                                                                                                                                                                               ,                                                                                                                                                                                                                , Best Performance by an Actress in a Television Series -- Drama                                                                                                                                                 , Uzo Aduba, "In Treatment"                                                                                                                                                                                      , Jennifer Aniston, "The Morning Show"                                                                                                                                                                           , Christine Baranski, "The Good Fight"                                                                                                                                                                           , Elisabeth Moss, "The Handmaid's Tale"                                                                                                                                                                          , Mj Rodriguez, "Pose" *WINNER                                                                                                                                                                                   ,                                                                                                                                                                                                                , Best Performance by an Actor in a Limited Series or Motion Picture Made for Television                                                                                                                         , Paul Bettany, "WandaVision"                                                                                                                                                                                    , Oscar Isaac, "Scenes From a Marriage"                                                                                                                                                                          , Michael Keaton, "Dopesick" *WINNER                                                                                                                                                                             , Ewan McGregor, "Halston"                                                                                                                                                                                       , Tahar Rahim, "The Serpent"                                                                                                                                                                                     ,                                                                                                                                                                                                                , Best Performance by an Actress in a Limited Series or Motion Picture Made for Television                                                                                                                       , Jessica Chastain, "Scenes From a Marriage"                                                                                                                                                                     , Cynthia Erivo, "Genius: Aretha"                                                                                                                                                                                , Elizabeth Olsen, "WandaVision"                                                                                                                                                                                 , Margaret Qualley, "Maid"                                                                                                                                                                                       , Kate Winslet, "Mare of Easttown" *WINNER                                                                                                                                                                       ,                                                                                                                                                                                                                , Best Television Series Drama                                                                                                                                                                                   , "Lupin"                                                                                                                                                                                                        , "The Morning Show"                                                                                                                                                                                             , "Pose"                                                                                                                                                                                                         , "Squid Game"                                                                                                                                                                                                   , "Succession" *WINNER                                                                                                                                                                                           ,                                                                                                                                                                                                                , Best Television Limited Series or Motion Picture Made for Television                                                                                                                                           , "Dopesick"                                                                                                                                                                                                     , "Impeachment: American Crime Story"                                                                                                                                                                            , "Maid"                                                                                                                                                                                                         , "Mare of Easttown"                                                                                                                                                                                             , "The Underground Railroad" *WINNER                                                                                                                                                                             ,                                                                                                                                                                                                                , Best Performance by an Actress in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television                                                                                          , Jennifer Coolidge, "White Lotus"                                                                                                                                                                               , Kaitlyn Dever, "Dopesick"                                                                                                                                                                                      , Andie MacDowell, "Maid"                                                                                                                                                                                        , Sarah Snook, "Succession" *WINNER                                                                                                                                                                              , Hannah Waddingham, "Ted Lasso"                                                                                                                                                                                 ,                                                                                                                                                                                                                , Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television                                                                                            , Billy Crudup, "The Morning Show"                                                                                                                                                                               , Kieran Culkin, "Succession"                                                                                                                                                                                    , Mark Duplass, "The Morning Show"                                                                                                                                                                               , Brett Goldstein, "Ted Lasso"                                                                                                                                                                                   , Oh Yeong-su, "Squid Game" *WINNER                                                                                                                                                                              ,                                                                                                                                                                                                                , Best Television Series -- Musical or Comedy                                                                                                                                                                    , "The Great"                                                                                                                                                                                                    , "Hacks" *WINNER                                                                                                                                                                                                , "Only Murders in the Building"                                                                                                                                                                                 , "Reservation Dogs"                                                                                                                                                                                             , "Ted Lasso"                                                                                                                                                                                                    ,                                                                                                                                                                                                                , FILM                                                                                                                                                                                                           , Best Motion Picture -- Musical or Comedy                                                                                                                                                                       , "Cyrano"                                                                                                                                                                                                       , "Don't Look Up"                                                                                                                                                                                                , "Licorice Pizza"                                                                                                                                                                                               , "Tick, Tick ... Boom!"                                                                                                                                                                                         , "West Side Story" *WINNER                                                                                                                                                                                      ,                                                                                                                                                                                                                , Best Motion Picture -- Drama                                                                                                                                                                                   , "Belfast,"                                                                                                                                                                                                     , "CODA"                                                                                                                                                                                                         , "Dune"                                                                                                                                                                                                         , "King Richard"                                                                                                                                                                                                 , "The Power of the Dog" *WINNER                                                                                                                                                                                 ,                                                                                                                                                                                                                , Best Motion Picture -- Foreign Language                                                                                                                                                                        , "Compartment No. 6"                                                                                                                                                                                            , "Drive My Car" *WINNER                                                                                                                                                                                         , "The Hand of God"                                                                                                                                                                                              , "A Hero"                                                                                                                                                                                                       , "Parallel Mothers"                                                                                                                                                                                             ,                                                                                                                                                                                                                , Best Screenplay -- Motion Picture                                                                                                                                                                              , Paul Thomas Anderson, "Licorice Pizza"                                                                                                                                                                         , Kenneth Branagh, "Belfast" *WINNER                                                                                                                                                                             , Jane Campion, "The Power of the Dog"                                                                                                                                                                           , Adam McKay, "Don't Look Up"                                                                                                                                                                                    , Aaron Sorkin , "Being the Ricardos"                                                                                                                                                                            ,                                                                                                                                                                                                                , Best Original Song -- Motion Picture                                                                                                                                                                           , "Be Alive" from "King Richard" - Beyoncé Knowles-Carter, Dixson                                                                                                                                                , "Dos Orugitas" from "Encanto" - Lin-Manuel Miranda                                                                                                                                                             , "Down to Joy" from "Belfast" - Van Morrison                                                                                                                                                                    , "Here I Am (Singing My Way Home)" from "Respect" - Jamie Alexander Hartman, Jennifer Hudson, Carole King                                                                                                       , "No Time to Die" from "No Time to Die" - Billie Eilish, Finneas O'Connell *WINNER                                                                                                                              ,                                                                                                                                                                                                                , Best Actor in a Supporting Role in Any Motion Picture                                                                                                                                                          , Ben Affleck, "The Tender Bar"                                                                                                                                                                                  , Jamie Dornan, "Belfast"                                                                                                                                                                                        , Ciarán Hinds, "Belfast"                                                                                                                                                                                        , Troy Kotsur, "CODA"                                                                                                                                                                                            , Kodi Smit-McPhee, "The Power of the Dog" *WINNER                                                                                                                                                               ,                                                                                                                                                                                                                , Best Actress in a Supporting Role in Any Motion Picture                                                                                                                                                        , Caitríona Balfe, "Belfast"                                                                                                                                                                                     , Ariana DeBose, "West Side Story" *WINNER                                                                                                                                                                       , Kirsten Dunst, "The Power of the Dog"                                                                                                                                                                          , Aunjanue Ellis, "King Richard"                                                                                                                                                                                 , Ruth Negga, "Passing                                                                                                                                                                                           ,                                                                                                                                                                                                                , Best Actor in a Motion Picture -- Musical or Comedy                                                                                                                                                            , Leonardo DiCaprio, "Don't Look Up"                                                                                                                                                                             , Peter Dinklage, "Cyrano"                                                                                                                                                                                       , Andrew Garfield, "Tick, Tick ... Boom!" *WINNER                                                                                                                                                                , Cooper Hoffman, "Licorice Pizza"                                                                                                                                                                               , Anthony Ramos, "In the Heights"                                                                                                                                                                                ,                                                                                                                                                                                                                , Best Motion Picture -- Animated                                                                                                                                                                                , "Encanto" *WINNER                                                                                                                                                                                              , "Flee"                                                                                                                                                                                                         , "Luca"                                                                                                                                                                                                         , "My Sunny Maad"                                                                                                                                                                                                , "Raya and the Last Dragon"                                                                                                                                                                                     ,                                                                                                                                                                                                                , Best Actor in a Motion Picture -- Drama                                                                                                                                                                        , Mahershala Ali, "Swan Song"                                                                                                                                                                                    , Javier Bardem, "Being the Ricardos"                                                                                                                                                                            , Benedict Cumberbatch, "The Power of the Dog"                                                                                                                                                                   , Will Smith, "King Richard" *WINNER                                                                                                                                                                             , Denzel Washington, "The Tragedy of Macbeth"                                                                                                                                                                    ,                                                                                                                                                                                                                , Best Actress in a Motion Picture -- Drama                                                                                                                                                                      , Jessica Chastain, "The Eyes of Tammy Faye"                                                                                                                                                                     , Olivia Colman, "The Lost Daughter"                                                                                                                                                                             , Nicole Kidman, "Being the Ricardos" *WINNER                                                                                                                                                                    , Lady Gaga, "House of Gucci"                                                                                                                                                                                    , Kristen Stewart, "Spencer"                                                                                                                                                                                     ,                                                                                                                                                                                                                , Best Actress in a Motion Picture -- Musical or Comedy                                                                                                                                                          , Marion Cotillard, "Annette"                                                                                                                                                                                    , Alana Haim, "Licorice Pizza"                                                                                                                                                                                   , Jennifer Lawrence, "Don't Look Up"                                                                                                                                                                             , Emma Stone, "Cruella"                                                                                                                                                                                          , Rachel Zegler, "West Side Story" *WINNER                                                                                                                                                                       ,                                                                                                                                                                                                                , Best Director -- Motion Picture                                                                                                                                                                                , Kenneth Branagh, "Belfast"                                                                                                                                                                                     , Jane Campion, "The Power of the Dog" *WINNER                                                                                                                                                                   , Maggie Gyllenhaal, "The Lost Daughter"                                                                                                                                                                         , Steven Spielberg, "West Side Story"                                                                                                                                                                            , Denis Villeneuve, "Dune"                                                                                                                                                                                       ,                                                                                                                                                                                                                , Best Original Score                                                                                                                                                                                            , "The French Dispatch"                                                                                                                                                                                          , "Encanto"                                                                                                                                                                                                      , "The Power of the Dog"                                                                                                                                                                                         , "Parallel Mothers"                                                                                                                                                                                             , "Dune" *WINNER                                                                                                                                                                                                 ,                                                                                                                                                                                                                , </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.foxbusiness.com/politics/china-fines-japanese-7-eleven-taiwan-country </td>
    <td style="text-align:left;"> 2022-01-10 04:48:06 </td>
    <td style="text-align:left;"> China fines Japanese-owned 7-Eleven for calling Taiwan a country </td>
    <td style="text-align:left;"> Independent Women's Forum foreign policy fellow Claudia Rosett reacts to growing tensions between China and Taiwan and applauds NBA’s Enes Kanter for standing up to China.                                                                                                                   , The Chinese government has fined the Japanese-owned 7-Eleven convenience store chain in Beijing for featuring a map on its website that labeled the island of Taiwan a country.                                                                                                               , The company was fined 150,000 yuan ($23,519) by Chinese market regulators for displaying an "incorrect" and "incomplete" Chinese map that labeled Taiwan "an independent country," the Global Times, a Communist Party tabloid, reported Friday.                                              , CHINA ACCUSES WALMART OF 'STUPIDITY AND SHORTSIGHTEDNESS' AMID CLAIMS IT PULLED XIANJIANG PRODUCTS                                                                                                                                                                                            , A 7-Eleven location in Madison Heights, Michigan. It is the world's largest chain of convenience stores. Headquartered in Japan, there are currently a total of 39,000 locations worldwide.                                                                                                   , "Taiwan is an inalienable part of China’s territory and the one-China principle is a widely-recognized norm governing international relations and the broad consensus of the international community," Wang Wenbin, spokesperson for the Chinese Foreign Ministry, said at a press conference., Beijing also complained that the 7-Eleven website didn’t use its official names for some disputed islands in the South China Sea, The Guardian reported.                                                                                                                                      , The Beijing stores are owned by a subsidiary of Japanese firm 7 &amp; i Holdings, which said it would "do our best to prevent a recurrence," The Guardian reported.                                                                                                                               , CLICK HERE TO READ MORE ON FOX BUSINESS                                                                                                                                                                                                                                                       , China claims Taiwan is part of its own territory and has rejected its claims of independence after the two countries split in 1949. The U.S. does not formally recognize Taiwan but maintains an unofficial relationship and is supportive of its democratic government.                      , Beijing has been increasing its presence near Taiwan and has been sending dozens of warplanes towards its defense zone, coinciding with calls by President Xi Jinping for Taiwan to be brought into China as part of a "peaceful reunification."                                              , Fox News' Adam Shaw contributed to this article. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.foxbusiness.com/features/race-for-batteries-scientist-seen-all </td>
+   <td style="text-align:left;"> 2022-01-10 02:24:54 </td>
+   <td style="text-align:left;"> In the race for batteries, one scientist has seen it all </td>
+   <td style="text-align:left;"> Check out what's clicking on FoxBusiness.com.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Much of the technology behind the batteries that power electric vehicles and smartphones came from the U.S. Most batteries are made by Asian companies using materials produced in China.                                                                                                                                                                                                                                                                                                                               , Susan Babinec is trying to put the U.S. in front again on batteries. She has been among the leading U.S. battery scientists for more than 20 years and believes cutting-edge science will make that happen.                                                                                                                                                                                                                                                                                                             , "Everyone knows what the stakes are," Ms. Babinec said. As batteries become more sophisticated, "we’re playing to the United States’ strength. We are bad-ass scientists."                                                                                                                                                                                                                                                                                                                                              , TOYOTA TO BUILD $1.29B BATTERY MANUFACTURING PLANT IN NORTH CAROLINA                                                                                                                                                                                                                                                                                                                                                                                                                                                    , Ms. Babinec has played key roles in the rise, fall and rise again of the U.S. battery industry. Currently a leader of battery research and development at Argonne National Laboratory outside Chicago, Ms. Babinec holds more than 50 patents. She has done stints with the federal government, the most famous failed battery startup and chemical giant Dow Chemical.                                                                                                                                                 , The transition away from fossil fuels has sparked a global arms race to improve battery technology. Better batteries would extend the range and quicken the charging of electric cars. They would allow solar and wind power to run the electric grid even after the wind stops and the sun sets.                                                                                                                                                                                                                       , United Auto Workers President Rory Gamble told Reuters the union is in talks with General Motors about representing workers at joint venture battery plants, and voiced opposition to proposals for Washington to impose a firm deadline to end use of gas (Ford)                                                                                                                                                                                                                                                       , The U.S. has fallen far behind in batteries. China accounts for 79% of the production of lithium-ion cells, compared with 7% in the U.S. and 7% in Europe, according to Wood Mackenzie. China produces about 80% of the chemicals used in lithium-ion batteries, according to Benchmark Mineral Intelligence, which tracks the battery supply chain.                                                                                                                                                                    , The Biden administration and private investors are trying to reverse that. They are funding battery startups, developing lithium mines in the U.S. and aiming to cut the cost of batteries for the electric grid by 90% within the decade.                                                                                                                                                                                                                                                                              , Ms. Babinec’s first close encounter with electricity occurred when she stuck a scissors in a light socket when she was a child. She was briefly knocked unconscious and awoke on the other side of the room. She blacked out her house but was uninjured.                                                                                                                                                                                                                                                               , EV TRUCK MAKER RIVIAN PLANS IN-HOUSE BATTERY CELL MANUFACTURING                                                                                                                                                                                                                                                                                                                                                                                                                                                         , She joined Dow Chemical in 1979 after earning a degree in chemistry at the University of Wisconsin and became the chemical giant’s first female corporate fellow, the highest level scientist at the company, in 1998. She also worked for Dow’s venture capital group, where she gained experience developing new businesses.                                                                                                                                                                                          , Dow management asked her to put together a strategy in energy. She quickly landed on batteries, which she thought was a good fit for a big chemicals and materials producer. "I saw that it was going to be a huge materials play, and Dow was a materials company," she said.                                                                                                                                                                                                                                          , Demand was rising from laptops and cellphones. Soon after, researchers at Argonne applied for a patent for what would become one of the dominant types of lithium ion-batteries. Money began flowing to battery startups.                                                                                                                                                                                                                                                                                               , British manufacturers and those in other parts of Europe want to move more of the supply chain for batteries used in electric cars and renewable energy away from China and closer to their plants, a survey showed. (Mikael Sjoberg/Bloomberg via Getty I                                                                                                                                                                                                                                                              , Ms. Babinec wanted Dow to acquire an alternative-energy company called T/J Technologies that specialized in nanomaterials. Dow passed on the deal and a hot battery startup named A123 Systems snapped it up.                                                                                                                                                                                                                                                                                                           , Frustrated with the slow pace of change at Dow, she joined A123 in 2007. Working at the company’s Ann Arbor, Mich., research facility, Ms. Babinec reveled in the freewheeling culture of a startup. Her second day on the job, a pipe broke and she helped fix it. "If I was at Dow, I would have to call the union and it would have taken weeks to fix," she said.                                                                                                                                                   , A123 suffered a string of setbacks. Electric vehicles failed to take off in the U.S. despite the rise of Tesla Inc., and battery technology advanced more slowly than expected. A defect was found in one of the company’s batteries, leading to a recall and millions of dollars in losses. Ms. Babinec’s group figured out what the problem was. "I’ll never forget that day," she said.                                                                                                                              , LITHIUM PRICES SOAR, TURBOCHARGED BY ELECTRIC-VEHICLE DEMAND AND SCANT SUPPLY                                                                                                                                                                                                                                                                                                                                                                                                                                           , The company declared bankruptcy in 2012, and Ms. Babinec was briefly out of a job. It marked the beginning of a years-long drought in funding for clean-energy projects in the U.S. The high-profile collapse of solar startup Solyndra in 2011 and dirt-cheap natural-gas prices that undercut the urgency to transition away from fossil fuels drained investor enthusiasm for clean energy. The Chinese government, meanwhile, pushed into batteries and the materials that go into them, such as cobalt and lithium., Tesla automobile plugged in and charging at a Supercharger rapid battery charging station for the electric vehicle company Tesla Motors in the Silicon Valley town of Mountain View, Calif., in August 2016. (Smith Collection/Gado/Getty Images / Getty Images)                                                                                                                                                                                                                                                        , About a month after A123 failed, Ms. Babinec joined the Energy Department’s Advanced Research Projects Agency-Energy, or ARPA-E. Modeled on the Defense Department’s research arm, ARPA-E funds early-stage innovation projects. With private funding tight, Ms. Babinec helped direct $120 million to a range of battery companies during a six-year stint.                                                                                                                                                            , Among the battery companies Ms. Babinec helped fund were: Natron Energy, which is developing a rechargeable battery that uses abundant sodium instead of lithium, which is harder to get; Sila Nanotechnologies Inc., a Silicon Valley startup that raised $590 million in new funding in January 2021; and Ion Storage Systems, a developer of so-called solid-state batteries that can last longer than today’s standard technology.                                                                                  , Ms. Babinec’s business background proved valuable to scientists with little experience outside of the lab. Eric Wachsman, a chemistry professor at the University of Maryland and founder of Ion Storage Systems, said that when he performed an experiment on his battery materials, she made him do it two more times with increasing precision before she was satisfied. "She’s a taskmaster," he said.                                                                                                              , TESLA ACTIVISTS CALL FOR CHINA SHOWROOM CLOSURE                                                                                                                                                                                                                                                                                                                                                                                                                                                                         , Ion Storage plans to produce more than one million cellphone-size batteries annually from its Maryland facility beginning in 2023. The company has a contract to develop batteries for the U.S. Army and foresees producing an electric-vehicle battery in several years.                                                                                                                                                                                                                                               , Ms. Babinec left ARPA-E in 2018 and joined Argonne, taking the lead of its stationary energy storage program, including a focus on long-duration batteries. Argonne is a descendant of the Chicago lab where Enrico Fermi worked on nuclear reactions for the Manhattan Project.                                                                                                                                                                                                                                        , CLICK HERE TO READ MORE ON FOX BUSINESS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 , Long-duration batteries, often massive in scale, capture the intermittent power generated by windmills and solar. They can distribute energy over extended periods of time, such as several days, as customers need it. Lithium-ion batteries, by contrast, can only discharge for four or five hours. Much of the technology remains expensive and unproven on a large scale, but an electric grid powered by renewable energy is impossible without it.                                                               , A secret weapon for researchers at Argonne is the Advanced Photon Source, a massive high-energy X-ray device that gives scientists the ability to peer inside batteries as they operate. The device can help discover new chemical combinations to maximize battery performance. An upgrade currently under way that will be completed in the next few years will make it 500 times brighter, Argonne scientists said.                                                                                                  , Last summer, inside a hermetically sealed room deep within Argonne’s sprawling laboratory complex, Ms. Babinec pointed to a machine slowly coating a copper plate with a thin slurry of graphite, a key lithium-ion battery material.                                                                                                                                                                                                                                                                                   , Thinking back to the failure of A123, Ms. Babinec said the process had to be perfect. Otherwise, she said, "You can destroy a company."                                                                                                                                                                                                                                                                                                                                                                                 , This article was originally published in The Wall Street Journal. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.nytimes.com/2022/01/09/business/ruth-shalit-barrett-atlantic-lawsuit.html </td>
@@ -184,7 +420,13 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
    <td style="text-align:left;"> https://www.cnn.com/2022/01/09/us/bronx-fire-injuries/index.html </td>
    <td style="text-align:left;"> 2022-01-10 02:20:57 </td>
    <td style="text-align:left;"> Bronx apartment building fire leaves 19 people dead, including 9 children - CNN </td>
-   <td style="text-align:left;"> (CNN)A major fire in a residential apartment building in the Bronx in New York City on Sunday left 19 people dead, including 9 children, in what Mayor Eric Adams described as one of the worst fires the city has experienced in modern times.                                                                                                                                                                       , The blaze sent 32 people to hospitals with life-threatening conditions, Daniel Nigro, commissioner of the New York City Fire Department, said earlier Sunday. A total of 63 people were injured.                                                                                                                                                                                                                       , A "malfunctioning electric space heater" was the source of the fire, Nigro said during a press conference. The heater was in the bedroom of an apartment, and the fire consumed the room and then the entire apartment, he said.                                                                                                                                                                                       , The apartment door was left open and smoke spread throughout the building when the residents left their unit, Nigro said.                                                                                                                                                                                                                                                                                              , "This is a horrific, horrific, painful moment for the city of New York, and the impact of this fire is going to really bring a level of just pain and despair in our city," Adams said.                                                                                                                                                                                                                                , About 200 members of the New York City Fire Department responded to the fire at the 19-story building at 333 East 181st Street. The fire began a little before 11 a.m. in a duplex apartment on the 2nd and 3rd floors of the building, the FDNY said.                                                                                                                                                                 ,                                                                                                                                                                                                                                                                                                                                                                                                                        , Firefighters were met by "very heavy smoke, very heavy fire" in the hallways.                                                                                                                                                                                                                                                                                                                                          , Victims were found in stairways on every floor of the building, many in cardiac arrest, in what Nigro said could be an unprecedented loss of life. The injuries were predominantly from smoke inhalation, he said.                                                                                                                                                                                                     , Firefighters kept attempting to save people from the building despite running out of air tank, Nigro said. Some of the residents who were trying to leave the building could not "escape because of the volume of smoke."                                                                                                                                                                                              , The FDNY posted several images of the scene showing ladders extending into apartment windows as well as a number of broken windows.                                                                                                                                                                                                                                                                                    , "This is going to be one of the worst fires that we have witnessed during modern times here in the city of New York," Adams said.                                                                                                                                                                                                                                                                                      , "I am horrified by the devastating fire in the Bronx today," New York Gov. Kathy Hochul said on Twitter. "My heart is with the loved ones of all those we've tragically lost, all of those impacted and with our heroic FDNY firefighters. The entire State of New York stands with New York City."                                                                                                                    , The residential apartment where the fire occurred is 50 years old and has 120 units, according to building records.                                                                                                                                                                                                                                                                                                    , There have not been any major building violations or complaints listed against the building, according to city building records. Past minor violations were rectified by the property and there were no structural violations listed.                                                                                                                                                                                  , Apartment fire impacts Muslim and immigrant community                                                                                                                                                                                                                                                                                                                                                                  , The building where the fire occurred housed a largely Muslim population, Adams said, with many immigrants from Gambia, a small nation on the east coast of Africa.                                                                                                                                                                                                                                                     , The mayor said that one priority will be to make sure that Islamic funeral and burial rites are respected. Another will be to seek Muslim leaders to connect with residents.                                                                                                                                                                                                                                           , The names of people who request government assistance will not be turned over to Immigration and Customs Enforcement, Adams added.                                                                                                                                                                                                                                                                                     , "We want people to be comfortable in coming forward, and it's imperative that we connect with those on the ground to make sure they get that message and that word out," Adams said.                                                                                                                                                                                                                                   , Christina Farrell, first deputy commissioner of NYC emergency management, told CNN's Phil Mattingly Sunday that residents who lived in the apartment building are now being housed at a middle school next door.                                                                                                                                                                                                       , "We have all the residents here. We've been able to give them food, a warm space, water, any short-term needs that they had. People brought their pets and so we are in the process of finding people shelter this evening," Farrell said. "We work with the Red Cross, we have hotel rooms and have other resources available. And so we will be making sure every family has a safe, warm space to sleep in tonight.", A service center will be set up Monday, Farrell said.                                                                                                                                                                                                                                                                                                                                                                  , "We'll be hopeful that many of them will be able to go back into their apartment in the coming days," she said. "But for the people that are out long-term, we will work with them and the state to get them appropriate housing."                                                                                                                                                                                     , Hochul, appearing at a press conference Sunday, said she met with survivors of the fire, including a mother who was her family's sole survivor.                                                                                                                                                                                                                                                                        , "It's impossible to go into that room, where scores of families who are in such grief, who are in pain, and to see it in the mother's eyes as I held her, who lost her entire family," she said.                                                                                                                                                                                                                       , As she prepares her new budget this week, Hochul said she will establish a compensation fund to help provide the victims of the fire with money for housing, burial costs and other necessities.                                                                                                                                                                                                                       , "Tonight is a night of tragedy and pain, and tomorrow we begin to rebuild," Hochul said. "We rebuild their lives and give them hope, especially those who came all the way from Africa [from] Gambia in search of a better life right here in this great borough of the Bronx."                                                                                                                                        , Senate Majority Leader Chuck Schumer also spoke at the conference and said numerous forms of assistance are being examined on the federal level and will include housing and tax assistance as well as and immigration assistance, "so families can be reunited."                                                                                                                                                      , CNN's Brynn Gingras contributed to this report. </td>
+   <td style="text-align:left;"> (CNN)A major fire in a residential apartment building in the Bronx in New York City on Sunday left 19 people dead, including 9 children, in what Mayor Eric Adams described as one of the worst fires the city has experienced in modern times.                                                                                                                                                                       , The blaze sent 32 people to hospitals with life-threatening conditions, Daniel Nigro, commissioner of the New York City Fire Department, said earlier Sunday. A total of 63 people were injured.                                                                                                                                                                                                                       , A "malfunctioning electric space heater" was the source of the fire, Nigro said during a press conference. The heater was in the bedroom of an apartment, and the fire consumed the room and then the entire apartment, he said.                                                                                                                                                                                       , The apartment door was left open and smoke spread throughout the building when the residents left their unit, Nigro said.                                                                                                                                                                                                                                                                                              , "This is a horrific, horrific, painful moment for the city of New York, and the impact of this fire is going to really bring a level of just pain and despair in our city," Adams said.                                                                                                                                                                                                                                , About 200 members of the New York City Fire Department responded to the fire at the 19-story building at 333 East 181st Street. The fire began a little before 11 a.m. in a duplex apartment on the 2nd and 3rd floors of the building, the FDNY said.                                                                                                                                                                 ,                                                                                                                                                                                                                                                                                                                                                                                                                        , Firefighters were met by "very heavy smoke, very heavy fire" in the hallways.                                                                                                                                                                                                                                                                                                                                          ,                                                                                                                                                                                                                                                                                                                                                                                                                        , Victims were found in stairways on every floor of the building, many in cardiac arrest, in what Nigro said could be an unprecedented loss of life. The injuries were predominantly from smoke inhalation, he said.                                                                                                                                                                                                     , Firefighters kept attempting to save people from the building despite running out of air tank, Nigro said. Some of the residents who were trying to leave the building could not "escape because of the volume of smoke."                                                                                                                                                                                              , The FDNY posted several images of the scene showing ladders extending into apartment windows as well as a number of broken windows.                                                                                                                                                                                                                                                                                    , "This is going to be one of the worst fires that we have witnessed during modern times here in the city of New York," Adams said.                                                                                                                                                                                                                                                                                      , "I am horrified by the devastating fire in the Bronx today," New York Gov. Kathy Hochul said on Twitter. "My heart is with the loved ones of all those we've tragically lost, all of those impacted and with our heroic FDNY firefighters. The entire State of New York stands with New York City."                                                                                                                    , The residential apartment where the fire occurred is 50 years old and has 120 units, according to building records.                                                                                                                                                                                                                                                                                                    , There have not been any major building violations or complaints listed against the building, according to city building records. Past minor violations were rectified by the property and there were no structural violations listed.                                                                                                                                                                                  , Apartment fire impacts Muslim and immigrant community                                                                                                                                                                                                                                                                                                                                                                  , The building where the fire occurred housed a largely Muslim population, Adams said, with many immigrants from Gambia, a small nation on the west coast of Africa.                                                                                                                                                                                                                                                     , The mayor said that one priority will be to make sure that Islamic funeral and burial rites are respected. Another will be to seek Muslim leaders to connect with residents.                                                                                                                                                                                                                                           , The names of people who request government assistance will not be turned over to Immigration and Customs Enforcement, Adams added.                                                                                                                                                                                                                                                                                     , "We want people to be comfortable in coming forward, and it's imperative that we connect with those on the ground to make sure they get that message and that word out," Adams said.                                                                                                                                                                                                                                   , Christina Farrell, first deputy commissioner of NYC emergency management, told CNN's Phil Mattingly Sunday that residents who lived in the apartment building are now being housed at a middle school next door.                                                                                                                                                                                                       , "We have all the residents here. We've been able to give them food, a warm space, water, any short-term needs that they had. People brought their pets and so we are in the process of finding people shelter this evening," Farrell said. "We work with the Red Cross, we have hotel rooms and have other resources available. And so we will be making sure every family has a safe, warm space to sleep in tonight.", A service center will be set up Monday, Farrell said.                                                                                                                                                                                                                                                                                                                                                                  , "We'll be hopeful that many of them will be able to go back into their apartment in the coming days," she said. "But for the people that are out long-term, we will work with them and the state to get them appropriate housing."                                                                                                                                                                                     , Hochul, appearing at a press conference Sunday, said she met with survivors of the fire, including a mother who was her family's sole survivor.                                                                                                                                                                                                                                                                        , "It's impossible to go into that room, where scores of families who are in such grief, who are in pain, and to see it in the mother's eyes as I held her, who lost her entire family," she said.                                                                                                                                                                                                                       , As she prepares her new budget this week, Hochul said she will establish a compensation fund to help provide the victims of the fire with money for housing, burial costs and other necessities.                                                                                                                                                                                                                       , "Tonight is a night of tragedy and pain, and tomorrow we begin to rebuild," Hochul said. "We rebuild their lives and give them hope, especially those who came all the way from Africa [from] Gambia in search of a better life right here in this great borough of the Bronx."                                                                                                                                        , Senate Majority Leader Chuck Schumer also spoke at the conference and said numerous forms of assistance are being examined on the federal level and will include housing and tax assistance as well as and immigration assistance, "so families can be reunited."                                                                                                                                                      , Correction: An earlier version of this story misstated the region where Gambia is located. It is in West Africa.                                                                                                                                                                                                                                                                                                       , CNN's Brynn Gingras contributed to this report. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.cnn.com/videos/media/2022/01/09/politico-sotomayor-error-rs-vpx.cnn </td>
+   <td style="text-align:left;"> 2022-01-10 01:13:29 </td>
+   <td style="text-align:left;"> Politico apologizes for false story about photo of Sonia Sotomayor and Chuck Schumer - CNN Video </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.nytimes.com/2022/01/09/business/us-flight-cancellations.html </td>
@@ -193,40 +435,22 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
    <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                      , By Niraj Chokshi                                                                                                                                                                                                                                                                                                                                                                                                                                   , Airlines canceled thousands more flights in recent days as the industry tried to move past its holiday hangover.                                                                                                                                                                                                                                                                                                                                   , Bad weather and coronavirus outbreaks among workers continued to disrupt schedules across the United States, but airlines have also called off many recent flights, in advance, so they can correct course at a traditionally slow time for travel without surprising customers with last-minute cancellations.                                                                                                                                    , About 5,000 flights were canceled from Friday through Sunday, according to FlightAware, a data tracking service, with the daily number of cuts declining steadily over that period. Southwest Airlines suspended over 1,000 flights, more than any other carrier. SkyWest Airlines, which operates flights for several major carriers, and United Airlines each canceled more than 500 flights.                                                    , The turmoil began before Christmas, caused by bad weather in the West and staff shortages because of virus outbreaks among employees. Snowfall in the Northeast continued to wreak havoc at major airport hubs across the country into the first weekend of this month.                                                                                                                                                                            , “Given the ongoing surge in Covid cases and related sick calls, we’ve been working with each of our major partners to proactively reduce our January schedules,” SkyWest said in a statement. The airline operates flights for United, Delta Air Lines, American Airlines and Alaska Airlines and said the pullback is intended to “ensure we’re able to adequately staff our remaining flying as we work to recover in the coming weeks.”         , After canceling flights at high rates over the holidays, JetBlue Airways said it would preemptively cut about 1,300 flights in the first half of January. Alaska said in a statement last week that it would slash about one in 10 flights planned for the month to gain “the flexibility and capacity needed to reset.”                                                                                                                           , As in many other industries, airlines are also contending with workers calling in sick at high rates as the Omicron virus variant spreads at astonishing speed.                                                                                                                                                                                                                                                                                    , “It has been one of the most difficult operational environments we’ve ever faced,” Allison Ausband, Delta’s chief customer experience officer, said in a statement last week apologizing to customers for the disorder.                                                                                                                                                                                                                            , To deal with staffing shortages, many carriers have started offering extra pay to those who were otherwise not scheduled to work. Southwest, for example, said last week that it was offering double pay for most of the month to employees who picked up extra shifts, incentives available to workers across its operation, including ground staff, flight attendants, customer service employees, flight schedulers and maintenance technicians., The chaos comes at a frustrating time for the industry, which is preparing for a significant rebound this summer. That recovery rests largely on the hope that the pandemic will be mostly under control by then and that people will be more willing to travel internationally and for work.                                                                                                                                                      , Advertisement </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> https://www.cnn.com/videos/politics/2022/01/09/blinken-nato.cnn </td>
-   <td style="text-align:left;"> 2022-01-10 00:42:32 </td>
-   <td style="text-align:left;"> Blinken rules out pulling back US troops, restricting NATO in Russia talks  - CNN Video </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.cnn.com/2022/01/09/us/rescue-stranded-ice-green-bay/index.html </td>
-   <td style="text-align:left;"> 2022-01-09 23:12:40 </td>
-   <td style="text-align:left;"> At least 34 people rescued after they became stranded on a floating chunk of ice in Green Bay - CNN </td>
-   <td style="text-align:left;"> (CNN)At least 34 people were rescued on Saturday after being stranded on a large chunk of floating ice off the shore of Point Comfort on Green Bay, according to the Brown County Sheriff's Office in Wisconsin.                        , At about 10:15 a.m., Brown County received a report that a large chunk of ice had broken from the shoreline off Point Comfort and that there were multiple people stranded on it, according to a news release from the sheriff's office. , In less than two hours, all the people who were stranded on the floating ice were rescued with no injuries, according to the release.                                                                                                    , "It is believed a barge that had gone through the Bay shortly before the ice breakage may have contributed to the destabilization of the ice," the sheriff's office said.                                                                , The floating ice chunk was about a mile from shore by the end of the rescue and had floated about three quarters of a mile during the rescue, the sheriff's office said.                                                                 , "Although the chunk of ice remained fairly stable, its condition was deteriorating rapidly (and) cracking up as it moved with the open water pounding at the edge of it," the office added.                                              , Shane Nelson told CNN affiliate WLUK he and Robert Verhagen had been out ice fishing for the first time when they heard a loud noise.                                                                                                    , "It sounded like almost somebody fired a gun out there," Nelson said. "We thought it was interesting. We got out of our shanty, looked and ... a couple people were yelling that the ice was separating."                                , CNN's Laura James and Eric Levenson contributed to this report. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.cnn.com/2022/01/09/asia/kazakhstan-protests-detentions-intl/index.html </td>
-   <td style="text-align:left;"> 2022-01-09 22:04:01 </td>
-   <td style="text-align:left;"> Kazakhstan death toll spikes as 164 reported killed and thousands detained in violent protests  - CNN </td>
-   <td style="text-align:left;"> (CNN)At least 164 people have been killed and more than 5,000 detained during violent upheaval in Kazakhstan this week, as unrest swept the nation and the death toll ticked even higher.                                                                                                                                                                  , Deadly protests that erupted in in the Central Asian country in recent days have seen the government resign and the declaration of a state of emergency as troops from a Russia-led military alliance have been deployed to help contain the unrest.                                                                                                        , The death toll -- a significant increase from Friday's count of 44 -- was announced Sunday on state-run TV channel Khabar 24, citing the Kazakhstan Ministry of Health.                                                                                                                                                                                     , The unrest is the biggest challenge yet to autocratic Kazakh President Kassym-Jomart Tokayev's rule, with initial public anger over a spike in fuel prices expanding to wider discontent with the government over corruption, living standards, poverty and unemployment in the oil-rich, former Soviet nation, human rights organizations report.          , At least 5,135 people have so far been detained for alleged participation in Kazakhstan protests, Kazakh state media reported Sunday, citing the country's Internal Affairs Ministry. Meanwhile, police have opened some 125 criminal cases related to incidences of violence, including on the charges of violence, murder, robbery, state media reported. ,                                                                                                                                                                                                                                                                                                                                                             , CNN has been unable to verify the government's claims.                                                                                                                                                                                                                                                                                                      , "Peacekeeping" forces from member states of Collective Security Treaty Organization (CSTO) have fully deployed to Kazakhstan and are now completely operational within the country, CSTO commander general Andrey Serdyukov told a news briefing on Sunday.                                                                                                 , The CSTO -- which includes Russia, Belarus, Armenia, Kazakhstan, Kyrgyzstan, and Tajikistan -- deployed forces following an an appeal from Tokayev for help from the alliance after unrest broke out across Kazakhstan on Wednesday, including in the largest city, Almaty.                                                                                 ,                                                                                                                                                                                                                                                                                                                                                             , Serdyukov said the forces are "performing tasks to protect important military, state and socially significant facilities in the city of Almaty and adjacent area," and will remain in the country until the situation is "fully stabilized."                                                                                                                , High-profile officials, including the country's former head of Kazakhstan's National Security Committee Karim Massimov, have been detained on suspicion of treason, state media reports.                                                                                                                                                                    , The country's central bank has also temporarily suspended currency exchanges in what it says is needed for both the exchangers themselves and their employees and customers, Khabar 24 reported.                                                                                                                                                            , The banking system will be restored in stages depending on the priority of social significance of services for the population and business, Khabar 24 also reported. The payment system for loans, pensions, allowances and salaries will is expected to resume working as usual throughout the country from Monday.                                        , The European Union has made clear it "strongly condemns" the widespread acts of violence in Kazakhstan and outside military support "should respect the sovereignty and independence" of the country, EU foreign policy chief Josep Borrell said in a statement on Saturday.                                                                                , "We deeply regret the loss of life and strongly condemn the widespread acts of violence," he said.                                                                                                                                                                                                                                                          , "Outside military support should respect the sovereignty and independence of Kazakhstan as well as the fundamental rights of all citizens," he added.                                                                                                                                                                                                       , Meanwhile, Pope Francis has prayed for the victims of the violent protests seen in recent days in Kazakhstan, he said Sunday after his weekly Angelus prayer.                                                                                                                                                                                               , CNN's Radina Gigova, Zahra Ullah, Arnaud Siad, Sharon Braithwaite and Olga Pavlova contributed reporting. </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> https://www.cnn.com/2022/01/09/health/sleep-history-wellness-scn/index.html </td>
    <td style="text-align:left;"> 2022-01-09 21:54:46 </td>
    <td style="text-align:left;"> How our ancestors used to sleep can help the sleep-deprived today - CNN </td>
    <td style="text-align:left;"> Sign up for the Sleep, But Better newsletter series. Our seven-part guide has helpful hints to achieve better sleep.                                                                                                                                                                                                                                                                                                                                                                                     ,  (CNN)Like many people, historian A. Roger Ekirch thought that sleep was a biological constant -- that eight hours of rest a night never really varied over time and place.                                                                                                                                                                                                                                                                                                                              , But while researching nocturnal life in preindustrial Europe and America, he discovered the first evidence that many humans used to sleep in segments -- a first sleep and second sleep with a break of a few hours in between to have sex, pray, eat, chat and take medicine.                                                                                                                                                                                                                           , "Here was a pattern of sleep unknown to the modern world," said Ekirch, a university distinguished professor in the department of history at Virginia Tech.                                                                                                                                                                                                                                                                                                                                              , Ekirch's subsequent book, "At Day's Close: Night in Times Past," unearthed more than 500 references to what's since been termed biphasic sleep.  Ekirch has now found more than 2,000 references in a dozen languages and going back in time as far as ancient Greece. His 2004 book will be republished in April.                                                                                                                                                                                       , The practice of sleeping through the whole night didn't really take hold until just a few hundred years ago, his work suggested. It only evolved thanks to the spread of electric lighting and the Industrial Revolution, with its capitalist belief that sleep was a waste of time that could be better spent working.                                                                                                                                                                                  , The history of sleep not only reveals fascinating details about everyday life in the past, but the work of Ekirch, and other historians and anthropologists, is helping sleep scientists gain fresh perspective on what constitutes a good night's sleep. It also offers new ways to cope with and think about sleep problems.                                                                                                                                                                           , There is value in knowing about this prior pattern of sleep in the Western world. "A large number of people who today suffer from middle-of-the-night insomnia, the primary sleep disorder in the United States -- and I dare say in most industrialized countries -- rather than experiencing a quote unquote, disorder, are in fact, experiencing a very powerful remnant, or echo of this earlier pattern of sleep," Ekirch said.                                                                     ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          , Myth of 8-hour sleep?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , The first reference to biphasic sleep Ekirch found was in a 1697 legal document from a traveling "Assizes" court buried in a London record office. The deposition of a 9-year-old girl called Jane Rowth mentioned that her mother awoke after her "first sleep" to go out. The mother was later found dead.                                                                                                                                                                                             , "I had never heard the expression, and it was expressed in such a way that it seemed perfectly normal," he said. "I then began to come across subsequent references in these legal depositions but also in other sources."                                                                                                                                                                                                                                                                               , Ekirch subsequently found multiple references to a "first" and "second" sleep in diaries, medical texts, works of literature and prayer books. A doctor's manual from 16th century France advised couples that the best time to conceive was not at the end of a long day but "after the first sleep," when "they have more enjoyment" and "do it better."                                                                                                                                               , By the early 19th century, however, the first sleep had begun to expand at the expense of the second sleep, Ekirch found, and the intervening period of wakefulness. By the end of the century, the second sleep was little more than turning over in one's bed for an extra 10 minutes of snoozing.                                                                                                                                                                                                     , Ben Reiss, author of "Wild Nights: How Taming Sleep Created Our Restless World" and professor and chair of the English department at Emory University in Atlanta, blames the Industrial Revolution and the "sleep is for wimps" attitude it engendered.                                                                                                                                                                                                                                                  , "The answer is really to follow the money. Changes in economic organization, when it became more efficient to routinize work and have large numbers of people showing up on factory floors, at the same time and doing as much work in as concentrated fashion as possible," Reiss said.                                                                                                                                                                                                                 , Our sleep schedule got squeezed and consolidated as a result, Reiss said.                                                                                                                                                                                                                                                                                                                                                                                                                                ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          , No golden age                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , However, preindustrial life was no halcyon era when our ancestors went about their day well rested and rejuvenated, untroubled by insomnia or other sleep problems, effortlessly in sync with the cycle of night and day, weather patterns and seasons, according to Sasha Handley, a professor of history at The University of Manchester in the United Kingdom. She studies how families optimized their sleep in Britain, Ireland and England's American colonies between 1500 and 1750.              , "Every discussion of sleep history seemed to center around the sort of watershed moment of industrialization, the coming of electricity ruining everybody's sleep lives. The corollary of that is that anything preindustrial was imagined as this golden age of sleep."                                                                                                                                                                                                                                 , Handley said her research suggested, just like today, sleep was linked to physical and mental health and was a topic that people worried about and obsessed over.                                                                                                                                                                                                                                                                                                                                        , Doctor's manuals from the time are full of advice on how many hours to sleep and in what kind of posture, she said. The reference guides also list hundreds of sleep recipes to aid a good night's sleep, she said. These include the bizarre -- cutting a pigeon in half and sticking each half to each side of your head and the more familiar -- bathing in camomile-infused water and using lavender. People also burned specific types of wood in their bed chambers that were thought to aid sleep., "For our period, sleep is very strongly linked to digestion, emotion, stomach, and therefore to people's diets," Handley said.                                                                                                                                                                                                                                                                                                                                                                           , Doctors advised sleepers to rest first on the right side of their body before turning to the left side during the second half of the night. Resting on the right, perhaps during the first sleep, was thought to allow food to reach the pit of the stomach, where it was digested. Turning to the left, cooler side, released vapors and spread the heat evenly through the body.                                                                                                                       , It's thought this habit could be the origin of the phrase about getting out of bed on the wrong side.                                                                                                                                                                                                                                                                                                                                                                                                    , Not all scholars believe that sleeping in two shifts, while perhaps common in some communities, was once a universal habit. Far from it, said Brigitte Steger, a senior lecturer in Japanese studies at the University of Cambridge in the UK, who didn't uncover any references to segmented sleep in her work on sleep habits in Japan.                                                                                                                                                                , "There is no such thing as natural sleep. Sleep has always been cultural, social and ideological," said Steger, who is working on a series of six books about the cultural history of sleep.                                                                                                                                                                                                                                                                                                             , "There is not such a clear-cut difference between premodern (or pre-industrial) and modern sleep habits," she said via email. "And sleep habits throughout pre-industrial times and throughout the world have always changed. And, of course, there has always been social diversity, and sleep habits have been very different at court than for peasants, for instance."                                                                                                                               , Similarly, Gerrit Verhoeven, an assistant professor in cultural heritage and history at the University of Antwerp in Belgium, said his study of criminal court records from 18th century Antwerp suggested that sleep habits weren't so different to our own today. Seven hours of sleep was the norm and there was no mention of first or second sleep.                                                                                                                                                 , "As a historian I'm concerned that arguments about alleged sleeping patterns in the past -- prolonged, by-phasic and with napping during the day -- are sometimes presented as a possible remedy for our modern sleeping disorders. Before drawing such conclusions, we have to do much more research about these early modern sleeping patterns," he said.                                                                                                                                              , Rethinking insomnia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , Russell Foster, a professor of circadian neuroscience at the University of Oxford, said Ekirch's findings on biphasic sleep, while not without controversy, had informed his work as a sleep scientist.                                                                                                                                                                                                                                                                                                  , Experiments in sleep labs had shown that when humans are given the opportunity to sleep longer, he said, their sleep can become biphasic or even polyphasic, replicating what Ekirch found in historical records. However, Foster, who is also the director of the Sir Jules Thorn Sleep and Circadian Neuroscience Institute at Oxford, doubted that it was a sleep pattern that would happen for everybody.                                                                                            , Nobody should impose a regime of segmented sleep on themselves, particularly if it resulted in a reduction of total sleep time, he added.                                                                                                                                                                                                                                                                                                                                                                , What was clear, Foster said, was that interrupted sleep was perceived as less of a problem in the past and that modern expectations about what constitutes a good night's sleep -- sleeping through the night for eight hours -- weren't always helpful.                                                                                                                                                                                                                                                 , He said a key point was waking at night need not mean the end of sleep. One example he cited was more people waking up at night during lockdowns during the Covid-19 pandemic.                                                                                                                                                                                                                                                                                                                           , "They'll get terribly anxious and worried about waking up in the middle of night, because that's not what they normally experience," said Foster, who is also the author of "Life Time: The New Science of the Body Clock, and How It Can Revolutionize Your Sleep and Health," which will be published in May 2022. More likely, what had happened was that people's sleep episode -- how much time they have available for sleep -- had expanded and wasn't constricted by an alarm clock going off.   , "It's a throwback to a time when we genuinely got more sleep," he said.                                                                                                                                                                                                                                                                                                                                                                                                                                  , If we wake up at night, sleep is likely to return, if sleep is not sacrificed to social media or other behavior that makes you more alert or activates a stress response, Foster's research has suggested. Like most sleep experts, he recommended getting out of bed if you're getting frustrated by the failure to fall back to sleep and engaging in a relaxing activity while keeping the lights low.                                                                                                , "Individual sleep across humans is so variable. One size doesn't fit all. You shouldn't worry about the sort of sleep that you get," he said.                                                                                                                                                                                                                                                                                                                                                            , </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> https://www.cnn.com/2022/01/09/asia/afghanistan-baby-found-airlift-chaos-intl/index.html </td>
-   <td style="text-align:left;"> 2022-01-09 21:41:53 </td>
-   <td style="text-align:left;"> Afghanistan: Baby lost in chaos of airlift is found and returned to family - CNN </td>
-   <td style="text-align:left;"> (Reuters)An infant boy handed in desperation to a soldier across an airport wall in the chaos of the American evacuation of Afghanistan has been found and was reunited with his relatives in Kabul on Saturday.                                                                                                                                    , The baby, Sohail Ahmadi, was just two months old when he went missing on August 19 as thousands of people rushed to leave Afghanistan as it fell to the Taliban.                                                                                                                                                                                     , Following an exclusive Reuters story published in November with his pictures, the baby was located in Kabul where a 29-year-old taxi driver named Hamid Safi had found him in the airport and took him home to raise as his own.                                                                                                                     , After more than seven weeks of negotiations and pleas, and ultimately a brief detention by Taliban police, Safi finally handed the child back to his jubilant grandfather and other relatives still in Kabul.                                                                                                                                        , They said they would now seek to have him reunited with his parents and siblings who were evacuated months ago to the United States.                                                                                                                                                                                                                 , During the tumultuous Afghan evacuation over the summer, Mirza Ali Ahmadi -- the boy's father who had worked as a security guard at the US embassy -- and his wife Suraya feared their son would get crushed in the crowd as they neared the airport gates en route to a flight to the United States.                                                , Ahmadi told Reuters in early November in his desperation that day, he handed Sohail over the airport wall to a uniformed soldier who he believed to be an American, fully expecting he would soon make it the remaining five meters (15 feet) to the entrance to reclaim him.                                                                        , Just at that moment, Taliban forces pushed the crowd back and it would be another half an hour before Ahmadi, his wife and their four other children were able to get inside.                                                                                                                                                                        , But by then the baby was nowhere to be found.                                                                                                                                                                                                                                                                                                        , Ahmadi said he searched desperately for his son inside the airport and was told by officials that he had likely been taken out of the country separately and could be reunited with them later.                                                                                                                                                      , The rest of the family was evacuated -- eventually ending up at a military base in Texas. For months they had no idea where their son was.                                                                                                                                                                                                           , The case highlights the plight of many parents separated from their children during the hasty evacuation effort and withdrawal of US forces from the country after a 20-year war.                                                                                                                                                                    , With no US embassy in Afghanistan and international organizations overstretched, Afghan refugees have had trouble getting answers on the timing, or possibility, of complex reunifications like this one.                                                                                                                                            , The US Department of Defense, the State Department and the Department of Homeland Security did not respond to requests for comment on Saturday.                                                                                                                                                                                                      , Alone in the airport                                                                                                                                                                                                                                                                                                                                 , On the same day Ahmadi and his family were separated from their baby, Safi had slipped through the Kabul airport gates after giving a ride to his brother's family who were also set to evacuate.                                                                                                                                                    , Safi said he found Sohail alone and crying on the ground. After he said he unsuccessfully tried to locate the baby's parents inside, he decided to take the infant home to his wife and children. Safi has three daughters of his own and said his mother's greatest wish before she died was for him to have a son.                                 , In that moment he decided: "I am keeping this baby. If his family is found, I will give him to them. If not, I will raise him myself," he told Reuters in an interview in late November.                                                                                                                                                             , Safi told Reuters that he took him to the doctor for a check-up after he was found and quickly incorporated the child into his family. They called the baby Mohammad Abed and posted pictures of all the children together on his Facebook page.                                                                                                     , After the Reuters story about the missing child came out, some of Safi's neighbors -- who had noticed his return from the airport months earlier with a baby -- recognized the photos and posted comments about his whereabouts on a translated version of the article.                                                                              , Ahmadi asked his relatives still in Afghanistan, including his father-in-law Mohammad Qasem Razawi, 67, who lives in the northeastern province of Badakhshan, to seek out Safi and ask him to return Sohail to the family.                                                                                                                           , Razawi said he traveled two days and two nights to the capital bearing gifts -- including a slaughtered sheep, several pounds of walnuts and clothing -- for Safi and his family.                                                                                                                                                                    , But Safi refused to release Sohail, insisting he also wanted to be evacuated from Afghanistan with his family. Safi's brother, who was evacuated to California, said Safi and his family have no pending applications for US entry.                                                                                                                  , The baby's family sought help from the Red Cross, which has a stated mission to help reconnect people separated by international crises, but said they received little information from the organization. A spokesperson for the Red Cross said it does not comment on individual cases.                                                             , Finally, after feeling they had run out of options, Razawi contacted the local Taliban police to report a kidnapping. Safi told Reuters he denied the allegations to the police and said he was caring for the baby, not kidnapping him.                                                                                                             , The complaint was investigated and dismissed and the local police commander told Reuters he helped arrange a settlement, which included an agreement signed with thumbprints by both sides. Razawi said the baby's family in the end agreed to compensate Safi around 100,000 Afghani ($950) for expenses incurred looking after him for five months., "The grandfather of the baby complained to us and we found Hamid and based on the evidence we had, we recognized the baby," said Hamid Malang, the chief area controller of the local police station. "With both sides in agreement, the baby will be handed over to his grandfather," he said on Saturday.                                          , In the presence of the police, and amid lots of tears, the baby was finally returned to his relatives.                                                                                                                                                                                                                                               , Razawi said Safi and his family were devastated to lose Sohail. "Hamid and his wife were crying, I cried too, but assured them that you both are young, Allah will give you male child. Not one, but several. I thanked both of them for saving the child from the airport," Razawi said.                                                            , The baby's parents told Reuters they were overjoyed as they were able to see with their own eyes the reunion over video chat.                                                                                                                                                                                                                        , "There are celebrations, dance, singing," said Razawi. "It is just like a wedding indeed."                                                                                                                                                                                                                                                           , Now Ahmadi and his wife and other children, who in early December were able to move off the military base and resettle in an apartment in Michigan, hope Sohail will soon be brought to the United States.                                                                                                                                           , "We need to get the baby back to his mother and father. This is my only responsibility," his grandfather said. "My wish is that he should return to them."                                                                                                                                                                                           , </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> https://www.nytimes.com/2022/01/09/business/the-week-in-business-vaccine-mandates.html </td>
    <td style="text-align:left;"> 2022-01-09 20:00:08 </td>
    <td style="text-align:left;"> The Week in Business: Vaccine Mandates - The New York Times </td>
    <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , Supported by                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         , with interest                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , Send any friend a story                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              , As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , By Sarah Kessler                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     , Businesses were grappling with increased staff shortages while workers called in sick or tested positive for Covid-19 as well as shifting guidance on what they are required to do to keep their workers safe. On Tuesday, the Centers for Disease Control and Prevention stood by its guidance that Americans who test positive for the coronavirus could end isolation after five days without obtaining a negative test. The omission of a testing requirement has been criticized by some public health experts, and the agency had been widely expected to add testing to its guidelines. Walmart told workers on Tuesday that it would cut its paid time off for workers who contract the virus to one week, down from two. On Friday, the Supreme Court heard arguments on the legality of two rules from the Biden administration: One requires large private businesses to ensure workers are vaccinated or undergo weekly tests and the other requires some health care workers to be vaccinated. Macy’s requested the vaccination status of its employees last week, while Starbucks set a Feb. 9 deadline for its U.S. workers to be fully vaccinated and Citigroup said it would dismiss unvaccinated employees by the end of the month., Employers are still having trouble finding workers. The U.S. economy added 199,000 jobs in December, down from 249,000 in November, the Labor Department said on Friday. It was the weakest job growth of the year, even before the Omicron variant of the coronavirus presented a new threat to the economy. The problem appears to be that demand for workers is outpacing available candidates. The unemployment rate in December fell to 3.9 percent from 4.2 percent, while average hourly earnings rose 4.7 percent over the year — a sign that companies are struggling to attract and retain workers. Data released Tuesday showed that more Americans quit their jobs in November than in any other month on record.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , After a trial that lasted more than three months and seven days of deliberations, the jury in the Elizabeth Holmes case reached a verdict on Monday, finding the Theranos founder guilty on four of 11 charges of fraud. Each count carries a maximum sentence of 20 years in prison, terms that are likely to be served concurrently. The case raised questions about Silicon Valley’s “fake it until you make it” culture and set off a debate about whether Ms. Holmes’s behavior reflects anything other than one entrepreneur’s false and misleading actions. Ms. Holmes is likely to appeal, and a sentencing date is expected to be set this week.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , The entertainment industry heads into a diminished 2022 awards season this week. The Critics Choice Awards, initially scheduled for Sunday, have been postponed indefinitely because of coronavirus concerns. The Golden Globes, also scheduled for Sunday, will take place without an audience or a red carpet after questions were raised about possible financial missteps and a lack of diversity within the group that hands out the awards. The Grammy Awards, originally scheduled for Jan. 31, have been postponed; the Palm Springs International Film Festival, scheduled to run through this week, has been canceled; and the Sundance Film Festival will take place online only at the end of January. Plans for an in-person Academy Awards on March 27 remain unchanged, but relatively few people have seen the movies that are most likely to win Oscars.                                                                                                                                                                                                                                                                                                                                                                            , On Wednesday, the Department of Labor will report how much prices rose in December. In November, the Consumer Price Index, an important measure of inflation, rose at its fastest rate in nearly 40 years, and central banks around the world have begun efforts to cool off the economy. Minutes from the Federal Reserve’s December meeting released last week suggested that it may withdraw support for the economy more quickly than previously expected.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , The Senate will hold separate confirmation hearings this week for both Jerome H. Powell, who was nominated by President Biden for a second term as Federal Reserve chairman, and Lael Brainard, Mr. Biden’s nominee for deputy chair. Though some progressive Democrats, including Senator Elizabeth Warren, have said they will oppose Mr. Biden’s renomination of Mr. Powell, both Democrats and Republicans have expressed support for the appointment, which was widely seen as a signal of consistency. Mr. Powell will probably be asked about the controversy surrounding a financial transaction made by the departing vice chair of the Fed, Richard H. Clarida. Mr. Clarida bought shares in an investment fund that holds stocks one day before the Fed announced that it would rescue markets that were plunging at the start of the pandemic.                                                                                                                                                                                                                                                                                                                                                                                           , BlackBerry models that use the company’s operating systems stopped working on Tuesday, ending an era for the once-ubiquitous device. Apple’s market capitalization briefly hit $3 trillion for the first time. Cruises kept cruising despite warnings from the C.D.C. And airlines continued to cancel thousands of flights a day.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   , Advertisement </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.cnn.com/videos/sports/2022/01/09/australia-novak-djokovic-refugee-crisis-coren-pkg-vpx.cnn </td>
+   <td style="text-align:left;"> 2022-01-09 19:49:37 </td>
+   <td style="text-align:left;"> Djokovic's detention in Australia sheds light on refugee crisis - CNN Video </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.nytimes.com/2022/01/09/business/media/hollywood-golden-globes-oscars.html </td>
@@ -239,18 +463,6 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
    <td style="text-align:left;"> 2022-01-09 18:00:08 </td>
    <td style="text-align:left;"> How the Pandemic Changed H.R. Jobs - The New York Times </td>
    <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Supported by                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , Vaccine mandates. Boosters. Exemptions. Testing protocol. Just a handful of public health questions that human resources departments now have to answer.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , Send any friend a story                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , By Emma Goldberg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , Gia Ganesh is a people person, so she loved running people operations — what many companies now call human resources — at Florence Healthcare. She led the health care technology company’s recruitment efforts, met with expecting moms planning for maternity leave and helped staff decide whether to spend their wellness benefits on therapy or a massage.                                                                                                                                                                                                                                                                                                                     , But like many working people, she found that the pandemic broke open her job description and filled it with new responsibilities. And like many human resources professionals, she found that she sometimes had to play a role akin to company nurse.                                                                                                                                                                                                                                                                                                                                                                                                                               , As Covid first started to spread, Ms. Ganesh made sure employees had stipends to set up work spaces at home and planned virtual activities, like a magic show and a cooking competition, to keep people connected. By last fall, she was in the meeting with the chief executive writing up her company’s vaccine mandate, which requires that all employees, even those working remotely, be fully vaccinated against the coronavirus. She reviews every request for a vaccine rule exemption from people who would rather submit to regular coronavirus testing.                                                                                                                  , “What happens if employees test positive for Covid? How do we take care of them, and the role, if they’re out for a significant period of time? There’s a lot of new complexity that Covid has brought to the world of H.R.,” said Ms. Ganesh, whose company has about 150 employees globally.                                                                                                                                                                                                                                                                                                                                                                                      , Just as the Covid-19 crisis made amateur epidemiologists of people trying to go about their daily lives, it also forced H.R. professionals, especially those at small and midsize businesses, into a new focus on public health. As companies weighed when to return to the office, whether to require coronavirus vaccines and what sort of exemptions from those rules to allow, it was often H.R. directors who were asked to lead those efforts. It was no longer sufficient for these professionals to manage the job satisfaction and career development of their colleagues. Suddenly, they were also charged with monitoring their health, safety and views on immunization., The added dimensions of H.R. jobs are coming into sharper focus now, as more organizations put vaccine mandates into effect. About 17 percent of American employers were requiring vaccinations or negative Covid tests for employees returning to the office, according to a Gallagher survey of more than 500 employers conducted between August and October.                                                                                                                                                                                                                                                                                                                     , Hovering over company conversations about vaccines is the additional consideration of whether to mandate booster shots. The Centers for Disease Control and Prevention has not updated its definition of “fully vaccinated” but said that being “up to date” on vaccination includes a booster. And some state and local leaders like Gov. Kathy Hochul of New York have indicated that they plan to include a booster requirement as well.                                                                                                                                                                                                                                         , Then there’s the tug of war over return to office plans, with the pull of executives eager to see workers in person meeting the push of soaring Covid case counts. On top of that has come the challenge of retaining talent when workers are walking off the job, with 4.5 million leaving their roles voluntarily in November. The sources of stress, for some H.R. directors, seem to multiply by the month.                                                                                                                                                                                                                                                                     , For George Boué, who ran H.R. at Stiles, a commercial real estate company based in Fort Lauderdale, Fla., the anxieties of his job began to increase this fall. He kept jerking awake at 3 a.m., his mind racing with questions. How was he going to roll out a vaccine mandate to his colleagues who viewed it as an intrusion? More important, how was he going to keep everybody in his office safe?                                                                                                                                                                                                                                                                             , Mr. Boué, who is fully vaccinated, was surrounded by friends in South Florida who were citing misinformation about the vaccine. He estimated that one-third of his 300-person staff is most likely not fully vaccinated. When the Labor Department rolled out its vaccine rule in November, requiring large businesses to get their workers vaccinated or tested weekly, Mr. Boué started drafting the terms for his company’s vaccine policy; then he put it on hold because of legal battles over the mandates, especially in Florida. Mr. Boué decided that among teammates he wouldn’t refer to the policy as a mandate, because he wanted to temper tensions whenever he could., “There’s those that are feeling the world is coming to an end, and this is horrible, and those on the other side of the spectrum that feel this is all a bunch of baloney,” he said. “The toughest part of my role has been trying to address all sides.”                                                                                                                                                                                                                                                                                                                                                                                                                           , His responsibilities continued to grow thornier since the start of the pandemic: In the early months, his team had to order gallons of disinfectant and hundreds of masks. Last summer, they had to start enforcing mask requirements in the office for unvaccinated employees, though his team did not ask for proof of vaccination for that rule and instead went by “the trust factor.”                                                                                                                                                                                                                                                                                          , Some executives are outsourcing Covid safety work to companies that set up turnkey vaccine and testing systems. DocGo, for example, a health care and technology company, creates testing programs for businesses and monitors the maintenance of employee confidentiality, data privacy and compliance with federal government standards.                                                                                                                                                                                                                                                                                                                                          , Still, Anthony Capone, DocGo’s president, said he hears regularly from H.R. directors, especially those worried that their unvaccinated workers will struggle to obtain Covid tests, which could mean employers are in violation of government guidelines.                                                                                                                                                                                                                                                                                                                                                                                                                          , H.R. professionals said they’re trying, wherever possible, to point toward government rules and to emphasize to employees that they’re simply following advice from public health authorities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , “I try not to be a doctor or a scientist,” said Amy Zimmerman, the chief people officer of Relay Payments, a software company based in Atlanta with just over 100 employees. “We’ve got institutions like the World Health Organization and the C.D.C. and really smart people who are making decisions that if you’re reasonable, you trust.”                                                                                                                                                                                                                                                                                                                                      , Still, there are plenty of scientific decisions — especially those on vaccine rule exemptions — that have to be made on a case-by-case basis, and they tend to fall to an H.R. team that doesn’t have scientific training.                                                                                                                                                                                                                                                                                                                                                                                                                                                          , Ms. Zimmerman’s company currently allows its staff to work from home, but those coming into the office have to show proof of full vaccination. The requests for exemptions from that rule go straight to H.R. One involved concerns about fertility treatments, but the employee could not get a supporting doctor’s note and now cannot come into the office. Another was from an employee who had been previously infected with coronavirus, who Ms. Zimmerman’s team determined would have to show proof of antibodies every 90 days.                                                                                                                                            , Relay Payments also had two large in-person gatherings last year, where it required both proof of vaccination and a negative test 72 hours before arrival. Right before its December gathering, an employee who was fully vaccinated tested positive and skipped the event. Ms. Zimmerman was relieved that he caught the case before his flight from home, which she viewed as validation of the company’s move to require both vaccines and testing.                                                                                                                                                                                                                              , Now her team is weighing whether to mandate boosters. She said they might hold off on for now, though they would continue to follow C.D.C. recommendations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         , Making these kinds of decisions demands constant consumption of news by business leaders, with many seeking out online expertise about Covid: “The C.D.C. is my main source, but there’s multiple channels and mediums I’m plugged into,” said Ms. Ganesh, at Florence Healthcare.                                                                                                                                                                                                                                                                                                                                                                                                  , Mr. Boué, in South Florida, has finally hit his limit on H.R. angst. He retired at the end of last year. His wife works at a hospital, and with the anxieties she carries — about freezer trucks and overflowing beds — he feels he can’t take home his own set of work worries.                                                                                                                                                                                                                                                                                                                                                                                                    , Mr. Boué used to wake up raring to get to the office: “Even though I’m antisocial, I do enjoy working and helping people out,” he said. But the last two years have undercut that sense of enthusiasm: “There wasn’t a particular ‘Aha!’ moment,” he added. “I just realized the stress wasn’t good for me.”                                                                                                                                                                                                                                                                                                                                                                        , Advertisement </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.cnn.com/2022/01/09/europe/nato-russia-meeting-intl-cmd/index.html </td>
-   <td style="text-align:left;"> 2022-01-09 13:04:11 </td>
-   <td style="text-align:left;"> The West has a rare window to put Putin in his place - CNN </td>
-   <td style="text-align:left;"> (CNN)Next week may see one of the most significant and defining moments in relations between the North Atlantic Treaty Organization and Russia since the break-up of the Soviet Union.                                                                                                                                                                                                                                                                                                                                                                                                                     , On Wednesday, representatives from NATO, its 30 member states, and the Russian Federation will meet in Brussels, primarily to discuss the recent military buildup of Russian troops on the border between Russia and Ukraine. US and Russian diplomats will meet in Geneva Monday to discuss the crisis as well.                                                                                                                                                                                                                                                                                            , US Secretary of State Antony Blinken has said there are "two paths," and that the option of "diplomacy and de-escalation" was one of two the US and international community had laid out for Moscow ahead of the meetings.                                                                                                                                                                                                                                                                                                                                                                                  , Blinken met with Russian Foreign Minister Sergey Lavrov in Stockholm, Sweden, in December amid growing concern among Western powers that Russia was seeking to invade Ukraine.                                                                                                                                                                                                                                                                                                                                                                                                                              , The recent escalation in tension has sparked fears of a repeat of 2014, when Russia forcibly annexed the Black Sea peninsula of Crimea and backed separatists in eastern Ukraine. This act, the fact that Russia was able to do it and get away with it, triggered years of serious conversations in policy circles about the role of the West and whether or not it was capable of standing up to Russia.                                                                                                                                                                                                  , Relations between the West and Russia never rebounded after that point -- instead, almost reaching Cold War-level lows. The NATO-Russia Council, founded in 2002 as a talking shop for cooperation between the West and Russia, has not met in over two years.                                                                                                                                                                                                                                                                                                                                              , Blinken said Friday that progress could be made during next week's diplomatic talks between US, European and Russian officials, but that it had to be a "two-way street" with Russia deescalating its aggression toward Ukraine.                                                                                                                                                                                                                                                                                                                                                                            , While multiple NATO officials told CNN that, in their view, the fact that Russia has finally agreed to meet is a major concession and a sign that diplomacy could lead to a deescalation, they are also cautious that an increasingly hostile Kremlin might not be meeting in good faith.                                                                                                                                                                                                                                                                                                                   , It was only last month that Moscow published two draft agreements outlining its demands for defusing tensions on the Ukrainian border. Those demands include rolling back NATO deployments in Eastern Europe to some point in the 1990s, meaning many countries that neighbor Russia and were under the control of the Soviet Union would be less protected by the alliance.                                                                                                                                                                                                                                ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , This, along with a promise of NATO not expanding further east, is an unacceptable demand and a non-starter from NATO's perspective.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         , So what are the Russians hoping for?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , NATO sources say the demands could be "deliberately ridiculous to force a rollback on things like admitting new NATO members, pulling the likes of Ukraine and Finland from the mix," or could simply be "a performance that allows Russian officials to say they tried to negotiate in order to justify an escalation to their citizens."                                                                                                                                                                                                                                                                  , Given both sides' inflexibility, what is the point of the meeting?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          , According to officials from the most vocal and oldest NATO members, Wednesday is an opportunity for the alliance to lay down a firm and unified position: If Russia does escalate tensions, it will face "serious economic consequences. We will use tools that weren't deployed in 2014."                                                                                                                                                                                                                                                                                                                  , Officials who spoke to CNN were not forthcoming on what those tools would be because "signposting them would give Russia the opportunity to prepare for them, defeating the purpose," however it's fair to say that they would be a mixture of hard economic sanctions and even more NATO on Russia's doorstep.                                                                                                                                                                                                                                                                                             , Risky as Western hostility might be in provoking Putin, inaction could be worse. "Capitulating to out-of-this-world demands would make the overall situation much more dangerous, as it would just embolden the Kremlin to act aggressively," says Pasi Eronen, research analyst at the Conflict Studies Research Centre. "Moreover, China and other revisionists are watching the reaction to a Kremlin gamble."                                                                                                                                                                                           , What is notable when talking to officials and experts is a sense that the West is far less scared of Russia than it has been in recent years. Poisonings and assassination of Russian citizens on foreign soil, brutal suppression and imprisonment of political opponents, interference in foreign elections and the annexation of Crimea have all painted an image of Putin as a strong leader who must be feared.                                                                                                                                                                                        ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , Naturally, if you live in Russia or a neighboring nation and have opposed Putin, then he is a scary individual. However, his escalating aggression might in part be down to his diminished power in other areas.                                                                                                                                                                                                                                                                                                                                                                                            , "Putin is an aging autocrat, obsessed with the legacy of his rule, and that of the failure of the Soviet Union," says Eronen. "Russia has been ravaged by Covid-19, and the future of its hydrocarbon export economy looks bleak."                                                                                                                                                                                                                                                                                                                                                                          , This economic weakness is where the West, if it remains united, may possibly be able to force Putin's hand.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 , "His country has an economy roughly the same size as New York. If the West properly coordinated economic sanctions against him and against Russian business without fear, he would be backed into a corner very quickly," says Bill Browder, a prominent American-born financier whose push for the Magnitsky Act sanctions has infuriated the Kremlin.                                                                                                                                                                                                                                                     , While the West has imposed sanctions on Russia in recent years for various Kremlin misdeeds, it's fair to say they could have gone further.                                                                                                                                                                                                                                                                                                                                                                                                                                                                 , That's partly why next week is so important: if NATO allies do all get on the same page, it could send the strongest possible message at a critical moment. Just as Putin tries to push his luck again, the West has the opportunity to say in a formal diplomatic setting that it's run out of patience.                                                                                                                                                                                                                                                                                                   , In order to make any new sanctions more effective than previous attempts to punish Russia, the West must be prepared to suffer some pain. In the past, it has avoided targeting Russian sovereign debt and the energy trade.                                                                                                                                                                                                                                                                                                                                                                                , According to Richard Connolly, associate fellow at the Royal United Services Institute, "raising the costs of doing business for Russian firms, either by restricting access to capital, or by restrictions to accessing technologies," could have a bigger impact on the Russian economy and on Putin's inner circle than targeting individuals because "most critical Russian business is in some way connected to Kremlin."                                                                                                                                                                              ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , He also says that "imposing secondary sanctions on those that trade with Russia" in things like energy, arms and strategic goods could do similar levels of harm that secondary sanctions have done to Iran.                                                                                                                                                                                                                                                                                                                                                                                                , On the thornier question of traditional hard power and the potential expansion of NATO, some believe that the allies have reason to feel bullish when they meet with the Russians on Wednesday.                                                                                                                                                                                                                                                                                                                                                                                                             , "We need to join forces and not be afraid. Putin is afraid -- not us. He is afraid of his own people, afraid of democratic elections," says Rasa Juknevičienė, Lithuania's former defense minister. She believes that now is the time to accelerate Ukraine's accession to NATO.                                                                                                                                                                                                                                                                                                                            , "Europe cannot return to the times of Hitler and Stalin, when nations were divided. Ukrainians, not the Kremlin, have to decide, what will be the future of Ukraine. The success of Ukraine would be the best remedy against the Kremlin. They fear it most," she adds.                                                                                                                                                                                                                                                                                                                                     , Obviously, talks next week will be tense and solving the Ukrainian crisis is not going to be easy. Putin can be at his most dangerous when backed into a corner, observers say, and he is currently juggling multiple foreign-policy crises after Russian troops were deployed to neighboring Kazakhstan to quell unrest following violent anti-government protests. A running theme over the past few years has been Putin leaping on Western errors in judgment -- from the Afghanistan withdrawal to inaction in Syria -- and using whatever power he has to bolster his reputation as a powerful leader., And as multiple NATO officials conceded, Putin cares about Ukraine a lot more than many in the West and will have limitless patience to get what he wants if he senses weakness.                                                                                                                                                                                                                                                                                                                                                                                                                            , The West goes into next week with so many strategic advantages over Russia, it should on paper be relatively easy to force Putin's hand toward deescalation in the east of Europe. However, Putin hasn't remained in power for over 20 years for no reason.                                                                                                                                                                                                                                                                                                                                                 , If the West is to successfully leverage its position at this critical moment and cut Putin down to size, its unity must be uncrackable. A repeat of the mistakes of 2014 could create an even more dangerous version of the Russian leader if he is able to stare down the most powerful alliance on earth.                                                                                                                                                                                                                                                                                                 , </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.cnn.com/2022/01/08/asia/kazakhstan-power-grab-analysis-intl-cmd/index.html </td>
-   <td style="text-align:left;"> 2022-01-09 05:15:28 </td>
-   <td style="text-align:left;"> Cold War-style power grab plays out with deadly consequences on the streets of Kazakhstan - CNN </td>
-   <td style="text-align:left;"> (CNN)The politics of Kazakhstan are notoriously opaque and bureaucratic, but in the past few days President Kassym-Jomart Tokayev has shed his image as a compliant, colorless placeholder.                                                                                                                                                                                , With a little help from Moscow, Tokayev has ruthlessly turned the tables on his mentor, Nursultan Nazarbaev, the man who ruled Kazakhstan from independence in 1991 to 2019 and was still known as Leader of the Nation, until Wednesday.                                                                                                                                   , Analysts say Kazakhstan has now entered a period of treacherous transition -- but Tokayev has emerged victorious in round one.                                                                                                                                                                                                                                              , As the city of Almaty echoed to the sound of gunfire on January 5, Tokayev abandoned the moderate tone he'd used when the protests began, and launched -- in effect -- a palace coup.                                                                                                                                                                                       , His swift action was all the more surprising because Tokayev was widely seen as an urbane technocrat still beholden to Nazarbaev, who hand-picked him as his successor in 2019.                                                                                                                                                                                             , Kate Mallinson, central Asia analyst with the London-based political risk group Prism, said the swift move against Nazarbaev allies "came as a shock. In Kazakhstan everything is bureaucracy -- but not this time."                                                                                                                                                        , Paul Stronski, of the Carnegie Endowment for International Peace, said Tokayev took "pretty bold steps for someone seen as a puppet."                                                                                                                                                                                                                                       , In the space of a few hours Nazarbaev lost his tenure as head of the Security Council, a title Tokayev took himself. Also out: Prime Minister Askar Mamin, originally appointed shortly before Nazarbaev left office, as well as several more Nazarbaev loyalists.                                                                                                          , Stronski says a "huge struggle is going on among Kazakhstan's elite," and it's difficult to predict how it will unfold.                                                                                                                                                                                                                                                     ,                                                                                                                                                                                                                                                                                                                                                                             , A toxic association                                                                                                                                                                                                                                                                                                                                                         , Despite his lack of a power base remotely comparable to that of the Nazarbaevs, Tokayev appears to have calculated that the association was toxic, amid widespread anger about unemployment, the cost of living and rampant corruption among an elite closely associated with Nazarbaev.                                                                                    , Tokayev was already aware that Nazarbaev's legacy was a mixed blessing. Nearly three years ago, he was on the receiving end of protests when the capital was renamed Nur-Sultan in Nazarbaev's honor. This week Tokayev stopped using the name.                                                                                                                             , Tokayev's actions on January 5 may have been preemptive, according to analysts. In the previous 24 hours, according to Mallinson, the powerful intelligence chief Karim Masimov had reportedly told Tokayev that the Nazarbaev family had lost confidence in him and "his time was up."                                                                                     , Tokayev fired Masimov, replacing him with the head of the Presidential Protection Service. The next day, according to an official statement reported by state media, Masimov "and other persons were detained and placed in a temporary detention facility" on suspicion of committing treason.                                                                             , The spasm of violence in Almaty may have been part of this sudden power struggle. Tokayev himself said the "bandits and terrorists are very well trained, organized and are under the command of a special center," though stressed it was based abroad.                                                                                                                    ,                                                                                                                                                                                                                                                                                                                                                                             , Stronski says organized criminal groups appear to have been involved in mobilizing gangs of well-armed men on the streets but there remain "big questions about who these groups are and who sent them in."                                                                                                                                                                 , The unrest metastasized in hours from being grassroots protests in the far west of Kazakhstan into a grab for power in Almaty.                                                                                                                                                                                                                                              , But moves as bold as those taken by Tokayev on Wednesday require some form of insurance. Enter Russian President Vladimir Putin. As he fired anyone who he believed might pose a threat, Tokayev appealed to the Russian-led Collective Security Treaty Organization to send in peacekeepers -- an appeal that was swiftly accepted.                                        , His message was clear: Moscow's on my side.                                                                                                                                                                                                                                                                                                                                 , Fyodor Lukyanov, research director at the Moscow-based Valdai Discussion Club wrote in Russian outlet RT that the question is whether "deploying the CSTO peacekeepers would spell the end of clan rivalry in Kazakhstan."                                                                                                                                                  , Stronski says that may come at a cost to Tokayev. For Kazakhstan's middle-class "stability is welcomed -- but having to depend on the Russians is not."                                                                                                                                                                                                                     , Mallinson says her contacts in Kazakhstan are "spitting mad" about the Russians' arrival. If Tokayev wants to retain his credibility, they will have to be gone in days, she says. But "there's no such thing as a free lunch with Putin."                                                                                                                                  , As US Secretary of State Antony Blinken put it Friday: "Once Russians are in your house, sometimes it is very difficult to get them to leave."                                                                                                                                                                                                                              , Tensions in St. Petersburg                                                                                                                                                                                                                                                                                                                                                  , Russia -- which has a 7,600 km (4,750 mile) border with Kazakhstan -- may already have been uneasy about discord among the Kazakh leadership.                                                                                                                                                                                                                               , On December 28 both Tokayev and Nazarbaev were in St. Petersburg to meet Putin, along with leaders of other former Soviet states. Mallinson said there were apparently tensions between the two Kazakh leaders at the meeting.                                                                                                                                              , The Kremlin may have sent signals about its preference -- highlighting a bilateral chat between Putin and Tokayev, who also stood next to the Russian leader in the group photograph.                                                                                                                                                                                       , Putin has spoken regularly with Tokayev since January 5, but the Kremlin has said nothing about any contacts with Nazarbaev.                                                                                                                                                                                                                                                ,                                                                                                                                                                                                                                                                                                                                                                             , A long transition                                                                                                                                                                                                                                                                                                                                                           , Observers see the events of this week as just the first episode in a long and difficult transition in Kazakhstan. Economic stagnation, a restive younger generation and Tokayev's gamble on repression rather than outreach are a combustible mix.                                                                                                                          , Even if the Nazarbaevs have lost their levers of political power, they are entrenched among Kazakh oligarchs worth billions of dollars who control the oil and gas industries and much of the banking sector, and who have stashed billions of dollars overseas. A recent Chatham House report estimated this elite owns at least $720 million in property in London alone. , How and whether they come to terms with the new order will be critical.                                                                                                                                                                                                                                                                                                     , Paul Stronski says the massive economic power of Nazarbaev allies means that "we are just at the beginnings of understanding this power struggle."                                                                                                                                                                                                                          , Mallinson agrees, saying: "It's going to be incredibly hard to rule the country and dismantle this system that's been configured by Nazarbaev."                                                                                                                                                                                                                             , For now, Tokayev is going for the Putin playbook. His language in a Friday address echoed that of Putin, "who has historically employed terms such as 'bandits' and 'liquidation' when speaking of rebels in the wayward region of Chechnya, for example," writes Kazakhstan-based journalist Joanna Lillis.                                                                , In a warning to social activists and the media, Tokayev also said that "Democracy is not all-permissiveness and, still less, incitement, including in the blogosphere, to illegal acts."                                                                                                                                                                                    , Zachary Witlin, senior analyst at the Eurasia Group, says that going forward Kazakhstan "could look more like Belarus, whose leadership remains in a constant crisis of legitimacy, and order depends on a repressive police state."                                                                                                                                        , Certainly, the man who described himself as the "Listening President"  when he first took office is now doing plenty of warning to consolidate his grip on power.                                                                                                                                                                                                           , </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/calendar?article=29128&amp;g=top&amp;importance=2&amp;startdate=2022-01-07 </td>
@@ -301,7 +513,7 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
    <td style="text-align:left;"> http://www.marketwatch.com/news/story/reddit-chooses-bankers-ahead-potential/story.aspx?guid={28768F38-AA8E-4713-B3CA-ECFFA4963A94}&amp;siteid=rss </td>
    <td style="text-align:left;"> 2022-01-08 05:56:16 </td>
    <td style="text-align:left;"> Reddit chooses bankers ahead of potential March IPO: report - MarketWatch </td>
-   <td style="text-align:left;"> San Francisco-based social-media company Reddit Inc. has picked Morgan Stanley and Goldman Sachs to help it go public as soon as March, according to a Bloomberg report late Friday that cited people with knowledge of the matter. The people said the company, home of meme-stock message board WallStreetBets and countless others, could be valued at as much as $15 billion in an initial public offering. Reddit announced in December it had confidentially filed for an IPO. The company was valued at around $10 billion after a funding round in August. , Shares of Humana Inc. continued their plunge toward a near two-year low Friday, as some Wall Street analysts expressed concern that there isn't a fast fix to the health insurance services company's Medicare Advantage woes.                                                                                                                                                                                                                                                                                                                                     , Claudia Assis is a San Francisco-based reporter for MarketWatch. Follow her on Twitter @ClaudiaAssisMW. </td>
+   <td style="text-align:left;"> San Francisco-based social-media company Reddit Inc. has picked Morgan Stanley and Goldman Sachs to help it go public as soon as March, according to a Bloomberg report late Friday that cited people with knowledge of the matter. The people said the company, home of meme-stock message board WallStreetBets and countless others, could be valued at as much as $15 billion in an initial public offering. Reddit announced in December it had confidentially filed for an IPO. The company was valued at around $10 billion after a funding round in August. , Found dead in hotel room at the Ritz-Carlton in Orlando, according to the sheriff's department. No cause of death had been determined. Saget had performed Saturday in Jacksonville, Fla.                                                                                                                                                                                                                                                                                                                                                                          , Claudia Assis is a San Francisco-based reporter for MarketWatch. Follow her on Twitter @ClaudiaAssisMW. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/canada/stock-market </td>
@@ -355,7 +567,7 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
        decliners. The yield on the 10-year Treasury note
         TMUBMUSD10Y,
         1.767%,
-       which is used to calculate mortgage rates, rose 4.0 basis points to a 2-year high of 1.773%. The fear is that higher rates could make homes less affordable., After another year of underperformance versus the S&amp;P 500, AT&amp;T Inc.'s "bear case" may have mostly played itself out, according to an analyst.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       which is used to calculate mortgage rates, rose 4.0 basis points to a 2-year high of 1.773%. The fear is that higher rates could make homes less affordable., We looked for the S&amp;P 500 companies that managed to expand their profit margins—both net and gross—in the latest reported fiscal quarter, as compared with the same periods in 2020 and 2019.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> http://www.marketwatch.com/news/story/oil-prices-end-lower-day/story.aspx?guid={35C48606-74BF-4CA7-A183-08073AA18C77}&amp;siteid=rss </td>
@@ -363,8 +575,8 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
    <td style="text-align:left;"> Oil prices end lower for the day, but gain for the week as traders eye unrest in Kazakhstan - MarketWatch </td>
    <td style="text-align:left;"> Oil prices ended lower on Friday, but finished the week higher as traders kept an eye on unrest in Kazakhstan. Should any significant amount of production from the country be lost, "the bull market in oil will be extended," said Michael Lynch, president at Strategic Energy &amp; Economic Research. However, "OPEC+ is unlikely to react to such a loss unless it is clear that it will be lengthy and global inventories would thus continue to decline." February West Texas Intermediate crude 
         CLG22,
-        +0.43%
-       edged down by 56 cents, or 0.7%, to settle at $78.90 a barrel on the New York Mercantile Exchange. Prices based on the front-month contract rose 4.9% for the week, according to Dow Jones Market Data., Piedmont Lithium stock ended 2021 off its highs but with a gain of 98%. Two insiders bought up shares as the year was coming to a close.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , Myra P. Saefong, assistant global markets editor, has covered the commodities sector for MarketWatch for 20 years. She has spent the bulk of her years at the company writing the daily Futures Movers and Metals Stocks columns and has been writing the weekly Commodities Corner column since 2005. </td>
+        +0.49%
+       edged down by 56 cents, or 0.7%, to settle at $78.90 a barrel on the New York Mercantile Exchange. Prices based on the front-month contract rose 4.9% for the week, according to Dow Jones Market Data., A family in Florida says it got a surprise post-Christmas delivery in the form of two packages left at its doorstep by a U.S. Postal Service carrier.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                , Myra P. Saefong, assistant global markets editor, has covered the commodities sector for MarketWatch for 20 years. She has spent the bulk of her years at the company writing the daily Futures Movers and Metals Stocks columns and has been writing the weekly Commodities Corner column since 2005. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/switzerland/currency </td>
@@ -397,7 +609,7 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
    <td style="text-align:left;"> Gold futures settled higher on Friday after a disappointing rise in December U.S. nonfarm payrolls. Prices, however, still marked their worst weekly loss since the period ending Nov. 26, FactSet data show. The U.S. created a much smaller-than-expected 199,000 jobs in December, but the U.S. jobless rate slipped to 3.9% from 4.2%. "It seems traders are still expecting a March interest rate hike," said Chintan Karnani, director of research at Insignia Consultants. Investors will look to next week's inflation numbers and trends in the U.S. stock market to help guide the next move for gold prices, he said. February gold 
         GCG22,
         -0.16%
-       rose $8.20, or 0.5%, to settle at $1,797.40 an ounce, with the most-active contract ending the week with a loss of about 1.7%., Piedmont Lithium stock ended 2021 off its highs but with a gain of 98%. Two insiders bought up shares as the year was coming to a close.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              , Myra P. Saefong, assistant global markets editor, has covered the commodities sector for MarketWatch for 20 years. She has spent the bulk of her years at the company writing the daily Futures Movers and Metals Stocks columns and has been writing the weekly Commodities Corner column since 2005. </td>
+       rose $8.20, or 0.5%, to settle at $1,797.40 an ounce, with the most-active contract ending the week with a loss of about 1.7%., Found dead in hotel room at the Ritz-Carlton in Orlando, according to the sheriff's department. No cause of death had been determined. Saget had performed Saturday in Jacksonville, Fla.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , Myra P. Saefong, assistant global markets editor, has covered the commodities sector for MarketWatch for 20 years. She has spent the bulk of her years at the company writing the daily Futures Movers and Metals Stocks columns and has been writing the weekly Commodities Corner column since 2005. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/united-states/stock-market </td>
@@ -411,7 +623,7 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
    <td style="text-align:left;"> Biden invited to give State of the Union address on March 1 - MarketWatch </td>
    <td style="text-align:left;"> House Speaker Nancy Pelosi has invited President Joe Biden to give his first State of the Union address on March 1, the California Democrat said Friday. In a letter to Biden, Pelosi called the past year "historic" and said she is inviting the president to "share your vision of the State of the Union." Biden spoke before a joint session of Congress in April 2021, but the March 1 speech will be his first formal State of the Union address.   
 
-, The Biden administration is presenting Russia with a combination of carrots and sticks as it approaches discussions with Moscow over threats to invade Ukraine.                                                                                                                                                                                                                                                                                                ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                , Robert Schroeder is the Washington bureau chief for MarketWatch. Follow him on Twitter @mktwrobs. </td>
+, As President Joe Biden's 'Build Back Better' bill stalls on Capitol Hill, here's what's expected to happen with the hot-button issue of student-debt forgiveness.                                                                                                                                                                                                                                                                                              ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                , Robert Schroeder is the Washington bureau chief for MarketWatch. Follow him on Twitter @mktwrobs. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/costa-rica/inflation-cpi </td>
@@ -435,7 +647,7 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
    <td style="text-align:left;"> https://www.bbc.co.uk/news/business-59912190?at_medium=RSS&amp;at_campaign=KARANGA </td>
    <td style="text-align:left;"> 2022-01-08 01:18:26 </td>
    <td style="text-align:left;"> Hiring slows in US after record year of job gains </td>
-   <td style="text-align:left;"> Hiring in the US slowed last month, as firms struggled to hire workers and continued to grapple with the effects of coronavirus.                                                                                                                      , Employers hired just 199,000 people in December, a second month of weaker than expected gains.                                                                                                                                                        , But the jobless rate dropped sharply to 3.9% and wages rose, the Labor Department said.                                                                                                                                                               , The mixed data, which was collected before Omicron's full force was felt, follows a record year of jobs growth.                                                                                                                                       , "For a second straight month, we have conflicting pictures emerging," said Mark Hamrick, senior economic analyst at Bankrate.com. "This report appears to reflect the state of play before the worst impacts of the Omicron variant hit the economy." , "We will have to wait until the following report, covering the job market picture in January, to get a clearer picture," he added.                                                                                                                    , The US added more than 6.4 million jobs in 2021, regaining many of the positions lost at the height of the pandemic in 2020.                                                                                                                          , Though total employment remains about 3.6 million lower than its pre-pandemic level - and far lower than it would have been if Covid had not struck - many signs point to a strong economy.                                                           , A record 4.5 million Americans quit jobs in November - a sign of confidence in the labour market - and more than 10 million positions stand open, the government reported this week. Jobless claims have dropped to a near 50-year low.               , "I could hire three full-timers and one part-timer on the spot," said Konstantinos Tsoulos, owner of Brothers Bagels in Brooklyn, New York.                                                                                                           , In September, he decided to close the shop on Mondays due to the staff shortage. He said he has not had a single person inquire about a job.                                                                                                          , "I've been in business almost 35 years and I've never seen anything like it," he said.                                                                                                                                                                , December's job gains were felt across most industries, led by leisure and hospitality. The unemployment rate fell to 3.9% from 4.2%, while average hourly earnings were up 4.7% year-on-year.                                                         , US President Joe Biden called the figures "historic", saying they reflected an economy back on its feet thanks to a flood of government spending championed by his administration.                                                                    , Wells Fargo economist Sarah House said future growth would be determined by worker availability.                                                                                                                                                      , "December's report underscored that workers are only likely to trickle back into the jobs market as reasons for sitting out, like financial cushions, health concerns and childcare issues do not unwind all at once," she said.                      , The labour shortages have helped to push inflation in the US to its highest rate in almost 40 years.                                                                                                                                                  , In response, America's central bank has signalled it plans to start removing support for the economy, raising interest rates potentially as soon as March.                                                                                            , But the emergence of the Omicron variant has complicated the outlook for the economy.                                                                                                                                                                 , The virus has been blamed for widespread worker absences in recent weeks, prompting the cancellation of thousands of flights, the closure of major school districts and strains on hospitals, transport systems and other businesses.                 , Mr Tsoulos said his business has been holding on thanks to patronage from neighbourhood families. But he is worried by the shift to remote working, which has cut into his commuter business and the catering orders he used to receive from offices. , "Everybody was touting that the downtown office buildings would open after Labor Day and nothing happened. Then they said January and it's almost mid-January," he said. "Now they're talking June."                                                  , The very best from around the world including Beck and The Bridge                                                                                                                                                                                     , Uncovering the story of one of America's most corrupt police units                                                                                                                                                                                    , © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
+   <td style="text-align:left;"> Hiring in the US slowed last month, as firms struggled to hire workers and continued to grapple with the effects of coronavirus.                                                                                                                      , Employers hired just 199,000 people in December, a second month of weaker than expected gains.                                                                                                                                                        , But the jobless rate dropped sharply to 3.9% and wages rose, the Labor Department said.                                                                                                                                                               , The mixed data, which was collected before Omicron's full force was felt, follows a record year of jobs growth.                                                                                                                                       , "For a second straight month, we have conflicting pictures emerging," said Mark Hamrick, senior economic analyst at Bankrate.com. "This report appears to reflect the state of play before the worst impacts of the Omicron variant hit the economy." , "We will have to wait until the following report, covering the job market picture in January, to get a clearer picture," he added.                                                                                                                    , The US added more than 6.4 million jobs in 2021, regaining many of the positions lost at the height of the pandemic in 2020.                                                                                                                          , Though total employment remains about 3.6 million lower than its pre-pandemic level - and far lower than it would have been if Covid had not struck - many signs point to a strong economy.                                                           , A record 4.5 million Americans quit jobs in November - a sign of confidence in the labour market - and more than 10 million positions stand open, the government reported this week. Jobless claims have dropped to a near 50-year low.               , "I could hire three full-timers and one part-timer on the spot," said Konstantinos Tsoulos, owner of Brothers Bagels in Brooklyn, New York.                                                                                                           , In September, he decided to close the shop on Mondays due to the staff shortage. He said he has not had a single person inquire about a job.                                                                                                          , "I've been in business almost 35 years and I've never seen anything like it," he said.                                                                                                                                                                , December's job gains were felt across most industries, led by leisure and hospitality. The unemployment rate fell to 3.9% from 4.2%, while average hourly earnings were up 4.7% year-on-year.                                                         , US President Joe Biden called the figures "historic", saying they reflected an economy back on its feet thanks to a flood of government spending championed by his administration.                                                                    , Wells Fargo economist Sarah House said future growth would be determined by worker availability.                                                                                                                                                      , "December's report underscored that workers are only likely to trickle back into the jobs market as reasons for sitting out, like financial cushions, health concerns and childcare issues do not unwind all at once," she said.                      , The labour shortages have helped to push inflation in the US to its highest rate in almost 40 years.                                                                                                                                                  , In response, America's central bank has signalled it plans to start removing support for the economy, raising interest rates potentially as soon as March.                                                                                            , But the emergence of the Omicron variant has complicated the outlook for the economy.                                                                                                                                                                 , The virus has been blamed for widespread worker absences in recent weeks, prompting the cancellation of thousands of flights, the closure of major school districts and strains on hospitals, transport systems and other businesses.                 , Mr Tsoulos said his business has been holding on thanks to patronage from neighbourhood families. But he is worried by the shift to remote working, which has cut into his commuter business and the catering orders he used to receive from offices. , "Everybody was touting that the downtown office buildings would open after Labor Day and nothing happened. Then they said January and it's almost mid-January," he said. "Now they're talking June."                                                  , Russell Kane and guests consider the life of the iconic musician                                                                                                                                                                                      , Featuring music from The Wild Bunch and more                                                                                                                                                                                                          , © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/south-africa/stock-market </td>
@@ -510,7 +722,7 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
        dropped 1.4% while the S&amp;P 500 
         SPX,
         -0.41%
-       lost 0.7%., Here's what workers should consider before making a decision.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       lost 0.7%., Shares of Humana Inc. continued their plunge toward a near two-year low Friday, as some Wall Street analysts expressed concern that there isn't a fast fix to the health insurance services company's Medicare Advantage woes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/commodity/soybeans </td>
@@ -543,244 +755,13 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
        tacked on 1.9%; while the S&amp;P 500 
         SPX,
         -0.41%
-       dropped 0.6%. Wieczynski said for investors searching for recovery names that "massively underperformed" last year, he believes cruise-related names will stick out as compelling ideas. "[W]e are believers that cruise demand should remain strong throughout the majority of 2022," Wieczynski wrote in a note to clients. "While there certainly will be cancellations and itinerary adjustments in 1H22 due to COVID noise, we still believe that cruise operators are on a clear path (although might be delayed) to the all-important cash flow breakeven/positive level.", After another year of underperformance versus the S&amp;P 500, AT&amp;T Inc.'s "bear case" may have mostly played itself out, according to an analyst.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       dropped 0.6%. Wieczynski said for investors searching for recovery names that "massively underperformed" last year, he believes cruise-related names will stick out as compelling ideas. "[W]e are believers that cruise demand should remain strong throughout the majority of 2022," Wieczynski wrote in a note to clients. "While there certainly will be cancellations and itinerary adjustments in 1H22 due to COVID noise, we still believe that cruise operators are on a clear path (although might be delayed) to the all-important cash flow breakeven/positive level.", John Pinette had overseen Facebook's external communications since 2019.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/commodity/baltic </td>
    <td style="text-align:left;"> 2022-01-08 00:01:00 </td>
    <td style="text-align:left;"> Baltic Exchange Dry Index Snaps 3-Day Winning Run </td>
    <td style="text-align:left;"> The Baltic Exchange Dry Index dropped 0.3% to 2,289 on Friday, after three consecutive sessions of gains, amid weakness across its smaller vessel segments. The panamax index which tracks cargoes of about 60,000 to 70,000 tonnes of coal and grains, fell 1.9% to 2,957; and the supramax index declined 50 points to its weakest level since April of 2021 at 2,074. Meanwhile, the capesize index, which tracks iron ore and coal cargos of 150,000-tonnes, rose 3.2% to 2,432. The Baltic Dry Index rose more than 3% this week, after posting two straight weeks of losses. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/brazil/currency </td>
-   <td style="text-align:left;"> 2022-01-07 23:59:57 </td>
-   <td style="text-align:left;"> Brazilian Real Rebounds from 2-1/2-Week Low </td>
-   <td style="text-align:left;"> The Brazilian Real traded around 5.65, strengthening from a near 2-1/2-week low of 5.7087 hit on January 5th, amid a weaker dollar after mixed economic data showed the US unemployment rate dropped more than expected in December and wage growth accelerated, while non-farm payrolls missed forecasts. Still, the currency remains subdued amid successively negative revisions for the economic growth in 2022. In 2021, analysts even projected a GDP growth of 2.5% for this year, although, after shocks, expectations have receded to 0.36%. In addition, an increasing political uncertainty has driven investors away from the real as the general elections of 2022 approach, polls are showing that the left-wing PT is increasingly likely to win, while fiscal concerns increased after populist policies from Bolsonaro. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/france/government-bond-yield </td>
-   <td style="text-align:left;"> 2022-01-07 23:57:00 </td>
-   <td style="text-align:left;"> France 10Y Bond Yield Hits 9-week High </td>
-   <td style="text-align:left;"> The yield on the French 10-year OAT rose to 0.3% in the first week of January, hovering close to the 6-month high of 0.32% touched on November 1st and tracking a global rally in bond yields, amid outlooks of tighter monetary policy and higher inflation figures. Consumer inflation in the euro area rose to 5% on the year during December, according to preliminary estimates, surpassing market expectations for another record high. Domestically, inflation stood at 2.8% in December, the highest reading in 13 years. Meanwhile, minutes of the FOMC indicated the Fed could cut stimulus at a faster than expected rate, while planning to reduce its balance sheet after raising the funds rate. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/mexico/currency </td>
-   <td style="text-align:left;"> 2022-01-07 23:46:16 </td>
-   <td style="text-align:left;"> Mexican Peso Hovers at Near 2-Month High </td>
-   <td style="text-align:left;"> The Mexican peso traded below 20.45 per USD in the first week of January, the strongest since early November after the central bank minutes showed that the policymakers remain concerned over inflation and triggering expectations of a continuation in the tightening cycle. In its last meeting, Banxico surprised the markets and hiked the rates by 50 bps to 5.5%, above expectations of 25 bps saying inflation risk balance has deteriorated, with both the headline inflation and the core inflation expectations for the next year increasing again, and the ones for the medium-term remaining above the target. Still, new inflation figures showed that consumer prices rose 7.36% in December, slipping from a 20-year high of 7.37% hit in November, well above the Banxico target of 3% plus or minus one percentage point. Also, rising oil prices and a recovery in risk appetite as traders hope omicron disruptions will not derail growth helped to boost further gains in the currency. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/brazil/car-production </td>
-   <td style="text-align:left;"> 2022-01-07 23:46:00 </td>
-   <td style="text-align:left;"> Brazil Car Production Rises 2.5% MoM in December </td>
-   <td style="text-align:left;"> Car production in Brazil grew 2.5 percent over a month earlier to 211 thousand units in December of 2021, the best month of the year and following a 15.1 percent surge in the previous month. Brazilian auto industry production rose 11.6% in 2021, totaling 2.25 million units. For 2022, auto industry production is expected to rise by 9.4%, as it continues to recover from the 32% plunge in 2020 amid the COVID-19 pandemic, automakers association Anfavea said. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> http://www.marketwatch.com/news/story/fda-says-adults-can-now/story.aspx?guid={954BBB30-9F7F-4D64-B44F-0F11654E7689}&amp;siteid=rss </td>
-   <td style="text-align:left;"> 2022-01-07 23:41:17 </td>
-   <td style="text-align:left;"> FDA says adults can now get Moderna's COVID-19 booster five months after getting the first two shots - MarketWatch </td>
-   <td style="text-align:left;"> The Food and Drug Administration said Friday that adults who have been vaccinated with Moderna Inc.'s 
-        MRNA,
-        -1.02%
-       COVID-19 vaccine can get a booster dose five months after completing the primary series of shots. The previous recommendation was to wait six months. Moderna's stock was down 0.2% in trading on Friday. The suggested window between getting BioNTech SE 
-        BNTX,
-        -1.35%
-       and Pfizer Inc.'s 
-        PFE,
-        +1.60%
-       was also recently shortened to five months from six months. "Today's action also brings consistency in the timing for administration of a booster dose among the available mRNA vaccines," Dr. Peter Marks, director of the FDA's Center for Biologics Evaluation and Research, said in a statement. Moderna's stock has declined 15.2% so far this year, while the S&amp;P 500 
-        SPX,
-        -0.41%
-       is down 1.4%. , Here's what workers should consider before making a decision.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , Jaimy Lee is a health-care reporter for MarketWatch. She is based in New York. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/coal </td>
-   <td style="text-align:left;"> 2022-01-07 23:36:50 </td>
-   <td style="text-align:left;"> Coal Hits 10-week High </td>
-   <td style="text-align:left;"> Coal increased to a 10-week high of 195 USD/T </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/canada/business-confidence </td>
-   <td style="text-align:left;"> 2022-01-07 23:04:00 </td>
-   <td style="text-align:left;"> Canada Ivey PMI Falls to Over 1-1/2-Year Low </td>
-   <td style="text-align:left;"> The Ivey Purchasing Managers Index in Canada fell to 45 in December of 2021 from 61.2 in November, pointing to the first contraction in economic activity since January of 2021 and the steepest since May of 2020. Decreases were seen in inventories (49.6 vs 55 in November), employment (50 vs 54.5) and supplier deliveries (27.7 vs 29.6). Meanwhile, prices accelerated (77.6 vs 75). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/canada/currency </td>
-   <td style="text-align:left;"> 2022-01-07 23:03:07 </td>
-   <td style="text-align:left;"> Canadian Dollar Rebounds Further </td>
-   <td style="text-align:left;"> The Canadian dollar traded below 1.27, strengthening from a near one-week low of 1.27566 hit on January 5th, amid stronger than expected jobs reports, and a weaker dollar. In Canada, the unemployment data reached a new pandemic low of 5.9% in December, while the economy added 54.7 thousand jobs in December of 2021, following a 153.7 thousand gain in November and above market expectations of 27.5 thousand driven by gains in the goods-producing sector (+44,000). Also, the dollar index fell to below 96 after mixed economic data showed the US unemployment rate dropped more than expected in December and wage growth accelerated, while non-farm payrolls missed forecasts. Meanwhile, investors remained optimistic as studies showed that the Omicron variant is less severe than previous strains, albeit more infectious, gearing up them to bet that the economic recovery will not derail. A more robust economic recovery strengthens the appeal for higher rates from the BoC. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/canada/stock-market </td>
-   <td style="text-align:left;"> 2022-01-07 22:58:40 </td>
-   <td style="text-align:left;"> Canadian Stocks Edge Higher </td>
-   <td style="text-align:left;"> The S&amp;P/TSX Composite Index traded higher at the 21,100 level on Friday, as investors balanced fresh domestic and US labor market data. The Canadian economy added 54.7 thousand jobs during December, nearly twice as much as markets expected. On the other hand, latest US payroll data indicated 199 thousand jobs were added stateside, less than half of market forecasts, even though the jobless rate fell to a pandemic low. On the corporate front, energy stocks traded 0.2% higher to extend last session’s gains, while mining shares gained 0.4% on higher bullion. Cameco Corp jumped 1.4% after announcing it could resume yearly production of 24 million pounds of uranium in North America if Kazatomprom’s supply chains were to be interrupted due to Kazakhstan’s political turmoil. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/united-kingdom/stock-market </td>
-   <td style="text-align:left;"> 2022-01-07 22:50:43 </td>
-   <td style="text-align:left;"> UK Stocks Edge Higher on Mining Stocks Gains </td>
-   <td style="text-align:left;"> The FTSE 100 gained slightly to 7,460 in afternoon trading on Friday, trying to recover from a 0.9% loss in the previous session, as mining stocks were supported by firmer copper prices and as investors digested a batch of economic data released during the session. UK house prices in December were 9.8% higher than a year earlier, the sharpest annual increase since July 2007, while a PMI survey suggested the country's construction sector growth eased to a three-month low as the rapid spread of Omicron had an impact on the economic recovery. Elsewhere, a mixed US jobs report, coupled with hawkish minutes from the Federal Reserve's December meeting, raised expectations of faster-than-expected US rate hikes. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/brazil/stock-market </td>
-   <td style="text-align:left;"> 2022-01-07 22:48:00 </td>
-   <td style="text-align:left;"> Brazilian Stocks Edge Up </td>
-   <td style="text-align:left;"> The Ibovespa stock index was up 0.3% to around 101,900 on Friday, founding some support in rising iron ore prices, while investors digest the latest US jobs report which is unlikely to change the direction of the Fed's monetary policy towards a reduction of economic stimulus much faster. On corporate news, Brazilian state-run oil company Petrobras said it expects to sell 100% of its preferred stake in petrochemical producer Braskem by February. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/united-states/stock-market </td>
-   <td style="text-align:left;"> 2022-01-07 22:36:00 </td>
-   <td style="text-align:left;"> US Stocks Fluctuate after Payrolls Report </td>
-   <td style="text-align:left;"> US stocks swung between gains and losses on Friday, as investors digested the latest payrolls report which reinforced the view that Fed may accelerate its timeline for rate hikes. Although only 199K jobs were created in December, less than half of the market forecasts, the jobless rate fell to 3.9% and hourly wages surged 4.7% from a year ago. Visa was among the worst Dow performers falling 1.3% after Mizuho downgraded the stock to “neutral” from “buy" while Honeywell jumped more than 1%. The Dow Jones lost 0.4% so far on the week and the S&amp;P 500 1.7% while the Nasdaq plunged 4%, and is on track for its worst week since February 2021. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/italy/stock-market </td>
-   <td style="text-align:left;"> 2022-01-07 22:34:33 </td>
-   <td style="text-align:left;"> Italian Stocks Erase Early Gains </td>
-   <td style="text-align:left;"> The FTSE MIB Index erased early gains to drop 0.1% and trade around the 27,630 level on Friday, extending last session’s 1.8% loss, as investors digested consumer price data from the Eurozone and labor market data from the United States. Consumer inflation in the euro bloc rose to 5% in December according to preliminary data, the highest ever recorded. At the same time, 199 thousand jobs were added to the US economy, less than half of market expectations. In the corporate front, industrial stocks led the losses, driven by recently demerged Cnh Industrial (-1.6%) and Iveco Group (-1.9%). On the other hand, STMicroelectronics jumped 5.3% after publishing preliminary expectations of USD 3.56 billion in net revenue, 11.2% higher than the corresponding period in the previous year and 140bps above the upper limit of the firm’s reported range. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> http://www.marketwatch.com/news/story/stocks-open-near-unchanged-after/story.aspx?guid={205AAFBC-7859-4678-A479-081275C43024}&amp;siteid=rss </td>
-   <td style="text-align:left;"> 2022-01-07 22:32:28 </td>
-   <td style="text-align:left;"> Stocks open near unchanged after weaker-than-expected December payrolls rise - MarketWatch </td>
-   <td style="text-align:left;"> Stocks struggled for direction early Friday, opening near unchanged after a mixed jobs report that saw nonfarm payrolls rise by a much weaker-than-expected 199,000 in December. The Dow Jones Industrial Average 
-        DJIA,
-        -0.01%
-      fell 78 points, or 0.2%, to 36,158, while the S&amp;P 500 
-        SPX,
-        -0.41%
-      was down 0.1% at 4,693. The Nasdaq Composite 
-        COMP,
-        -0.96%
-       was up less than 0.1% at 15,083. Economists had looked for payrolls to rise by 422,000. However, the unemployment rate dropped to 3.9% from 4.2%, compared with expectations for a decline to 4.1%. , U.S. stocks end lower Friday, in a turbulent session that concluded with all three major benchmarks suffering weekly declines, following a monthly jobs report whose headline figure came in far below economists' estimates.                                                                                                                                                                                                                                                                                                                                                                                                                 , William Watts is MarketWatch’s senior markets writer. Based in New York, Watts writes about stocks, bonds, currencies and commodities, including oil. He also writes about global macro issues and trading strategies. Before moving to New York, he reported for MarketWatch from Frankfurt, London and Washington, D.C. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/rice </td>
-   <td style="text-align:left;"> 2022-01-07 22:29:07 </td>
-   <td style="text-align:left;"> Rice Hits 6-week High </td>
-   <td style="text-align:left;"> Rice increased to a 6-week high of 14.65 USD/cwt </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/chile/balance-of-trade </td>
-   <td style="text-align:left;"> 2022-01-07 22:22:26 </td>
-   <td style="text-align:left;"> Chile Trade Surplus Narrows in December </td>
-   <td style="text-align:left;"> Chile’s trade surplus shrank to USD 520 million in December of 2021 from USD 1,898 million in the same month of the previous year. Imports advanced 48.6 percent to USD 8517 million, driven by consumer goods (56.6 percent to USD 1,060 million), intermediate goods (59.2 percent to USD 4,874 million), particularly petroleum (33.9 percent to USD 320 million) and capital goods (41.6 percent to USD 1820 million).At the same time, exports rose by a softer 21.7 percent to USD 9,037 million as outbound sales rose for mining products (21.4 percent to USD 5,366 million), primarily copper ( 21.9 percent to USD 4,914 million) and industrial products (31.42 percent to USD 2,844 million). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/taiwan/balance-of-trade </td>
-   <td style="text-align:left;"> 2022-01-07 22:21:28 </td>
-   <td style="text-align:left;"> Taiwan Trade Surplus Misses Expectations in December </td>
-   <td style="text-align:left;"> Taiwan’s trade surplus widened to USD 5.77 billion in December of 2021 from USD 5.70 billion in the same month last year, but below the market expectations of USD 5.9 billion. Exports jumped 29.4 percent year-on-year to USD 40.72 billion after reaching a record high in October and beating market forecasts of a 26.7 percent rise, mainly driven by electronic products (+27.5 percent); information, communication and audio-video products (+22.4 percent); and base metals and articles of base metal (+28.5 percent). At the same time, imports advanced 28.1 percent to USD 34.95 billion and slower than market estimates of a 30.6 percent rise, led by purchases of electronic parts (+25 percent); mineral products (+114.3 percent), particularly petroleum (150.7 percent) and machinery (+5.3 percent). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/germany/stock-market </td>
-   <td style="text-align:left;"> 2022-01-07 22:20:17 </td>
-   <td style="text-align:left;"> European Shares Lack Energy as Cautious Mood Prevails </td>
-   <td style="text-align:left;"> European stocks were mostly flat to lower Friday as investors digested a batch of economic data from the Eurozone and the US. The bloc's inflation rate likely jumped to a record high of 5% in December, beating market expectations of 4.7% and remaining above the ECB's target for a sixth straight month. At the same time, economic sentiment in the Eurozone weakened to a seven-month low, while industrial production in Germany and France unexpectedly contracted in November. Elsewhere, the US jobs report showed a decline in the unemployment rate and an acceleration in wage growth, making the case for faster interest rate hikes by the Fed this year. On the corporate front, Deutsche Bank climbed to a more than six-month high, after the company's finance chief said it was confident it will reach a key profitability target this year. Franco-Italian chipmaker STMicroelectronics also jumped to the top of the STOXX 600, after its preliminary fourth-quarter revenue came in slightly above forecasts. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/croatia/stock-market </td>
-   <td style="text-align:left;"> 2022-01-07 22:12:36 </td>
-   <td style="text-align:left;"> Stocks in Croatia Hit Near 5-year High </td>
-   <td style="text-align:left;"> CROBEX increased to a near 5-year high of 2139 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/sugar </td>
-   <td style="text-align:left;"> 2022-01-07 22:08:15 </td>
-   <td style="text-align:left;"> Sugar Hits 22-week Low </td>
-   <td style="text-align:left;"> Sugar decreased to a 22-week low of 18.14 USd/Lbs </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/coffee </td>
-   <td style="text-align:left;"> 2022-01-07 21:58:00 </td>
-   <td style="text-align:left;"> Coffee Remains Close to 10-Year High </td>
-   <td style="text-align:left;"> Arabica coffee futures on ICE were trading around $2.4 at the start of 2022, not far from the 10-year high of above $2.50 set on December 6th, amid a deterioration in the outlook for Brazil's crop with drought and frosts in 2021 denting prospects and fears that recent rains had been excessive in some areas. At the same time, persistent shipping bottleneck caused by Covid-19 restrictions, rising global demand, higher costs of fertilizers and fuels and ongoing labor shortages should continue to exert upward pressure on coffee prices. The US Department of Agriculture in its latest report forecasts world coffee production for 2021/2022 to fall by 8.5 million bags from the previous year to 167.5 million primarily due to a drop in Brazil’s coffee production. Global consumption is seen rising 1.5 million to 164.9 million bags in the same period. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/commodity/gold </td>
-   <td style="text-align:left;"> 2022-01-07 21:57:00 </td>
-   <td style="text-align:left;"> Gold Rebounds after US Jobs Report </td>
-   <td style="text-align:left;"> Gold bounced back above $1,800 per ounce on Friday, after the US household survey painted a mixed picture with non-farm payrolls missing forecasts while the unemployment rate fell more than expected and wage growth accelerated. Still, bullion is set for a 2% weekly drop on bets for earlier and faster interest-rate increases than previously expected following the latest Fed minutes. Fed officials said that the “very tight” labor market might warrant raising rates sooner than expected and showed the central bank discussed reducing its balance sheet in another move to aggressively dial back pandemic-era stimulus. Although investors view gold as a hedge against inflation, higher interest rates raise the opportunity cost of holding non-yielding bullion. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/south-africa/stock-market </td>
-   <td style="text-align:left;"> 2022-01-07 21:54:00 </td>
-   <td style="text-align:left;"> South African Stocks Edge Lower </td>
-   <td style="text-align:left;"> The FTSE/JSE All Share Index was down 0.2% to around 74,020 on Friday, as investors continued to expect faster interest rates increases by the Federal Reserve even after latest economic data pointed to a slowdown in US jobs growth in December. Market sentiment was also pressured by weaker domestic data. South Africa Absa Manufacturing PMI dropped in December, pointing to a slower expansion in manufacturing activity, as a surge in Covid-19 infections driven by the Omicron variant and tighter global restrictions weighed on the country's exports. On a brighter note, Mauritius reopened to travellers from South Africa, and eight other previously restricted countries, three weeks ahead of schedule. Mauritius follows France, Germany, and the US in announcing eased travel restrictions on South Africa. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/united-states/stock-market </td>
-   <td style="text-align:left;"> 2022-01-07 21:52:00 </td>
-   <td style="text-align:left;"> US Futures in the Red after Payrolls </td>
-   <td style="text-align:left;"> US futures cut early gains to trade in the red on Friday after jobs reports reinforced the view that Fed may accelerate its timeline for rate hikes. Although only 199K jobs were created in December, less than half of the market forecasts, the jobless rate fell to 3.9% and hourly wages surged 4.7% from a year ago. The Dow Jones lost 0.4% so far on the week and the S&amp;P 500 1.7% while the Nasdaq plunged 4%, and is on track for its worst week since February 2021. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/united-states/currency </td>
-   <td style="text-align:left;"> 2022-01-07 21:49:00 </td>
-   <td style="text-align:left;"> DXY Set for Weekly Gain </td>
-   <td style="text-align:left;"> The dollar index fell below 96 on Friday, but was still on course for a weekly gain as investors continue to see a faster timetable for raising interest rates this year even though the December jobs report disappointed. Non-farm payrolls increased only 199 thousand in December, well below market forecasts of 400 thousand but the unemployment rate dropped more than expected and wage growth accelerated. Policymakers said in the latest Fed minutes the “very tight” US labor market might warrant raising rates sooner and indicated they could also reduce the central bank’s balance sheet to tame high inflation. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/united-states/government-bond-yield </td>
-   <td style="text-align:left;"> 2022-01-07 21:42:00 </td>
-   <td style="text-align:left;"> US 10-Year Bond Yield Rises to 2-Year High </td>
-   <td style="text-align:left;"> The yield on the benchmark 10-year Treasury note rose to 1.78% on Friday, hovering around the highest level since January 2020 on a closing basis, after mixed economic data showed the US unemployment rate dropped more than expected in December and wage growth accelerated, while non-farm payrolls missed forecasts. Still, the jobs report is unlikely to change market expectations for a rate hike this quarter as the Fed set a more hawkish tone last meeting and viewed the labor market as “very tight". </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/canada/employment-change </td>
-   <td style="text-align:left;"> 2022-01-07 21:39:00 </td>
-   <td style="text-align:left;"> Canada December Employment Above Forecasts </td>
-   <td style="text-align:left;"> The Canadian economy added 54.7 thousand jobs in December of 2021, following a 153.7 thousand gain in November and above market expectations of 27.5 thousand driven by gains in the goods-producing sector (+44,000). Full-time employment rose by 123,000 (+0.8%) in December, with the majority of the increase occurring among men of core working age (+95,000; +1.6%). On the other hand, part-time employment declined by 68,000 (-1.9%). Among core-aged men aged 25 to 54, employment increased by 63,000 (+1.0%), making it 162,000 (+2.5%) higher than in February 2020. Public sector employment rose by 32,000 (+0.8%), while there was little change in the number of private sector employees and the number of self-employed workers. Among workers who worked at least half their usual hours, the proportion who worked from home was little changed in December at 23.8%. Employment increased in Ontario and Saskatchewan, while it declined in Newfoundland and Labrador. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/canada/unemployment-rate </td>
-   <td style="text-align:left;"> 2022-01-07 21:38:00 </td>
-   <td style="text-align:left;"> Canada Jobless Rate at New Pandemic Low </td>
-   <td style="text-align:left;"> The unemployment rate in Canada fell to a new pandemic-low of 5.9% in December of 2021 from 6% in November, below market expectations of 6% and within 0.2 percentage points from the jobless rate recorded in February of 2020. It was the seventh straight month of declines, despite a surge in coronavirus cases amid the spread of the Omicron variant. Unemployed population shrank by 31,500 (-2.5% to 1,212,300), while the employed population increased by 54,700 (+0.3% to 19,371,000), far above market forecasts of a 27,500 addition. Meanwhile, the number of people in the labor force increased by was held steady from last month at 65.3%, a record-high for the core-aged population. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/australia/government-bond-yield </td>
-   <td style="text-align:left;"> 2022-01-07 21:36:25 </td>
-   <td style="text-align:left;"> Australia 10Y Bond Yield Hits 6-week High </td>
-   <td style="text-align:left;"> Australia 10 Year Government Bond Yeld increased to a 6-week high of 1.869% </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/united-states/unemployment-rate </td>
-   <td style="text-align:left;"> 2022-01-07 21:33:00 </td>
-   <td style="text-align:left;"> US Jobless Rate Falls to New Pandemic Low </td>
-   <td style="text-align:left;"> The US unemployment rate dropped to 3.9 percent, the lowest since February 2020, pointing to a sustained recovery in the job market helped by a fast-recovering economy and strong demand for labor. The rate was still slightly above pre-crisis levels amid reports of severe labor shortages, but should decline further in the coming months as companies fill widespread vacancies. The number of unemployed persons decreased by 483,000 to 6.3 million. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/united-states/non-farm-payrolls </td>
-   <td style="text-align:left;"> 2022-01-07 21:33:00 </td>
-   <td style="text-align:left;"> US Job Growth Disappoints </td>
-   <td style="text-align:left;"> The US economy added a meagre 199K jobs in the last month of 2021, well below market forecasts of 400K. Employment continued to trend up in leisure and hospitality (53K); professional and business services (43K); manufacturing (26K); construction (22K); and in transportation and warehousing (19K). Job growth averaged 537K per month in 2021 and the economy added a record 6.44 million jobs last year. Nonfarm employment has increased by 18.8 million since April 2020 but is still down by 3.6 million, or 2.3 percent, from its pre-pandemic level in February 2020. The impact of the rapid spread of the omicron coronavirus variant on the labour market is still uncertain as the December report covered the first two weeks of the month only, before the worst of the spike that began heading into Christmas. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/united-states/average-hourly-earnings </td>
-   <td style="text-align:left;"> 2022-01-07 21:33:00 </td>
-   <td style="text-align:left;"> US Wages Grow More Than Expected </td>
-   <td style="text-align:left;"> Average hourly earnings for all employees on US private nonfarm payrolls increased by 19 cents, or 0.6% over the month to $31.31 in December of 2021, above market expectations of 0.4% and following an upwardly revised 0.4% rise in November. In December, the average hourly earnings of private-sector production and nonsupervisory employees rose by 18 cents to $26.61. Over the past 12 months, average hourly earnings have increased by 4.7%, after an upwardly revised 5.1% in November, well above market estimates of 4.2%. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/mexico/auto-exports </td>
-   <td style="text-align:left;"> 2022-01-07 21:14:45 </td>
-   <td style="text-align:left;"> Mexico Auto Exports Fall for 6th Straight Month </td>
-   <td style="text-align:left;"> Mexico’s auto exports shrank 17.3 percent over a year earlier to 227.5 thousand units in December of 2021,the sixth straight month of declines, largely due to the ongoing global shortage of semiconductors. Among major exporting brands, shipments fell significantly for General Motors (-15.4 percent to 53 thousand), Chrysler (-11.1 percent to 38.5 thousand), Nissan (-35,5 percent to 25.7 thousand). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.cnbc.com/2022/01/07/gamestop-shares-surge-16percent-after-news-it-plans-to-launch-an-nft-marketplace.html </td>
-   <td style="text-align:left;"> 2022-01-07 21:09:17 </td>
-   <td style="text-align:left;"> GameStop shares surge as much as 20% after news it plans to launch an NFT marketplace </td>
-   <td style="text-align:left;"> , In this article                                                                                                                                                                                                                                                                                                                                                                                                                     , GameStop shares jumped on Friday after news that the video game retailer is planning to create a marketplace for nonfungible tokens, or NFTs.                                                                                                                                                                                                                                                                                       , The speculative stock ended the day 7.3% higher after surging more than 20% earlier in the day. Its shares are still off more than 70% from their 52-week high.                                                                                                                                                                                                                                                                     ,                                                                                                                                                                                                                                                                                                                                                                                                                                     , The Wall Street Journal reported Thursday after the bell GameStop's potential move into the NFT space. One source close to the situation confirmed the plans to CNBC, saying it has been in the works for months.                                                                                                                                                                                                                   , GameStop also plans to establish cryptocurrency partnerships to create games and items for the marketplace, the source said.                                                                                                                                                                                                                                                                                                        , "GameStop is in a very unique position, because a lot of these NFT projects are starting to add gaming utility behind the NFTs themselves," said Adam Hollander, an NFT investor and creator of the "Hungry Wolves" NFT collection. "GameStop is well positioned, in my opinion, to be able to capitalize on that they have hundreds of millions of people that play video games that least recognize GameStop as a credible brand.", The company has been quietly hiring talent in blockchain and crypto with more than two dozen members on the team now, the source said.                                                                                                                                                                                                                                                                                              , NFTs use a technology that allows proof of ownership of digital goods to be stored on a blockchain, often ethereum. It has been one of the most-hyped sectors in technology. OpenSea, the best-known NFT marketplace, was recently valued at $13.3 billion by investors.                                                                                                                                                            , GameStop's marketplace will focus on virtual video game goods such as character outfits and weapons, according to the Journal report.                                                                                                                                                                                                                                                                                               , In January 2021, retail traders collaborated on Reddit's WallStreetBets' forum, aiming to bid up GameStop's shares, which were heavily shorted by hedge funds. The retail buying triggered massive short covering among hedge funds that fueled the rally even further.                                                                                                                                                             , The stock ended 2021 up 687% after a year of wild trading. Some investors were disappointed by the lack of concrete turnaround plans for its e-commerce transition, which is led by activist investor and Chewy co-founder Ryan Cohen.                                                                                                                                                                                              , — CNBC's Frank Holland contributed reporting.                                                                                                                                                                                                                                                                                                                                                                                       , Correction: Ethereum is a blockchain. An earlier version misspelled its name.                                                                                                                                                                                                                                                                                                                                                       , Got a confidential news tip? We want to hear from you.                                                                                                                                                                                                                                                                                                                                                                              , Sign up for free newsletters and get more CNBC delivered to your inbox                                                                                                                                                                                                                                                                                                                                                              , Get this delivered to your inbox, and more info about our products and services.                                                                                                                                                                                                                                                                                                                                                    , © 2022 CNBC LLC. All Rights Reserved. A Division of NBCUniversal                                                                                                                                                                                                                                                                                                                                                                    , Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.                                                                                                                                                                                                                                                                                  , Data also provided by </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/spain/business-confidence </td>
-   <td style="text-align:left;"> 2022-01-07 20:52:51 </td>
-   <td style="text-align:left;"> Spain Industrial Morale at Over 21-Year High </td>
-   <td style="text-align:left;"> Spain’s industrial confidence indicator jumped to 5.9 in December of 2021, the highest since June of 2000, from a downwardly revised 3.8 in the prior month. Confidence in industry was driven by a surge in new orders (11.6 vs 6 in November). On the other hand, sentiment deteriorated for stock levels (3.4 vs 5.5) and expectations of future production (9.6 vs 10.9). </td>
   </tr>
 </tbody>
 </table></div>
@@ -796,7 +777,7 @@ Last Updated: 2022-01-10 10:53:32 UTC +8
 
 
 
-Last Updated: 2022-01-10 10:54:06 UTC +8
+Last Updated: 2022-01-10 16:06:33 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -809,1668 +790,2590 @@ Last Updated: 2022-01-10 10:54:06 UTC +8
 <tbody>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:53:34 </td>
-   <td style="text-align:left;"> $SPY futes dripping! </td>
+   <td style="text-align:left;"> 2022-01-10 16:04:30 </td>
+   <td style="text-align:left;"> $SPY $QQQ bonds selling off, dollar strengthening... Expect blood 💉 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:53:29 </td>
-   <td style="text-align:left;"> $SPY I occasionally listen to Mealoaf while eating meat. Guilty pleasure. </td>
+   <td style="text-align:left;"> 2022-01-10 16:01:54 </td>
+   <td style="text-align:left;"> $SPY Wisdom tooth pain is some of the worst pain you’ll ever experience, can’t even sleep lol. Now I have to stay up and see people scream “future ripping” when it’s only up 12 points….people be acting like we opened 200 points higher or something lmao </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:53:28 </td>
-   <td style="text-align:left;"> $SPY where’s the shadow? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:53:11 </td>
-   <td style="text-align:left;"> $SPY momentum currently is downward, don&amp;#39;t fight the trend. There is more downside. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:52:39 </td>
-   <td style="text-align:left;"> $SPY this is the year some permabulls wipe out their accounts. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:51:54 </td>
-   <td style="text-align:left;"> $SPY My name is Ricky Davis. I am glorious. Sometimes I put grass fed unsalted butter in my hair as an extra “me “ treatment. I count my followers and eat trolls…muppets usually like me. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:51:54 </td>
-   <td style="text-align:left;"> $SPY Klay Thompson made a comeback after 2 years. The economy will also make a comeback in 2 years. 
-2024 🇺🇸 💪 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:51:43 </td>
-   <td style="text-align:left;"> $SPY Sell the rips,  dont celebrate so fast. According to CCI sellers are in the market on daily chart. I remain bearish. If she goes higher I will short calls. As of right now No position </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:51:42 </td>
-   <td style="text-align:left;"> $SPY FUTES Dippin. Not a good sign with these numbers.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:51:23 </td>
-   <td style="text-align:left;"> $SPY looks like futures finna rip while we sleep </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:50:51 </td>
-   <td style="text-align:left;"> $SPY fire sale.on puts </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:50:28 </td>
-   <td style="text-align:left;"> $SPY Bob Saget is dead, limit down. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:50:21 </td>
-   <td style="text-align:left;"> $QQQ $SPY photo was when nasdaq was down -.5% on futes, now up .25%. Someone tell retail bears like @FeelsBearish @iTradeBetter to STFU lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:49:55 </td>
-   <td style="text-align:left;"> $DWAC $SPY Norwegian politician Trygve Lie was the first UN secretary general. The UN was set up in the Illuminati city of New York after the Free Masons won WW2. 33 degrees is the highest rank in Freemasonry. 
+   <td style="text-align:left;"> 2022-01-10 16:00:53 </td>
+   <td style="text-align:left;"> $SPY …Good morning,
 
-&amp;quot;Trygve is derived from the Old Norse &amp;#39;tryggr, meaning true, trustworthy.&amp;quot;
+Next Monday (a week from now is a trading holiday.
 
-Trygve Lie = A Trustworthy Lie. The United Nations = A Trustworthy Lie. UN = 19. Lie = 19. 
+This week, Monday &amp;amp; Tuesday will be weak declines with Wednesday &amp;amp; Thursday having stronger declines.  Strong increases Friday will be followed after the extended weekend by continuing increases Tuesday and perhaps Wednesday &amp;amp; Thursday.
 
-Covid 19, a UN Lie. </td>
+For Long Term Buy the Dip holders the best day to buy will be 1/11-1/12 (Wed-Thur) at $459.71
+
+Strong rebounding should occur Friday, Tuesday &amp;amp; Wednesday back up near current levels mid next week.
+
+GLTATraders LT </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:48:35 </td>
-   <td style="text-align:left;"> $SPY  tax hikes . Rate hikes . Inflation ,,, what else </td>
+   <td style="text-align:left;"> 2022-01-10 16:00:08 </td>
+   <td style="text-align:left;"> $SPY this whole market reminds me of the little Dutch boy story, trying to plug all the holes in the dyke with his fingers. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:48:31 </td>
-   <td style="text-align:left;"> $SPY we&amp;#39;re far from being saved.. in a few more hours 15750-15800 is just our pre-test ( if that can happens we might still have a chance to be bullish ). </td>
+   <td style="text-align:left;"> 2022-01-10 15:58:09 </td>
+   <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:47:54 </td>
-   <td style="text-align:left;"> $SPY and $IONQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:57:23 </td>
+   <td style="text-align:left;"> $SPY $BTC.X https://youtu.be/S9IB3aWt3Ww </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:47:48 </td>
-   <td style="text-align:left;"> $SPY “ im on my fifth booster and nothing’s happe…” </td>
+   <td style="text-align:left;"> 2022-01-10 15:56:48 </td>
+   <td style="text-align:left;"> $SPY Crash comin… keep tellin ppl, gunna make 2008 look like tea party. GL
+
+https://twitter.com/reuters/status/1480404074663194625?s=21 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:47:41 </td>
+   <td style="text-align:left;"> 2022-01-10 15:55:29 </td>
+   <td style="text-align:left;"> $UVXY  $IWM $SPY $SPX Taking into account the volume, the FED has printed, they are going to de-valuate the USD. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:53:21 </td>
+   <td style="text-align:left;"> $SPY  Pretty straight forward either $450 or $475
+ (465 pivot/trigger ) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:53:18 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:52:31 </td>
+   <td style="text-align:left;"> $SPY looks good I’m going to sleep see y’all at 480 open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:51:57 </td>
+   <td style="text-align:left;"> $SPY People are bullish on the virus spreading because they think it will send the market higher……..the logic of human beings never ceases to amaze me! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:49:54 </td>
+   <td style="text-align:left;"> $SPY if fut can keep the momentum, even when theres a dip at the open, i believe all fang tech will push it higher. $TSLA $AAPL $AMZN $TQQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:48:33 </td>
+   <td style="text-align:left;"> $SPY  and don’t worry I bought the big box of granola bars this time </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:47:53 </td>
+   <td style="text-align:left;"> $SPY $PYPL the low T wankers and simps on here must be sweating the $600 irs transaction reporting requirement. you wouldn&amp;#39;t dream of dodging your own elected leadership&amp;#39;s requirement and marking it as &amp;#39;friends and family&amp;#39;, now would you? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:47:50 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:46:43 </td>
+   <td style="text-align:left;"> $SPY HAHAHAH BEARS ALL NIGHT 👇👇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:44:19 </td>
+   <td style="text-align:left;"> $SPY I recommend waiting for this dead cat to bounce tomorrow before loading up on puts. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:43:44 </td>
+   <td style="text-align:left;"> $SPY $OCGN is ready to blow. Incredible results of COVAXIN for kids and adults. Time to blow this to 50+. Next 500% runner in my honest opinion. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:43:37 </td>
+   <td style="text-align:left;"> $SPY  anybody catch that Coronelta variant yet </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:41:29 </td>
+   <td style="text-align:left;"> $SPY 🤗 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:40:37 </td>
+   <td style="text-align:left;"> $SPY deltacron </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:40:36 </td>
+   <td style="text-align:left;"> $SPY bears, gL tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:39:27 </td>
+   <td style="text-align:left;"> $SPY 500 open please 🙏 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:37:59 </td>
+   <td style="text-align:left;"> $SPY /NQ +50bps /ES +25bps. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:37:52 </td>
+   <td style="text-align:left;"> $SPY $AMC I’ll leave you with this. When the government tells people who already had the virus to get an experimental vaccine when of course that individual has all the sufficient antibodies they need, then you know something is wrong. Even as a kid I remember the doctor saying that once you get the illness your body will have strong immunity to it. Unfortunately the brainwashing is strong and people have lost the ability to think for themselves! Fear is a powerful tool. Best wishes! ✌🏻 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:37:44 </td>
+   <td style="text-align:left;"> $SPY $480 today 🔥🔥🔥🔥 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:37:26 </td>
+   <td style="text-align:left;"> $SPY anybody live in Chicago? I need stock market friends </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:37:15 </td>
+   <td style="text-align:left;"> $SPY last time this happened with fUtURes it pumped until 9:25, then dropped hard. 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:36:06 </td>
+   <td style="text-align:left;"> $SPY buy at 6:30/9:30 if you didn’t get in on Friday. Trust me this can rip 5%+ this week alone </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:35:24 </td>
+   <td style="text-align:left;"> $SPY FUTURES FLYING </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:35:24 </td>
+   <td style="text-align:left;"> $SPY LMFAOO THE BEARS STUCK </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:34:56 </td>
+   <td style="text-align:left;"> $SPY  BEARS ALL NIGHT 👇👇🔥 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:34:54 </td>
+   <td style="text-align:left;"> $SPY gonna inflate 🆙 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:34:26 </td>
+   <td style="text-align:left;"> $SPY oh yea futes RIPPING </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:34:24 </td>
+   <td style="text-align:left;"> $SPY haha bears trapped .. puts to go down.. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:31:56 </td>
+   <td style="text-align:left;"> $SPY bull trap </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:31:28 </td>
+   <td style="text-align:left;"> $SPY 10yr about to break 2% LOL watch tech timber in 30 mins </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:28:05 </td>
+   <td style="text-align:left;"> $SPY start strong then dip? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:27:37 </td>
+   <td style="text-align:left;"> $SPY alright bears I’m going to sleep this is going to pump itself 
+
+BEARS, Keep your eyes glued to the futures and I’ll be back in the morning 
+
+🪦🪦🪦 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:27:21 </td>
+   <td style="text-align:left;"> $SPY when germany opens in 33 minutes u bulls will be looking like this </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:27:12 </td>
+   <td style="text-align:left;"> $SPY Technical Analysis with Washboardjim,, Sneaky Snake trading strategy SPY  https://www.youtube.com/watch?v=8csAHZ8AWBI </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:25:57 </td>
+   <td style="text-align:left;"> $SPY   $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:25:11 </td>
+   <td style="text-align:left;"> $SPY bears why so quiet ??!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:24:29 </td>
+   <td style="text-align:left;"> $SPY California in shambles $DWAC </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:24:13 </td>
+   <td style="text-align:left;"> $SPY now the bond market ahead of the fed 😰 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:23:47 </td>
+   <td style="text-align:left;"> $SPY bonds still creeping up with green futes. My god u bulls r dumb if you keep buying calls. Literally gonna send urself into a financial suicide </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:23:45 </td>
+   <td style="text-align:left;"> $SPY I’m feeling a bull trap and I have calls </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:19:04 </td>
+   <td style="text-align:left;"> $SPY dang what a comeback , now I can sleep in peace </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:18:42 </td>
+   <td style="text-align:left;"> The whole 
+world rallying tonight  
+virus worse enough to stop the hikes 
+ 
+so bad it’s good 
+ 
+$spy $qqq </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:18:27 </td>
+   <td style="text-align:left;"> $SPY LOL - realizing the bears on here are mostly butthurt deplorable Trumpsuckers. Probably should be called MAGATs instead of bears, they don&amp;#39;t look up much either and just dwell in a grubby larval stage. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:17:10 </td>
+   <td style="text-align:left;"> $SPY $AMC you have to ask yourself, if more people died this year while having the vaccines available, then why continue to push the vaccines when there are so many proven alternative therapies that will not only save your life, but keep you from going to the hospital. If the Biden administration is arguing that the vaccines will help lighten the load on the hospitals then why not use the alternative forms of care? I think everyone here is smart enough to know that there is a hidden agenda. What that hidden agenda is? Only time will tell. We can only hope the only reason why they are pushing the vaccines is because the politicians have made a deal with the vaccine manufactures and they are getting a monstrous kick back. These should be up tomorrow. Best wishes!✌🏻 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:17:02 </td>
+   <td style="text-align:left;"> $SPY notice how all these old rich elites are just dying off now. Its obvious they getting merked. Economy propped up for their greed but since they dying off we dont need to pump for dead people </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:16:32 </td>
+   <td style="text-align:left;"> $SPY My bull friends, be calm and relaxed. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:16:31 </td>
+   <td style="text-align:left;"> $SPY $BTC.X $ETH.X so what you guys think? Will CPI on 12th cause a crash in crypto? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:16:25 </td>
+   <td style="text-align:left;"> $SPY  The back of my mind tells me last week suggested  signs of dark cloud cover on trend. It needs a convincing V reversal otherwise worse case scenario for bulls is 
+4 fitty </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:15:50 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TELL  
+ 
+$PRTS  
+CEO  
+https://twitter.com/LevPeker/status/1476975716348563457 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:15:44 </td>
+   <td style="text-align:left;"> $SPY Based on that pretty extreme GEX Fri I expect some upward movement this week. See if it holds. I have cheap protection for SPY long if we head lower but positioned more for upside. When I hedge is it not so much a position as insurance that pays to add to my long. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:15:44 </td>
    <td style="text-align:left;"> $SPY lol </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:47:37 </td>
-   <td style="text-align:left;"> $SPY ATH by end of week </td>
+   <td style="text-align:left;"> 2022-01-10 15:15:36 </td>
+   <td style="text-align:left;"> $SPY pumpy pumpy they’re trying it </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:47:25 </td>
-   <td style="text-align:left;"> $QQQ $WOOF $SPY Start trading over 5 month ago and i lost all of money, Now I&amp;#39;ve made over 147K+ profits after join their chat room and using their alerts. Highly recommended! tinyurl.com/uftofficialfreetrial </td>
+   <td style="text-align:left;"> 2022-01-10 15:14:51 </td>
+   <td style="text-align:left;"> $SPY will crash if JPOW starts talking about the rushed taper. No positions but im biased for the bears atm 🤣🤣🤣 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:47:20 </td>
-   <td style="text-align:left;"> $SPY rate hikes 😂😂 please I spy a bull run </td>
+   <td style="text-align:left;"> 2022-01-10 15:14:12 </td>
+   <td style="text-align:left;"> $SPY haha it can’t get no lower because it’s 2022 numbers now Btch’s   
+
+$nasdaq $ndx $qqq </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:46:47 </td>
-   <td style="text-align:left;"> $SPY I have never seen futures struggle this much to go fucking  green. All cash is sidelined </td>
+   <td style="text-align:left;"> 2022-01-10 15:14:08 </td>
+   <td style="text-align:left;"> $SPY so looks green tommorow, only question is how green.... 🤔 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:46:46 </td>
+   <td style="text-align:left;"> 2022-01-10 15:13:03 </td>
+   <td style="text-align:left;"> $SPY equity index futures bounced back but yields are lower... Red flag IMO. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:12:53 </td>
+   <td style="text-align:left;"> $SPY HAHAHAHAH </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:12:25 </td>
+   <td style="text-align:left;"> $SPY $TSLA $QQQ 
+
+FUTURES UPDATE FOR THE SHORTS 👇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:12:21 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DJIA THE DEATH OF BOB SAGET WILL SET OFF A 2000 2008 LEVEL CRISIS </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:12:13 </td>
+   <td style="text-align:left;"> $SPY last two scalps screwed me over let’s see how this one goes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:11:26 </td>
+   <td style="text-align:left;"> $SPY About to be exactly howI like my steak…bloody red🩸 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:11:22 </td>
+   <td style="text-align:left;"> $SPY wtf rigged </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:10:22 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TELL  
+ 
+$PRTS  
+CFO &amp;quot; Going from 2 distribution centers to 6 in the 3 years  
+is a perfect demonstration of our success!&amp;quot;  
+https://twitter.com/davidmeniane/status/1478435310056853506 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:10:13 </td>
+   <td style="text-align:left;"> $SPY I expect a dip when we open! Least my puts do lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:06:42 </td>
+   <td style="text-align:left;"> $SPY I want to learn about land sales this year.. I don’t think I want to flip houses, but I’ve always liked the idea of selling land property </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:05:25 </td>
+   <td style="text-align:left;"> $SPY someone explain to me how McDonald&amp;#39;s is going up and up. 
+
+Is their a mad rush for quarter pounders and nobody told me? 
+
+$MCD </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:04:54 </td>
+   <td style="text-align:left;"> $SPY ye slow ramp up of 35 points… watch the flush happen at 4 AM </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:04:04 </td>
+   <td style="text-align:left;"> $SPY The futures ripping comment has no meaning anymore, unless it means it&amp;#39;s less than the previous day and still in the same channel of downtrend of last week. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:03:37 </td>
+   <td style="text-align:left;"> $SPY in fairness, last week futes went deep red and opened the day at 9:30 in green. 
+
+It&amp;#39;s all random. I don&amp;#39;t care anymore about them. I just check to see if the assholes who always say &amp;quot;futes are ripping&amp;quot; are correct, or if it&amp;#39;s just some bulljive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 15:03:36 </td>
    <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:46:41 </td>
-   <td style="text-align:left;"> $SPY three rate hike 2022 … </td>
+   <td style="text-align:left;"> 2022-01-10 15:03:31 </td>
+   <td style="text-align:left;"> $SPY why must God take Bob Saget before..... Never mind I can&amp;#39;t name names but you know what I&amp;#39;m talking about </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:46:31 </td>
-   <td style="text-align:left;"> $SPY  Say no way  say no way! I won’t pay i won’t pay… yah… NO WAAAAY….. you wont get my moooonnnnaaaayyyy! $MCD $YUM $WEN $JACK </td>
+   <td style="text-align:left;"> 2022-01-10 15:03:26 </td>
+   <td style="text-align:left;"> $SPY $msft look it’s the moo pattern </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:46:21 </td>
-   <td style="text-align:left;"> $SPY hey bears </td>
+   <td style="text-align:left;"> 2022-01-10 15:03:14 </td>
+   <td style="text-align:left;"> $SPY Futes Rippin&amp;#39; 🤪 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:46:07 </td>
-   <td style="text-align:left;"> $SPY fuuuutes </td>
+   <td style="text-align:left;"> 2022-01-10 15:03:10 </td>
+   <td style="text-align:left;"> $SPY $qqq nq calls dirt cheap.. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:45:30 </td>
-   <td style="text-align:left;"> $SPY Who needs Powell when you got Saget watching over us now </td>
+   <td style="text-align:left;"> 2022-01-10 15:02:02 </td>
+   <td style="text-align:left;"> $SPY ripping ferociously </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:45:22 </td>
-   <td style="text-align:left;"> $SPY i can finally sleep in peace amen 🙏 </td>
+   <td style="text-align:left;"> 2022-01-10 15:02:01 </td>
+   <td style="text-align:left;"> $SPY I’m collllld </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:45:18 </td>
-   <td style="text-align:left;"> $SPY a little up tick and bulls come out of their caves like Neanderthals! </td>
+   <td style="text-align:left;"> 2022-01-10 15:01:36 </td>
+   <td style="text-align:left;"> $SPY from Steelers Locker Room ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+Let’s Go Brandon (Staley)
+🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:45:06 </td>
+   <td style="text-align:left;"> 2022-01-10 15:00:01 </td>
+   <td style="text-align:left;"> $SPY futures rippin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:59:43 </td>
+   <td style="text-align:left;"> $SPY
+
+He protests too much. What a terrible and divisive leader. Put him on an island with people like Trudeau, Morrison, Arden and Biden. It’s the perfect company where they can build back worse.
+
+https://www.lifesitenews.com/blogs/macron-insults-anti-covid-vaccine-french-says-they-are-no-longer-citizens/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:59:34 </td>
+   <td style="text-align:left;"> $SPY you seeing anything?
+You?
+You?
+You? 
+You.....
+
+&amp;quot;Nope&amp;quot;
+&amp;quot;Nope....&amp;quot; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:58:43 </td>
+   <td style="text-align:left;"> $SPY https://youtu.be/ezM95_Y9ABk </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:58:17 </td>
+   <td style="text-align:left;"> $SPY are the rest of my calls gonna get destroyed tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:58:11 </td>
    <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:45:04 </td>
-   <td style="text-align:left;"> $SPY so they are going to try to see what kind of buying can come in?  A tad of relief ?   I never saw
-The market so despondent as it was those last 3 days.  I need to see alot before o go long anything.  Don’t care if it bounces.  Always being ambushed </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:44:48 </td>
-   <td style="text-align:left;"> $SPY think they are gonna slow crash spy to 375 by bleeding to top market cap companies down 20%....
+   <td style="text-align:left;"> 2022-01-10 14:57:44 </td>
+   <td style="text-align:left;"> $SPY aye y’all make some money at night too, I know surveys suck but this one actually pays decently well 
 
-While all these small caps down 80% in the last year rise back above book value
+https://send.cloutzap.com/Ali786 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:56:52 </td>
+   <td style="text-align:left;"> $SPY is there a hospital crisis because of cases ? Or because they TERMINATED all the hospital  staffs who refused the jabs 
 
-Imo.... bullish and bearish </td>
+https://m.theepochtimes.com/ontario-halts-non-urgent-surgeries-amid-hospital-capacity-concerns_4197257.html </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:44:43 </td>
-   <td style="text-align:left;"> $SPY https://youtu.be/O0_H3F84Yjk </td>
+   <td style="text-align:left;"> 2022-01-10 14:54:32 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DJIA BOB SAGET DIED </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:44:41 </td>
-   <td style="text-align:left;"> Futures RIPPIN off low $spy $qqq </td>
+   <td style="text-align:left;"> 2022-01-10 14:52:27 </td>
+   <td style="text-align:left;"> $SPY 3rd time is a charm.. tomorrow lets break this 15800 curse. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:44:21 </td>
-   <td style="text-align:left;"> $SPY just waiting for that next high volume dump.  Powell should follow up nicely 👌 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:44:11 </td>
-   <td style="text-align:left;"> $SPY jobs report was horrible, feb and March job report is going to be horrible. Inflation will decrease in January because crushed oil prices in December. This will lay the groundwork for the feds to delay rate hikes until summer/fall. I don’t buy the March rate hike. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:44:09 </td>
-   <td style="text-align:left;"> $SPY BIDEN has done more for rural America, corporate America, and stonk holders than ANY president ever has in history! 
-
-He inherited a disaster economy and built it back better!! 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:44:06 </td>
-   <td style="text-align:left;"> $SPY phony </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:43:59 </td>
-   <td style="text-align:left;"> $SPY cnn showing futes are -.45% but cnn is also fake news… fk </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:43:50 </td>
-   <td style="text-align:left;"> $spy $QQQ  
-PELOSI OPENS THE DOOR TO VIRUS AID IN SPENDING PLAN AS OMICRON RAGES </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:43:28 </td>
+   <td style="text-align:left;"> 2022-01-10 14:52:00 </td>
    <td style="text-align:left;"> $SPY 
-Bears fooked </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:43:06 </td>
-   <td style="text-align:left;"> $SPY easy money maker here!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:43:04 </td>
-   <td style="text-align:left;"> $QQQ $SPY Two big days this week:
-• Powell speaks on Tuesday
-• CPI at 8:30am on Wednesday 
-Any hawkish comment or high CPI means growth selloff to get worse IMO. I expect good buying opportunities this year. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:43:00 </td>
-   <td style="text-align:left;"> $SPY yup my calls r saved, thanks bears for ur donations 🙏 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:42:56 </td>
-   <td style="text-align:left;"> $SPY bulls used all their energy on this .35% fute pump…. -.5% by open </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:42:43 </td>
-   <td style="text-align:left;"> $SPY running </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:42:38 </td>
-   <td style="text-align:left;"> $SPY spy is green lol 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:42:08 </td>
-   <td style="text-align:left;"> $SPY gunna be ruff </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:41:54 </td>
-   <td style="text-align:left;"> $SPY take off the blindfold </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:41:53 </td>
-   <td style="text-align:left;"> 🚨 WEEKLY MARKET CALENDAR 🚨 :
 
-$SPY - $QQQ - $NDAQ - $IWM - $DIA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:41:40 </td>
-   <td style="text-align:left;"> $SPY I count the cracks in the sidewalks and tiles between steps…of course I count followers fucker. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:41:40 </td>
-   <td style="text-align:left;"> $SPY easy btd </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:41:31 </td>
-   <td style="text-align:left;"> $SPY there she goes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:40:47 </td>
-   <td style="text-align:left;"> $SPY $PFE $MRNA RIP Bob Saget. Here is him recently getting his Booster shot. This is no Joke. Dr. Fraudi is responsible for Mass Formation Psychosis and Genocide. https://www.youtube.com/watch?app=desktop&amp;amp;v=KRkJxoIYZt4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:40:25 </td>
-   <td style="text-align:left;"> $RGS $SPY $NASDAQ  institutions loaded up before end of year. Hope you did as well. Gonna be a great year. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:40:24 </td>
-   <td style="text-align:left;"> $SPY https://twitter.com/alexstein99/status/1480348468162048006?s=21 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:40:11 </td>
-   <td style="text-align:left;"> $SPY BBB talks going well 🇺🇸 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:40:09 </td>
-   <td style="text-align:left;"> $SPY $QQQ - Futures so far, what are we expecting for tomorrow?
-💚 - FOLLOW 
-❤ - LIKE 
+Joseph Stalin said that “it’s not the people who vote that count, it’s the people who count the votes.”
+Welcome to the future to be created by the DemocRATS.
 
-LET&amp;#39;S GO.! </td>
+https://www.breitbart.com/politics/2022/01/06/joe-biden-and-kamala-harris-use-january-6-demand-federal-takeover-elections/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:40:04 </td>
-   <td style="text-align:left;"> $SPY We really need Nikkei huge drop several weeks in a row. </td>
+   <td style="text-align:left;"> 2022-01-10 14:51:45 </td>
+   <td style="text-align:left;"> $SPY to all: recommend to listen to this podcast </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:39:52 </td>
-   <td style="text-align:left;"> $SPY sell everything a crash is coming ahhhhhhhhhhhh. We are going to zero. Save yourself </td>
+   <td style="text-align:left;"> 2022-01-10 14:51:15 </td>
+   <td style="text-align:left;"> $ES_F areas of interest, 4646-4653 support area 1, 4639 support area 2, 4622 and 4615 below targets. Opposite end 4682-4689 resistance area 1, 4696 resistance area 2, 4713 and 4719 above targets 
+$ES_F #ES_F $SPY #SPY $SPX #SPX </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:39:42 </td>
-   <td style="text-align:left;"> $SPY when does Powell retire ever? </td>
+   <td style="text-align:left;"> 2022-01-10 14:51:02 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DJIA 2000 2008 level crash incoming hide yo canoes 🛶 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:39:37 </td>
-   <td style="text-align:left;"> $EXAS $QQQ $WOOF $SPY I’ve made $93,111.27 (891.33%) with their alerts, Big thanks to this chat room Make as much as you want.   https://www.discord.io/rBHacCP </td>
+   <td style="text-align:left;"> 2022-01-10 14:47:56 </td>
+   <td style="text-align:left;"> $SPY The market tell will be when Jerome Powell liquidates his $40 million portfolio, just like he did in February 2020.
+PT184 🔥 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:39:24 </td>
-   <td style="text-align:left;"> $SPY So much fun to trade futures. </td>
+   <td style="text-align:left;"> 2022-01-10 14:47:46 </td>
+   <td style="text-align:left;"> $SPY futures looking like they are being forced a jab and taxed harder. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:39:09 </td>
-   <td style="text-align:left;"> $SPY looking to buy some
-Spy leaps. Just got to find a good entry </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:38:58 </td>
-   <td style="text-align:left;"> $SPY my opinion, rotate out of tech and into banks, consumer cyclicals and to some extent defense/pharma. As interest rates rise, you will find that large institutions like banks will decrease there equities portfolio and increase bonds but hold a lot of cash. Bank lending with higher interest rates will be more lucrative than a potential market selloff. They will lock in gains. Watch what the banks do this week. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:38:51 </td>
-   <td style="text-align:left;"> $SPY old guy emerges green open it is </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:38:48 </td>
-   <td style="text-align:left;"> Crude getting a spike $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:38:29 </td>
-   <td style="text-align:left;"> $SPY J Powell isn&amp;#39;t stupid. He knows how close Dem overspending almost came to putting the country over the brink of debt. He&amp;#39;s gonna make sure things get crashed a bot before the mid terms to get enough Republicans elected to the House &amp;amp; Senate to ensure gridlock in Washington spending. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:38:28 </td>
-   <td style="text-align:left;"> $SPY the pump is too early </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:37:44 </td>
-   <td style="text-align:left;"> $SPY Futes teasing </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:37:20 </td>
-   <td style="text-align:left;"> $SPY damn i watched city slickers 2 before 1. With all this technology youd think theyd go, do you want to watch 1 first. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:37:15 </td>
-   <td style="text-align:left;"> $spy $qqq S&amp;amp;P about to flip green too ! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:37:01 </td>
-   <td style="text-align:left;"> $SPY Omicron will lead to endemic…
-
-An endemic virus may come every few years or a few times a year, bringing a week or two of misery and missed appointments, but little risk of severe disease or death. 
-
-Four coronaviruses in the same family as SARS-CoV-2 already are among those considered the common cold.
-
-Immunity to these infections fades fast and there&amp;#39;s no vaccine or even a decent treatment to fight them. Most people just slog through. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:36:51 </td>
-   <td style="text-align:left;"> $SPY  There&amp;#39;s a new sheriff in town... And its name is Pat   https://nypost.com/2022/01/08/lia-thomas-defeated-by-fellow-transgender-swimmer-iszac-henig/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:36:38 </td>
-   <td style="text-align:left;"> $SPY red in the morning, mark this post. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:36:29 </td>
-   <td style="text-align:left;"> $SPY I love that the same idiots that posted the &amp;#39;CRASH is coming&amp;quot; are not bullish idiots like somehow they just exaggerate BS based on some lame broke $ world $500 trades short or long. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:36:18 </td>
-   <td style="text-align:left;"> Ticker: $SPY 
-Buy: January 12, 2022 $468.00 Calls 
-Entry Price: $1.79 - $1.80 
-Exit Price: $2.47 
-Stop Loss: $1.58 
-Potential ROI: 38% 
-Estimated Hold Time: 80 Minutes 
-Alert Courtesy Of: https://www.fastscalp.com/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:36:14 </td>
-   <td style="text-align:left;"> $SPY Let’s be real, we have every reason to keep ripping north for the next several years. Right? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:35:58 </td>
-   <td style="text-align:left;"> $SPY $QQQ bought these at the close ............ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:35:12 </td>
-   <td style="text-align:left;"> $SPY to da moon?  Yep </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:35:07 </td>
-   <td style="text-align:left;"> $SPY running over bears all week </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:34:35 </td>
-   <td style="text-align:left;"> $SPY let&amp;#39;s see </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:34:32 </td>
-   <td style="text-align:left;"> $SPY SPY 2022-01-09 Daily Forecast Video: 
-https://www.youtube.com/watch?v=45sIwteWxW8 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:34:07 </td>
-   <td style="text-align:left;"> $SPY I’m in a good mood bears </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:34:07 </td>
-   <td style="text-align:left;"> $SPY 470 looks to be coming tomorrow most likely. Question is…is that a dead cat bounce or will she V ? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:34:06 </td>
-   <td style="text-align:left;"> $AAPL $NVDA $SPY $DKNG $TSLA Hey everyone! So I wanted to just update everyone that moving in this year I will start posting my plays (exact entries and exits) on this app called tradeexchange! I am going to be posting exact entries and exits on Madria Stock Swings. Essentially you will be able to get the exact entries and exits on there (basically me trading for you legally haha)! I am doing a New Year special of $5 a month. Shortly I will be increasing the price  :-)  
+   <td style="text-align:left;"> 2022-01-10 14:47:16 </td>
+   <td style="text-align:left;"> $SPY  
  
-If you want to support me, please follow me on there. Any questions and such - feel free to message me on here!  
+You&amp;#39;re not buying enough calls again, lol.   
  
-I hope to see you guys there! Thanks again for supporting me for the last year and a half as we continue to grow! Getting more and more clutch each time! </td>
+You need to buy more calls. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:33:39 </td>
-   <td style="text-align:left;"> $SPY can we get $VIXY to trend as well.  😂.  Fun week ahead.  Good trading.  💤 </td>
+   <td style="text-align:left;"> 2022-01-10 14:46:38 </td>
+   <td style="text-align:left;"> $SPY yea....2022 is going to be wild. Better off buying an index fund and chilling this year </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:33:38 </td>
-   <td style="text-align:left;"> $spy everyone here just went from i should ahve bought less to i should have bought more lol hate that feeling </td>
+   <td style="text-align:left;"> 2022-01-10 14:46:24 </td>
+   <td style="text-align:left;"> $SPY Go to bed, wake up red. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:33:29 </td>
-   <td style="text-align:left;"> $SPY HEHE
+   <td style="text-align:left;"> 2022-01-10 14:45:30 </td>
+   <td style="text-align:left;"> $SPY $BTC.X  Monday🩸 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:45:23 </td>
+   <td style="text-align:left;"> $SPY how is the futures are looking? Is it boolish? I don’t think so </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:45:06 </td>
+   <td style="text-align:left;"> $SPY $MRNA $PFE 
 
-HUHU 
+Serious question… why do idiots like Whoopi keep saying that if everyone was vaccinated covid would no longer spread?  
 
-🙂🙂📈👍 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:33:25 </td>
-   <td style="text-align:left;"> $SPY Chinese stocks going green nice </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:33:08 </td>
-   <td style="text-align:left;"> $SPY red </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:32:58 </td>
-   <td style="text-align:left;"> $SPY drop the vix on its fcking head 19 incoming plz </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:32:56 </td>
-   <td style="text-align:left;"> $SPY  Booster Bob Crash </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:32:44 </td>
-   <td style="text-align:left;"> $SPY GEEEE I WoNdEr which way this goes. DuH </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:32:39 </td>
-   <td style="text-align:left;"> $SPY  I’m 31 retiring at 39 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:32:26 </td>
-   <td style="text-align:left;"> $QQQ $SPY $DJIA  
-Tuesday confirmation 
-🚀🇺🇲 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:32:23 </td>
-   <td style="text-align:left;"> $SPY $JPM Reporting earnings this week. $JPM tried to create a double inside day, but had a nice push EOD and did not make it. Clean break out of the weekly and looking like it is ready to retest the ATHs before the end of the week. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:32:21 </td>
-   <td style="text-align:left;"> $SPY 😤 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:58 </td>
-   <td style="text-align:left;"> $SPY If I were a gold, I would pop…$gc_F </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:57 </td>
-   <td style="text-align:left;"> $SPY I am completely hedged. Delta, gamma, Vega even rho. No matter what the market does nothing will happen to my portfolio besides losing all the money in fees for all the options to do that. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:46 </td>
-   <td style="text-align:left;"> $SPY Pulled back to the 50EMA on the daily and 9EMA on the weekly. Losing these levels on $SPY will break lower towards 460. Holding them can see a retest of 470.5 on SPY. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:41 </td>
-   <td style="text-align:left;"> $SPY Peeps are cheering every 10 points futures moves like it matters, lol... Relax, post some memes and rip on the POS liberals
+So they won’t prevent getting it but they’ll prevent spreading it? Is this just like wearing a Scooby doo mask will help protect others? 🤡
 
-:-) </td>
+In other news, inflation, taxes, unemployment &amp;amp; interest rates on the rise. 👍🤡 SPY $350 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:37 </td>
-   <td style="text-align:left;"> $SPY futes are ripping </td>
+   <td style="text-align:left;"> 2022-01-10 14:44:56 </td>
+   <td style="text-align:left;"> $SPY made my third and final brokerage account for defensive positions.. time to load up </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:33 </td>
-   <td style="text-align:left;"> $SPY sad ….. SAD ….. day….. </td>
+   <td style="text-align:left;"> 2022-01-10 14:44:43 </td>
+   <td style="text-align:left;"> $UVXY $SPY $SPX $NASDAQ  The end of an era could very well be upon us. Black swan? 20% I’d like to see . 40% even better. Waiting on equities to plunge shortly after. But… firearms and ammunition will continue to hedge against inflation as a physical asset. I still love my decision months ago, but damn I miss range time as much as I used to go. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:32 </td>
-   <td style="text-align:left;"> $SPY You can never be too sure about what this market will do. Earlier this evening, bears seemed fairly certain that there&amp;#39;ll be bloodbath by premarket tomorrow but suddenly the tables have turned in favor of bulls. </td>
+   <td style="text-align:left;"> 2022-01-10 14:44:02 </td>
+   <td style="text-align:left;"> $SPY Nasdaq board is 🔥 right now lol </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:13 </td>
-   <td style="text-align:left;"> $SPY $SPX The ALGOMUS would like to thank whomever has given him the opportunity to BTD and increasing profits towards the ALGOMUS 4759 $SPX point for another gain for the start of the year. </td>
+   <td style="text-align:left;"> 2022-01-10 14:43:58 </td>
+   <td style="text-align:left;"> $SPY 700,000 illegals are not happy with the candidate they voted for.
+PT184 🔥 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:11 </td>
-   <td style="text-align:left;"> $SPY $QQQ $ARKK Future are up </td>
+   <td style="text-align:left;"> 2022-01-10 14:43:42 </td>
+   <td style="text-align:left;"> $SPY contagion hits everything. Don’t blink. 
+ https://www.reddit.com/r/Epic_Economics/comments/s0dh48/crypto_death_crossed/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:05 </td>
-   <td style="text-align:left;"> $SPY is my 471$ call for the end of this week done for? ☠️ </td>
+   <td style="text-align:left;"> 2022-01-10 14:43:37 </td>
+   <td style="text-align:left;"> $SPY battle between da bears n bulls.. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:31:05 </td>
-   <td style="text-align:left;"> $SPY Yeup America funniest home videos showman… RIP </td>
+   <td style="text-align:left;"> 2022-01-10 14:43:12 </td>
+   <td style="text-align:left;"> $SPY are we ripping tomorrow or another day of blood bath? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:30:58 </td>
-   <td style="text-align:left;"> $SPY the magic repo loans that seemed unnecessary in late 2019 getting some eyes now. 😏 </td>
+   <td style="text-align:left;"> 2022-01-10 14:41:48 </td>
+   <td style="text-align:left;"> $SPY when the folks you follow are fighting eachother in your People Stream </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:30:33 </td>
-   <td style="text-align:left;"> $SPY lol we trending </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:30:19 </td>
-   <td style="text-align:left;"> $SPY on a slow roll South...
+   <td style="text-align:left;"> 2022-01-10 14:41:14 </td>
+   <td style="text-align:left;"> $SPY the real criminals … won’t even allow alternative treatments 
 
-meanwhile our fave ex Presidente aka Scummy is calling  his buddy Sean Hannity scum of the Earth as Sean who was part of the pre -Jan 6th party shared his phone texts with the Meadows gang and likely others.
+https://www.lifesitenews.com/news/twitter-suppresses-massive-study-showing-ivermectin-reducing-covid-mortality-by-68/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:39:35 </td>
+   <td style="text-align:left;"> $SPY I’d make my wife cook me dinner in her uniform when my beloved Raiders would beat the Chargers! THAT’S how badass life was before kids 😂 that pad was on the water too! I’m drunk and going to bed now! Go Raiders! Bulls are done for this week </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:37:30 </td>
+   <td style="text-align:left;"> $SPY My biggest question right now is how do you bottle a fart </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:35:59 </td>
+   <td style="text-align:left;"> $SPY It’s AntiJab Federal Firing day. No forced Jab, your out of a job. So much for my body my choice. Guess that’s only politically convenient?
+PT184 🔥 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:35:35 </td>
+   <td style="text-align:left;"> $SPY Well, bears, </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:35:31 </td>
+   <td style="text-align:left;"> $SPY futures flipping </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:34:24 </td>
+   <td style="text-align:left;"> $SPY bulls will be in shambles in 26 minutes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:33:16 </td>
+   <td style="text-align:left;"> $SPY Bouncing today! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:31:30 </td>
+   <td style="text-align:left;"> $SPY don’t call it a comeback I’ve been here for years (they just keep deleting my accounts) 😂😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:30:37 </td>
+   <td style="text-align:left;"> $SPY herd immunity incoming. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:29:03 </td>
+   <td style="text-align:left;"> $SPY Someone tell me this works. I&amp;#39;m just seeing clockwise 🤔.
 
-Apparently hypocritical Sean had second thoughts about being involved in the nasty scheme which had been well planned for weeks.  Wonder why he doesn&amp;#39;t discuss his own Jan 6th dealings on his hilarious snarky show? 
+https://youtube.com/shorts/PwUo5TTjO00?feature=share </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:28:13 </td>
+   <td style="text-align:left;"> $SPY remove faang from any and all indices and the world is right again. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:27:31 </td>
+   <td style="text-align:left;"> $MSFT $SPY $AMD 
 
-The good news is that some of the old MAGA sycophants are turning on Trumpy and his god- awful crew of liars and dividers. Maybe, just maybe there will be some semblance of humanity in the next decade, if not, we are all in trouble especially our kids who are committing suicide at unprecedented rates. Lost youth is so sad and tragic.
+Wow, 1 day with this software and I already paid for a full year subscription ..
 
-There is a whole group of unhinged cowards out there that need a rope around their necks just to wake them up to become a human being for the good of all of us. Tic tic tic
+Really like the custom alerts . Went in yesterday trying to build my own and found most of them were already consistent with what I want to scan for 📈🥳
 
-Hug your children. </td>
+🎯  tinyurl.com/sothhjfsdv </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:30:15 </td>
-   <td style="text-align:left;"> $SPY never seen $NASDAQ trending </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:29:49 </td>
-   <td style="text-align:left;"> $SPY It&amp;#39;ll be flat. Then EOD you&amp;#39;ll see people place their bets for Tuesday tomorrow. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:29:35 </td>
-   <td style="text-align:left;"> $SPY that’s it brah ? Bears only
-Last 30 seconds in bed 🌶 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:29:33 </td>
-   <td style="text-align:left;"> $SPY Nasdaq trending I don’t think  I’ve ever seen that before, bears facked </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:29:03 </td>
-   <td style="text-align:left;"> $SPY WTI green … SPY finishes green tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:28:51 </td>
-   <td style="text-align:left;"> $SPY FUTES FLATLINING </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:28:44 </td>
-   <td style="text-align:left;"> $SPY word </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:28:28 </td>
-   <td style="text-align:left;"> $SPY $PFE $MRNA $JNJ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:28:20 </td>
-   <td style="text-align:left;"> $SPY bulls are now celebrating 4674. Lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:28:12 </td>
-   <td style="text-align:left;"> $SPY rip bob sagget </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:27:24 </td>
-   <td style="text-align:left;"> $SPY if you want more 20%+ stonk tendies like 2021 
-
-We need to stand up and make our voices heard against the ANTI DEMOCRACY PARTY 
-
-they are threatening our stonk market and the POWER of our nation 🇺🇸🇺🇸🇺🇸🇺🇸 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:27:22 </td>
-   <td style="text-align:left;"> $SPY Powell is up for re-nomination Tuesday…expect that to be a bullish event. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:27:19 </td>
-   <td style="text-align:left;"> $SPY so why are we mandating a vaccine that fails to prevent infection or transmission even after three doses? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:26:49 </td>
-   <td style="text-align:left;"> $SPY $QQQ From red to green. THE SHOW MUST GO ON!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:26:29 </td>
-   <td style="text-align:left;"> $SPY $QQQ Futes are looking bullish! Is everybody ready for a green Monday? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:26:29 </td>
-   <td style="text-align:left;"> $SPY Green monster is back go spy go. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:26:19 </td>
-   <td style="text-align:left;"> The Fed $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:26:12 </td>
-   <td style="text-align:left;"> $SPY When a family of four takes $40 USD @ $MCD …. I say, “No way… No way..” and they say, “That’s the price.” I say, “I won’t pay… I wont pay… na na leta get the F outta here!” </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:26:06 </td>
-   <td style="text-align:left;"> $SPY AQST Big Catalyst, PDUFA and 109 Trial to Dethrone Epi-PEN coming 
-
-Good read on analysis here 
-
- https://stocktwits.com/erice579/message/424946509 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:26:00 </td>
-   <td style="text-align:left;"> $SPY I&amp;#39;m playing the volatility, so I don&amp;#39;t care if it goes up or down. But until it crosses the 30 min 10ema, bulls should stop celebrating. Even then, that&amp;#39;s a really low threshold for being bullish... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:25:53 </td>
-   <td style="text-align:left;"> $SPY &amp;quot;Current Speaker of the U.S. House of Representatives, Nancy Pelosi and her husband Paul Pelosi have bought options worth millions in technology stocks, according to the New York Post. These include Alphabet Class A Inc. (GOOGL), The Walt Disney Co. (DIS), Roblox Corp. (RBLX), salesforce.com, inc. (CRM), and Micron Technology, Inc. (MU).&amp;quot;  Nasdaq.com 1/3/22   
- 
-If this doesn&amp;#39;t tell you which way the market is headed, nothing will. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:25:48 </td>
-   <td style="text-align:left;"> $SPY $QQQ This is what you call Classic manipulation by wallstreet. They want you to believe the dump is over...It&amp;#39;s far from done. We&amp;#39;ve only just begun </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:25:17 </td>
-   <td style="text-align:left;"> $SPY it&amp;#39;s like musical chairs...you know the music about to stop. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:25:14 </td>
-   <td style="text-align:left;"> $SPY once the nastydaq opens, it’s short on sight </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:25:03 </td>
-   <td style="text-align:left;"> $SPY my puts stating to shittin </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:24:51 </td>
-   <td style="text-align:left;"> $SPY Wait was Bob Saget one of Joe Rogan’s friends who experienced a stroke after getting vaccinated? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:24:24 </td>
-   <td style="text-align:left;"> $SPY once the downtrend is confirmed in the morning,  short at will.  Easy money </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:24:19 </td>
-   <td style="text-align:left;"> $SPY discord investment groups be like  “if you can’t handle losing a couple grand or can’t stop bitching, I’m banning you from the discord, blocking your ass and not giving you your money back.” </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:24:09 </td>
-   <td style="text-align:left;"> $SPY here is to 1.85 for the 10 yr EOW!!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:23:59 </td>
-   <td style="text-align:left;"> $SPY new highs up next, PoWelL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:23:35 </td>
-   <td style="text-align:left;"> $QQQ $SPY FUTES RIPPIN
-
-(i didn&amp;#39;t even check yet tbh) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:23:19 </td>
-   <td style="text-align:left;"> $SPY Exact Sciences says F your interest rates.  They buying </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:23:10 </td>
-   <td style="text-align:left;"> $SPY Bob saget was shorting the market and said go all in on puts before he went out. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:23:07 </td>
-   <td style="text-align:left;"> 👑Watchlist for Monday #5:
-1) $TSLA (TL resistance reject)
-2) $MRIN (Flagging)
-3) $SPY (Ma50 key level)
-4) $CELZ (Fixing for 4 break)
-5) $HOUR (Dips ww for next run)
-
-Gave multiple runners last week💰💰🧲 More coming… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:22:31 </td>
-   <td style="text-align:left;"> $SPY $SPX #ES_F 
-as bullish as boolish getz </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:22:12 </td>
-   <td style="text-align:left;"> $SPY I don&amp;#39;t understand why trumpers can&amp;#39;t see Trump is part of the fraud </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:22:03 </td>
-   <td style="text-align:left;"> $SPY Jan 11th, Tuesday 10am. 
-Trade accordingly. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:21:56 </td>
-   <td style="text-align:left;"> $SPY  Saget crash incoming? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:21:33 </td>
-   <td style="text-align:left;"> $SPY join my discord and I’ll show you how to trade $bitchoin. New year deal 120/month or you can do 3k for the full year. $BTC.X $DOGE.X </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:21:26 </td>
-   <td style="text-align:left;"> $SPY $QQQ We will continue to hold to our long term inflationary outlook based on Pokémon card valuations until the climate changes… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:21:16 </td>
-   <td style="text-align:left;"> $SPY cause alot ppl say it will green monday . So it will probably go down rapidly </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:20:55 </td>
-   <td style="text-align:left;"> $SPY Has someone revealed Bob Saget’s cause of death on here? Haven’t scrolled through enough but is it Covid? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:20:02 </td>
-   <td style="text-align:left;"> $SPY I would die of laughter if this goes bright green by morning 
-
-Y’all should’ve seen the bearish posts ~2 hours ago </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:19:51 </td>
-   <td style="text-align:left;"> $SPY DOW goes down and Q goes up, so are we saying Risk On 🧐 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:19:41 </td>
-   <td style="text-align:left;"> $SPY bears leaving their trace </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:19:37 </td>
-   <td style="text-align:left;"> $SPY the biggest threat to our country are the bears and the anti democracy CONSERVATURD  DOMESTIC TERRORISTS!! 
-
-Patriots will not stand idle and watch them destroy our nation for and by the people  and  our juicy stonk tendies! 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:19:05 </td>
-   <td style="text-align:left;"> $SPY 500 back in play bois </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:19:01 </td>
-   <td style="text-align:left;"> $SPY how futes lookin </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:18:44 </td>
-   <td style="text-align:left;"> $SPY NASDAQ getting a bit froggy! Giving bulls a False sense of hope... poor bulls 😔😔 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:18:25 </td>
-   <td style="text-align:left;"> $SPY Life loves irony. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:18:20 </td>
-   <td style="text-align:left;"> $SPY Take care (or prepare if there&amp;#39;s a buyable dip).  However you like to approach it. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:17:48 </td>
-   <td style="text-align:left;"> $SPY 
-Bob Saget is the Black Swan. BS either way. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:17:22 </td>
-   <td style="text-align:left;"> Money Monday🚨💰Watchlist Pt.1
-
-1) $ISIG Bull flagging, $22 hold, $26 break for $30+🚩
-2) $DWAC $53 key sup.✍️
-3) $BFRI Confirm $4.8 bottom👨‍💻
-4) $AVCT $2.4 reversal💥 
-5) $SPY $463.5 key close📈📉
-
-🔥 Banked HUGE last week,follow/turn notifications on for the next one 💥 💴 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:17:09 </td>
-   <td style="text-align:left;"> $SPY Didnt see that one coming </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:17:08 </td>
-   <td style="text-align:left;"> $SPY lower lows on futures, can ya hear the birds? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:16:57 </td>
-   <td style="text-align:left;"> $SPY the party of blatant hypocrisy 
-
-AOC tests positive for COVID-19 after partying in Miami maskless </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:16:40 </td>
-   <td style="text-align:left;"> $SPY call credit spreads?! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:16:27 </td>
-   <td style="text-align:left;"> $SPY 3 month/Day  465 is a clear pivot. Under this level puts could work to 460-450. Above is bull territory 475+🕯🥂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:16:25 </td>
-   <td style="text-align:left;"> $SPY atm puts expiring worthless </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:15:53 </td>
-   <td style="text-align:left;"> $SPY futures green are we locked and loaded? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:15:47 </td>
-   <td style="text-align:left;"> $SPY load on cheap puts if theres a bull trap in the morning </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:15:12 </td>
-   <td style="text-align:left;"> $SPY A gap up in the morning followed by a huge sell-off would really make my straddles happy </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:14:44 </td>
-   <td style="text-align:left;"> $SPY calls tmw?  🖨 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:14:30 </td>
-   <td style="text-align:left;"> $SPY nailed a fib… and ta doesn’t work huh </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:14:19 </td>
-   <td style="text-align:left;"> $SPY here’s a good one. Say your the ceo of a big cap widget manufacturer and your Scranton branch is woefully underperforming who would you send to turn that branch around Trump or Biden </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:14:13 </td>
-   <td style="text-align:left;"> $SPY she wants green </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:14:04 </td>
-   <td style="text-align:left;"> $SPY Nasdaq green, way oversold. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:13:44 </td>
-   <td style="text-align:left;"> $SPY RIP bob saget, I say ar rip green this week in his honor </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:13:32 </td>
-   <td style="text-align:left;"> $SPY monday: big bull trap at open and dip at 10, and crash at power hour </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:13:32 </td>
-   <td style="text-align:left;"> $SPY I have actually heard about more friends and family getting covid this time a round than ever.  Most have done ok, couple very old ones died.  I am laying low over the next few weeks even though I am boosted.   Good time of year to hibernate a little anyway. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:13:14 </td>
-   <td style="text-align:left;"> $SPY Anyone watch 1883? Solid show. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:13:07 </td>
-   <td style="text-align:left;"> $SPY last week was biggest bear trap ever 🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:13:01 </td>
-   <td style="text-align:left;"> $SPY 5 min showing clear rising wedge </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:13:00 </td>
-   <td style="text-align:left;"> $SPY 
-If you see the the market as a trap and look for stop loss as support and resistance you will see a whole new world. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:12:57 </td>
-   <td style="text-align:left;"> $SPY AMERICA wasn’t respected between 2017-2020 
-
-We weren’t having any victories and frankly the country was weak and in shambles 
-
-We must fight like hell to defeat anti democracy insurrection party or we won’t have a country or a stock market any more!! 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:12:49 </td>
-   <td style="text-align:left;"> $SPY yup bears r fked </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:12:30 </td>
-   <td style="text-align:left;"> $SPY $qqq NQ 100 point reversal 🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:12:24 </td>
-   <td style="text-align:left;"> $SPY To bad!!! Another one bites the vax. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:12:17 </td>
-   <td style="text-align:left;"> $SPY blind hope </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:12:04 </td>
-   <td style="text-align:left;"> $SPY .25 will be slap on the wrist </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:12:00 </td>
-   <td style="text-align:left;"> $SPY just nailed a fib using the Early December high </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:11:52 </td>
-   <td style="text-align:left;"> $SPY RIP Bob Saget… this should cause SPY to drop to 440 tmrw 😢 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:11:28 </td>
-   <td style="text-align:left;"> $SPY jp will not mkt tank during his confirmation IMO </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:11:27 </td>
-   <td style="text-align:left;"> $SPY  BULLISH FUTURES. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:11:13 </td>
-   <td style="text-align:left;"> $SPY if futus shitty like that imagine how’s it going to be tomorrow 🚀🩸 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:11:07 </td>
-   <td style="text-align:left;"> $SPY sorry, chart looks terrible </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:11:01 </td>
-   <td style="text-align:left;"> The general belief is once interest rates go up the market will crash. As if we didn&amp;#39;t know this from the beginning interest rates at some point would go up. I&amp;#39;m not one to try and call bottoms, but I feel fairly confident interest rates hike solidifies the bottom for growth stocks. If not, many will be trading below cash on hand, that would be equal to if not worse than dot com bubble. 71% stocks on Nasdaq are down 20%+.  
- 
-Assuming this is true, $WISH will organically go up along with many other growth stocks because its &amp;quot;priced in&amp;quot;. Back in 2009 markets bottomed in the worst economic conditions. Market is also forward looking which would make sense that the last 11 months were leading towards this event. Just my opinion. $SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:10:57 </td>
-   <td style="text-align:left;"> $ES_F $SPY $SPX 15m </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:10:57 </td>
-   <td style="text-align:left;"> $SPY where do bulls get their data from?? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:10:50 </td>
-   <td style="text-align:left;"> $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:10:15 </td>
-   <td style="text-align:left;"> $SPY GrAsPinG StRaWs </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:10:13 </td>
-   <td style="text-align:left;"> $SPY this beach going green….  Damn… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:10:11 </td>
-   <td style="text-align:left;"> $SPY once you take the vax there is no reversing that. Ppl really need to have better risk evaluation. Its an EAU without liability. There is no previous vaccine to reduce risk, there is no previous mrna vaccine of any kind to reduce risk. Pharmaceuticals in general are thos way with ppl. Most ppl i know that were on board with the vax have like 30 different medications in their cabinet. This is setting up for a classic titanic event. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:10:01 </td>
-   <td style="text-align:left;"> $SPY Brandon will get back to back 20% plus returns 
-
-Dems will win both chambers 
-
-AMERICA WILL DEFEAT anti American anti democracy FASCIST PARTY! 🇺🇸🇺🇸🇺🇸 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:09:59 </td>
-   <td style="text-align:left;"> Meta verse post $SPY $META </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:09:44 </td>
-   <td style="text-align:left;"> $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:09:39 </td>
-   <td style="text-align:left;"> $SPY Going green 😂😂😂 Bears probably won’t sleep tonight </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:09:20 </td>
-   <td style="text-align:left;"> $SPY nasdaq trending number 1 😂😂🤣🤣🤣🤣🤣 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:09:19 </td>
-   <td style="text-align:left;"> $SPY well If that’s it then let’s move this bitch back to ATHs </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:09:14 </td>
-   <td style="text-align:left;"> $SPY BTC setup for the next leg down </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:08:53 </td>
-   <td style="text-align:left;"> $SPY $QQQ… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:08:46 </td>
-   <td style="text-align:left;"> Economy Week Ahead: the Fed, Inflation, Consumers
-
-https://www.google.com/amp/s/www.wsj.com/amp/articles/economy-week-ahead-the-fed-inflation-consumers-11641758401
-
-$TQQQ $SQQQ $QQQ $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:08:45 </td>
-   <td style="text-align:left;"> $SPY $QQQ $IWM $DIA 
-NEVER DOUBT THE BROCCOLI MAN!!🥦
-
-Few understand this. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:08:25 </td>
-   <td style="text-align:left;"> Goldman $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:08:15 </td>
-   <td style="text-align:left;"> $SPY Do not store up for yourselves treasures on earth, where moth and rust destroy, and thieves break in and steal. But store up for yourselves treasures in heaven, where moth and rust do not corrupt and thieves do not break in and steal. For where your treasure is, there your heart will be also. 
-—Matthew 6:19-20 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:08:14 </td>
-   <td style="text-align:left;"> $SPY bears… don’t run.. talk that shit you were talking.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:07:56 </td>
-   <td style="text-align:left;"> latex63f06b08d8bd497fa677b0debe0e7a0bCOIN BofA upgrade w/ latexb85e2f518a416824bb9cedae4e05e2d0XLF Bank earnings incoming. 
-$XLV JPM healthcare conference </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:07:38 </td>
-   <td style="text-align:left;"> $SPY 
-You got my post earlier about a fake break down at 4663 so now I&amp;#39;m looking for a break or even a fake break of  above 4710 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:07:32 </td>
-   <td style="text-align:left;"> $SPY Sotomayor got me feeling some type of way ngl. Why she gotta dress like such a baddie in the middle of the SCOTUS hearing? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:07:29 </td>
-   <td style="text-align:left;"> $SPY Bob dying was bullish? What a pump </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:07:25 </td>
-   <td style="text-align:left;"> $SPY 470 calls </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:07:04 </td>
-   <td style="text-align:left;"> $QQQ $SPY we all should have bought the dip more on Friday.  I was to tentative…dumb.     We going higher this week.  💪 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:06:40 </td>
-   <td style="text-align:left;"> $SPY Nasdaq trending wtf lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:06:35 </td>
-   <td style="text-align:left;"> $SPY why is this shit going green 😐 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:06:32 </td>
-   <td style="text-align:left;"> $SPY  I see many new profile deletions coming this week </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:06:15 </td>
-   <td style="text-align:left;"> $SPY…. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:05:58 </td>
-   <td style="text-align:left;"> $SPY If it drops hard here it&amp;#39;s going to make a head and shoulders, and that&amp;#39;s not going to happen. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:05:35 </td>
+   <td style="text-align:left;"> 2022-01-10 14:26:17 </td>
    <td style="text-align:left;"> $SPY futes rippin </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:05:18 </td>
-   <td style="text-align:left;"> $SPY  bears 🐻 </td>
+   <td style="text-align:left;"> 2022-01-10 14:26:05 </td>
+   <td style="text-align:left;"> $SPY Trey Gowdy is a RINO </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:05:15 </td>
-   <td style="text-align:left;"> $SPY These amateurs babbling about recovery already from mere -2% drop from ATH. These are the same Options trading gamblers who will be permanently wiped out during real correction as it goes down month after month consistently giving negative yields.
+   <td style="text-align:left;"> 2022-01-10 14:24:31 </td>
+   <td style="text-align:left;"> $SPY this is getting really interesting. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:24:01 </td>
+   <td style="text-align:left;"> $SPY $qqq no one tightens when COVID is in high gear 🔥 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:23:36 </td>
+   <td style="text-align:left;"> $SPY $qqq last week was biggest bear trap ever 🔥🔥🚀🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:22:54 </td>
+   <td style="text-align:left;"> $SPY $qqq this rally is nothing. Come Tuesday we have </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:22:24 </td>
+   <td style="text-align:left;"> $SPY bull trap on futures right now. Has a long way to drop. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:22:02 </td>
+   <td style="text-align:left;"> $SPY $qqq calls printin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:20:22 </td>
+   <td style="text-align:left;"> $SPY good night bulls and bears …. See you next week </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:18:27 </td>
+   <td style="text-align:left;"> $SPY it’s coming. 🌱✌️
+ https://www.reddit.com/r/Epic_Economics/comments/s0d2ix/cannabis_religion/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:18:14 </td>
+   <td style="text-align:left;"> $SPY futes ripping deep green </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:17:20 </td>
+   <td style="text-align:left;"> $SPY being a bear is feeling a little too crowded right now. Expecting a bounce for earnings season before the real correction begins </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:17:16 </td>
+   <td style="text-align:left;"> $SPY all I know they using the virus to do something else . Doesnt take a vascular surgeon to figure this out. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:15:34 </td>
+   <td style="text-align:left;"> $SPY only fans babes going to pay for the build back better bullshit.  Oh wait, that got shit canned… oh well, they’ll pay anyway 😂🤡 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:13:59 </td>
+   <td style="text-align:left;"> $SPY shouldn&amp;#39;t have called time out. Coach panicked. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:13:39 </td>
+   <td style="text-align:left;"> $SPY Missed Tesla ?
 
-If you think JPow cares about you then by ll means bet against the Suits and Hedgies, see how that works out for you. The days of YOLO HODL and MEME nonsense is over. If you got hopium in your trading strategies without risk management from real time analysis and proper hedging to mitigate loss then you deserve what&amp;#39;s coming.
+Don’t miss Tesla of Aviation- Joby
 
-There will NOT be any recovery, there will be no bail out. The market doesn&amp;#39;t care you impersonating as Warren Buffet o close minded snowflake who uses block features to cope with reality.
+Watch Joby  - 10x stock 
 
-We been in Bear Market since mid 2021 and if you think otherwise because artificially propped up Indices by few FAANGs with insane valuations which doesn&amp;#39;t match its fundamentals even then this crash is needed to wipe you out. </td>
+https://youtu.be/iRlmfFIiHbU </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:05:02 </td>
-   <td style="text-align:left;"> $SPY Yay I only lost this much money today! -bulls excited over slightly red futures </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:05:01 </td>
-   <td style="text-align:left;"> $SPY $QQQ Even the Chinese market is green and it is the weakest market in the world, our market should do very well tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:04:47 </td>
-   <td style="text-align:left;"> $SPY Why would anyone root for the market to hold this bs level? All it means is that we will be range bound for the next month and none of us will make any real money. You wouldn&amp;#39;t rather have a test of 4580 and then we have some runway to 4819? Morons </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:04:18 </td>
-   <td style="text-align:left;"> $SPY Hahahahahaha 🤣 🤣🤣🤣 love it. 
- https://www.google.com/amp/s/www.foxnews.com/politics/aoc-tests-positive-for-covid-19-after-partying-in-miami-maskless.amp </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:04:00 </td>
-   <td style="text-align:left;"> 7.32% of insitutions would consider $SPY a core holding, constituting over 8% of their portfolio https://insider-analysis.com/search_whales.php?ticker=TABLE_SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:03:38 </td>
-   <td style="text-align:left;"> $SPY lol I was hoping for a down day
+   <td style="text-align:left;"> 2022-01-10 14:12:44 </td>
+   <td style="text-align:left;"> $SPY rising interest rates, taxes &amp;amp; inflation bullish af. 
 
-CHEAPER SHARES </td>
+Lets Go BRANDON! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:03:36 </td>
-   <td style="text-align:left;"> $SPY Imagine if we got these CDC workers and these other corrupt orgs on a lie detector.... Welansky for example.... I&amp;#39;d bet my left testicle she fails it and is lying all this time. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:03:36 </td>
-   <td style="text-align:left;"> $SPY $QQQ Futures almost green </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:03:30 </td>
-   <td style="text-align:left;"> $SPY how about this cheap calls last Friday 😎🔱 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:03:26 </td>
-   <td style="text-align:left;"> $SPY   ....... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:02:47 </td>
-   <td style="text-align:left;"> $SPY don&amp;#39;t get your hopes up. Flat at best. Mm&amp;#39;s fkn options holders from now on. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:02:42 </td>
-   <td style="text-align:left;"> $DWAC $CFVI $spy 👍 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:02:24 </td>
-   <td style="text-align:left;"> $SPY Niceeee bullish week </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:02:07 </td>
-   <td style="text-align:left;"> $SPY LOL BEARS WHAT HAPPENED TO THE CRASH ??!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:01:58 </td>
-   <td style="text-align:left;"> $SPY On Tuesday JPow will explain the hawkish turn in the most dovish way possible </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:01:57 </td>
-   <td style="text-align:left;"> $SPY hang seng green </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:01:43 </td>
-   <td style="text-align:left;"> $SPY  nasdaq NOW GREEN </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:01:36 </td>
-   <td style="text-align:left;"> $SPY rigged </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:01:16 </td>
-   <td style="text-align:left;"> $SPY i can tell that bulls are still dumb and ready to jump at the first bull trap they see without any reasoning. This week is gonna be funny like last with all the bull traps obliterating the dumbasses </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:01:15 </td>
-   <td style="text-align:left;"> $SPY oh?? 😍 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:01:14 </td>
-   <td style="text-align:left;"> $SPY futes are red and bulls are excited lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:01:01 </td>
-   <td style="text-align:left;"> NEW VIDEO JUST POSTED ON TEH Y-TUBE CHANEL PLS TUNE IN.. ARE YOU PLAYING PUTS OR CALLS ON $SPY $QQQ $BTC.X latex726cd6bd4fb79371c0a82af389a74c00$ 2 GAMER HIT JAGS ML- 49ERS ML... 55X ENTEY BOOOOM!! CONGRATS FAM #LFG </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:01:00 </td>
-   <td style="text-align:left;"> $SPY A reminder to bears of what they&amp;#39;re betting against. Look at our baby reach to the moon. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:00:45 </td>
-   <td style="text-align:left;"> $NASDAQ $SPY $QQQ bulls and bears cheering a .01% change to either side is hilarious... i can&amp;#39;t beleive this app is free 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:00:44 </td>
-   <td style="text-align:left;"> $SPY 
+   <td style="text-align:left;"> 2022-01-10 14:12:44 </td>
+   <td style="text-align:left;"> $SPY $DWAC I miss when we had a true Businessman, Patriot, and Fighter in the White House who didnt shit his pants while visiting world leaders. 
 
-Do as I say not as I do. </td>
+#TRUMP2024 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:00:40 </td>
-   <td style="text-align:left;"> $SPY &amp;quot;the virus isn&amp;#39;t going to effect the markets&amp;quot;
-&amp;quot;The virus is already priced in&amp;quot; 
-
-Meanwhile the DOW is down 100 points. Tech stocks have been sliced in HALF. 
-Weekend headlines included but not limited to 
-&amp;quot;Thousands of employees nationwide calling out sick making it impossible for business&amp;#39;s to stay open&amp;quot; 
-&amp;quot;New strain DeltaCron to hit the US&amp;quot; 
-&amp;quot;FluRona&amp;quot; 
-&amp;quot;Young children NOT vaxxed due to their age are flocking the hospitals at an alarming rate&amp;quot; </td>
+   <td style="text-align:left;"> 2022-01-10 14:12:36 </td>
+   <td style="text-align:left;"> $SPY you should see the pictures I have of the chargers girls in San Diego omfg I live the best life. Even the chiefs and cardinals girls. We’re connected goooooooood </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:00:31 </td>
-   <td style="text-align:left;"> $SPY deltacrombie strain going to get us all... Annnnnd it&amp;#39;s green. </td>
+   <td style="text-align:left;"> 2022-01-10 14:12:21 </td>
+   <td style="text-align:left;"> $SPY but weekend wallstreet was red all weekend </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:00:26 </td>
-   <td style="text-align:left;"> $SPY technical bounce, wouldn’t get overly excited </td>
+   <td style="text-align:left;"> 2022-01-10 14:11:17 </td>
+   <td style="text-align:left;"> $SPY ATHs are more fun. Probably flattish till the economic data is released </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:00:23 </td>
+   <td style="text-align:left;"> 2022-01-10 14:10:08 </td>
+   <td style="text-align:left;"> $SPY $SPX 
+end it now 
+https://www.npr.org/2022/01/09/1071669980/michael-lang-a-co-creator-of-the-woodstock-festival-has-died-at-77?utm_medium=social&amp;amp;utm_term=nprnews&amp;amp;utm_campaign=npr&amp;amp;utm_source=facebook.com&amp;amp;fbclid=IwAR06HiwNNc-nZ9Rjcy0oV0XVpNRLytunJWCTMYk4KXLr0B80_DNAeezriPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:10:07 </td>
+   <td style="text-align:left;"> $SPY 500 next joe biden is traitor worst president of all time braindeads voted for him </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:09:09 </td>
+   <td style="text-align:left;"> $SPY interest rates coming up soon (as they should), hawkish fed, and SPY punched through 50 day moving average on Friday. 100 day on deck next. This market is toast! Even my buddy on the mountain slopes today has $2m in his account and wants to move to Puerto Rico so he can cash out without gains. The rich are leaving the market, it’s over this year. 🌷 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:09:00 </td>
+   <td style="text-align:left;"> $SPY I’m going to wet my pants at Starbucks tomorrow if we end the day green. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:07:37 </td>
+   <td style="text-align:left;"> $SPY $SPX </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:07:09 </td>
    <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:00:19 </td>
-   <td style="text-align:left;"> $SPY remember almost Half the Nasdaq has had a solid correction along with small cap. </td>
+   <td style="text-align:left;"> 2022-01-10 14:06:25 </td>
+   <td style="text-align:left;"> $SPY $AMD $NVDA $MSFT ..,, 
+ 
+Account Challenge Update:~ 
+Start Date: Nov 2, 2021 
+Starting Balance: $1,500 
+Current Balance: $95,959 
+Goal: $100,000 by end of January. 
+Strategy: Swing Trade Options, Stocks 
+ 
+Watch out for next play👓  discord.io/fmeeTaW </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:00:18 </td>
-   <td style="text-align:left;"> $SPY tech needs a bounce, safety stocks need a dip.  Otherwise, not much happening. </td>
+   <td style="text-align:left;"> 2022-01-10 14:05:25 </td>
+   <td style="text-align:left;"> $AMC $GME $SPY   dam rip bob saget I just heard 😮‍💨 dude was one of the idgaf comics 😢 in real life. 20-22 has been brutal  for icons 😩 rip Syd Poitier as well 😞  can we get a break 😑 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:00:16 </td>
+   <td style="text-align:left;"> 2022-01-10 14:05:06 </td>
+   <td style="text-align:left;"> $SPY omg omg omg omg omg futes ripping </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:04:34 </td>
+   <td style="text-align:left;"> $SPY A slide in bond prices has pushed the 10-year Treasury yield to 1.769%, its highest since early 2020 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:02:53 </td>
+   <td style="text-align:left;"> $SPY Last week was different. On every pullback since covid, the market either ripped or dipped further, a flat week after a pullback maybe indicates to me this is longer term. Definitely market&amp;#39;s BEEN overpriced and everyone has known it for a long time. But at the end of the day, it&amp;#39;s all about liquidity, which there&amp;#39;s still plenty of, but when interest rates do rise and the FED unloads their assets, the selloffs will be major, maybe SPY will be as low as $380 in 2023. I think the smart money is selling now, but if you&amp;#39;re long-term, no problem, SPY will be $10,000 in 10-40 years. This is just boom and bust cycles which ironically have become inverse to the actual economy with the FED being the sole catalyst. It&amp;#39;s been an amazing 2 years, but cycles do end, and then they start again. My $0.02. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 14:01:01 </td>
+   <td style="text-align:left;"> ⏳📈💰 $SPY - Trade of the week by I.S.T. 😎
+Y&amp;#39;ALL MAKE SURE TO FALL-O THEM &amp;amp; LYNX IN BAYU 🤝 THANK ME LATER 🤑🤑🤑 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:59:49 </td>
+   <td style="text-align:left;"> $SPY this in case you forgot </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:59:31 </td>
+   <td style="text-align:left;"> $SPY $DIA $VALE $GLNCY $MT 
+
+Not good at all </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:59:27 </td>
+   <td style="text-align:left;"> $SPY no rate hikes anytime soon. Omicron has everyone and their dogs sick. That of course, really concerns J Powell. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:59:26 </td>
+   <td style="text-align:left;"> $SPY  They’ll be saying buy anything under $500 before you know it </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:59:25 </td>
    <td style="text-align:left;"> $SPY $QQQ 
-
-So the Santa Claus rally didn&amp;#39;t really materialize.
-Betty White&amp;#39;s 100th birthday would have been January 17th.
-How &amp;#39;bout a Betty White rally?
-I&amp;#39;m in.  
-Will kick it off by adding more $TTD, $ISRG, or $SOFI tomorrow.
-White wedding. </td>
+https://youtu.be/GD272oUleIM </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 10:00:09 </td>
-   <td style="text-align:left;"> $SPY China pumped and everyone followed. Not going to end well by open. </td>
+   <td style="text-align:left;"> 2022-01-10 13:58:57 </td>
+   <td style="text-align:left;"> $SPY don’t forget the greatest raider and greatest athlete to ever play any game.  Bo knows trading and he is </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:59:49 </td>
-   <td style="text-align:left;"> $SPY Moon still on the table… </td>
+   <td style="text-align:left;"> 2022-01-10 13:58:47 </td>
+   <td style="text-align:left;"> $SPY stop teasing you going green or not bitch </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:59:41 </td>
+   <td style="text-align:left;"> 2022-01-10 13:58:30 </td>
+   <td style="text-align:left;"> $SPY will be $538 2023 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:58:07 </td>
    <td style="text-align:left;"> $SPY 
-Ruh Roh </td>
+If you want to be in a stock market, the most important thing is to keep learning and educating yourselves about the economy and how things work. Regardless of your trading style and types of stocks you trade; let it be penny stocks, big caps, small caps, or anything, you must be aware of what is happening around the world. Because believe it or not, everything is connected to each others. Especially now with the Feds planning to raise interest rates soon, this will have a big impact on economy. Look at how high the inflation is. Therefore, I ask you guys to do more reading and learning about what happens when Feds raise interest rates, learn what a monetary policy is, how is it going to affect the stock market, etc. And that is why I am very careful with taking long, bullish trades. Because the market will turn bearish (SP500 and big caps), and it will continue being bear market. It is very important nowadays to be up to date with everything.  
+
+https://www.forbes.com/advisor/investing/fed-raises-interest-rates/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:59:35 </td>
-   <td style="text-align:left;"> $SPY bullish! </td>
+   <td style="text-align:left;"> 2022-01-10 13:57:39 </td>
+   <td style="text-align:left;"> $SPY FED news Wednesday buying Puts </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:59:20 </td>
-   <td style="text-align:left;"> $SPY Always uncle JPow, I trust you blindly. </td>
+   <td style="text-align:left;"> 2022-01-10 13:57:02 </td>
+   <td style="text-align:left;"> $SPY get ready for a rug pull at open 10 year yield keeps rising </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:58:53 </td>
-   <td style="text-align:left;"> $SPY 🐻 🤮 </td>
+   <td style="text-align:left;"> 2022-01-10 13:54:04 </td>
+   <td style="text-align:left;"> $SPY as a Raiders fan married to a former Charger Girl, that was pretty badass! All my wife’s hot NFL friends are pissed at me 😂☠️ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:58:51 </td>
+   <td style="text-align:left;"> 2022-01-10 13:53:58 </td>
+   <td style="text-align:left;"> $SPY Has nothing to do with markets , so just block me, but I&amp;#39;ll make the call, IF the Chargers coach was not hired this past off season them HE WOUKD BE FIRED.
+25% chance he CPULD be fired now too, since Chargers miss playoffs, likely, because of blunder </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:53:15 </td>
+   <td style="text-align:left;"> $SPY  Did anyone grab tickets to the show ?? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:52:32 </td>
+   <td style="text-align:left;"> $SPY Steelers Fan’s wife badgering... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:51:32 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:50:55 </td>
+   <td style="text-align:left;"> $SPY Don’t trust futes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:50:13 </td>
+   <td style="text-align:left;"> $SPY My take on the game , 38 seconds left, Raiders at 39 yard line. Chargers and Raiders could have let clock go and Raiders kick 56 yards but Chargers coach took timeout. 
+
+It allowed Raiders to set up another play, of which they ran ball on ground to 32. And kicked a 47 yard field goal to win it. 
+
+At very least, Raiders think twice about kicking from 54 because of farther away and greater block attempt plus it&amp;#39;s just a lot harder to kick a 54 than a 47. Raiders kicker squeaked kicks thru uprights all night too, almost all 5 really
+
+Sounds like a bull, doesn&amp;#39;t it, or a Biden follower or, let&amp;#39;s cut the chase, JPow or B0iden
+
+😂😂😅😅 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:50:10 </td>
+   <td style="text-align:left;"> $SPY unpopular opinion, the bullish momentum that has dominated the 4h chart since October could be failing. We will see. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:49:55 </td>
+   <td style="text-align:left;"> $SPY the only way life has any meaning is to live it eternally </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:49:23 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:49:10 </td>
+   <td style="text-align:left;"> $SPY bearish this week </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:49:07 </td>
+   <td style="text-align:left;"> $SPY $NVDA $QQQ I have been able to grow my account to over 1.7 million!  100% recommend joining!.. 
+ 
+🚀 discord.io/stk-opt-trading </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:48:47 </td>
+   <td style="text-align:left;"> $SPY $QQQ
+Interesting that the Raiders did the Steelers a favor. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:48:30 </td>
+   <td style="text-align:left;"> $SPY what did I miss today? Was snowboarding </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:48:30 </td>
+   <td style="text-align:left;"> $SPY Covid is coming to an end </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:48:23 </td>
+   <td style="text-align:left;"> $SPY $TSLA 
+
+https://www.businessinsider.com/big-short-michael-burry-elon-musk-tesla-gamestop-crypto-crash-2022-1?amp </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:48:20 </td>
+   <td style="text-align:left;"> $SPY rippin’ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:48:19 </td>
+   <td style="text-align:left;"> $SPY pump it Pittsburgh </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:48:17 </td>
+   <td style="text-align:left;"> $SPY tech goes boom tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:47:11 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TLT CANCEL THE RISING YIELDS:  DESPITE &amp;quot;MILD&amp;quot; OMNICRON VARIANT, US COVID HOSPITALIZATIONS HIT RECORD HIGH
+
+time to rotate back into tech and bonds and out of that other stuff you just rotated into sorry </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:46:49 </td>
+   <td style="text-align:left;"> $SPY  SPY going to Rip tomorrow .  Just win baby! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:45:58 </td>
+   <td style="text-align:left;"> $SPY $470 today. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:45:31 </td>
+   <td style="text-align:left;"> $BOIL $NG_F $UNG $SPY WOOOOOOOOOOOOOOOOOOOOOO </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:44:58 </td>
+   <td style="text-align:left;"> $SPY $QQQ Bears are pretty quiet now! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:44:45 </td>
+   <td style="text-align:left;"> $SPY futes tricking you </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:44:38 </td>
+   <td style="text-align:left;"> $SPY BEARS WHAT HAPPENED TO THE CRASH ??!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:44:12 </td>
+   <td style="text-align:left;"> $SPY Live look at me finding out some of my followers political and Covid views </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:44:05 </td>
+   <td style="text-align:left;"> $SPY $500 after Powell speaks </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:43:53 </td>
+   <td style="text-align:left;"> $ETH.X $BTC.X $SPY $QQQ Lets not be headasses like the Chargers and agree to pump the crypto market and end in a tie. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:43:53 </td>
+   <td style="text-align:left;"> $SPY Red Day tomorrow  https://www.youtube.com/watch?v=to_sacDcSJk </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:43:20 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ $SPX 
+God Thomas Jefferson’s inaugural address is one of if not thee best speeches ever written. 
+
+I repair, then, fellow-citizens, to the post you have assigned me. With experience enough in subordinate offices to have seen the difficulties of this the greatest of all, I have learnt to expect that it will rarely fall to the lot of imperfect man to retire from this station with the reputation and the favor which bring him into it. Without pretensions to that high confidence you reposed in our first and greatest revolutionary character, whose preeminent services had entitled him to the first place in his country&amp;#39;s love and destined for him the fairest page in the volume of faithful history, I ask so much confidence only as may give firmness and effect to the legal administration of your affairs. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:42:39 </td>
+   <td style="text-align:left;"> $SPY Wen Lambo </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:42:29 </td>
    <td style="text-align:left;"> $SPY 
-4725 min upside. IMO. Just saying. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:58:34 </td>
-   <td style="text-align:left;"> $SPY Dead cat </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:58:29 </td>
-   <td style="text-align:left;"> $SPY wait bears what happened </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:58:15 </td>
-   <td style="text-align:left;"> @Galvanic @Solofades80 you aren’t seeing $SPY going vertical? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:58:10 </td>
-   <td style="text-align:left;"> $SPY $VXX $QQQ The Vix futures just GOT CRUSHED. FEAR IS FADING THAT QUICK ALREADY 🤣😂🤣😂🤣😂 
 
-Wen Crash??? 🤔🤣😂🤣😂🤣 </td>
+Will bet any Steeler fan $100, straight up for next game. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:58:08 </td>
-   <td style="text-align:left;"> $SPY Brandon is ready to pump next week 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 </td>
+   <td style="text-align:left;"> 2022-01-10 13:41:43 </td>
+   <td style="text-align:left;"> $SPY Chargers fans tomorrow arriving at work tomorrow ⬇️⬇️⬇️ 
+But it’s all good, market will be down also </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:57:57 </td>
-   <td style="text-align:left;"> $SPY $qqq 🚀 </td>
+   <td style="text-align:left;"> 2022-01-10 13:41:28 </td>
+   <td style="text-align:left;"> $SPY bears thought it was black Monday 🤣🤣 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:57:51 </td>
-   <td style="text-align:left;"> $SPY PowelPower </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:57:24 </td>
-   <td style="text-align:left;"> $SPY Powell bull grenades on bears Tuesday </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:57:19 </td>
-   <td style="text-align:left;"> $SPY &amp;quot;bears what happened why is Nasdaq turning green?&amp;quot;
-1st OF ALL- it&amp;#39;s 9PM. 
-2nd of all- Nasdaq is not green it&amp;#39;s much more leaning toward red
-3rd if all- how about the fucking DOW?! 
-Down 100 points 
-Keep y&amp;#39;all asses on the sidelines for now bulls your demolishing your portfolios </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:57:05 </td>
-   <td style="text-align:left;"> $SPY lol bulls celebrating a fake pump… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:56:28 </td>
-   <td style="text-align:left;"> $SPY crush the vix </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:56:27 </td>
-   <td style="text-align:left;"> $SPY $QQQ 😂😂🤣😂🤣😂 let’s gooooooo baby!!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:56:18 </td>
-   <td style="text-align:left;"> $SPY lol bears celebrating too early.. prepare to get hurt this week </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:55:16 </td>
-   <td style="text-align:left;"> $SPY 👀👀👀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:55:12 </td>
-   <td style="text-align:left;"> $SPY under a 100 ill buy </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:54:12 </td>
-   <td style="text-align:left;"> $SPY whoa 🏄‍♂️ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:54:02 </td>
-   <td style="text-align:left;"> $SPY don’t think the market is worried over the virus… all eyes are on the fed and wether we avoid a recession or not this year.. We will get a huge hint at the end of this month </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:53:59 </td>
-   <td style="text-align:left;"> $VXX $SPY Bob Saget passed away. 
-I think we all know what that means </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:53:56 </td>
-   <td style="text-align:left;"> $SPY usually market sell off in unexpected time, the red candle need to close first before it&amp;#39;s ready for the 2nd one. Bullish only for 1-2 days. Not expecting any big movement. $TQQQ $TSLA $AMZN </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:53:45 </td>
-   <td style="text-align:left;"> $SPY  Bears what happened to the crash ????
+   <td style="text-align:left;"> 2022-01-10 13:41:07 </td>
+   <td style="text-align:left;"> $SPY if we do end up with a bear market I hope that we still have volume and range for trading once the dust settles. 
 
-Why did nasdaq futures turn green?! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:53:23 </td>
-   <td style="text-align:left;"> $SPY Bob Saget made us laugh at fails before they were cool </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:53:16 </td>
-   <td style="text-align:left;"> $SPY ctfu hello where’s the bears from 6pm? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:53:12 </td>
-   <td style="text-align:left;"> $SPY That NQ green cock is impressive. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:53:09 </td>
-   <td style="text-align:left;"> $SPY Don’t open green need to get them calls cheaper </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:53:07 </td>
-   <td style="text-align:left;"> $SPY should be green soon . </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-01-10 09:53:04 </td>
-   <td style="text-align:left;"> $SPY $SPX $QQQ $SOXL $TQQQ 
+&amp;quot;Goldman Now Expects Four Fed Hikes, Sees Faster Runoff in 2022&amp;quot;
 
-Tech is oversold! </td>
+https://ca.investing.com/news/economy/goldman-now-expects-four-fed-hikes-sees-faster-runoff-in-2022-2616608
+
+We could go through a period of really shitty trading conditions. Position trading will likely reign again. Swing trading is so much more fun though. Day trading even more so. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:40:37 </td>
+   <td style="text-align:left;"> $SPY I&amp;#39;m not gonna trade spy this week. It&amp;#39;s guess work. 
+
+Just find me individual stocks and look for a good dump or pump </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:39:58 </td>
+   <td style="text-align:left;"> $SPY this shit bout to ejaculate </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:39:16 </td>
+   <td style="text-align:left;"> $SPY feel like might be green tomorrow then back to red Tuesday </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:39:04 </td>
+   <td style="text-align:left;"> $ARKK $SPY $QQQ $TSLA beautiful bullish flag im going to start a long position ~70/60 
+ 
+i think arkk goes to 180 by eoy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:39:03 </td>
+   <td style="text-align:left;"> $SPY is currently trading in the upper part of its 52 week range, which is inline with the index. https://www.chartmill.com/stock/analyzer/stock/SPY?key=84303b30-e7bc-44d7-b0b1-1493858db9a2&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=SPY&amp;amp;utm_campaign=social_tracking </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:38:29 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:38:13 </td>
+   <td style="text-align:left;"> $QQQ $SPY $SQQQ $TSLA just your market maker doing a mini pump pre market so they can exit in the morning or tuesday,  dont be the donkeys that buying the dip </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:38:11 </td>
+   <td style="text-align:left;"> $SPY https://www.msn.com/en-us/news/us/alexandria-ocasio-cortez-tests-positive-for-covid-19/ar-AASBqsp?ocid=msedgntp </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:37:13 </td>
+   <td style="text-align:left;"> $SPY FUTES RIPPN </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:36:57 </td>
+   <td style="text-align:left;"> $SPY LAC coach is a dumbass </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:35:51 </td>
+   <td style="text-align:left;"> $SPY Raiders Earned the Win !!! Chargers are Lucky REFs and NFL tried to help them win but NOPE.   
+GO STEELERS, Never a doubt !!!!     
+(Market ⬇️⬇️⬇️) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:35:28 </td>
+   <td style="text-align:left;"> $SPY how fucking stupid do COVID policies and regulations look now? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:33:14 </td>
+   <td style="text-align:left;"> $QQQ The Nasdaq could continue higher tomorrow without big tech if all things are normal. $SPY and $DIA never made it to the 125-day average during the last pull back they could continue lower. The market could seek out safety in the over sold Healthcare Sector which would still be bullish for the Qs. Also news of the delta-omicron combined variant could make this even more possible. 
+
+Key Levels:
+QQQ - $379.86
+DIA - $326.31
+SPY - $465.09
+
+Look for the indexes to close above or below these levels in the first 30-minutes of trading. This should give some sort of insight on direction. 
+
+After a close above mark your first point of resistance to test the strength of the move higher. After a close below mark your first point of support. 
+
+Good luck to everybody tomorrow. 🙏🏽
+
+###
+I post key levels during the trading day for specific stocks and indexes. Follow my page for more insights. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:32:35 </td>
+   <td style="text-align:left;"> $SPY When the correction has been masquerading as bearish but it’s really bullish </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:32:26 </td>
+   <td style="text-align:left;"> $SPY the real question is can we learn anything new from the press conference Tuesday? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:32:19 </td>
+   <td style="text-align:left;"> $SPY $QQQ Anyone get a look at who was running from the BioLab building?????
+
+Kazakhstan Denies US-Funded &amp;#39;Military Biological Lab&amp;#39; Seized By Rioters After Russia Claims Potential Pathogen Leak
+
+MONDAY, JAN 10, 2022 - 12:00 AM
+Kazakh officials have denied that a US-funded &amp;#39;military biological laboratory&amp;#39; was seized by rioters in the recent unrest, which has seen at least 160 dead since the violence broke out just one week ago. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:32:18 </td>
+   <td style="text-align:left;"> $SPY I am here to save you all. Keep your chin up high </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:31:34 </td>
+   <td style="text-align:left;"> $SPY yall heard of omicron X delta album 💿 🔥🔥🔥🔥😂😂😂😂😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:31:30 </td>
+   <td style="text-align:left;"> $QQQ $SPY $DIA Wild week, ready for the next. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:29:38 </td>
+   <td style="text-align:left;"> $SPY Rick Rule, CEO of Sprott Holdings &amp;quot;So the fact that you are able to skate through today and tomorrow and the day after on other people’s money means that ultimately, when society itself has to pay the bill, the bill is much, much, much larger.”
+
+https://www.google.com/amp/s/finance.yahoo.com/amphtml/news/rick-rule-cash-savings-crucial-140000290.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:29:36 </td>
+   <td style="text-align:left;"> $SPY $QQQ 5 red days in a row last week and people are shocked futures are going very green? If you held puts this weekend you are a greedy clown </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:28:42 </td>
+   <td style="text-align:left;"> $SPY I believe that for tomorrow the day goes to a day or tomorrow or Friday for the fed and taper with many other factors and the stock for market rotation/tech/also other things as well </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:28:11 </td>
+   <td style="text-align:left;"> $SPY $QQQ $BTC.X $ETH.X </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:26:15 </td>
+   <td style="text-align:left;"> $SPY Live look at bears now </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:26:10 </td>
+   <td style="text-align:left;"> $SPY The Raaaiiidddeeerrrsss 👌 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:25:35 </td>
+   <td style="text-align:left;"> $SPY that was out of control lol just glad Steelers are going </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:25:33 </td>
+   <td style="text-align:left;"> $SPY try hard for tendie </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:25:25 </td>
+   <td style="text-align:left;"> $SPY goodnight guys I have work tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:25:21 </td>
+   <td style="text-align:left;"> $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:24:06 </td>
+   <td style="text-align:left;"> $SPY Better team won for the markets.
+Vegas loses and they gamble millions. 
+
+Chargers lose and they just mope on the beach </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:23:42 </td>
+   <td style="text-align:left;"> $SPY $NVDA $MSFT $AMZN &amp;quot;&amp;quot;&amp;quot;&amp;quot; 
+ 
+Account Challenge Update:~ 
+Start Date: Nov 2, 2021 
+Starting Balance: $1,500 
+Current Balance: $95,959 
+Goal: $100,000 by end of January. 
+Strategy: Swing Trade Options, Stocks 
+ 
+Watch out for next play👓  discord.io/fmeeTaW </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:23:24 </td>
+   <td style="text-align:left;"> $SPY stairway to 7 and spy to 700 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:23:16 </td>
+   <td style="text-align:left;"> $BTC.X  but dont short its not worth the risk  doing HTF with btc its manipulated $spy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:22:43 </td>
+   <td style="text-align:left;"> $SPY $DWAC Everyone is fleeing away from California, even the playoffs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:22:27 </td>
+   <td style="text-align:left;"> $SPY so sad I was gonna cheer them all the way they have so much heart . </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:22:10 </td>
+   <td style="text-align:left;"> $SPY that 1 Steelers fan they showed doe... Meme him up America </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:22:03 </td>
+   <td style="text-align:left;"> $SPY 2021 was the craziest NFL season in recent memory, change my mind. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:21:42 </td>
+   <td style="text-align:left;"> $SPY 465 for a starter. Wed dump for sure. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:21:16 </td>
+   <td style="text-align:left;"> $SPY oi oi oi the futures rippiing ye $sshole mate ya bears! $500 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:20:55 </td>
+   <td style="text-align:left;"> $SPY fuck the raiders </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:20:40 </td>
+   <td style="text-align:left;"> $SPY Carr isn&amp;#39;t the best QB but he is underrated for sure. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:20:39 </td>
+   <td style="text-align:left;"> $SPY 6 conversions on 4 and 6 , not since 30 years, Chargers end up losing tho, all for naught. 
+
+Comeback not secured </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:20:25 </td>
+   <td style="text-align:left;"> $SPY now we have to see the Steelers get shit pumped by the chiefs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:20:03 </td>
+   <td style="text-align:left;"> $SPY damn crazy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:19:59 </td>
+   <td style="text-align:left;"> $SPY me the damn spy won’t rally because the $dia is so over bought. MM’s 🤦‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:19:59 </td>
+   <td style="text-align:left;"> $SPY mike Tomlin’s job saved by a hair. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:19:48 </td>
+   <td style="text-align:left;"> $SPY market is SEVERELY OVERSOLD. 
+
+Generational buying opportunity. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:19:32 </td>
+   <td style="text-align:left;"> $SPY Steelers Fans! Yassss 🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:19:20 </td>
+   <td style="text-align:left;"> $SPY pay attention to that Wednesday CPI read! SOFI CHARTER DENIED? FUD!
+https://youtu.be/ucQSD9ayiv8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:19:20 </td>
+   <td style="text-align:left;"> $SPY chargers fans right now </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:18:57 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:18:43 </td>
+   <td style="text-align:left;"> $SPY raiders win = Bullish </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:18:09 </td>
+   <td style="text-align:left;"> $SPY should have called a truce. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:17:58 </td>
+   <td style="text-align:left;"> $SPY they should&amp;#39;ve tied </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:17:23 </td>
+   <td style="text-align:left;"> $SPY where do you think the worlds money is going? Bonds? Lol. Bitcoin? Lol. Back to the Fed? Lol. 
+
+Spy can only go up </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:17:13 </td>
+   <td style="text-align:left;"> $SPY If Ben Rapistberger is in the playoffs, everything is possible </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:16:56 </td>
+   <td style="text-align:left;"> $SPY LAC coach fucked up </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:16:37 </td>
+   <td style="text-align:left;"> $SPY Steelers fans counting their blessings rn lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:16:25 </td>
+   <td style="text-align:left;"> $SPY spy isn’t going down it’s taking the long way up. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:16:21 </td>
+   <td style="text-align:left;"> $SPY LAS VEGAS WON! - that is bullish very </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:15:25 </td>
+   <td style="text-align:left;"> $SPY if he misses, truce negotiated </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:15:23 </td>
+   <td style="text-align:left;"> $SPY Steelers fans </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:14:52 </td>
+   <td style="text-align:left;"> $SPY large size 4680 prolly gunna fill </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:14:20 </td>
+   <td style="text-align:left;"> $SPY take the tie </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:14:09 </td>
+   <td style="text-align:left;"> $SPY raiders bolts tie is priced in. Spy 500 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:13:36 </td>
+   <td style="text-align:left;"> $SPY call it truce </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:13:33 </td>
+   <td style="text-align:left;"> $SPY Not going to end well. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:13:17 </td>
+   <td style="text-align:left;"> $SPY ⬆️⬆️⬆️⬆️⬆️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:12:51 </td>
+   <td style="text-align:left;"> $SPY futes are rippin - like now.
+I’m watching the Sugar Daddy and Sugar Babies movie marathon in lifetime; waiting for 4:00 for PM.
+Confess, I know once you tune in to lifetime you can’t change the channel </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:12:42 </td>
+   <td style="text-align:left;"> $SPY best NFL game in history. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:12:35 </td>
+   <td style="text-align:left;"> $SPY lol steelers in trouble rn </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:12:03 </td>
+   <td style="text-align:left;"> $SPY Still in the same channel down trend even though its up a little tonight.  The morning is a better indicator.  Sunday nights are pretty much a waste unless it moves a lot in one direction. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:11:37 </td>
+   <td style="text-align:left;"> $SPY soooo much doom and gloom is priced in... SPY 500s...to 550s EOY. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:11:29 </td>
+   <td style="text-align:left;"> $SPY the surprise that crypto kids and spy call slappers disregard, not covid, not rate hikes, BALANCE SHEET RUN OFF. 🔥☠️
+Finally. That $9T everyone likes to balk at. Bye bye. ❤️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:11:15 </td>
+   <td style="text-align:left;"> $SPY steeler watching the raiders vs chargers game right now…. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:11:06 </td>
+   <td style="text-align:left;"> $QQQ $SPY $BTC.X Raiders vs Chargers is nuts!!! Instant Classic 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:10:53 </td>
+   <td style="text-align:left;"> $SPY thinking we gonna get a nice 2am pump </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:10:08 </td>
+   <td style="text-align:left;"> $SPY This guy has pretty good track record! 
+I trust his calls! 👍 
+https://youtu.be/1gAoQ7LD-nI </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:09:52 </td>
+   <td style="text-align:left;"> $TSLA alright, let’s see what you are made of. 
+ 
+55 pt (+.33%) move on the nq1! (nasdaq mini’s) in the last hour. I like the conservative but notable rise on the $SPY  minis, at about +.12% in the past Hour and some change. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:09:45 </td>
+   <td style="text-align:left;"> $SPY  very </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:09:06 </td>
+   <td style="text-align:left;"> $SPY $QQQ Nas futures are zoomin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:08:22 </td>
+   <td style="text-align:left;"> $SPY about to MOASS </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:08:01 </td>
+   <td style="text-align:left;"> $SPY they should just negotiate a tie like US and China negotiated the trade agreement </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:07:01 </td>
+   <td style="text-align:left;"> $SPY you all watching this game?  Holy shit </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:06:39 </td>
+   <td style="text-align:left;"> $SPY oh bears get your buttocks ready 😈 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:06:08 </td>
+   <td style="text-align:left;"> Market Volume Barometer 1-07-2022
+Sentiment: EAGER
+Volume: -6%
+Real Feel: CHILLY
+Cycle: BEARISH I
+Portfolio: LONG
+Next Day Move: SIDEWAYS
+&amp;gt;&amp;gt;For the full description, follow this link&amp;gt;&amp;gt;https://mytradinglicks.com/market-volume-barometer/
+$SPY $SPX $QQQ $DJIA $IWM #MarketVolumeBarometer </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:04:58 </td>
+   <td style="text-align:left;"> $SPY This Raider Charger game is unreal </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:04:48 </td>
+   <td style="text-align:left;"> $SPY chargers are king of 4th downs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:04:43 </td>
+   <td style="text-align:left;"> $SPY Back to red in 30 minutes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:04:24 </td>
+   <td style="text-align:left;"> $SPY BEARS 👇👇👇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:04:01 </td>
+   <td style="text-align:left;"> $SPY futures=rippin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-01-10 13:03:15 </td>
+   <td style="text-align:left;"> $SPY bro im done </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 16:04:30 </td>
+   <td style="text-align:left;"> $SPY $QQQ bonds selling off, dollar strengthening... Expect blood 💉 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 16:01:12 </td>
+   <td style="text-align:left;"> $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:52:18 </td>
+   <td style="text-align:left;"> $QQQ can we start a GoFundMe for the dogshit bears here? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:39:18 </td>
+   <td style="text-align:left;"> $QQQ Im seeing bullish divergences all over the place. Bears are not looking good right now </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:18:42 </td>
+   <td style="text-align:left;"> The whole 
+world rallying tonight  
+virus worse enough to stop the hikes 
+ 
+so bad it’s good 
+ 
+$spy $qqq </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:15:50 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TELL  
+ 
+$PRTS  
+CEO  
+https://twitter.com/LevPeker/status/1476975716348563457 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:14:12 </td>
+   <td style="text-align:left;"> $SPY haha it can’t get no lower because it’s 2022 numbers now Btch’s   
+
+$nasdaq $ndx $qqq </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:12:25 </td>
+   <td style="text-align:left;"> $SPY $TSLA $QQQ 
+
+FUTURES UPDATE FOR THE SHORTS 👇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:12:21 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DJIA THE DEATH OF BOB SAGET WILL SET OFF A 2000 2008 LEVEL CRISIS </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:10:22 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TELL  
+ 
+$PRTS  
+CFO &amp;quot; Going from 2 distribution centers to 6 in the 3 years  
+is a perfect demonstration of our success!&amp;quot;  
+https://twitter.com/davidmeniane/status/1478435310056853506 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:09:03 </td>
+   <td style="text-align:left;"> $QQQ &amp;gt;&amp;gt; Fast STO @ 8.82 on the daily chart &amp;gt;&amp;gt;
+Bounces followed the last 4 dips below 20 &amp;gt;&amp;gt; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:08:04 </td>
+   <td style="text-align:left;"> $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:06:31 </td>
+   <td style="text-align:left;"> $QQQ 390 lotto calls for tomorrow are gonna print </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 15:03:10 </td>
+   <td style="text-align:left;"> $SPY $qqq nq calls dirt cheap.. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:55:36 </td>
+   <td style="text-align:left;"> $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:54:39 </td>
+   <td style="text-align:left;"> $QQQ &amp;gt;&amp;gt; Daily Chart &amp;gt;&amp;gt;
+
+If 372.50 support breaks there could be a drop to the 200 day simple moving average at 362.59 &amp;gt;&amp;gt;
+
+ The October 13 Gap down at 360 could fill &amp;gt;&amp;gt; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:54:32 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DJIA BOB SAGET DIED </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:51:02 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DJIA 2000 2008 level crash incoming hide yo canoes 🛶 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:48:50 </td>
+   <td style="text-align:left;"> $QQQ We really need a relief rally so I can get the hell out of my long positions. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:43:02 </td>
+   <td style="text-align:left;"> $QQQ strong overnight action! Have we bottomed? $DKNG $SOFI </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:36:53 </td>
+   <td style="text-align:left;"> $QQQ nasdaq open interest up but it’s down </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:34:10 </td>
+   <td style="text-align:left;"> $QQQ lets goo to the moon calls tomorrow will print!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:30:14 </td>
+   <td style="text-align:left;"> $QQQ Russia has just moved into Ukraine with 300k troops tonight blood market tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:29:51 </td>
+   <td style="text-align:left;"> Ticker: $QQQ 
+Buy: January 12, 2022 $380.00 Calls 
+Entry Price: $3.66 - $3.71 
+Exit Price: $4.83 
+Stop Loss: $3.22 
+Potential ROI: 32% 
+Estimated Hold Time: 66 Minutes 
+Alert Courtesy Of: https://www.fastscalp.com/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:26:55 </td>
+   <td style="text-align:left;"> $QQQ futures up, but weak </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:26:48 </td>
+   <td style="text-align:left;"> $QQQ Not trusting these futures. May be  a repeat of last week - rip at open and slow bleed. Hope I&amp;#39;m wrong because I&amp;#39;m out of ammo.  Trying to stay positive </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:24:01 </td>
+   <td style="text-align:left;"> $SPY $qqq no one tightens when COVID is in high gear 🔥 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:23:36 </td>
+   <td style="text-align:left;"> $SPY $qqq last week was biggest bear trap ever 🔥🔥🚀🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:22:54 </td>
+   <td style="text-align:left;"> $SPY $qqq this rally is nothing. Come Tuesday we have </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:22:02 </td>
+   <td style="text-align:left;"> $SPY $qqq calls printin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:21:35 </td>
+   <td style="text-align:left;"> $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:06:48 </td>
+   <td style="text-align:left;"> $QQQ guys buy buy buy buy OML if you don’t buy you will miss out </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:06:15 </td>
+   <td style="text-align:left;"> $QQQ omg omg oh my god the futes are ripping </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:05:39 </td>
+   <td style="text-align:left;"> $INTC $QQQ $NOK 
+
+It works ! Very quick response, even in  office hours . Thanks a lot!!
+
+🤑  tinyurl.com/yuouffvk </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 14:02:07 </td>
+   <td style="text-align:left;"> $EXAS $NVNXF $QQQ $AMC &amp;quot;&amp;quot;&amp;quot; 
+ 
+Account Challenge Update:~ 
+Start Date: Nov 2, 2021 
+Starting Balance: $1,500 
+Current Balance: $95,959 
+Goal: $100,000 by end of January. 
+Strategy: Swing Trade Options, Stocks 
+ 
+Watch out for next play👓  discord.io/fmeeTaW </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:59:25 </td>
+   <td style="text-align:left;"> $SPY $QQQ 
+https://youtu.be/GD272oUleIM </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:58:17 </td>
+   <td style="text-align:left;"> New article published today:
+4 Best Long-Term Performance U.S. Large Cap Growth ETFs
+https://deepvalueetfaccumulator.com/blog/4-best-long-term-performance-u-s-large-cap-growth-etfs-1-5/ 
+$QQQ $IWY $ONEQ $MGK $VONG </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:51:19 </td>
+   <td style="text-align:left;"> $QQQ I&amp;#39;m bagholding $5k in QQQ calls. waiting for a quick double in 2 weeks when this come back to $400.
+give me that and I&amp;#39;ll start to buy puts. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:49:07 </td>
+   <td style="text-align:left;"> $SPY $NVDA $QQQ I have been able to grow my account to over 1.7 million!  100% recommend joining!.. 
+ 
+🚀 discord.io/stk-opt-trading </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:48:47 </td>
+   <td style="text-align:left;"> $SPY $QQQ
+Interesting that the Raiders did the Steelers a favor. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:48:29 </td>
+   <td style="text-align:left;"> $NASDAQ $QQQ can we finally start to see some green? Long term portfolio is getting killed 😅 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:47:11 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TLT CANCEL THE RISING YIELDS:  DESPITE &amp;quot;MILD&amp;quot; OMNICRON VARIANT, US COVID HOSPITALIZATIONS HIT RECORD HIGH
+
+time to rotate back into tech and bonds and out of that other stuff you just rotated into sorry </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:44:58 </td>
+   <td style="text-align:left;"> $SPY $QQQ Bears are pretty quiet now! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:44:34 </td>
+   <td style="text-align:left;"> $QQQ wow this was in the gutter red now bright green, what happened?? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:43:53 </td>
+   <td style="text-align:left;"> $ETH.X $BTC.X $SPY $QQQ Lets not be headasses like the Chargers and agree to pump the crypto market and end in a tie. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:43:20 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ $SPX 
+God Thomas Jefferson’s inaugural address is one of if not thee best speeches ever written. 
+
+I repair, then, fellow-citizens, to the post you have assigned me. With experience enough in subordinate offices to have seen the difficulties of this the greatest of all, I have learnt to expect that it will rarely fall to the lot of imperfect man to retire from this station with the reputation and the favor which bring him into it. Without pretensions to that high confidence you reposed in our first and greatest revolutionary character, whose preeminent services had entitled him to the first place in his country&amp;#39;s love and destined for him the fairest page in the volume of faithful history, I ask so much confidence only as may give firmness and effect to the legal administration of your affairs. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:40:02 </td>
+   <td style="text-align:left;"> $QQQ is currently trading in the upper part of its 52 week range, which is inline with the index. https://www.chartmill.com/stock/quote/QQQ/technical-analysis?key=d8dac8fb-a874-4422-96db-185a5752c108&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=QQQ&amp;amp;utm_campaign=social_tracking </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:39:04 </td>
+   <td style="text-align:left;"> $ARKK $SPY $QQQ $TSLA beautiful bullish flag im going to start a long position ~70/60 
+ 
+i think arkk goes to 180 by eoy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:38:55 </td>
+   <td style="text-align:left;"> $QQQ Nasdaq headed to 14500. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:38:13 </td>
+   <td style="text-align:left;"> $QQQ $SPY $SQQQ $TSLA just your market maker doing a mini pump pre market so they can exit in the morning or tuesday,  dont be the donkeys that buying the dip </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:35:30 </td>
+   <td style="text-align:left;"> $QQQ We’re going to be burning money in the fireplace to stay warm soon. Nothing to be worried about right? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:35:23 </td>
+   <td style="text-align:left;"> $QQQ QQQ 2022-01-09 Trade Analysis Video: 
+https://www.youtube.com/watch?v=ac8lEf8SbHU </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:33:14 </td>
+   <td style="text-align:left;"> $QQQ The Nasdaq could continue higher tomorrow without big tech if all things are normal. $SPY and $DIA never made it to the 125-day average during the last pull back they could continue lower. The market could seek out safety in the over sold Healthcare Sector which would still be bullish for the Qs. Also news of the delta-omicron combined variant could make this even more possible. 
+
+Key Levels:
+QQQ - $379.86
+DIA - $326.31
+SPY - $465.09
+
+Look for the indexes to close above or below these levels in the first 30-minutes of trading. This should give some sort of insight on direction. 
+
+After a close above mark your first point of resistance to test the strength of the move higher. After a close below mark your first point of support. 
+
+Good luck to everybody tomorrow. 🙏🏽
+
+###
+I post key levels during the trading day for specific stocks and indexes. Follow my page for more insights. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:32:19 </td>
+   <td style="text-align:left;"> $SPY $QQQ Anyone get a look at who was running from the BioLab building?????
+
+Kazakhstan Denies US-Funded &amp;#39;Military Biological Lab&amp;#39; Seized By Rioters After Russia Claims Potential Pathogen Leak
+
+MONDAY, JAN 10, 2022 - 12:00 AM
+Kazakh officials have denied that a US-funded &amp;#39;military biological laboratory&amp;#39; was seized by rioters in the recent unrest, which has seen at least 160 dead since the violence broke out just one week ago. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:31:30 </td>
+   <td style="text-align:left;"> $QQQ $SPY $DIA Wild week, ready for the next. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:29:36 </td>
+   <td style="text-align:left;"> $SPY $QQQ 5 red days in a row last week and people are shocked futures are going very green? If you held puts this weekend you are a greedy clown </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:28:11 </td>
+   <td style="text-align:left;"> $SPY $QQQ $BTC.X $ETH.X </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:28:09 </td>
+   <td style="text-align:left;"> $NASDAQ $QQQ Does this mean $VIX going fall to $13 soon </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:25:21 </td>
+   <td style="text-align:left;"> $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:21:58 </td>
+   <td style="text-align:left;"> $AMC $QQQ $AMD ,,, 
+ 
+Account Challenge Update:~ 
+Start Date: Nov 2, 2021 
+Starting Balance: $1,500 
+Current Balance: $95,959 
+Goal: $100,000 by end of January. 
+Strategy: Swing Trade Options, Stocks 
+ 
+Watch out for next play👓  discord.io/fmeeTaW </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:18:20 </td>
+   <td style="text-align:left;"> $QQQ gonna be a fun week. Wednesday cpi read holds the fate of this market. SOFI CHARTER DENIED? FUD!
+https://youtu.be/ucQSD9ayiv8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:17:03 </td>
+   <td style="text-align:left;"> $QQQ Next week is basically a tug of war between bears and bulls. Whether tech breaks key support level or bounces off, I believe in the latter. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:15:54 </td>
+   <td style="text-align:left;"> $QQQ finally
+ https://www.reddit.com/r/Epic_Economics/comments/s0bxch/balance_sheet_runoff_stock_market_crypto_killer/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:11:17 </td>
+   <td style="text-align:left;"> $QQQ 16,000 or 14,000? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:11:13 </td>
+   <td style="text-align:left;"> $QQQ brr </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:11:06 </td>
+   <td style="text-align:left;"> $QQQ $SPY $BTC.X Raiders vs Chargers is nuts!!! Instant Classic 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:09:06 </td>
+   <td style="text-align:left;"> $SPY $QQQ Nas futures are zoomin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:07:47 </td>
+   <td style="text-align:left;"> $QQQ although futures seem to be bouncing off of 15600 level, we are going down </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:06:08 </td>
+   <td style="text-align:left;"> Market Volume Barometer 1-07-2022
+Sentiment: EAGER
+Volume: -6%
+Real Feel: CHILLY
+Cycle: BEARISH I
+Portfolio: LONG
+Next Day Move: SIDEWAYS
+&amp;gt;&amp;gt;For the full description, follow this link&amp;gt;&amp;gt;https://mytradinglicks.com/market-volume-barometer/
+$SPY $SPX $QQQ $DJIA $IWM #MarketVolumeBarometer </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:03:24 </td>
+   <td style="text-align:left;"> How To Tell If A Stock Has Bottomed Out
+
+$QQQ $DWAC $NVDA $RIVN $PLUG
+
+https://www.chartlearning.com/2021/12/how-to-tell-of-stock-has-bottomed-out.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:02:43 </td>
+   <td style="text-align:left;"> $QQQ $SPY $TSLA next goal is to break out of this channel and1 hour 21 ema, if we can do that.. we are set </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 13:00:42 </td>
+   <td style="text-align:left;"> This market is set to go absolutrly INSANE higher - $qqq is bouncing off the bottom 
+of its range as it has every last time, $spy cant even sustain 3% off all 
+time highs - Powell probably scared shirtless to be hawkish - everyone is scared and short even though $vxx says otherwise OH MY  
+ 
+$spy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:59:50 </td>
+   <td style="text-align:left;"> $QQQ gonna use money from these dogshit bears to treat folks tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:58:59 </td>
+   <td style="text-align:left;"> $QQQ yes . dump all fart bucks into cumcoin immediately </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:53:43 </td>
+   <td style="text-align:left;"> $QQQ $NASDAQ $TQQQ $AMZN Thou shall not celebrate futures moves less than +/- 1%. Easily disappear by open. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:53:39 </td>
+   <td style="text-align:left;"> $NASDAQ does anyone see the social pump going on here $IWM $ZOM $AMC $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:49:59 </td>
+   <td style="text-align:left;"> $QQQ pretty nice! This guy has a good track record https://youtu.be/1gAoQ7LD-nI </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:48:15 </td>
+   <td style="text-align:left;"> $QQQ $SPY my only regret is not buying enough calls </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:47:16 </td>
+   <td style="text-align:left;"> $QQQ Futures </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:46:12 </td>
+   <td style="text-align:left;"> $QQQ Futes are green but it needs to get back above Friday’s highs and stay above it all through tomorrow for a green market. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:45:17 </td>
+   <td style="text-align:left;"> $QQQ 15 mins till bigger moves </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:41:20 </td>
+   <td style="text-align:left;"> $QQQ I am Da Charly Flow! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:38:12 </td>
+   <td style="text-align:left;"> I don&amp;#39;t understand how we get so excited about companies that loan money to literally anyone. After 2008 Shouldn&amp;#39;t it be lesson learned? Talking $AFRM $UPST  ETC! Trade it but do you have to own it? $spy $qqq $amzn </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:38:10 </td>
+   <td style="text-align:left;"> $AAPL $SPY $QQQ interesting week coming. Going to be volatile. Let’s make lots of money from both sides. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:37:14 </td>
+   <td style="text-align:left;"> $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:36:56 </td>
+   <td style="text-align:left;"> $NASDAQ wtf is this ticker and why is it trending
+
+$QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:36:54 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TLT $DXY 
+
+Weekend Market Recap for Saturday 1/8/2022 for trending #Stocks #Bitcoin #Gold #Silver
+https://youtu.be/IjgZcjBmh-0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:36:41 </td>
+   <td style="text-align:left;"> $QQQ Break the fookin 15650 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:36:06 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA $AAPL 
+BEARS WHAT HAPPENED TO THE CRASH ???!
+Five hours ago when futures opened and were down .4  percent, u said limit down circuit breakers ??!! Now futures ALL GREEN and nasdaq getting a pump and let me guess your response “FUTures don’t MATtter, red by morning?!” 😂😂😂
+FUTURES UPDATE FOR THE SHORTS  👇👇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:35:24 </td>
+   <td style="text-align:left;"> $SPY wallstreet does not want to help you they function only to make money so what makes you think the analysts from any investing firm have your interests in mind ! $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:34:56 </td>
+   <td style="text-align:left;"> $AAPL $CRM  $MSFT $GOOG $QQQ Here’s something to ponder, what if inflationary forces ease soon as the supply chain bottle necks improve?  Would that become a big head fake for papa J?  He would then calm down his easing stance and techs would fly again </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:34:22 </td>
+   <td style="text-align:left;"> $QQQ guys let’s not let green Futes at this hour get you too amped. There’s been too many times Futes ripped overnight and crashed on market open. Be cautious. I hope it does rip Tom AM tho. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:33:22 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ :) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:30:44 </td>
+   <td style="text-align:left;"> $SPY $QQQ Futures green, the bears are in big time trouble tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:30:36 </td>
+   <td style="text-align:left;"> $QQQ futures green </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:28:07 </td>
+   <td style="text-align:left;"> ‪NEW Article: “Nasdaq 100 Testing Key Support… Will It Hold?” - https://www.seeitmarket.com/nasdaq-100-etf-qqq-testing-key-support-will-it-hold/‬ 
+ 
+‪by @marketminute $QQQ $SPY $IWM $SMH $IYT </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:25:28 </td>
+   <td style="text-align:left;"> $DJIA  $SPY $QQQ $TLT  WHO ARE YOU LISTENING TO?https://www.youtube.com/watch?v=feFREg4A1oI </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:25:21 </td>
+   <td style="text-align:left;"> $QQQ $SPY 420 coming in soon 
+wave 3 up baby 
+if we can break this channel tonight, tomorrow we are going to the fucking moon </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:21:48 </td>
+   <td style="text-align:left;"> $QQQ y mooning </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:20:38 </td>
+   <td style="text-align:left;"> $AMC $SPY $QQQ $GME Futures are green. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:18:25 </td>
+   <td style="text-align:left;"> $SPY $QQQ $NASDAQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:18:09 </td>
+   <td style="text-align:left;"> $SPY $DIA $QQQ 
+
+LETS US BULLS JOIN TOGETHER AND SQUEEZE ALL THE SHORTS AND BEARS AWAY FROM TECH STOCKS. BULLS TAKE OVER AGAIN TOMORROW MONDAY JANUARY 10th!!! SPREAD THE WORD!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:17:45 </td>
+   <td style="text-align:left;"> $QQQ Massive bear trap. Big green day incoming </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:11:45 </td>
+   <td style="text-align:left;"> $QQQ Enough is enough......you fcuking QQQ go up </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:09:14 </td>
+   <td style="text-align:left;"> $QQQ 
+Naz rippin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:09:08 </td>
+   <td style="text-align:left;"> $SPY  $QQQ 😉💪 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:05:39 </td>
+   <td style="text-align:left;"> $spy $qqq 🧃 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:05:30 </td>
+   <td style="text-align:left;"> $QQQ Three bond auctions this week starting Tuesday should keep a lid on yields. https://www.cnbc.com/2022/01/07/inflation-rising-rates-and-the-federal-reserve-could-whip-stocks-around-in-the-week-ahead.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:04:09 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DJIA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:03:17 </td>
+   <td style="text-align:left;"> $QQQ Politicians can no longer stand by and allow waves of covid hysteria to affect markets. We must have a secret national security order to nationalize all exchanges and set prices directly higher </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:02:37 </td>
+   <td style="text-align:left;"> $SPY $QQQ I love it when old timers try calling out bear markets and corrections lol..everytime they turn from bull to bear only means one thing...BTMFD AND WE SAIL TO ATHs. LFG PUSH TOMORROW! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:00:36 </td>
+   <td style="text-align:left;"> $QQQ Working hard to take market up! up! up! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 12:00:17 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ  
+ 
+Still working...lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:58:16 </td>
+   <td style="text-align:left;"> $QQQ 390 tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:57:31 </td>
+   <td style="text-align:left;"> $QQQ people are saying futures are crashing or like deep red.  Are we looking at the same futes???? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:57:03 </td>
+   <td style="text-align:left;"> $QQQ $SPY qqq above the 1 hour 9 ema 
+3 minutes till candle close, as long as we stay above it, tomorrow will be very green </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:55:46 </td>
+   <td style="text-align:left;"> Stock futures fall after S&amp;amp;P 500 posts 4-day losing streak
+
+$SPY $QQQ
+ https://www.cnbc.com/2022/01/09/stock-market-futures-open-to-close-news.html?__source=iosappshare%7Ccom.stocktwits.StockTwits.STShareExtension </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:50:34 </td>
+   <td style="text-align:left;"> $QQQ it will either go up or go down😀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:50:02 </td>
+   <td style="text-align:left;"> $QQQ JP Tuesday again then the 26th🤦‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:48:20 </td>
+   <td style="text-align:left;"> $SPY If FURUS really make money in the market, why do they sell courses for money? 
+$qqq $afrm $amd </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:43:17 </td>
+   <td style="text-align:left;"> $IWM $spy $qqq main question u have to ask is does wall street want to be short or squeeze every ounce of gain out Q1 so the bonuses pays for 2021 taxes… </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:40:53 </td>
+   <td style="text-align:left;"> $QQQ powel to crush market this week. He will use some strong new words </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:38:18 </td>
+   <td style="text-align:left;"> $QQQ if everyone had just gotten their vaccine we’d still be green and $spy would be $600 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:37:56 </td>
+   <td style="text-align:left;"> $QQQ tomorrow I think the price of this will change </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:37:16 </td>
+   <td style="text-align:left;"> $QQQ Sorry millennials and Gen z, the transfer of wealth is done. You get to hold the bags </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:36:53 </td>
+   <td style="text-align:left;"> $QQQ I am buying  Beat down stock $WW. we all buying $WW </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:36:51 </td>
+   <td style="text-align:left;"> $SPY $QQQ Those are COVID SHOTS NOT a Vaccine. 
+They Changed the definition of a Vaccine to support their Agenda. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:36:06 </td>
+   <td style="text-align:left;"> $SPY $QQQ 2030 FOMC Meeting Minutes… </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:36:00 </td>
+   <td style="text-align:left;"> $QQQ has an average volume of 50999000. This is a good sign as it is always nice to have a liquid stock. https://www.chartmill.com/stock/analyzer/stock/QQQ?key=d8dac8fb-a874-4422-96db-185a5752c108&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=QQQ&amp;amp;utm_campaign=social_tracking </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:34:11 </td>
+   <td style="text-align:left;"> $QQQ $SPY  $TNX .... 10yr futes ..... a break of the 200wk would be most constructive. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:32:33 </td>
+   <td style="text-align:left;"> $QQQ need this to open at 375 plz lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:25:03 </td>
+   <td style="text-align:left;"> $SPY $QQQ Pelosi bought the dip.  
+
+They will keep printing money until they literally they can’t.  
+
+https://twitter.com/fxhedgers/status/1480366953248083968?s=21 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:18:00 </td>
+   <td style="text-align:left;"> $QQQ all you bulls and bears better believe this will go up or down tomorrow.  
+ 
+Because it will. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:17:48 </td>
+   <td style="text-align:left;"> $AABB Lets go baabby !! AABB to $7 Q1 2023 on $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:17:30 </td>
+   <td style="text-align:left;"> $MCO2.X 
+
+$NASDAQ $QQQ $AMC $GME
+
+Crypto that saves trees when making coins… </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:16:07 </td>
+   <td style="text-align:left;"> $QQQ will this see $400 before the FANGMANT report earnings? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:13:31 </td>
+   <td style="text-align:left;"> https://youtube.com/watch?v=IBBANiV8LBE&amp;amp;feature=share
+$qqq $iwm $spy
+Weekly update, hope it helps! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:12:53 </td>
+   <td style="text-align:left;"> $BABA china indexes deep green again as US futures look shakey. Only a matter of time before the $TSLA degenerates start to chase gains and pile into Chinese tickets. $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:12:02 </td>
+   <td style="text-align:left;"> $AMC $NASDAQ $QQQ 
+
+GUYS $MCO2.X 
+
+GREEN CRYPTO </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:11:02 </td>
+   <td style="text-align:left;"> $QQQ $SPY $DIA $BA black 🦢 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:10:33 </td>
+   <td style="text-align:left;"> $SPY um I thought nasdaq was tech. So why people saying small caps are gonna run because nasdaq is trending (btw I put 0 importance into &amp;quot;trending&amp;quot;). 
+
+But small caps is Russell $IWM. 
+
+nasdaq is $QQQ , yes? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:06:38 </td>
+   <td style="text-align:left;"> $SPY $QQQ so will the Media hide the VAX truth again and say the sorta funny man died jacking-off until he went blind and fell over a railing and landed on a Dis Dwarf? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:05:14 </td>
+   <td style="text-align:left;"> $QQQ market exploding to upside 👆 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:01:04 </td>
+   <td style="text-align:left;"> $SPY $QQQ Riding you all the way!!! https://youtu.be/h-dsLyGGjlY?t=137 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-01-10 11:00:55 </td>
+   <td style="text-align:left;"> $AMC $GME Me and my tin foil hat don’t believe that the 5g rollout on Jan 22 is a coincidence with the Jan 22 options. Massive 5g rollout this month so don’t be surprised if many get sick. New variants etc... $QQQ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
    <td style="text-align:left;"> 2022-01-10 10:50:21 </td>
    <td style="text-align:left;"> $QQQ $SPY photo was when nasdaq was down -.5% on futes, now up .25%. Someone tell retail bears like @FeelsBearish @iTradeBetter to STFU lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 10:47:25 </td>
-   <td style="text-align:left;"> $QQQ $WOOF $SPY Start trading over 5 month ago and i lost all of money, Now I&amp;#39;ve made over 147K+ profits after join their chat room and using their alerts. Highly recommended! tinyurl.com/uftofficialfreetrial </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
@@ -2526,11 +3429,6 @@ $SPY - $QQQ - $NDAQ - $IWM - $DIA </td>
 ❤ - LIKE 
 
 LET&amp;#39;S GO.! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 10:39:37 </td>
-   <td style="text-align:left;"> $EXAS $QQQ $WOOF $SPY I’ve made $93,111.27 (891.33%) with their alerts, Big thanks to this chat room Make as much as you want.   https://www.discord.io/rBHacCP </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
@@ -3413,833 +4311,197 @@ Interest rates be damned. </td>
    <td style="text-align:left;"> $QQQ thinking calls for the week if it opens deep red </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 08:03:32 </td>
-   <td style="text-align:left;"> $SPY $QQQ vix to 40 this week </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 15:49:54 </td>
+   <td style="text-align:left;"> $SPY if fut can keep the momentum, even when theres a dip at the open, i believe all fang tech will push it higher. $TSLA $AAPL $AMZN $TQQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 08:03:09 </td>
-   <td style="text-align:left;"> $SPY  $QQQ lol Nasdaq and spy almost flat from big red and dumb bears talking like end of the world 😂  
-wait for green open to green push !!! Well I don’t know Tuesday but let’s get tomorrow green 😉 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 15:42:01 </td>
+   <td style="text-align:left;"> $AAPL Apple </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 08:02:20 </td>
-   <td style="text-align:left;"> $QQQ QQQ 2022-01-09 Trade Analysis Video: 
-https://www.youtube.com/watch?v=ac8lEf8SbHU </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 15:37:49 </td>
+   <td style="text-align:left;"> $AAPL What’s the EOY prediction for this? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 08:01:03 </td>
-   <td style="text-align:left;"> $QQQ 
-Ruh Roh bears </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 15:33:59 </td>
+   <td style="text-align:left;"> $TSLA $GOOGL $PYPL $AMZN $AAPL Hope it stays green the whole Monday. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 08:00:58 </td>
-   <td style="text-align:left;"> $SPY $QQQ Carne Asada street tacos and Frijoles Negros </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 15:04:03 </td>
+   <td style="text-align:left;"> $AAPL AAPL 2022-01-09 Dark Pool &amp;amp; Short Interest Data: 
+https://www.youtube.com/watch?v=79nffRORSzY </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 08:00:53 </td>
-   <td style="text-align:left;"> $QQQ Futes Rippen, 🤣 Breakdown below 378 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 14:37:46 </td>
+   <td style="text-align:left;"> $AAPL https://youtu.be/L37svHi_riM </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:59:43 </td>
-   <td style="text-align:left;"> Successful traders stay disciplined $SPY $QQQ $DJIA $NASDAQ </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 14:34:35 </td>
+   <td style="text-align:left;"> $AAPL outperformer on red days. Lets see what happens on a potential green day! 
+Note:- yields can still ruin the party but ER run is strong too. Gl </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:59:38 </td>
-   <td style="text-align:left;"> $QQQ futures are not inspiring confidence in my opinion </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:58:19 </td>
-   <td style="text-align:left;"> $QQQ So obviously a bear trap last week. Big green by open </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:57:32 </td>
-   <td style="text-align:left;"> $QQQ let&amp;#39;s Liquidate with dogshit bears in tomorrow&amp;#39;s rally </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:57:23 </td>
-   <td style="text-align:left;"> Standard opening Sunday BEAR trap we could ROAR into Powell then crater $spy $qqq </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:56:04 </td>
-   <td style="text-align:left;"> $SPY $QQQ The Mkt like an enthusiastic Gf…
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 14:30:27 </td>
+   <td style="text-align:left;"> $AMZN $TSLA $AAPL 
 
-she’s going down again. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:55:30 </td>
-   <td style="text-align:left;"> $QQQ $SPY  so many retail is in puts from friday expect a huge V back up either Monday or Tuesday. Lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:55:10 </td>
-   <td style="text-align:left;"> $SPY Trust yourself, no one else. You were born for greatness. Own it. Conquer. Take it. 🍻🥷🎯 $QQQ $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:54:43 </td>
-   <td style="text-align:left;"> $QQQ 
-Red to green incoming </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:54:34 </td>
-   <td style="text-align:left;"> $QQQ might see a tech rally this week. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:53:41 </td>
-   <td style="text-align:left;"> $SPY $QQQ deep green by cash open </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:52:38 </td>
-   <td style="text-align:left;"> $SPY Time to go long NQ futures,  Moo.  Triple bottom going into ER w the usual head fake 
- 
-@sonicmerlin   $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:52:37 </td>
-   <td style="text-align:left;"> $QQQ tech should start to implode soon $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:52:16 </td>
-   <td style="text-align:left;"> $spy $qqq Forbes calling a Bitcoin bottom 🔥🔥🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:52:11 </td>
-   <td style="text-align:left;"> $SPY $QQQ Inflation usually isn’t bad for the market, deflation is what the investors need to worry about when it happens and deflation probably isn’t happening anytime soon although we will see inflation easing later this year </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:51:50 </td>
-   <td style="text-align:left;"> $QQQ puts are free money </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:51:03 </td>
-   <td style="text-align:left;"> $QQQ $SPY $IWM I will be honest, I was a bull but I became sober and realized that there is no chance of further increases and from today I am a short and I love it </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:49:54 </td>
-   <td style="text-align:left;"> $QQQ 14,000 on Nasdaq is where all the youtoober chartists are pointing to. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:48:46 </td>
-   <td style="text-align:left;"> $QQQ $SPY I wouldn’t trust the futures.  Looks like pajama kids circle jerking going on.  😆😂🤑😀🤣😅💲💰💲💰 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:48:39 </td>
-   <td style="text-align:left;"> $QQQ $300 is inevitable IMO. NFA. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:47:06 </td>
-   <td style="text-align:left;"> $QQQ this futures action early is very promising for bulls. Exactly what one wants to see to generate a sizeable bounce early in the AM </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:45:46 </td>
-   <td style="text-align:left;"> $QQQ $SPY I love this shit...dead cat bounces every day this past week and just keeps trapping more bulls in hopes of a reversal. You wish 🤣🤣🔻🔻🔻🚽🚽 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:44:47 </td>
-   <td style="text-align:left;"> $spy $qqq Yeap , a bottom for all 🔥🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:43:27 </td>
-   <td style="text-align:left;"> $QQQ ... Probable eventual targets when current 3x level cracks.  Expect this level to be defended momentarily.  $TNX, Seasonality, Rotation, Fed, CPI, PPI... Pick one or all and shake the dice. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:43:16 </td>
-   <td style="text-align:left;"> $QQQ puts tomorrow! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:39:45 </td>
-   <td style="text-align:left;"> $QQQ futes ripping </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:38:40 </td>
-   <td style="text-align:left;"> $QQQ the futes first 30m stick is suggestive that up will not be easy.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:38:35 </td>
-   <td style="text-align:left;"> $SPY $QQQ $IWM $VXX 
-Here&amp;#39;s what a drop means for put sellers.
-Higher premiums.
-Lower risks.
-✔️👌👍🤑 
-https://www.investing.com/indices/indices-futures </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:37:22 </td>
-   <td style="text-align:left;"> $QQQ $AAPL LoL.  Why does apple care if the 10y is at 1.5 or 2?  They are printing money every quarter.  $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:36:54 </td>
-   <td style="text-align:left;"> $SPY $QQQ  $DIA Deltacron folks! DELTACRON! 😄 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:36:24 </td>
-   <td style="text-align:left;"> $QQQ bulls in for a rude awakening. It’s time to flush the market for a better buying opportunity. Remember you make money on the dips </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:36:22 </td>
-   <td style="text-align:left;"> $SPY $QQQ Slam this trash market. Nasdaq was at $9k pre Covid enough living in fantasy land </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:36:06 </td>
-   <td style="text-align:left;"> $QQQ Nobody shall be expecting a bounce....not this time anyway....bad news everywhere and no free FED money.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:35:33 </td>
-   <td style="text-align:left;"> $SPY $QQQ futures  down ..25 percent and bears calling for market crash, limit down circuit breakers 😂😂😂😂
+Niiiiiice! Great scanners! 
 
-Remember folks, when futures are even 1 percent GREEN, this is the bears “ fUTURES don’t MAtter, red by morning” </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:35:23 </td>
-   <td style="text-align:left;"> $QQQ $SPY tomorrow says a lot... I’ll be bullish or bearish depending on what happens, the night is young and futes can flip in an instant. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:34:24 </td>
-   <td style="text-align:left;"> $SPY $QQQ If we see a soft CPI on Wednesday then the bears will lose a lot of money lol 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:34:22 </td>
-   <td style="text-align:left;"> $QQQ you better catch her here or it is the 200.....lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:34:11 </td>
-   <td style="text-align:left;"> $SPY $QQQ are we officially in the famous bear market ala 2001 all over again? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:34:00 </td>
-   <td style="text-align:left;"> $QQQ is currently trading in the upper part of its 52 week range, which is inline with the index. https://www.chartmill.com/stock/analyzer/stock/QQQ?key=d8dac8fb-a874-4422-96db-185a5752c108&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=QQQ&amp;amp;utm_campaign=social_tracking </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:31:22 </td>
-   <td style="text-align:left;"> $SPY $QQQ $DJIA 🤣🤣🤣🤣🤣🤣🤣🤣 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:31:13 </td>
-   <td style="text-align:left;"> $SPY $QQQ Investors have overreacted and they are focusing way too much on what the FED policy will be likely, they should be focusing more on how great the US economy is doing right now </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:30:52 </td>
-   <td style="text-align:left;"> $QQQ $NASDAQ look at those fucking futures. Fuck you Jerome </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:30:43 </td>
-   <td style="text-align:left;"> $SPY $QQQ $VIX bears are always so female and emotional. 
- 
-There&amp;#39;s only 1 long term trend. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:30:15 </td>
-   <td style="text-align:left;"> Weekly Market Outlook - Trapped, For Better Or Worse $QQQ $SPX $VIX $VXN https://talkmarkets.com/content/us-markets/weekly-market-outlook--trapped-for-better-or-worse?post=340601 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:29:37 </td>
-   <td style="text-align:left;"> $SPY $QQQ bulls </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:29:26 </td>
-   <td style="text-align:left;"> $SPY it’s barely been 30m, we’ve seen this charade before; wake up to green I’m sure like the other 95% or the time $QQQ $IWM </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:29:12 </td>
-   <td style="text-align:left;"> Futures opened red! Let’s see if we at least get a bounce tomorrow. $SPY $QQQ $DJIA $SPX $IWM </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:27:47 </td>
-   <td style="text-align:left;"> $DJIA $NASDAQ $QQQ @LongBacon Lets go! another great week ahead. Bacon where r ye? Futes ripping! Lets get these diamond hands </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:27:44 </td>
-   <td style="text-align:left;"> $QQQ shit going up by closing !!! Mark my words... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:27:11 </td>
-   <td style="text-align:left;"> $SPY $QQQ $MU $RCL weekly candle incoming </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:27:02 </td>
-   <td style="text-align:left;"> $SPY $QQQ Let&amp;#39;s get a limit down 😉💪 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:26:06 </td>
-   <td style="text-align:left;"> $SPY $QQQ LoL.  Watch the rotation back over the next few days.  This will be fun to watch.  😀😂🤑🤣😅😆💲💰💲💰 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:24:39 </td>
-   <td style="text-align:left;"> $spy $qqq I rather red futures overnight then flat to green push with open market than green futures overnight and bull trap at open .. Bear trap overnight always healthier for market … GL 😉 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:24:28 </td>
-   <td style="text-align:left;"> $QQQ OMG listen the bears !!! Sell everything 😆😆😆😆😆😆 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:22:54 </td>
-   <td style="text-align:left;"> $QQQ Tech future:  Dec. lows about to be tested - weekly trend line support below </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:22:25 </td>
-   <td style="text-align:left;"> $tsla bulls and sheples be like ... (fyi friends at $spy $qqq $arkk $BTC.X ) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:22:20 </td>
-   <td style="text-align:left;"> $QQQ even my grandma is watching futures tonight </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:22:00 </td>
-   <td style="text-align:left;"> $QQQ CNN is showing NASDAQ down 1.42%. Damn is this a glitch? Anyone have a link to real time? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:21:13 </td>
-   <td style="text-align:left;"> https://youtu.be/VjzjN5CaBoc $SPY $IBM $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:21:03 </td>
-   <td style="text-align:left;"> $SPY  $QQQ lol relax dumb ass bears 😂 I saw many times big red overnight and flat to green pop at open … Dont disappear if that happens again ; </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:20:32 </td>
-   <td style="text-align:left;"> Stage Analysis Newsletter - 9 January 2022
+Just banked from your scanners ...
 
-▪️ Major US Markets and Sector Charts, 
-▪️ Industry Groups RS Rankings 
-▪️ Bitcoin, Ethereum and Solana 
-▪️ Market Breadth Analysis 
-▪️ US Stocks Watchlist
+Love it... thankful to the whole team 😇
 
-#stocks #trading #investing #crypto $SPY $QQQ $IWM
+🙌  tinyurl.com/vudipvxdc </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 14:21:06 </td>
+   <td style="text-align:left;"> $AAPL seems like the 1 am bear is up and done. 3 point difference lmao. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 14:20:07 </td>
+   <td style="text-align:left;"> $AAPL p3nis </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 14:08:20 </td>
+   <td style="text-align:left;"> $AAPL fomo about to happen with aapl tomorrow and futures are green!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 14:02:59 </td>
+   <td style="text-align:left;"> Apple Rivals Microsoft, Blackberry, Nokia Laughed At iPhone, Shrugged It Off And Flung It To The Ground As Steve Jobs Lifted The Curtains — 15 Years Later, Here We Are  $AAPL $BB $NOK $TSLA 
 
-https://www.getrevue.co/profile/stageanalysis/archive/979115 </td>
+https://newsfilter.io/a/20927dc03ceafdc4e56bdb5868809fe6 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:19:50 </td>
-   <td style="text-align:left;"> $SPY Bears shouldn&amp;#39;t celebrate too early. This sucker can easily flip to the green zone by premarket tomorrow. How many times have $SPY and $QQQ done the opposite of what everyone expected? </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 14:01:40 </td>
+   <td style="text-align:left;"> $AAPL told yall it put in a double bottom. Nothing but net. 1 am bear action pending tho. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:19:01 </td>
-   <td style="text-align:left;"> $SPY $QQQ $AMZN &amp;amp;AAPL 
-Who am I trading with??  Post a selfie… 
-OR… what are we analyzing tonight before market open? Drop me a Ticker… I’ll be at my computer in 2 hours… </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 13:53:35 </td>
+   <td style="text-align:left;"> 😎😎 $AAPL - Apple Rivals Microsoft, Blackberry, Nokia Laughed At iPhone, Shrugged It Off And Flung It To The Ground As Steve Jobs Lifted The Curtains — 15 Years Later, Here We Are </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:18:54 </td>
-   <td style="text-align:left;"> $SPY $QQQ Hey bulls... stop with the nonsense 
-We all know it&amp;#39;s diarrhea season </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 13:53:23 </td>
+   <td style="text-align:left;"> $IIVI $TSLA $AAPL $AMZN https://www.fool.com/investing/2021/01/18/how-to-invest-in-5g-cloud-computing-autonomous-ele/ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:16:09 </td>
-   <td style="text-align:left;"> $SPY $QQQ Lets see how violent the vix can get </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:14:38 </td>
-   <td style="text-align:left;"> $QQQ I don’t think even banks can save high interest rates especially with inflation still high. Maybe high interest rates with normal inflation. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:14:07 </td>
-   <td style="text-align:left;"> $DIA $SPY $QQQ At the futures market open:
-TA - Mean Reversion: BUY
-TA - Trend: BUY
-Vix Basic: SELL
-https://grizzlybulls.com
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 13:49:00 </td>
+   <td style="text-align:left;"> $AAPL was analyzed by 49 analysts. The buy consensus is at 84%. So analysts seem to be very confident about latex992ffb356343e9c5227a7a7c16db093fRKT -Rocket Companies Experiencing Massive Growth, Expanding New Business Platforms Ahead Of Fed Interest Rate 
 
-Is this the start of a bigger correction? Follow our algotrading model signals to find out! </td>
+$PYPL - PayPal Explores Launch of Own Stablecoin in Crypto Push&amp;#39; - Bloomberg </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:13:34 </td>
-   <td style="text-align:left;"> $BABA $SPY $QQQ  US futures down already. Will be interesting to see how long until the masses start piling into Chinese names if the US tickers continue to tank as Chinese companies continue to outperform so far in 2022. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:13:06 </td>
-   <td style="text-align:left;"> $CLOV you should look on daily and weekly $QQQ chart, they are almost the same. So just pray that qqq will go up, and clov will follow :) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:12:59 </td>
-   <td style="text-align:left;"> $QQQ it seems that the downtrend will continue this week. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:12:23 </td>
-   <td style="text-align:left;"> $SPY $QQQ futes are flipping! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:11:50 </td>
-   <td style="text-align:left;"> $SPY $QQQ Futures flat, I think we are trying very very close to the bottom, if the market opens in red tomorrow then investors should begin to buy the dips very aggressive in the middle of the trading day </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:11:26 </td>
-   <td style="text-align:left;"> $QQQ There is no chance future will be red in the morning. Take the screenshot of this message. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:10:33 </td>
-   <td style="text-align:left;"> $SPY $QQQ 2022 bulls sounding like 2021 bears. Y’all are in for a rude awakening </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:10:11 </td>
-   <td style="text-align:left;"> $QQQ good lord bears, it&amp;#39;s down .2% and you&amp;#39;re acting like it&amp;#39;s Armageddon. Find a new hobby. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:09:58 </td>
-   <td style="text-align:left;"> $QQQ $SPY I am quite certain we will hit a circuit breaker tonight, way before open. This is not dropping, it&amp;#39;s quite literally collapsing </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:09:53 </td>
-   <td style="text-align:left;"> $QQQ And so it begins.... Those watching NQ, 15500 is the level to watch, if it’s lost, and sold, watch out for a bad night.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:09:04 </td>
-   <td style="text-align:left;"> $QQQ ugh… F to everyone who bought calls at close. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:08:39 </td>
-   <td style="text-align:left;"> $SPY $TSLA $QQQ $ARKK
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 13:18:07 </td>
+   <td style="text-align:left;"> $AAPL This thing is going to explode to $190. Watch for Apple Car PR’s. $4T market cap easy. I would also load up on $GOEV as Apple could take them over as prior noise has been there, and Apple gets the whole skateboard/undercarriage and patents and gets caught up to other players in one acquisition.
 
-Zanger: “There are huge differences between bear market and bull market rallies. For example, buying the dips in a true bull market can work very well. Buying dips during a bear rally will wipe you out.” </td>
+Carey on! </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:07:41 </td>
-   <td style="text-align:left;"> $QQQ omg it&amp;#39;s crashing 😫 again! </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 13:12:28 </td>
+   <td style="text-align:left;"> $AAPL GREEN FUTURES = GREEN CANDLES TOMORROW!! 🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:06:48 </td>
-   <td style="text-align:left;"> $QQQ starting. Finally the end of the epic run from March 2020. RIP 🪦 Nasdaq </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 13:09:15 </td>
+   <td style="text-align:left;"> $AAPL Apple manufacturing facility in southern India will reopen on Wednesday. Let&amp;#39;s see this thing go back to 180 EOW ! </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:06:43 </td>
-   <td style="text-align:left;"> $spy $qqq hopefully a lot of bleeding this week .. ignore the futures .. they are for noobs 😂 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 12:58:20 </td>
+   <td style="text-align:left;"> $AAPL ohh fck move coming for bear </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:05:55 </td>
-   <td style="text-align:left;"> $QQQ $SPY $DIA $IWM  as i thought.. here we go bears </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 12:53:55 </td>
+   <td style="text-align:left;"> $AAPL $TSLA $SPY MARKETS WILL BE PUMPED AROUND BIDEN ANNIVERSARY and ER for one last time before … the inevitable. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:05:39 </td>
-   <td style="text-align:left;"> $QQQ 2022 will go down as the most volitile year on record </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 12:44:34 </td>
+   <td style="text-align:left;"> $AAPL futes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:05:21 </td>
-   <td style="text-align:left;"> $SPY $QQQ What a rejection on NQ futures, absolutely golden spot to short here </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 12:38:51 </td>
+   <td style="text-align:left;"> $AAPL I know many technical analysts are anticipating a sell-off after another new ATH, but this company has SO much going for it. #ownitdonttradeit </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:02:03 </td>
-   <td style="text-align:left;"> $SPY $DIA $QQQ 
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 12:38:10 </td>
+   <td style="text-align:left;"> $AAPL $SPY $QQQ interesting week coming. Going to be volatile. Let’s make lots of money from both sides. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 12:36:06 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA $AAPL 
+BEARS WHAT HAPPENED TO THE CRASH ???!
+Five hours ago when futures opened and were down .4  percent, u said limit down circuit breakers ??!! Now futures ALL GREEN and nasdaq getting a pump and let me guess your response “FUTures don’t MATtter, red by morning?!” 😂😂😂
+FUTURES UPDATE FOR THE SHORTS  👇👇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 12:34:56 </td>
+   <td style="text-align:left;"> $AAPL $CRM  $MSFT $GOOG $QQQ Here’s something to ponder, what if inflationary forces ease soon as the supply chain bottle necks improve?  Would that become a big head fake for papa J?  He would then calm down his easing stance and techs would fly again </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 12:25:16 </td>
+   <td style="text-align:left;"> $AAPL Foxconn India iPhone plant to reopen on Jan 12 -govt officials. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 12:14:02 </td>
+   <td style="text-align:left;"> $AAPL To the moon 🍏🚀🚀🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 11:46:49 </td>
+   <td style="text-align:left;"> $AAPL
+Target $200 
+ https://pulse2.com/apple-stock-nasdaq-aapl-200-price-target-reiterated-from-evercore/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 11:46:01 </td>
+   <td style="text-align:left;"> $AAPL ***Remember- just over 2 weeks until knockout earnings numbers… </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 11:15:19 </td>
+   <td style="text-align:left;"> $AMC everyone one is concerned about AMC dedt...have you seen the debt $AAPL has? 136b </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 11:09:08 </td>
+   <td style="text-align:left;"> $SPY $AAPL 🤣🤣🤣 this is about ten years late. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 11:01:24 </td>
+   <td style="text-align:left;"> $AAPL | Foxconn iPhone Manufacturing Plant In Southern India To Reopen On January 12 - RTRS </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-01-10 10:56:59 </td>
+   <td style="text-align:left;"> How To Tell If A Stock Has Bottomed Out
 
-Good strategy
-
-https://youtu.be/DmULln2pdVI </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:01:24 </td>
-   <td style="text-align:left;"> https://www.investing.com/indices/indices-futures Excellent,  welcome to Crash Monday, carry on sticking forks in the stock markets at large for profits.  Thank dog that I am here to help. @Profit_Maker https://stocktwits.com/Profit_Maker your 24/7 short care bear specialist for profits.  Thanks bulls for lending me your shares to short for profits at your expense 🐻❤😈😁 $tsla $ccl $f $qqq $spy ... COVID-19 and the demented socioeconomic economy at large rules 🤮  Such bs the Fraud Street rally has been since 2009 ✔ ... Ignore the jawboning stupid from Fraud St, cronies, #Whitehouse, #CNBC, media, government, memes, #Cramer, #SleepyJoe, #Yellen, #Powell #MUSK #FORD #SPY #QQQ #TESLA #CCL and more 🐷  Rest assured this ain&amp;#39;t my first rodeo shorting this crap and more.  Rest assured we ain&amp;#39;t seen nothing yet.  Enjoy the Armageddon Depression incoming starting now. Fact is I&amp;#39;ve warned you all for months. 🎉 ... BTW, close to 50,000 in profits last week at close to 19% roi week / ytd ... fact 🎆 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:01:02 </td>
-   <td style="text-align:left;"> $QQQ not the end of the world…yet </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:00:47 </td>
-   <td style="text-align:left;"> $SPY $QQQ stocks it is </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 07:00:35 </td>
-   <td style="text-align:left;"> $QQQ powell is  speaking on Tuesday? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:59:19 </td>
-   <td style="text-align:left;"> $QQQ black Monday 🩸🩸🩸 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:58:43 </td>
-   <td style="text-align:left;"> $QQQ DCA then sell covered options. Trade like MM’s. Imo </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:57:59 </td>
-   <td style="text-align:left;"> $QQQ $SPY $SPX what i expect to happen  
-this is just an estimate  
- 
-big drop in march </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:54:19 </td>
-   <td style="text-align:left;"> $SPY $qqq once confirmed Powell show middle finger to Reps and Shorts </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:54:07 </td>
-   <td style="text-align:left;"> $QQQ 🩸 🛁 coming tomorrow in major indexes 
-$spy 
-
-Keeps buying still:
-
-Energy ⛽️ banks 🏦 industrials 🌉🚆🛻🚚 materials ⛏ bullish </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:52:15 </td>
-   <td style="text-align:left;"> $SPY $qqq Powell says no increased pace and Nasdaq pops 500 next sec
-
-🔥🔥🔥🔥🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:50:56 </td>
-   <td style="text-align:left;"> $SPY $QQQ Diarrhea time shall continue </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:49:38 </td>
-   <td style="text-align:left;"> $QQQ $SPY $DJIA BLOOD BATH THIS COMING WEEK 🐻🐻🐻 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:48:37 </td>
-   <td style="text-align:left;"> $SPY $SPX $QQQ 
-
-Futures +0.5% !!!!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:48:24 </td>
-   <td style="text-align:left;"> $SPY $qqq that 500 point pop on Nasdaq when Powell says “ staying the course” and no increased pace </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:45:56 </td>
-   <td style="text-align:left;"> $SPY $SPX $QQQ 
-
-Indian company Reliance buying $100 millie Manhattan hotel.
-
-Watch out guys! India will colonize US and you shall all be slaves! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:43:31 </td>
-   <td style="text-align:left;"> $QQQ https://dash.earncashto.com/share/gtor456 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:42:29 </td>
-   <td style="text-align:left;"> $SPY $qqq All about Powell and Earninga next week 🚀🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:41:42 </td>
-   <td style="text-align:left;"> $SPY $qqq cnbc got suckers good by extrapolating meeting minutes.  Powell will crush those theories Tuesday AM 🔥🔥🔥🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:41:19 </td>
-   <td style="text-align:left;"> $QQQ Worst bears ever here.  These mfers don&amp;#39;t even know to prepare ramen w 2/3 less than recommended water yet.  They haven&amp;#39;t sopped up ramen broth w/old hopes yet.  Puppies.  Up tomorrow dummies. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:40:42 </td>
-   <td style="text-align:left;"> $QQQ SPY and QQQ Price Levels that Matter for January 10-14 2022 
-Could be a volatile week for QQQ come Monday.   If you are trader be prepared with support levels that matter to catch bounces.  Get the levels for FREE off my blog.    
-   wallstreetwolfnd.com </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:40:27 </td>
-   <td style="text-align:left;"> $spy $qqq how high when Powell says no increased pace and he is staying the course 🚀🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:39:51 </td>
-   <td style="text-align:left;"> $QQQ 377 is an important level to hold and would be bullish the longer it holds above otherwise I could see us going back to October lows soon and I’d be a heavy buyer there. 
-
-$SPY $STUDY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:38:48 </td>
-   <td style="text-align:left;"> $SPY $qqq biggest bear trap ever last week.   In Powell we trust.   Buy the dip stays intact 🚀🚀🔥🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:37:31 </td>
-   <td style="text-align:left;"> $SMH / $QQQ                         $SOXX $SOXL $NVDA  
- 
-smh/spy is here https://stocktwits.com/kilemawl/message/424697328 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:37:23 </td>
-   <td style="text-align:left;"> $SPY $qqq The decline from Dec fed meeting minutes based on ridiculous assumptions while Powell is on break will reverse Tuesday when Powell will say he is staying the course.. no increased pace </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:32:20 </td>
-   <td style="text-align:left;"> $QQQ #STUDY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:31:59 </td>
-   <td style="text-align:left;"> $SPY weekly chart is bearish on $QQQ . Closed below 20 weekly EMA for the first time since 2020 fall. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:31:32 </td>
-   <td style="text-align:left;"> $SPY $QQQ
-Another $300 trip to the grocery store and I didn’t even get beer, wine, or steak.  Must be absolutely crushing to the average family’s budget, especially coupled with gas prices. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:24:54 </td>
-   <td style="text-align:left;"> $BTC.X  INNOCENT  sheeps  and cows thinking they are long ... but stable coin is on decline .. fed is sucking money out .... $spy $qqq </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:23:10 </td>
-   <td style="text-align:left;"> $SPY $QQQ $DJIA S&amp;amp;P 500 (SPY) Technical Analysis, Forecast, and Trade Ideas:  
-https://www.youtube.com/watch?v=yy7w0Q2Xepc </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:20:45 </td>
-   <td style="text-align:left;"> $QQQ congratulations to all the bears who could time the dip. If you have not booked profits on your puts, you ain’t gonna get a chance to do it anymore.
-- with love
-- PermaBull </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:17:44 </td>
-   <td style="text-align:left;"> $QQQ bulls are going to pump it so hard!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:16:24 </td>
-   <td style="text-align:left;"> $SPY $DJIA $QQQ  
- 
-I&amp;#39;ve been saying this for over a year now. This guy is RIGHT ON THE MARK! 
- 
-&amp;quot;Is that a scenario you see? The Fed will attempt to tighten, the equity market will revolt and the Fed will back down again? 
- 
-Yes. Everything in their track record suggests that. Remember in 2018, when Jerome Powell came in and said I don’t care if equity markets fall, we need to normalize monetary policy? Well, within six weeks in late 2018, the market fell by 18%, and Powell backed off.&amp;quot; 
- 
-https://themarket.ch/interview/louis-gave-a-hawkish-fed-could-provoke-an-equity-crash-ld.5727?mc_cid=429e1f79a0&amp;amp;mc_eid=61c45e3a46 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:15:48 </td>
-   <td style="text-align:left;"> Nasdaq Challenging Support For A Third Time $QQQ $IWM $SPX https://talkmarkets.com/content/stocks--equities/nasdaq-challenging-support-for-a-third-time?post=340593 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:14:51 </td>
-   <td style="text-align:left;"> $SPY $DJIA $QQQ  
- 
-&amp;quot;At the end of the day, markets don’t really care about economic numbers. They care about policy.&amp;quot; 
- 
-https://themarket.ch/interview/louis-gave-a-hawkish-fed-could-provoke-an-equity-crash-ld.5727?mc_cid=429e1f79a0&amp;amp;mc_eid=61c45e3a46 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:10:47 </td>
-   <td style="text-align:left;"> $SPY $DJIA $QQQ  
- 
-This guy is right on with FED, Inflation, financial markets, etc. All that matters to the markets is FED FREE MONEY LIQUIDITY and inflation be damned! 
- 
-&amp;quot;At the end of the day, markets don’t really care about economic numbers. They care about policy. Last year, we had accelerating inflation, but the policy framework stayed the same, with very easy fiscal and monetary policy in the US, the Eurozone and Japan. So markets just continued to rip higher.&amp;quot; 
- 
- 
-&amp;quot;For now, what the Fed is presenting us is that a faster tapering is hawkish. Well no, a faster tapering just means they are being less dovish. They are still injecting liquidity, just at lower amounts.&amp;quot; 
- 
-https://themarket.ch/interview/louis-gave-a-hawkish-fed-could-provoke-an-equity-crash-ld.5727?mc_cid=429e1f79a0&amp;amp;mc_eid=61c45e3a46 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:10:02 </td>
-   <td style="text-align:left;"> $spy $qqq Fed minutes had no timeframe mentioned, but folks assuming March hike and 4 hikes in 2022 out of thin air.  Powell will stick to his original plan.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:07:17 </td>
-   <td style="text-align:left;"> $QQQ market is severely over sold. Growth is down 60 to 80% most of it since Thanksgiving. Priced in for World War 3 not some expected interest rate hikes. Any blip of good news on Powell or better then expected cpi data, your going to see massive short squuzes across market. And we got big tech on deck to kick off earnings. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:05:49 </td>
-   <td style="text-align:left;"> $QQQ before you get all your panties in a bunch trying to short going into a traditionally bullish earnings season... If these don&amp;#39;t Don&amp;#39;t hold, then you should get short :) (yes there&amp;#39;s still ton of technically individual shorts in the market as well), but this is specifically for the index. Why 120EMA you say? Well come join us and find out :) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:05:00 </td>
-   <td style="text-align:left;"> $SPY $DJIA $QQQ  
- 
-Will policymakers really tighten significantly? 
- 
-&amp;quot;My inclination is that they won’t. They just can’t. If the Fed tightens too much, they will end up with an equity market and a real estate crash. I think the Fed will try to continue on the side of always being late. And this is based on my core belief that today’s inflation rate is not a bug. It’s a feature. It’s what they want. It’s how you deal with an excessive amount of debt. So they will say they are worried about inflation, but deep down, all the policy settings were put in place to get this result. It’s just like the 1950s and 1960s: You know, we came out of World War II with very high levels of debt to GDP, and we took care of it through 15 years of negative real rates. It’s the same plan this time around.&amp;quot; 
- 
-https://themarket.ch/interview/louis-gave-a-hawkish-fed-could-provoke-an-equity-crash-ld.5727?mc_cid=429e1f79a0&amp;amp;mc_eid=61c45e3a46 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:03:19 </td>
-   <td style="text-align:left;"> $SPY $qqq downfall started with Fed meeting minutes assumptions and reversal will happen when Powell clarifies that he is staying the course </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:02:21 </td>
-   <td style="text-align:left;"> Donald Trump &amp;quot;...between this week and next week.&amp;quot; $SPY $NASDAQ $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:02:05 </td>
-   <td style="text-align:left;"> $SPY $QQQ $ARKK </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 06:01:57 </td>
-   <td style="text-align:left;"> $SPY $QQQ Powell memes are starting to look way more cringe and desperate lately.  Probly a good sign we’re in for a couple nasty weeks 😂😂😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 05:57:11 </td>
-   <td style="text-align:left;"> $QQQ 
-Giving away my trading plan for free 
-$BTC.X $ROKU $NVDA $PLTR </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 05:57:06 </td>
-   <td style="text-align:left;"> Economic Calendar for the week 
- 
-Jerome Powell Speaks on Tuesday @ 10:00 AM ET 
- 
-CPI Numbers on Wednesday @ 8:30 AM ET 
- 
-Lael Brainard Speaks on Thursday @ 10:00 AM ET 
- 
-$SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 05:55:31 </td>
-   <td style="text-align:left;"> $QQQ $SPX $BTX.X call these YouTube clowns are CNBC dog, they are making videos based on CNBC don’t waste your time $coin $btc.x $qqq moon!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 05:53:10 </td>
-   <td style="text-align:left;"> $QQQ oh man. More YouTube videos. Buy energy sector. Buy banks. Avoid software cloud IT hardware and other stay at home high valuation tech
-
-Can the Nasdaq really plunge another $TQQQ  13%? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 05:45:40 </td>
-   <td style="text-align:left;"> $spy $qqq. Powell will keep saying the same thing… measured and calculated responses while keep developments in progress.   COVId situation during Dec meeting time and now is vastly different </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 05:38:12 </td>
-   <td style="text-align:left;"> Next week’s episode of market drama🍿
-• Monday- #Deltacron headlines
-• Tuesday- Powell speaking at 10AM
-• Wednesday- CPI data at 8.30AM 
-• Thursday- PPI data at 8.30AM
-• Friday- Theta burn activities 👀
-
-$spy $aapl $tsla $qqq $arkk </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-01-10 05:37:56 </td>
-   <td style="text-align:left;"> $SPY latex18798aab6254650be296bcad6d823ef8LCID Over latex77cc6f31beb7c11a878ed68de9eeaaacAAPL Over 173.10📈 
+$TSLA $MRNA $AAPL $FUBO latex0ecf37aa00126df48cba6a4afd6f8374LCID Over latex77cc6f31beb7c11a878ed68de9eeaaacAAPL Over 173.10📈 
 
 $BABA Over 130.21📈
 
@@ -5157,17 +5419,6 @@ https://newsfilter.io/a/e56a314295440fe622c2533f4d4d3dd4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-09 23:08:33 </td>
-   <td style="text-align:left;"> icker: $AAPL 
-Buy: January 14, 2022 $172.50 Calls 
-Entry Price: $2.37 - $2.50 
-Exit Price: $2.99 
-Stop Loss: $2.09 
-Potential ROI: 26% 
-Estimated Hold Time: 33 Minutes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
    <td style="text-align:left;"> 2022-01-09 23:04:55 </td>
    <td style="text-align:left;"> PC Slowdown Sets a New Battleground for Chip Makers  $AMD $JEF $AAPL $QCOM 
 
@@ -5935,293 +6186,1308 @@ how can it trade 1/3r or 1/4th valuation when transaction volume only dipped 3%(
 Time will tell if it’s still fragile  https://www.wsj.com/articles/why-apples-imessage-is-winning-teens-dread-the-green-text-bubble-11641618009 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-09 00:43:44 </td>
-   <td style="text-align:left;"> $SPY $DIA $QQQ $AAPL these guys have some great content for long term investing
- https://youtu.be/Q9IzuD4SD5E </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 16:00:28 </td>
+   <td style="text-align:left;"> $TSLA The bears must be hibernating. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-09 00:40:58 </td>
-   <td style="text-align:left;"> $AAPL 
-Bonds-Yields 1.80% is Apple $172.17
-
-If Bonds-Yields go back 1.50% Apple $223.82
-
-I think the USA economic is Very Strong. Around The Corner, change inflation to deflation. (Diminution). Soon 🔜 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:51:41 </td>
+   <td style="text-align:left;"> $TSLA look exactly like last Monday. I just hope we don’t have the same Tuesday - Friday same as last week. 
+Looking good </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-09 00:11:50 </td>
-   <td style="text-align:left;"> Apple $SPY $AAPL </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:49:54 </td>
+   <td style="text-align:left;"> $SPY if fut can keep the momentum, even when theres a dip at the open, i believe all fang tech will push it higher. $TSLA $AAPL $AMZN $TQQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-09 00:08:18 </td>
-   <td style="text-align:left;"> SweepCast alerted: $AAPL with Unusual Options Activity Alerted on $125 CALL Expiring: 01-20-2023 worth 1071K🐂 |🥇  The trade has a sentiment of BULLISH | SweepCast.com or Premium Room ➡️  #daytradingtips </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:47:37 </td>
+   <td style="text-align:left;"> Asus&amp;#39; $1,650 all-AMD #gaming laptop delivers excellent performance and battery life, with a top-of-the-line Ryzen 9 5900HX CPU and Radeon RX 6800M GPU -- and that&amp;#39;s before you realize that the performance and components are way above its price class.
+&amp;gt; https://www.cnet.com/tech/computing/gaming-monitors-from-ces-2022-to-get-hyped-for/ 
+$AMD ↗️ + $XLNX 
+$MSFT | $TSLA </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-09 00:02:48 </td>
-   <td style="text-align:left;"> $SPY $TSLA $AAPL $BTC.X 
-
-My thoughts on the stock mkt next week ... 
-
-Last Sunday in my Game Plan for the Week sent to members I laid out the scenario that ended up playing out all week (go to renohawk.blog to read).  I mentioned we would probably begin the year with a move to 480 on the SPY but that would most likely be our last leg higher. It was my belief that yields were going to rise and the first half of the year would most likely offer a 10%+ correction. I said last Sunday that we would breach the 50 day EMA (which we closed at Friday) and test our 200 day EMA. 
-
-In the past I&amp;#39;ve used BTC/cryptos as well as TSLA as my sentiment indicators. And while TSLA (as well stks like AAPL) has held up well, the crypto mkt has been crumbling with an enormous amount of new investors  wiped out. 
-
-Where to from here? Do we bounce? My new Game Plan goes out tomorrow. To join, email me at:
-
-jessielivermore1929@gmail.com 
-
-Buckle up, we are in for some turbulent months ahead for both bulls and bears ✌️ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 23:49:29 </td>
-   <td style="text-align:left;"> $XLK The sector has shown a five waves decline since the peak at 12.28.2021. Next week three waves should happen. Here is the latest 1 Hour chart to members at https://elliottwave-forecast.com/, showing an impulse lower. #elliottwave #trading $AAPL $AMD $AMAZ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 23:45:55 </td>
-   <td style="text-align:left;"> $BTC.X would you sell $AAPL and $GOOG in 2000 during that market correction? I didn’t think so. Same situation. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 23:40:38 </td>
-   <td style="text-align:left;"> $AAPL 
-
-About Tim Cook increased compensation package - people want to know how he get increased package.
-
-Usually the shareholder decided that, not Tim Cook himself by proxy voting.
-
-How does that work? Proxy sent the document of increased compensation  and they do by voting thru proxy.
-
-Who is the largest shareholder in this? It’s of course Warren Buffet.
-
-Now what is going to be secret is ?
-
-Share buyback and dividend increases ..
-
-Who decides that ? Of course, shareholder proxy votes.
-
-I can sense these both share buybacks and dividends will increase this time due to record breaking sales.
-
-The purpose of these is to dampen the P/E to make it very reasonably valued.
-
-This is a must buy stock for long term holding due to metaverse and apple car coming soon.
-
-Think long, not short term! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 23:39:04 </td>
-   <td style="text-align:left;"> $AAPL Cramer sounds like Scooby Doo and shaggy had a baby. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 23:38:00 </td>
-   <td style="text-align:left;"> $AAPL was analyzed by 48 analysts. The buy consensus is at 83%. So analysts seem to be very confident about $AAPL. https://www.chartmill.com/stock/quote/AAPL/analyst-ratings?utm_source=stocktwits&amp;amp;utm_medium=ANALYST&amp;amp;utm_content=AAPL&amp;amp;utm_campaign=social_tracking </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 23:36:48 </td>
-   <td style="text-align:left;"> $SPY $TSLA $AAPL $PLTR $GOOG 
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:42:51 </td>
+   <td style="text-align:left;"> $TSLA  
  
-A lot of crazy people are on the Internet nowadays, but realize all the sane ones are censored </td>
+The future belongs to us!! </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 23:32:54 </td>
-   <td style="text-align:left;"> 12 Ways to Tame Your Family’s Screen Time in 20226 min read  $AAPL $ADC $NFLX 
-
-https://newsfilter.io/a/decf2a34f907a51cfb43956cd59b8ce3 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:42:07 </td>
+   <td style="text-align:left;"> $TSLA </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 23:19:50 </td>
-   <td style="text-align:left;"> $AAPL at support or do we flush more? https://youtu.be/yNuFYhjhanA I go over the lines on this video $study </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:41:44 </td>
+   <td style="text-align:left;"> $TSLA bears better get your lube on now cause I ain&amp;#39;t stopping </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 23:11:52 </td>
-   <td style="text-align:left;"> $AAPL 
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:40:32 </td>
+   <td style="text-align:left;"> $TSLA due for a green day, 4 days of absolute shit..
 
-If you want to understand finance analysis.
-
-P/E determine the valuations of the company if it’s overvalued or not.
-
-You formulate that with current price / annual earning per share
-
-AAPL current price is 172 and the annual EPS is 5.61 which means 1.4 per quarter.
-
-Now formulate that current EPS
-
-172 / 5.61 = 30.65 
-
-That is currently reasonably valued given they had two criteria
-
-- share buybacks
-- dividends 
-
-If the company decides to increases both, it will attract many investors to buy and accumulate.
-
-This is good for long and hold.
-
-So people who say this stock is overvalued is wrong and know nothing about financial terminology. </td>
+the negative catalysts aren&amp;#39;t until Tuesday/Wednesday and maybe the market likes the news who knows!! </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 22:42:28 </td>
-   <td style="text-align:left;"> $TSLA $WM $AAPL very solid place to keep money during this inflation nonsense for the next 8 quarters. Just stay out of retail.  In my humble opinion </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:39:49 </td>
+   <td style="text-align:left;"> $TSLA 1100 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 22:41:07 </td>
-   <td style="text-align:left;"> $AAPL calls at open on Monday, back to 3 trillion next week! </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:39:11 </td>
+   <td style="text-align:left;"> $TSLA 
+
+$1,052.82 in Germany </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 22:37:57 </td>
-   <td style="text-align:left;"> $AAPL to partner with $PLTR would be big </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:39:00 </td>
+   <td style="text-align:left;"> $TSLA woke up to 370% profit on my tesla contracts last monday opening, i wonder what i will see this monday 🤑 tesla is too easy to read </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 22:17:24 </td>
-   <td style="text-align:left;"> $NVDA $AAPL 
-
-Beth Kindig: Nvidia will now surpass Apple in 4.5 years as we are 6 months into the original 5 year prediction.
-
-https://io-fund.com/throwback-nvidia-will-surpass-apple-valuation-4.5-years </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:36:58 </td>
+   <td style="text-align:left;"> $TSLA there is no better feeling than waking up and see bears getting wreked </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 22:10:34 </td>
-   <td style="text-align:left;"> $AAPL https://www.nasdaq.com/market-activity/stocks/aapl </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:36:04 </td>
+   <td style="text-align:left;"> $TSLA ba ha ha .. bears.. this will run back up.. loads of catalysts ahead .. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 22:09:07 </td>
-   <td style="text-align:left;"> $SPY $AAPL $QQQ $IWM Going through my post history….I saw only one bad call in the last 3 weeks. 🤔 (my “bad call” was a short call on VIAC which ended up going up 17% this past week lol) I lost $5.00 😱 lol….other than that horrible call I’m like batting .800 on correct predictions. (i’m batting 1000% on what the Fed is doing, check my post history and YouTube videos for confirmation on FED predictions) I just don’t understand why people keep telling me I don’t know what I’m talking about…. And bringing up things that happened months ago when I was an idiot (still am) Just PLEASE check my fucking post history guys before saying I don’t know what I’m talking about.  🤷‍♂️
-
-I said the SPY $480 calls and the AAPL $180 calls would expire worthless based off of objective option data.  AND THEY DID. I don’t watch the news so I don’t know what the fuck they’re all bitching about right now and to be honest with you I don’t care. I’m staying objective always. 🤙 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:34:44 </td>
+   <td style="text-align:left;"> $TSLA $1052.74 in Frankfurt. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 22:08:02 </td>
-   <td style="text-align:left;"> $AAPL so far a nice 5 waves down off the top to complete wave 1 down. Wave 2 is potentially complete but may also rally into the 38% retracement level before completing on Monday. </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:34:10 </td>
+   <td style="text-align:left;"> $TSLA 5% day right at open to start it off </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 22:06:47 </td>
-   <td style="text-align:left;"> $AAPL https://www.change.org/p/us-stock-market-manipulation-should-stop-gary-gensler-must-resign?lang=en-US </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:33:59 </td>
+   <td style="text-align:left;"> $TSLA $GOOGL $PYPL $AMZN $AAPL Hope it stays green the whole Monday. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 22:00:42 </td>
-   <td style="text-align:left;"> $AAPL Simulated 175.0 dollar CALLS for Monday&amp;#39;s open on StockOrbit.
- https://apps.apple.com/us/app/stockorbit/id1541560646 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:33:43 </td>
+   <td style="text-align:left;"> $TSLA sorry bears, but you&amp;#39;re f*k </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 21:55:16 </td>
-   <td style="text-align:left;"> $AAPL is a much better store of value than $BTC.X </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:31:35 </td>
+   <td style="text-align:left;"> $TSLA   You didnt hold PUTS over the week-end, did you ? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 21:41:31 </td>
-   <td style="text-align:left;"> $BRK.B I wonder how much more $AAPL Berkshire owns from $BRK.B  and apple buying back shares. </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:30:05 </td>
+   <td style="text-align:left;"> $TSLA $1100 open 😆 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 21:38:17 </td>
-   <td style="text-align:left;"> $AAPL why stonks not moving premarket today? Wtf..  I’m trying to trade $SPY </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:26:56 </td>
+   <td style="text-align:left;"> $TSLA breakout in germany +2,36% 1047 on the ask. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 21:23:15 </td>
-   <td style="text-align:left;"> $SPY $AAPL $AMD No one can guess all 5 baby Bell co. formed from Bell telephone 1985 break-up? 
-
-You guys are SUCH party poopers 
-😂😅👍
-
-So, they are , drum roll please, 
-
-1. ATT
-2. ActionTec
-3. CenturyLink
-4. US West
-
-And 5, and you guys are so out of touch!!! ..... 
-
-Number 5 of baby Bells is: AirTouch Communications .
-
-Good job to all those who played along with this little quiz today. 
-
-And, YES! in order for FREE ENTERPRISE to placate the stock market have it grow, monopolies will need to be broken up.
-
-Amazon heads the list but ALL of the top 5 or 6 propping Nasdaq now need to be broken up 👍 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:25:57 </td>
+   <td style="text-align:left;"> $SPY   $TSLA </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 21:09:43 </td>
-   <td style="text-align:left;"> $VUZI I’m pleased Barron’s tech writer went to ces , and wrote on metaverse and mentioned some key co’s in their relative strengths .. $fb $aapl $qcom and yes vuzix .. nice! 
-Enterprise is a heck of a space to be recognized for imho and you clearly become a leap frog candidate for a Goliath w ability to take on consumer intricacy needs .. bravo vuzix </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:24:47 </td>
+   <td style="text-align:left;"> $TSLA futures ripping 🤑 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 20:48:19 </td>
-   <td style="text-align:left;"> $SPY $QQQ $SOXX $AAPL I&amp;#39;m so good with my clues for the 1980s conglomerate powerhouse, Bell Telephone.
-
-I asked which companies were formed from Bell&amp;#39;s monopolistic break-up in the mid 80s.
-
-There are FIVE, oh, I just helped you out. 
-
-Well. 
-
-Go. 
-
-*Note: This originated because someone&amp;#39;s speaking now of how FIVE, or so, companies propping the entire nasdaq right now👍
-
-They need to be BROKEN UP, esp. Amazon, for markets to truly open up FREE ENTERPRISE again👌👀 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:24:12 </td>
+   <td style="text-align:left;"> $TSLA $1200+ ✅🔥 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 20:45:14 </td>
-   <td style="text-align:left;"> $AAPL yawn </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:23:54 </td>
+   <td style="text-align:left;"> $TSLA $1044 in Germany </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 20:27:37 </td>
-   <td style="text-align:left;"> Equity Sentiment: $AAPL is the #1 stock that institutions are trading with 81.5K options contracts.
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:23:02 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:18:59 </td>
+   <td style="text-align:left;"> $TSLA Tesla Owner Says He Makes $800 A Month Using His Model 3 To Mine Bitcoin, Ethereum 
 
-Market analysis included in screenshot of dashboard from http://insiderfinance.io. </td>
+https://newsfilter.io/a/5083fa3a16ac0dae640f4ecfd0c5b7c3 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 20:05:07 </td>
-   <td style="text-align:left;"> The End of Car Keys, Passwords and Fumbling With Your Phone at Checkout  $AAPL $GOOG $QRVO 
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:12:25 </td>
+   <td style="text-align:left;"> $SPY $TSLA $QQQ 
 
-https://newsfilter.io/a/bdbe87ccef71079b540035e02b658e7c </td>
+FUTURES UPDATE FOR THE SHORTS 👇 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 20:05:02 </td>
-   <td style="text-align:left;"> Why Apple’s iMessage Is Winning: Teens Dread the Green Text Bubble  $AAPL $GOOG $PIPR $SBUX 
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:10:55 </td>
+   <td style="text-align:left;"> How NASA Plans To Use The Orion Space Launch System &amp;amp; SpaceX Starship To Land The Next Astronauts On The Moon 
+ 
+$TSLA 
+ 
+https://www.tesmanian.com/blogs/tesmanian-blog/sls-hls-2025 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:10:10 </td>
+   <td style="text-align:left;"> $TSLA Roaring Nasdaq futures 😆Green </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:08:50 </td>
+   <td style="text-align:left;"> $TSLA $1,037.99 Frankfurt premarket </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:07:43 </td>
+   <td style="text-align:left;"> $TSLA $AMD $NVDA futures not looking strong , might be red at open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:07:30 </td>
+   <td style="text-align:left;"> $TSLA $1041 USD in Germany </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:07:02 </td>
+   <td style="text-align:left;"> North Judson PD in Indiana Goes Electric, Adds Tesla Model Y to Police Fleet 
+ 
+$TSLA 
+ 
+https://www.tesmanian.com/blogs/tesmanian-blog/the-north-judson-pd-in-indiana-goes-electric-with-tesla-model-y-in-police-fleet </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:04:43 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Dark Pool &amp;amp; Short Interest Data: 
+https://www.youtube.com/watch?v=uO_DgRipZfw </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:03:29 </td>
+   <td style="text-align:left;"> $TSLA Germany $1040 asking price </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:02:38 </td>
+   <td style="text-align:left;"> $TSLA I know it says nothing. But opened green +1,23% in germany. Probably just the AM buys. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:01:19 </td>
+   <td style="text-align:left;"> $TSLA all futures are green now! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 15:00:47 </td>
+   <td style="text-align:left;"> $PLUG Partner Gaussin For the first time, a 100% hydrogen-powered truck is taking part into the Dakar.
+As the official partner for clean technologies and as part of #DakarFuture, the H2 RACING TRUCK® from 
+@GaussinGroup
+ pushes its limits in the though conditions of the race.
+#Dakar2022 https://twitter.com/dakar/status/1479750977825611779?s=20
 
-https://newsfilter.io/a/d97ad24b549c64969d5c9481c715cf03 </td>
+$NKLA $TSLA </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 20:00:47 </td>
-   <td style="text-align:left;"> $AAPL Simulated 175.0 dollar CALLS for Monday&amp;#39;s open on StockOrbit.
- https://apps.apple.com/us/app/stockorbit/id1541560646 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:57:11 </td>
+   <td style="text-align:left;"> $TSLA pump master doge daddy. Fook dat guy
+ https://www.reddit.com/r/Epic_Economics/comments/s0dpcz/the_binance_ceo_his_mega_fortune_frauds_abundant/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-01-08 19:40:54 </td>
-   <td style="text-align:left;"> $AAPL I’m so nervous. I need this to hit $190 by March 18 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:55:15 </td>
+   <td style="text-align:left;"> $TSLA 
+Bitcoin to zero , soon!
+
+Blackout in Berlin: Heating power plant offline. 370,000 households reportedly without electricity and heating. Hot water supply is also interrupted (Focus) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:54:14 </td>
+   <td style="text-align:left;"> $TSLA Ayeee boys some extra fun money to be made at night, and you can search up reviews, it’s legit and pays much better lol https://send.cloutzap.com/Ali786 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:49:00 </td>
+   <td style="text-align:left;"> $TSLA $1,300 this week MINIMUM </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:48:25 </td>
+   <td style="text-align:left;"> $TSLA $1167 in Fuckshitstan open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:43:55 </td>
+   <td style="text-align:left;"> $TSLA doge daddy really did u dirty
+ https://www.reddit.com/r/Epic_Economics/comments/s0dh48/crypto_death_crossed/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:41:45 </td>
+   <td style="text-align:left;"> WATCHLIST  1/10/21 - 1/14/21 MON - FRI
+PT-4
+OPTIONS
+
+$UPS - Stock forming inverse head and shoulders on charts. Close to breaking all time highs. Calls above $220
+
+$QCOM -. GM To Use Qualcomm&amp;#39; Snapdragon Ride Platform For Advanced Driver Assistance Technology. Calls above $182.25
+
+$MU - stock is looking strong on charts. Possible triple digits incoming. Calls above $95
+
+$TSLA -  Stock breaking key support level on friday. Calls above $1035. Puts below $1000
+
+$SNOW - Stock ending the week with two small green candles indicating a possible reversal. Calls above $305
+
+https://rooms.stocktwits.com/checkout/4451239/prod_KEH7byRXcPlJ63 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:33:52 </td>
+   <td style="text-align:left;"> $TSLA I honestly believe this is going to 950 this week. 
+
+But I&amp;#39;m not going to get puts. I already banked profit shorting it from 1100 to 1026. 
+
+400% </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:33:38 </td>
+   <td style="text-align:left;"> $TSLA  A 1% rate increase corresponds to a 1% correction. $TSLA crash 20% on a 0.25 % rate increase which is total BS </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:33:37 </td>
+   <td style="text-align:left;"> $TSLA $1226 today with GS upgrade. Bears will be learning some lessons here undoubtedly. 😇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:30:27 </td>
+   <td style="text-align:left;"> $AMZN $TSLA $AAPL 
+
+Niiiiiice! Great scanners! 
+
+Just banked from your scanners ...
+
+Love it... thankful to the whole team 😇
+
+🙌  tinyurl.com/vudipvxdc </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:27:43 </td>
+   <td style="text-align:left;"> $CEI you guys ready $TSLA to be coworkers? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:27:15 </td>
+   <td style="text-align:left;"> $TSLA Tech and Dow futures are in equilibrium :) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:27:13 </td>
+   <td style="text-align:left;"> $TSLA https://youtu.be/k-4fySgpPvU </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:25:37 </td>
+   <td style="text-align:left;"> $TSLA red day forming </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:21:41 </td>
+   <td style="text-align:left;"> $TSLA “futures are ripping” </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:19:28 </td>
+   <td style="text-align:left;"> $TSLA it will open 1045-1055 range </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:17:37 </td>
+   <td style="text-align:left;"> $TSLA really 12k in Jan 17? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:15:18 </td>
+   <td style="text-align:left;"> $TSLA fuck your calls </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:10:29 </td>
+   <td style="text-align:left;"> $TSLA ohhhhh shit $970 looking good for tomorrow....puts are going to print. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:08:58 </td>
+   <td style="text-align:left;"> $TSLA bought a few 1090$ calls before close. News this weekend is promising. Lets pump again like last Monday 🔥 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:08:13 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Technical Analysis Video: 
+https://www.youtube.com/watch?v=zN0Oh_3bq8k </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:06:57 </td>
+   <td style="text-align:left;"> $TSLA when are the China delivery numbers released? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:06:54 </td>
+   <td style="text-align:left;"> $TSLA  can it pull off another 10% day 👀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:04:16 </td>
+   <td style="text-align:left;"> $TSLA buyin innovation https://youtu.be/ucQSD9ayiv8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:02:59 </td>
+   <td style="text-align:left;"> Apple Rivals Microsoft, Blackberry, Nokia Laughed At iPhone, Shrugged It Off And Flung It To The Ground As Steve Jobs Lifted The Curtains — 15 Years Later, Here We Are  $AAPL $BB $NOK $TSLA 
+
+https://newsfilter.io/a/20927dc03ceafdc4e56bdb5868809fe6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 14:02:53 </td>
+   <td style="text-align:left;"> $TSLA will spend 2022 under $1000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:59:54 </td>
+   <td style="text-align:left;"> $TSLA https://www.streetinsider.com/dr/news.php?id=19438015&amp;amp;gfv=1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:59:17 </td>
+   <td style="text-align:left;"> $SAITAMA-X $TSLA #wolfpack #saitamask we running </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:58:24 </td>
+   <td style="text-align:left;"> $TSLA Tesla S prototype at the Petersen Auto Museum </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:57:34 </td>
+   <td style="text-align:left;"> $TSLA Big Day coming ip. Leta go </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:56:53 </td>
+   <td style="text-align:left;"> $TSLA get ready bears, don&amp;#39;t clench your buttholes tomorrow, it will only hurt more </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:56:31 </td>
+   <td style="text-align:left;"> $TSLA This is cathys piggy bank, just keep cashing them gains on tsla.. that fucking gilf.. smh </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:54:23 </td>
+   <td style="text-align:left;"> ⏳📈💰 $TSLA - Cathie Wood Sells Another $12M Shares In Tesla On Friday — Buys These Stocks On The Dip - Roku, Square &amp;amp; Coinbase. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:54:14 </td>
+   <td style="text-align:left;"> $TSLA Big short these 🥜… tomorrow y’all will pay back. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:53:23 </td>
+   <td style="text-align:left;"> $IIVI $TSLA $AAPL $AMZN https://www.fool.com/investing/2021/01/18/how-to-invest-in-5g-cloud-computing-autonomous-ele/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:48:23 </td>
+   <td style="text-align:left;"> $SPY $TSLA 
+
+https://www.businessinsider.com/big-short-michael-burry-elon-musk-tesla-gamestop-crypto-crash-2022-1?amp </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:46:04 </td>
+   <td style="text-align:left;"> $TSLA $SOFI $LCID 
+So funny! 😂🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:44:16 </td>
+   <td style="text-align:left;"> $TSLA   NASDAQ FUTURES RIPPIN </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:42:51 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:42:10 </td>
+   <td style="text-align:left;"> $TSLA drops and pops. Load up on the drop.  BTW My guess is good as anyone on stocktwist 😄 🤣 😂  but the risk is all your, don&amp;#39;t blame anyone for losing. Casino opens in few hours. Gl fellas. &amp;quot;#BWBB&amp;quot; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:39:22 </td>
+   <td style="text-align:left;"> $TSLA Garbage. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:39:04 </td>
+   <td style="text-align:left;"> $ARKK $SPY $QQQ $TSLA beautiful bullish flag im going to start a long position ~70/60 
+ 
+i think arkk goes to 180 by eoy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:38:13 </td>
+   <td style="text-align:left;"> $QQQ $SPY $SQQQ $TSLA just your market maker doing a mini pump pre market so they can exit in the morning or tuesday,  dont be the donkeys that buying the dip </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:33:56 </td>
+   <td style="text-align:left;"> $TSLA we test 1000 early </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:24:09 </td>
+   <td style="text-align:left;"> $TSLA I purchased a few shares at $1050 Am I fucked? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:17:58 </td>
+   <td style="text-align:left;"> $TSLA Elon the doge daddy has no way out. Pumped for personal gain. Pay the consequences. 🙌💣🔥☠️
+ https://www.reddit.com/r/Epic_Economics/comments/s0bxch/balance_sheet_runoff_stock_market_crypto_killer/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:15:32 </td>
+   <td style="text-align:left;"> $TSLA why is this not all over Twitter? LETS GO!!!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:12:42 </td>
+   <td style="text-align:left;"> $TSLA Stocks which are highly valued will come down this year !!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:11:28 </td>
+   <td style="text-align:left;"> $TSLA pop up tomm </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:10:45 </td>
+   <td style="text-align:left;"> $TSLA damn futures are still red.....do you remember once upon a time when stocks were a good investment? 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:09:52 </td>
+   <td style="text-align:left;"> $TSLA alright, let’s see what you are made of. 
+ 
+55 pt (+.33%) move on the nq1! (nasdaq mini’s) in the last hour. I like the conservative but notable rise on the $SPY  minis, at about +.12% in the past Hour and some change. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:09:36 </td>
+   <td style="text-align:left;"> $TSLA NASDAQ AND SPY GREEN.. LFG MF&amp;#39;RS 🔥🔥✅ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:09:28 </td>
+   <td style="text-align:left;"> $TSLA This guy has a good track record! Watch this! https://youtu.be/1gAoQ7LD-nI </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:08:36 </td>
+   <td style="text-align:left;"> $TSLA Inflation is way too serious. Fed should increase interest rates and do QT as soon as possible. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:07:11 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Options Analysis Video: 
+https://www.youtube.com/watch?v=Z5EFxUStxMY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:05:05 </td>
+   <td style="text-align:left;"> Tesla $TSLA BidaskScore is #Reiterated to Held https://bidaskclub.com/news/company/2022-01-06/TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:04:10 </td>
+   <td style="text-align:left;"> $TSLA if there is any meaningful pop should just sell into it market is jittery with fed and cpi data coming this week care </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:02:43 </td>
+   <td style="text-align:left;"> $QQQ $SPY $TSLA next goal is to break out of this channel and1 hour 21 ema, if we can do that.. we are set </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 13:01:59 </td>
+   <td style="text-align:left;"> $TSLA This Coin Named After Elon Musk&amp;#39;s Pet &amp;#39;Floki&amp;#39; Is Up Over 740% Even As Dogecoin And Shiba Inu Trade Muted 
+
+https://newsfilter.io/a/84cc8d4e87b61275d1030e2b263a35e6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:57:53 </td>
+   <td style="text-align:left;"> $TSLA $SOFI $LCID 
+In one one and a half year all these will be 3X!!! 
+So just forget about them for a year and pretend you dont have them! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:57:41 </td>
+   <td style="text-align:left;"> $TSLA insanely cheap 
+
+https://youtu.be/k-4fySgpPvU </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:56:21 </td>
+   <td style="text-align:left;"> $TSLA https://media.discordapp.net/attachments/458459657015525378/929946627232374794/IMG_4016.png </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:56:10 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:56:06 </td>
+   <td style="text-align:left;"> $TSLA do far everything suggests a small recovery during pre mkt, probably to the high 1030-s:
+- Nasdaq futures green, +0.33%
+- Bitcoin is up, reclaimed 42k and is holding
+- opinion of Dan Ives that Texas opens soon (pay attention, it&amp;#39;s just a speculation)
+- new note from GS with PT 1200 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:53:55 </td>
+   <td style="text-align:left;"> $AAPL $TSLA $SPY MARKETS WILL BE PUMPED AROUND BIDEN ANNIVERSARY and ER for one last time before … the inevitable. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:49:12 </td>
+   <td style="text-align:left;"> $TSLA It&amp;#39;s happening! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:48:14 </td>
+   <td style="text-align:left;"> $TSLA Reddit on your knees! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:48:13 </td>
+   <td style="text-align:left;"> $TSLA Even though it don&amp;#39;t mean anything futu&amp;#39;s are green </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:47:51 </td>
+   <td style="text-align:left;"> $TSLA Giga Texas production will start with Tesla Model Y </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:47:18 </td>
+   <td style="text-align:left;"> $TSLA Could be nothing, could be something. https://twitter.com/SawyerMerritt/status/1480383632867049483?s=20 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:46:50 </td>
+   <td style="text-align:left;"> $TSLA Dow futures red and nasdaq green… makes complete sense with rotation back into tech, let’s hope it holds </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:45:42 </td>
+   <td style="text-align:left;"> $TSLA The Tesla Analyst: Wedbush analyst Daniel Ives has an Outperform rating and a $1,400 price target for Tesla shares, with the bull case price target at $1,800. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:44:18 </td>
+   <td style="text-align:left;"> $TSLA futures are red as shit... tha fuk? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:41:14 </td>
+   <td style="text-align:left;"> $TSLA  futures green </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:39:10 </td>
+   <td style="text-align:left;"> Algos and Trading: Conversation with Money Moves Investment&amp;#39;s Creator https://youtu.be/3edLz1rs9KA with @dallionking 
+
+$SPY $TSLA $BTC $AMC </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:38:12 </td>
+   <td style="text-align:left;"> $TSLA it funny when bears say please 🤣 😂 😆 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:38:06 </td>
+   <td style="text-align:left;"> $TSLA run it the f up im hungry again for that sub 1k </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:37:59 </td>
+   <td style="text-align:left;"> $TSLA Going all in tommorow for a swing trade. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:37:00 </td>
+   <td style="text-align:left;"> $TSLA love how the noobs are excited about being up slightly on futes. Check it out DOW about to go red. Why would nasdaq be green tomorrow. So far Jan has sucked and how Jan goes so goes the year. We need a big ass pullback in order to stop market from toppling completely over. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:36:06 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA $AAPL 
+BEARS WHAT HAPPENED TO THE CRASH ???!
+Five hours ago when futures opened and were down .4  percent, u said limit down circuit breakers ??!! Now futures ALL GREEN and nasdaq getting a pump and let me guess your response “FUTures don’t MATtter, red by morning?!” 😂😂😂
+FUTURES UPDATE FOR THE SHORTS  👇👇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:35:20 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Largest Trades Data: 
+https://www.youtube.com/watch?v=Gtq03JHi3IA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:34:55 </td>
+   <td style="text-align:left;"> $TSLA 1200 eow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:32:16 </td>
+   <td style="text-align:left;"> $TSLA there some &amp;quot;news&amp;quot; about the drop of 10y note futures
+
+Pay attention to two things
+- it&amp;#39;s about the note, not Yield. Note price action is the inverse of yield
+
+- the drop over weekend is very very small, insignificant. The news is about the fact that the absolute value hit the very low level. But it didn&amp;#39;t happen over weekend, it&amp;#39;s the results of the drop during last months </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:31:56 </td>
+   <td style="text-align:left;"> $TSLA we got good news, why are a lot of people saying it’s bearish? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:31:30 </td>
+   <td style="text-align:left;"> $SPY we already experienced halted down pre-covid. Can we experience halt up by fed pump? $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:30:07 </td>
+   <td style="text-align:left;"> $TSLA Probably up tomorrow and then down before Jerome Powell’s confirmation hearing on Tuesday with possible positive remarks from him then all the way up nonstop until their next meeting on January 24th </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:29:02 </td>
+   <td style="text-align:left;"> $TSLA 1200$ this week 😎 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:26:09 </td>
+   <td style="text-align:left;"> $TSLA I don’t think that Fed will move in a way that will crash markets which will hurt millions of retail investors and  their families financially and it’s huge impact on Economy. Even markets don’t know how quickly they will move on reducing their balance sheet. These are just possibilities that markets makers react on. When we hear some positive news about their certain plans on reducing balance sheet. The markets will skyrocket from this level by burning all short sellers alive😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:24:06 </td>
+   <td style="text-align:left;"> $TSLA 
+
+GS price target $1200 check
+Giga Austin revving this week check 
+Elon having fun on Twitter check 
+Earnings going to be bananas check 
+
+Which way is price headed this week?! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:23:30 </td>
+   <td style="text-align:left;"> $TSLA $AMD $NVDA $SPY 
+
+Who’s ready to trade tomorrow!!
+
+Join the free discord to get free alerts!
+
+Link in bio! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:22:53 </td>
+   <td style="text-align:left;"> $TSLA Goldman Sach $1200+ ✅🔥 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:19:09 </td>
+   <td style="text-align:left;"> $TSLA Goldman the most prestigious bank in the world. 20% 1 yr target is 5 X the expected 1 yr return of the major equity indices Pegged at4% 1 yr.  GMO says down 7%. Going higher </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:17:42 </td>
+   <td style="text-align:left;"> $TSLA Buying $900 put around open. If it dips buying 15 shares. Let’s go 😆✊🏽 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:14:09 </td>
+   <td style="text-align:left;"> $TSLA futures looking green we trap good amounts of bears before Q4 earnings.
+
+Follow by inflation data this Wednesday we  looking good boys </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:11:51 </td>
+   <td style="text-align:left;"> $TSLA let the upgrades begin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:11:45 </td>
+   <td style="text-align:left;"> $TSLA tomorrow we ride </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:08:36 </td>
+   <td style="text-align:left;"> $TSLA $850 please </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:06:38 </td>
+   <td style="text-align:left;"> $TSLA @sambal This is one of the biggest pumpers on this board along with @Borggss .  Don&amp;#39;t follow his advice.  If you do you will go broke.  Look at all the money he has lost as of late writing these crazy put options. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:06:29 </td>
+   <td style="text-align:left;"> $TSLA is a $67 stock </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:06:23 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Daily Forecast Video: 
+https://www.youtube.com/watch?v=7vdS9w9q2j8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:06:12 </td>
+   <td style="text-align:left;"> $TSLA futes rippin or trippin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:05:37 </td>
+   <td style="text-align:left;"> $TSLA My puts will make some money tomorrow hopefully. I see 950$ coming this week. Sell or hold for long term. These week markets will resemble last week again. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:04:42 </td>
+   <td style="text-align:left;"> $SPCE $TSLA $RIVN How To BEAT The Options Market With Greeks Explained &amp;amp; MORE on this episode of WNW
+Be sure to like, comment, and subscribe!📺
+
+https://youtu.be/0AW-EzMDy70 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:03:57 </td>
+   <td style="text-align:left;"> $TSLA how you drive home to tell your wife Tesla hit $3000 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:03:24 </td>
+   <td style="text-align:left;"> $TSLA puts at open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:03:02 </td>
+   <td style="text-align:left;"> $TSLA is one of the better performing stocks in the Automobiles industry. https://www.chartmill.com/stock/quote/TSLA/technical-analysis?key=b3fb89e7-ce52-4df4-906a-b4ccaf80eec8&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=TSLA&amp;amp;utm_campaign=social_tracking </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:02:37 </td>
+   <td style="text-align:left;"> $TSLA be ready for a Nasdaq snap back rip your face rally ……only short term, long term markets have to figure out fed fucking everyone by unwinding balance sheet </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 12:02:07 </td>
+   <td style="text-align:left;"> $TSLA If this dips more tomorrow buying more.  I really hope it does. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:59:17 </td>
+   <td style="text-align:left;"> $TSLA 
+
+BREAKING!!
+
+TREASURY 10-YEAR FUTURES DROP TO LOWEST SINCE DECEMBER 2019
+
+🙏🏻🦅🐉👀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:56:19 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:56:11 </td>
+   <td style="text-align:left;"> $TSLA goldman Sachs raised price target...$1200 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:54:47 </td>
+   <td style="text-align:left;"> $MRNA 2021 $JPM Health Care conference presentation was impressive, and impressively they followed through on promises and targeted progress. 2021 Presentations will be HUGE! This is $TSLA of biotech 
+ 
+https://s29.q4cdn.com/745959723/files/doc_presentations/events-presentations/2021/01/JPM-Master-Final-Presentation-(01.11.21).pdf </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:53:51 </td>
+   <td style="text-align:left;"> $TSLA When I saw they used a callin iOS only app I knew they were idiots. God bless Tesla. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:53:07 </td>
+   <td style="text-align:left;"> $TSLA not safe stock to be in at this time!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:50:20 </td>
+   <td style="text-align:left;"> $TSLA I hope those idiots on the Texas owner conference won&amp;#39;t tank the stock tomorrow. I am so tired of the endless supply of idiots in the world. God bless Tesla! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:49:23 </td>
+   <td style="text-align:left;"> $TSLA Mary&amp;#39;s gonna run that company into the ground. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:49:01 </td>
+   <td style="text-align:left;"> $TSLA  I am looking for position </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:47:49 </td>
+   <td style="text-align:left;"> $TSLA Texas in production within 10 days </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:44:01 </td>
+   <td style="text-align:left;"> $GME $AMC $TSLA https://www.reddit.com/r/Superstonk/comments/s09j6m/keep_it_alive_charles_gradante_deep_dive_into_gme/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:42:54 </td>
+   <td style="text-align:left;"> $TSLA 
+
+🙏🏻🐉🦅🤥 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:41:36 </td>
+   <td style="text-align:left;"> $TSLA not inflation; not “deltacron”;  nothing can stop this stock market.  Nothing!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:40:52 </td>
+   <td style="text-align:left;"> $TSLA 886 🥶 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:39:09 </td>
+   <td style="text-align:left;"> $TSLA The announcement is a bunch of Tesla nerds wants to have a Giga Austin party but don’t know anything about throwing a party!
+😂😂😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:38:07 </td>
+   <td style="text-align:left;"> $TSLA buy  Beat down stock $WW. to the moon WW this is the time to shine $WW </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:38:04 </td>
+   <td style="text-align:left;"> $TSLA you see how Tesla isn’t crashing?  It’s trying to shake out weak hands.  Go all in on this ticker!  It will continue to rally </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:37:35 </td>
+   <td style="text-align:left;"> $TSLA What happened to the $2500 and $5000 predictions? LOL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:37:13 </td>
+   <td style="text-align:left;"> $TSLA $NKLA Now that&amp;#39;s what I call karma is a bitch.. Cathie Woods prediction for $NKLA was 0... she lost 48% with her ARK fund last week.. $NKLA beat the market last week with 7% .... https://www.google.com/amp/s/www.cnbc.com/amp/2022/01/06/sell-off-in-cathie-woods-ark-innovation-fund-reached-48percent-at-low-point-thursday.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:36:48 </td>
+   <td style="text-align:left;"> $ETH.X is now classified as stocks like $TSLA $NVDA on dips. Everyone have to at least have some in their portfolio! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:36:38 </td>
+   <td style="text-align:left;"> $TSLA Apple partnership ? Now thats interesting ! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:35:07 </td>
+   <td style="text-align:left;"> $TSLA 
+More fresh selling and lower lows tomorrow. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:34:48 </td>
+   <td style="text-align:left;"> $TSLA Can we 1500s? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:33:53 </td>
+   <td style="text-align:left;"> $TSLA $1100 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:33:42 </td>
+   <td style="text-align:left;"> $TSLA Just poured a cold beer and grabbed a bucket of popcorn.  This is truly comical reading these.
+“3 for 1 split”
+“Down 300 tomorrow”
+“4 for 1 split”
+“Up 300 tomorrow”
+“To the Moon”
+“Partnership with Apple”
+“Going bankrupt”
+Good luck tomorrow whichever side you are on.
+Thanks for all of the laughs! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:33:36 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Dark Pool &amp;amp; Short Interest Data: 
+https://www.youtube.com/watch?v=uO_DgRipZfw </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:33:07 </td>
+   <td style="text-align:left;"> $CYDVF Nice https://aheadoftheherd.com/cypress-development-a-potential-low-cost-lithium-producer-in-nevada-to-look-out-for-in-2022/. $ALB $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:32:43 </td>
+   <td style="text-align:left;"> $TSLA who’s watching futures to? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:31:19 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:30:59 </td>
+   <td style="text-align:left;"> $TSLA when the moon </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:30:59 </td>
+   <td style="text-align:left;"> $TSLA Cathie Wood Sells Another $12M Shares In Tesla On Friday — Buys These Stocks On The Dip 
+
+https://newsfilter.io/a/ef5a297eafc9fe2b54adafacaebdb027 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:30:22 </td>
+   <td style="text-align:left;"> $TSLA fuck me sideways. LETS GO </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:30:21 </td>
+   <td style="text-align:left;"> $TSLA these owner conferences are the biggest pointless circle jerks ever. Dunno why anyone would think it’ll have any impact in the stock. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:30:19 </td>
+   <td style="text-align:left;"> $TSLA 900 before 1200 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:29:27 </td>
+   <td style="text-align:left;"> $TSLA  F U bears </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:28:52 </td>
+   <td style="text-align:left;"> $AMC We are North American Apes                                                                                                                                         
+                                                                                                                               
+Americans                                                                                                                                         
+Mexicans                                                                                                                                         
+Canadians                
+     
+We hate Shorts!  
+Buy 100 calls 28$ AMC 1/14 
+Buy 30 calls $150 $GME 1/14 
+Buy 10 calls $1150 $TSLA 1/14 
+ 
+Follow for free plays 
+OptionDonkeys.EveryMonday.com 
+                                             
+ Let’s Go. We rise as One! Worldwide </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:28:20 </td>
+   <td style="text-align:left;"> $TSLA 
+So this call seems to be a big NOTHING BURGER.
+
+Just a bunch of swinging Dick tsla owners </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:27:22 </td>
+   <td style="text-align:left;"> $TSLA 
+
+Any serious announcement will come only from Tesla officially ! 
+
+🙏🏻🦅🐉 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:26:50 </td>
+   <td style="text-align:left;"> $TSLA flat till next ER </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:26:47 </td>
+   <td style="text-align:left;"> $TSLA 🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:26:21 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:25:58 </td>
+   <td style="text-align:left;"> $TSLA been waiting for hours then…. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:24:32 </td>
+   <td style="text-align:left;"> $TSLA Whoever called that 4th and 1 go for it yolo on your own 18 yard line  .....  gets fired tomorrow morning </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:23:59 </td>
+   <td style="text-align:left;"> $TSLA new PT 🚀🚀🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:23:59 </td>
+   <td style="text-align:left;"> $TSLA JUST ANNOUNCED PARTNERSHIP WITH APPLE! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:23:23 </td>
+   <td style="text-align:left;"> $TSLA I will be thrilled if we see $1100 tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:23:18 </td>
+   <td style="text-align:left;"> $TSLA very dissapointed ! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:23:11 </td>
+   <td style="text-align:left;"> $TSLA 4:1 split!!!! Fuck ! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:22:58 </td>
+   <td style="text-align:left;"> $TSLA Tesla Con in Austin around the giga party.. final dates to be announced 🥳 see you there 🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:22:40 </td>
+   <td style="text-align:left;"> $TSLA The announcement is Tesla community Texas! Tesla club gathering </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:22:21 </td>
+   <td style="text-align:left;"> $TSLA doesn’t look good. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:22:16 </td>
+   <td style="text-align:left;"> $TSLA no good news on call ! Just listened to it lame </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:22:10 </td>
+   <td style="text-align:left;"> $TSLA teslacon in austin- biggest rodeo of all times </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:21:54 </td>
+   <td style="text-align:left;"> $TSLA 😮 sell sell sell. Tomorrow dark red I guess. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:19:50 </td>
+   <td style="text-align:left;"> $TSLA 990 🎯 remains .. not buying there though </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:19:33 </td>
+   <td style="text-align:left;"> $TSLA 1125 YOLO weekly calls beetchiiisss owww </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:18:47 </td>
+   <td style="text-align:left;"> $TSLA call details please ??? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:16:40 </td>
+   <td style="text-align:left;"> $TSLA moon boots 3:1 forward split ! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:14:49 </td>
+   <td style="text-align:left;"> $TSLA whats being said at the annoucment !!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:14:43 </td>
+   <td style="text-align:left;"> $TSLA do they not know there’s a problem with the callin app? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:12:53 </td>
+   <td style="text-align:left;"> $BABA china indexes deep green again as US futures look shakey. Only a matter of time before the $TSLA degenerates start to chase gains and pile into Chinese tickets. $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:12:42 </td>
+   <td style="text-align:left;"> $TSLA what are they ssying is it good ? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:12:01 </td>
+   <td style="text-align:left;"> $TSLA futures 💩😭☠️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:11:47 </td>
+   <td style="text-align:left;"> $TSLA nasdaq will go up 200-300 tomorrow…. Big money will jumping back into tech stocks! Not giving a PT for Tesla, but would love to be back above $1100! Also, still waiting on China delivery numbers for December 2021. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:11:29 </td>
+   <td style="text-align:left;"> $TSLA y’all best post what they’re saying </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:08:36 </td>
+   <td style="text-align:left;"> $TSLA Tera Texas ;) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:08:03 </td>
+   <td style="text-align:left;"> $TSLA callin app not working? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:07:05 </td>
+   <td style="text-align:left;"> $TSLA stupid ass Callin app requirement and wannabe users. Morons. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:06:54 </td>
+   <td style="text-align:left;"> $TSLA bull patterns in larger bull patterns usually result in bullish price action. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:06:03 </td>
+   <td style="text-align:left;"> $TSLA up or down tmw? Comment with explanation </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:05:56 </td>
+   <td style="text-align:left;"> $TSLA I smell a lot of fear... from the bears </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:05:11 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Technical Analysis Video: 
+https://www.youtube.com/watch?v=zN0Oh_3bq8k </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:04:42 </td>
+   <td style="text-align:left;"> $TSLA https://youtu.be/q06WYYSUsdU </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:03:56 </td>
+   <td style="text-align:left;"> $TSLA - 950 February 4th puts 💵
+Fed Powell, will crush tech this week as he and his suicidal suppositories run their pie holes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:03:27 </td>
+   <td style="text-align:left;"> $TSLA  ... public service announcement for self serving TESLA jawboners  ... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:00:41 </td>
+   <td style="text-align:left;"> $TSLA 🤯🤯🤯🤯 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:00:29 </td>
+   <td style="text-align:left;"> $TSLA Shorts just adding fuel to the rocket lol thank you </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 11:00:13 </td>
+   <td style="text-align:left;"> $TSLA  
+https://www.teslarati.com/tesla-giga-texas-model-y-production-start-date-tentative/amp/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 10:59:57 </td>
+   <td style="text-align:left;"> $TSLA the more this gets shorted the more it’s gonna go up eventually. 1200c are going to print this week fasho </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 10:56:59 </td>
+   <td style="text-align:left;"> How To Tell If A Stock Has Bottomed Out
+
+$TSLA $MRNA $AAPL $FUBO $GME 
+
+https://www.chartlearning.com/2021/12/how-to-tell-of-stock-has-bottomed-out.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-01-10 10:56:07 </td>
+   <td style="text-align:left;"> $TSLA I have a feeling Giga Austin launches tomorrow. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
@@ -6272,11 +7538,6 @@ Puts in case of possible pullback. </td>
    <td style="text-align:left;"> TSLA </td>
    <td style="text-align:left;"> 2022-01-10 10:45:29 </td>
    <td style="text-align:left;"> $TSLA What’s a good call option to buy long term? Something like 1,400 a year from now? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 10:44:45 </td>
-   <td style="text-align:left;"> $JHX $C $TSLA $AMC I’ve made $93,111.27 (891.33%) with their alerts, Big thanks to this chat room Make as much as you want..   https://www.discord.io/rBHacCP </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
@@ -6654,1278 +7915,6 @@ Bullish calls if no more pullback. Puts if so. </td>
    <td style="text-align:left;"> TSLA </td>
    <td style="text-align:left;"> 2022-01-10 09:32:52 </td>
    <td style="text-align:left;"> $TSLA nice to see Elon saying GOOD things about his company lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:32:14 </td>
-   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Options Analysis Video: 
-https://www.youtube.com/watch?v=Z5EFxUStxMY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:29:29 </td>
-   <td style="text-align:left;"> $SPY $QQQ earnings will take the market higher and $TSLA and others will recover ! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:29:21 </td>
-   <td style="text-align:left;"> $TSLA Kathy Woods biggest mistake is selling TSLA and buying crap.TSLA made her famous and now She is taking the wrong path.Elon musk Is the genius,just stick with him. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:29:21 </td>
-   <td style="text-align:left;"> $TSLA Daq is at the tipping point. If doesn&amp;#39;t go up tomorrow, more downside in the works. 😕 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:29:14 </td>
-   <td style="text-align:left;"> $NET $AMD $NVDA $TSLA its gonna be a good week </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:29:13 </td>
-   <td style="text-align:left;"> $TSLA  Tesla gonna Boom tomorrow 😈 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:29:03 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:28:34 </td>
-   <td style="text-align:left;"> $BTC.X this is going to be like $TSLA shorts will get rekt. Think about the pain this causes when it goes down, versus the joy when it goes up. Don’t short Tesla and don’t short Bitcoin. Two very important lessons to learn. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:28:10 </td>
-   <td style="text-align:left;"> $TSLA $1100 open </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:27:14 </td>
-   <td style="text-align:left;"> $TSLA I’ll buy at 940 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:27:10 </td>
-   <td style="text-align:left;"> $TSLA 🚀🚀🚀🚀🚀🚀🚀🚀💪🏻💪🏻💪🏻💪🏻💪🏻💪🏻💪🏻💪🏻💪🏻💪🏻💪🏻 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:27:00 </td>
-   <td style="text-align:left;"> $TSLA Cathie Woods looks like the drowned corpse of Caitlyn Jenner </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:26:49 </td>
-   <td style="text-align:left;"> $TSLA I’ll buy more if red tom </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:24:53 </td>
-   <td style="text-align:left;"> $TSLA TSLA PE drops to 150 at earnings let see how long that last </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:24:46 </td>
-   <td style="text-align:left;"> $TSLA  FUUUDDDD </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:24:25 </td>
-   <td style="text-align:left;"> $TSLA Saget is dead but Sagat still lives </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:23:26 </td>
-   <td style="text-align:left;"> $TSLA maybe that Tolkien reference was a radical Elon so something no one has ever don message.  458 to 1 split and take the stock to $2.25. lije a crypto move.  Would you put it past him? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:21:37 </td>
-   <td style="text-align:left;"> $TSLA if nasdaq opens green, RIP bears </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:19:41 </td>
-   <td style="text-align:left;"> $TSLA $SOFI $LCID $NVDA $UPST 
-NEVER EVER BET AGAINS TESLA AND ELON! YOU WILL BE EVENTUALLY DISSAPPOINTED!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:18:55 </td>
-   <td style="text-align:left;"> $TSLA Most Mentioned Tickers on WSB (via 
-@SwaggyStocks)
-
-1.   TSLA
-2.   GME
-3.   QQQ
-4.   AAPL
-5.   SBUX
-6.   TLRY
-7.   WISH
-8.   AMZN
-9.   AMC
-10. LCID </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:18:43 </td>
-   <td style="text-align:left;"> $TSLA rip bob saget </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:17:41 </td>
-   <td style="text-align:left;"> $TSLA I’m thinking closer to 2 million in 2022. 
-
-https://premium.goauto.com.au/tesla-deliveries-to-hit-1-5m-in-2022/?amp=1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:17:28 </td>
-   <td style="text-align:left;"> $TSLA  
- 
-TSLA is trending on Twitter the last 24hrs - seeing an increase in number of tweets, re-tweets, and impressions. Keep an eye on this Monday morning to see what&amp;#39;s happening. Real-time dashboard is here https://utradea.com/social-dashboard?utm_source=stocktwits&amp;amp;utm_medium=ssd-stocktwits&amp;amp;utm_campaign=sm_20220109 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:16:25 </td>
-   <td style="text-align:left;"> $TSLA does cathie wood have a short or put position on tesla? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:15:52 </td>
-   <td style="text-align:left;"> $TSLA someone should ask Goldman Sachs how many shares has Musk offered as security for the tens of millions of dollars Goldman Sachs extended in personal loans to Musk? 🤔 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:14:31 </td>
-   <td style="text-align:left;"> $TSLA $SPY $QQQ $ARKK 
-
-Wow, this is such a shocker who would’ve ever guessed that this would happen.😱 Since when does the muskrat not met deadlines that he sets, look at some of his “finest” examples of timelines that he’s managed to meet (robotaxis, cybertruck, giga~shit and so on) oh... wait.....😱🤣 looks like once again the fanboys got musked with another failed promise by the muskrat... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:13:51 </td>
-   <td style="text-align:left;"> $TSLA who is excited for market open? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:13:17 </td>
-   <td style="text-align:left;"> $TSLA bears talking shortages . Tesla just delivered 309k cars in the 4th quarter . Best bull case was 275. Get real </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:09:23 </td>
-   <td style="text-align:left;"> $TSLA Tesla stock-piled chips while all the other car companies did not.   This allowed for the largest Y-o-Y blow out delivery numbers ever.
-
-BULLISH  AF </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:08:11 </td>
-   <td style="text-align:left;"> $TSLA Great shortened version of Cathie&amp;#39;s Update for us https://youtu.be/9hgJ2IGGW3E </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:08:07 </td>
-   <td style="text-align:left;"> $TWTR $TSLA $BIDU In this episode we cover The GREEKS AND how to BEAT the OPTIONS market while evaluating VOLATILITY… this and a lot more… be sure to like, subscribe and comment if you want us to cover anything more in the next episode.🤩📈!
-
-https://youtu.be/0AW-EzMDy70 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:07:33 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:07:33 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:07:16 </td>
-   <td style="text-align:left;"> $TSLA this was good few years ago! but today there is many other EV cars on the market and more is coming!!!PT $600 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:06:22 </td>
-   <td style="text-align:left;"> $TSLA deliveries in China delayed by months because of semiconductor shortage </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:04:46 </td>
-   <td style="text-align:left;"> $TSLA BTC down along with the futures.  Keep on laughing. Don&amp;#39;t be surprised by a 50% drop in the next two weeks.  This has nothing to do with TSLA specifically even though it is overvalued.  Overall market correction inbound.  Precious metals along with precious metals ETF&amp;#39;S is the way to go.  Bonds may be a good alternative too. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:03:29 </td>
-   <td style="text-align:left;"> $TSLA After Goldman Sachs raised its price target on Tesla on Sunday, Tesla stock price has received another boost after other Street analysts joined to share new positive catalysts concerning the EV titan.
-
-According to Global Equities, Tesla has started the new year in the same manner as it ended 2021 - with massive deliveries. Chowdry says that production, shipping, and delivery activity looks “extremely strong” at the start of the new quarter.
-
-“Delivery activity on January 7, 2022 was even more stronger than what we saw on December 28, 2021.. 2 to 3 Model S/X Plaid on almost every Shipping Truck leaving the Factory.. Shipping trucks heading towards 880, 680, thereby indicating, shipments towards East and North of Fremont Factory,” 
-
-Wedbush’s Daniel Ives noted that Tesla is likely to start Model Y production at its Giga Austin factory over the next 7-10 days. His remarks come two days after several UK customers of Tesla were told that deliveries could start in early 2022. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:03:23 </td>
-   <td style="text-align:left;"> $TSLA Split is inevitable. This week or not is the question. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:03:08 </td>
-   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Dark Pool &amp;amp; Short Interest Data: 
-https://www.youtube.com/watch?v=uO_DgRipZfw </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:02:14 </td>
-   <td style="text-align:left;"> $TSLA saget dead.. markets gonna hurt tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:02:07 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:01:58 </td>
-   <td style="text-align:left;"> $TSLA We may expected one or two upgrades in next two days besides Goldman&amp;#39;s. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 09:01:12 </td>
-   <td style="text-align:left;"> $TSLA deliveries in China delayed by months because of semiconductor shortage!! 
- 
-my 1208 short 😂😂 Don’t bet against Tsla and Elon ! Told u don’t bet against my prediction 💪 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:58:58 </td>
-   <td style="text-align:left;"> $TSLA $SPY $QQQ $AAPL
-
-Putin &amp;amp; Xi bought puts!!!!😱📉🩸 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:54:48 </td>
-   <td style="text-align:left;"> $TSLA nasdaq green,   relax </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:54:40 </td>
-   <td style="text-align:left;"> $TSLA Should I sell all My Tesla and buy GM? Lol…. Is that where the future is ? Just a Political car company </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:53:51 </td>
-   <td style="text-align:left;"> $TSLA 30 Minutes ago bears were talking futures now there quiet </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:53:15 </td>
-   <td style="text-align:left;"> $SPY $TSLA $GM </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:53:15 </td>
-   <td style="text-align:left;"> $TSLA those Tesla puts were way too easy, that had to be the wall street top gainer </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:50:46 </td>
-   <td style="text-align:left;"> $TSLA just got the belt buckle for $150 on Shop.Tesla </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:50:44 </td>
-   <td style="text-align:left;"> $TSLA this market is 100% driven by stimulus, low interest and quantitative easing. It also drove up inflation, now FED&amp;#39;s will reverse course </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:47:29 </td>
-   <td style="text-align:left;"> $TSLA 
-TSLA above $1040.93 for a potential run up.
-TSLA below $1008.17 for a potential drop.
-#Scalp </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:46:31 </td>
-   <td style="text-align:left;"> $TSLA Tesla Fanboy offering a helping hand.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:46:28 </td>
-   <td style="text-align:left;"> $TSLA I can’t wait for Tesla’s big announcement at 10 pm. If they announce split with over 50 million shares short interest since last two weeks Tesla stock will have a wild run! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:46:24 </td>
-   <td style="text-align:left;"> $TSLA NAS FUTES FLYIN 😀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:46:15 </td>
-   <td style="text-align:left;"> $TSLA shorting right now because Donald is doing so </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:45:55 </td>
-   <td style="text-align:left;"> $TSLA if nasdaq isn&amp;#39;t green tomorrow I&amp;#39;ll cry. No calls either just too much pain back to back on shares lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:41:38 </td>
-   <td style="text-align:left;"> $TSLA seen this many times...when many bears, expect a pop! Tomorrow we pop higher </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:41:10 </td>
-   <td style="text-align:left;"> $TSLA organic buying happening </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:41:04 </td>
-   <td style="text-align:left;"> $QQQ $SPY $TSLA fuck. your. puts. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:40:35 </td>
-   <td style="text-align:left;"> $TSLA earnings coming </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:40:20 </td>
-   <td style="text-align:left;"> $TSLA $LCID $SPY  $CVX 
-2022 looking bright :)
-Link in profile </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:36:58 </td>
-   <td style="text-align:left;"> $TSLA http://www.streetinsider.com/Analyst+Comments/Chowdry+Says+Tesla+%28TSLA%29+Started+Q1+with+Massive+Deliveries%2C+Wedbushs+Ives+Sees+Model+Y+Production+Starting+Over+Next+7-10+Days/19438019.html  
-
-Wedbush noted that Tesla is likely to start Model Y production at its Giga Austin factory over the next 7-10 days. His remarks come two days after several UK customers of Tesla were told that deliveries could start in early 2022. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:35:44 </td>
-   <td style="text-align:left;"> $TSLA  https://www.streetinsider.com/Analyst+Comments/Tesla+%28TSLA%29+Price+Target+Raised+at+Goldman+Sachs%2C+Seen+as+Best-Positioned+OEM+Alongside+General+Motors+%28GM%29+for+2022/19438015.html </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:35:28 </td>
-   <td style="text-align:left;"> $AAL let’s go, Buffalo!!!!! $BA $TSLA $HOOD </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:35:13 </td>
-   <td style="text-align:left;"> $TSLA Downside target by end of month is $886.12 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:34:36 </td>
-   <td style="text-align:left;"> $TSLA Tesla’s New Austin Factory to Start Up Soon.  
-
-https://www.marketwatch.com/articles/tesla-stock-tsla-austin-texas-factory-51641660078?reflink=share_barrons_twitter 
-
- New facility in Austin, Texas, known as Gigafactory Texas, will begin production in about a week. That means more Model Y crossover vehicles.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:34:25 </td>
-   <td style="text-align:left;"> $NIO $DQ $TSLA NASDAQ must hold 15515. Otherwise, we will have a deep gap down for most tech and growth stocks. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:34:23 </td>
-   <td style="text-align:left;"> $TSLA 
-
-BREAKING!!
-
-Goldman raises Tesla PT to $1,200
-
-🙏🏻🐉🦅👀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:34:10 </td>
-   <td style="text-align:left;"> $TSLA NQ trying to stay green! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:34:01 </td>
-   <td style="text-align:left;"> $TSLA futures don&amp;#39;t matter that much. Hedge funds and MM&amp;#39;ers will determine the direction tomorrow. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:33:57 </td>
-   <td style="text-align:left;"> $TSLA saw yootoob video saying this should test $900 before finding support… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:32:19 </td>
-   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Technical Analysis Video: 
-https://www.youtube.com/watch?v=zN0Oh_3bq8k </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:31:33 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:29:41 </td>
-   <td style="text-align:left;"> $TSLA don&amp;#39;t you Tesla Fanboys worry.... Goldman Sachs or not, this overpriced pos will see the 800s by eow. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:29:22 </td>
-   <td style="text-align:left;"> $TSLA I have 1280 calls for this week? Sell at open or hold ? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:28:28 </td>
-   <td style="text-align:left;"> $TSLA Long only portfolio managers will be taking it to $1200 tomorrow. Watch n learn. 😇 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:22:07 </td>
-   <td style="text-align:left;"> $TSLA want 1692 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:21:26 </td>
-   <td style="text-align:left;"> $TSLA Everyone gets in full panic mode because the market is red or green for that matter.  Just have a plan. The market will throw whatever it feels like throwing at you from moment to moment. You just need to respond... or not. At least a plan will alleviate unnecessary panic. Let&amp;#39;s get ready and have a great week #teslanaires. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:21:11 </td>
-   <td style="text-align:left;"> $TSLA don&amp;#39;t care what direction it goes tomorrow, just hope it make a move either direction. Like 100 points move! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:19:46 </td>
-   <td style="text-align:left;"> $TSLA 1000 tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:19:22 </td>
-   <td style="text-align:left;"> $TSLA Goldman Sachs analyst who gave an  upgrade out of the blue on a Sunday when futs red = 🤡 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:19:18 </td>
-   <td style="text-align:left;"> $TSLA 
-
-Hey fellas, check out these 5 stocks targets for this week along with market analysis
-
-https://youtu.be/YOS2NRGss9g </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:17:31 </td>
-   <td style="text-align:left;"> $TSLA I am 100% bullish Tesla but whenever we have a failed breakout ( see chart) there is a higher than average chance of the share price retreating to a recent consolidating zone.  If we don&amp;#39;t quickly recapture the upper trendline support early next week I see Tesla  filling the gap below and testing the lower trendline where I will be looking for high delta, short dated calls for potential earnings run back toward $1200. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:17:22 </td>
-   <td style="text-align:left;"> $TSLA isn&amp;#39;t interesting how this seems to get analyst upgrades everytime it is in a downward trend. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:17:11 </td>
-   <td style="text-align:left;"> $TSLA futes = yikes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:16:09 </td>
-   <td style="text-align:left;"> $TSLA What you want in life is there for the taking and more than likely it&amp;#39;s free. Elites make us pay for free things in life everyday. Break the pattern... #teslanaire https://twitter.com/elonmusk/status/1480093419334782981?t=oHATA0E2HE3gBEOKFevS8g&amp;amp;s=19 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:15:36 </td>
-   <td style="text-align:left;"> $TSLA all we need to know 
-
-https://twitter.com/sawyermerritt/status/1480326100559581185?s=21 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:15:34 </td>
-   <td style="text-align:left;"> $TSLA 1250 by ER date? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:14:03 </td>
-   <td style="text-align:left;"> $TSLA futures red.. bad start </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:12:40 </td>
-   <td style="text-align:left;"> $TSLA good thing there are plenty of bulls and bears still means we get some good price action </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:11:40 </td>
-   <td style="text-align:left;"> $TSLA let’s go </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:11:09 </td>
-   <td style="text-align:left;"> $TSLA Must be beyond stupid to sell at this level before record earnings </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:05:10 </td>
-   <td style="text-align:left;"> $TSLA Wedbush&amp;#39;s Ives Sees Model Y Production Starting Over Next 7-10 Days http://www.streetinsider.com/Analyst+Comments/Chowdry+Says+Tesla+%28TSLA%29+Started+Q1+with+Massive+Deliveries%2C+Wedbushs+Ives+Sees+Model+Y+Production+Starting+Over+Next+7-10+Days/19438019.html  
-
-Wedbush noted that Tesla is likely to start Model Y production at its Giga Austin factory over the next 7-10 days </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:01:12 </td>
-   <td style="text-align:left;"> $TSLA Anyone know the last date Cathie bought this junk? She sells every day, but where are the buys? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:00:48 </td>
-   <td style="text-align:left;"> $TSLA Goldman Sacks raised to 1200 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:00:10 </td>
-   <td style="text-align:left;"> $TSLA Chowdry Says Tesla (TSLA) Started Q1 with &amp;#39;Massive Deliveries&amp;#39;, Wedbush&amp;#39;s Ives Sees Model Y Production Starting Over Next 7-10 Days
-
-After Goldman Sachs raised its price target on Tesla (NASDAQ: TSLA) on Sunday, Tesla stock price has received another boost after other Street analysts joined to share new positive catalysts concerning the EV titan.
-
-According to Global Equities Research’s Trip Chowdry, Tesla has started the new year in the same manner as it ended 2021 - with massive deliveries. Chowdry says that production, shipping, and delivery activity looks “extremely strong” at the start of the new quarter.
-
-“Delivery activity on January 7, 2022 was even more stronger than what we saw on December 28, 2021.. 2 to 3 Model S/X Plaid on almost every Shipping Truck leaving the Factory.. Shipping trucks heading towards 880, 680, thereby indicating, shipments towards East and North of Fremont Factory,” 
-
-http://www.streetinsider.com/Analyst+Comments/Chowdry+Says+Tesla+%28TSLA%29+Started+Q1+with+Massive+Deliveries%2C+Wedbushs+Ives+Sees+Model+Y+Production+Starting+Over+Next+7-10+Days/19438019.html via @Street_Insider </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 08:00:00 </td>
-   <td style="text-align:left;"> $TSLA is expected to show a strong revenue growth of 35.52% yearly. https://www.chartmill.com/stock/quote/TSLA/fundamental-analysis?key=b3fb89e7-ce52-4df4-906a-b4ccaf80eec8&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=FA&amp;amp;utm_content=TSLA&amp;amp;utm_campaign=social_tracking </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:59:34 </td>
-   <td style="text-align:left;"> $TSLA Goldman Sachs raised the price target to $1200. Most important price target upgrade. All time high tomorrow. 🥳 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:59:15 </td>
-   <td style="text-align:left;"> $TSLA Nasdaq Futures absolute disaster, going to take us down!
-
-Not excited for the macro this week I feel like Omicron also getting ready to give us another 2020 scare since its so highly contagious.
-
-https://twitter.com/garyblack00/status/1480182519471517701 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:59:05 </td>
-   <td style="text-align:left;"> $TSLA not sure why futures are delayed for me. How’s it looking? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:58:11 </td>
-   <td style="text-align:left;"> $AMC &amp;amp; $GME Those2 MF $BAC &amp;amp; $GS pumping $TSLA because they know is TSLA tank the MOASS trigger </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:57:56 </td>
-   <td style="text-align:left;"> $TSLA Any market veterans here that can give advise on how to weather the storm: CPI data, fed, bond yield, rotation, etc.? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:57:31 </td>
-   <td style="text-align:left;"> $GGPI DELIVERY and REVENUE Numbers talk itself !!! $lcid $rivn  
- 
-my favorite EV still $F not $tsla !! but polestar very attractive too .. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:57:01 </td>
-   <td style="text-align:left;"> $F $TSLA killer. #FordtoForty 🚀🚀💲💲 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:56:59 </td>
-   <td style="text-align:left;"> $TSLA 333.25 P/E ratio lmaooo </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:56:37 </td>
-   <td style="text-align:left;"> $TSLA (1 week to Texas gigafcatory opening up!) 
-
-Tesla’s New Austin Factory to Start Up Soon.  https://www.marketwatch.com/articles/tesla-stock-tsla-austin-texas-factory-51641660078?reflink=share_barrons_twitter 
-
-Saturday, Wedbush analyst Dan Ives wrote that Tesla’s new facility in Austin, Texas, known as Gigafactory Texas, will begin production in about a week. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:56:02 </td>
-   <td style="text-align:left;"> $TSLA 
-
-Another red day ahead!!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:55:39 </td>
-   <td style="text-align:left;"> $TSLA low 800s in February seems reasonable might be saved temporarily because of ER hype in January. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:55:28 </td>
-   <td style="text-align:left;"> $TSLA  
-With China stance on auto companies looking like the risk of Nio being delisted is absolute minimum, I would expect a return to some optimism.  I wonder what this week will bring for Tesala too? 
-https://youtu.be/IqKhzareR8c </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:55:10 </td>
-   <td style="text-align:left;"> $SPY Trust yourself, no one else. You were born for greatness. Own it. Conquer. Take it. 🍻🥷🎯 $QQQ $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:54:58 </td>
-   <td style="text-align:left;"> $TSLA 2 huge price upgrades today . </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:52:30 </td>
-   <td style="text-align:left;"> $TSLA  bright red nasdaq but green as a tree for tesla. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:52:04 </td>
-   <td style="text-align:left;"> $TSLA  (Sunday Nite 01-09 Goldman!!) 
-
- Tesla  Price Target Raised at Goldman Sachs, Seen as Best-Positioned OEM Alongside General Motors (GM) for 2022 http://www.streetinsider.com/Analyst+Comments/Tesla+%28TSLA%29+Price+Target+Raised+at+Goldman+Sachs%2C+Seen+as+Best-Positioned+OEM+Alongside+General+Motors+%28GM%29+for+2022/19438015.html    On Tesla, The analyst believes the latest delivery numbers are a sign that the EV titan can sell more units in 2022 and 2023.
-
-“We believe that Tesla, given its leadership position in EVs (including its vertical integration and tight coupling of hardware and software, as well as its ecosystem of charging stations and brand), and its focus on clean transportation more broadly (given its solar and storage businesses) will be best positioned to capitalize on the long-term shift to EVs. We expect Tesla to expand margins in the intermediate term as it ramps the important Model Y product as well as new factories in Berlin, Germany and Austin, Texas, and in the long-term as it increases its mix of software revenue. We see upside to FactSet consensus estimates in the next few years,” Delaney wrote in his client note. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:49:00 </td>
-   <td style="text-align:left;"> $TSLA Tesla (TSLA) Price Target Raised at Goldman Sachs, Seen as Best-Positioned OEM Alongside General Motors (GM) for 2022 http://www.streetinsider.com/Analyst+Comments/Tesla+%28TSLA%29+Price+Target+Raised+at+Goldman+Sachs%2C+Seen+as+Best-Positioned+OEM+Alongside+General+Motors+%28GM%29+for+2022/19438015.html via @Street_Insider On Tesla, The analyst believes the latest delivery numbers are a sign that the EV titan can sell more units in 2022 and 2023.
-
-“We believe that Tesla, given its leadership position in EVs (including its vertical integration and tight coupling of hardware and software, as well as its ecosystem of charging stations and brand), and its focus on clean transportation more broadly (given its solar and storage businesses) will be best positioned to capitalize on the long-term shift to EVs. We expect Tesla to expand margins in the intermediate term as it ramps the important Model Y product as well as new factories in Berlin, Germany and Austin, Texas, and in the long-term as it increases its mix of software revenue. We see upside to FactSet consensus estimates in the next few years,” Delaney wrote in his client note. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:48:03 </td>
-   <td style="text-align:left;"> $TSLA https://www.torquenews.com/14335/tesla-stock-will-split-multiple-times-decade🙌💎🙌🚀🚀🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:45:24 </td>
-   <td style="text-align:left;"> $TSLA When Elon says all ducks in a row, it means Giga Texas, Giga Austin, 4680, Semi, Cyber Truck and what else? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:44:58 </td>
-   <td style="text-align:left;"> $TSLA https://www.cnbc.com/2022/01/09/stock-market-futures-open-to-close-news.html </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:44:51 </td>
-   <td style="text-align:left;"> $TSLA futures will recover, just go do something fun. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:43:46 </td>
-   <td style="text-align:left;"> $TSLA futures recovering? I dare say </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:41:42 </td>
-   <td style="text-align:left;"> $TSLA does this hit deep red tomorrow? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:40:54 </td>
-   <td style="text-align:left;"> $TSLA does this hit mid or low 900s tomorrow? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:40:16 </td>
-   <td style="text-align:left;"> $TSLA this is for sure going to 700 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:39:41 </td>
-   <td style="text-align:left;"> $TSLA nasdaq is garbage for the last 3 months </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:39:20 </td>
-   <td style="text-align:left;"> $TSLA Yep, futes red af and Tesla news over the weekend green af. We know what direction this beast is heading tomorrow 🎉 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:38:41 </td>
-   <td style="text-align:left;"> $TSLA  bullish </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:37:38 </td>
-   <td style="text-align:left;"> $TSLA Seems gearing up for Texas Giga Festival https://www.callin.com/room/big-announcement-from-tesla-owners-austin-SKExhcfnrx </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:37:12 </td>
-   <td style="text-align:left;"> $TSLA guess we not bouncing tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:36:03 </td>
-   <td style="text-align:left;"> $TSLA AOC tested positive for Covid FYI </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:35:40 </td>
-   <td style="text-align:left;"> $TSLA block out the noise </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:34:49 </td>
-   <td style="text-align:left;"> $LCID it seems PIF learnt big lessons by selling $TSLA too early, they’ll hang on this forever 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:34:06 </td>
-   <td style="text-align:left;"> $TSLA bears are about too be tesladddd </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:33:50 </td>
-   <td style="text-align:left;"> $TSLA I reckon if this week is anything liek last we are fully in a bear market year. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:33:16 </td>
-   <td style="text-align:left;"> $SPY $TSLA $SOFI </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:32:22 </td>
-   <td style="text-align:left;"> $TSLA under $1000 most likely at the open. Elon sold the top confirmed </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:31:32 </td>
-   <td style="text-align:left;"> $TSLA Bears riding deep | SHORT Entry Alerted: $1073.98 and then the Exit on alert at $1030.62 🤑| Follow the trend lines and start using technical analysis! #gamestop #stocktips #stockstowatch </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:31:11 </td>
-   <td style="text-align:left;"> $TSLA Shit fest tomorrow lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:30:31 </td>
-   <td style="text-align:left;"> $TSLA futures are red af </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:29:49 </td>
-   <td style="text-align:left;"> Equity Sentiment Weekly Recap: $TSLA is the #4 stock that institutions traded this week with 339.8K options contracts.
-
-Market analysis included in screenshot of dashboard from http://insiderfinance.io. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:28:25 </td>
-   <td style="text-align:left;"> $TSLA  (Texas  Tesla factory to open soon- Next week??) Saturday, Wedbush analyst Dan Ives wrote that Tesla’s (ticker: TSLA) new facility in Austin, Texas, known as Gigafactory Texas, will begin production in about a week. That means more Model Y crossover vehicles—and, just as important, that the Cybertruck will be arriving on U.S. roads shortly.
-
-“Based on our analysis of Giga Austin it appears paperwork is now clearing the way for Model Y production starting over the next 7 to 10 days,” wrote Ives. “Launching the Austin production in early January is very important to Tesla expanding both domestic and global production of Model Y’s which are set to have a massive year in 2022.”
-
-https://www.marketwatch.com/articles/tesla-stock-tsla-austin-texas-factory-51641660078?reflink=share_barrons_twitter </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:28:17 </td>
-   <td style="text-align:left;"> $TSLA @stalingrad , ditto </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:28:09 </td>
-   <td style="text-align:left;"> $TSLA wheres the guy who sold his puts for calls on friday?? Told you dont jump into this til its over 1085. Still </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:26:33 </td>
-   <td style="text-align:left;"> $TSLA https://www.etsy.com/listing/1138186096/dogecoin-vinyl-decal-clear-background9?ref=shop_home_active_29&amp;amp;frs=1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:26:13 </td>
-   <td style="text-align:left;"> $TSLA Maybe we can’t beat the markets but Elon Musk did and will do again </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:25:09 </td>
-   <td style="text-align:left;"> $TSLA short seller of tesla will be looser! 
-This company is for long term. Buy and forget! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:25:06 </td>
-   <td style="text-align:left;"> $TSLA Stock split announcement tonight 1/9 instead of 12/9? Possibility is high😆 wdyt </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:24:50 </td>
-   <td style="text-align:left;"> $TSLA Jerome Powell may say positive things to calm markets down on Tuesday. I have a positive feeling about his hearing on Tuesday </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:23:18 </td>
-   <td style="text-align:left;"> $TSLA 🙋
-https://youtube.com/shorts/yDseMkrduYI?feature=share </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:22:56 </td>
-   <td style="text-align:left;"> $TSLA https://youtu.be/lR7EHZJaNX4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:22:51 </td>
-   <td style="text-align:left;"> $TSLA Futures dip again! BS I know this change but not a good start!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:22:25 </td>
-   <td style="text-align:left;"> $tsla bulls and sheples be like ... (fyi friends at $spy $qqq $arkk $BTC.X ) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:22:09 </td>
-   <td style="text-align:left;"> $TSLA  --&amp;gt; https://www.bloomberg.com/news/articles/2022-01-09/stocks-seen-steady-with-bond-volatility-in-focus-markets-wrap?sref=pHyhiApD 
-
-Investors brace for bond volatility &amp;amp; assess the economic hit from Omicron. S&amp;amp;P 500 posted the worst start to a year ,since 2016, as expectations of faster-than-anticipated US interest-rate increases roiled Fixed-Income markets </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:22:04 </td>
-   <td style="text-align:left;"> $TSLA $NVDA $AMD futures as usual red , this is going to continue I guess . This is such bullshit </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:21:48 </td>
-   <td style="text-align:left;"> $TSLA With $3000 PT, I’m holding strong 🙌💎🙌🚀🚀🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:21:41 </td>
-   <td style="text-align:left;"> $TSLA I hope it’s huge enough to squeeze short sellers on Monday </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:21:04 </td>
-   <td style="text-align:left;"> $TSLA https://www.callin.com/room/big-announcement-from-tesla-owners-austin-SKExhcfnrx </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:20:02 </td>
-   <td style="text-align:left;"> $TSLA there are some companies you never sell based on short term macro trends. Tesla is a multi decade investment. It&amp;#39;s a global bet. Not just U.S. bet. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:19:58 </td>
-   <td style="text-align:left;"> $TSLA Remember what tesla did last Monday Bears. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:19:52 </td>
-   <td style="text-align:left;"> $TSLA folks with averages in the 900s can still sell for profit and buy back in at a lower price. Expecting this to drop into low 900s if not 800s soon. Tough macro market right now for growth stocks. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:18:56 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:18:45 </td>
-   <td style="text-align:left;"> $TSLA What time is the bull and sheople jerk-off cheerleading sesion start tonight until 759amest premarket crash Monday?  Asking for a friend.  Thank you. 🤪 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:18:24 </td>
-   <td style="text-align:left;"> $TSLA Wow TSLA split buzz is buzzing up plenty🙌💎🙌🚀🚀🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:18:22 </td>
-   <td style="text-align:left;"> $TSLA https://twitter.com/i/status/1480021519719825410 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:16:38 </td>
-   <td style="text-align:left;"> $TSLA guys that announcement is fake as fuck. Please keep it real. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:16:28 </td>
-   <td style="text-align:left;"> $TSLA Sell off will be epic this week. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:16:18 </td>
-   <td style="text-align:left;"> $TSLA I hope tonight’s announcement is about stock split to squeeze all those greedy short sellers! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:15:47 </td>
-   <td style="text-align:left;"> $SPY it&amp;#39;s better to gap down now then slowly climbing back to 15700. If by midnight this doesn&amp;#39;t happening and keep going below 16500 then yes IMO we will have to face the reality that the markets will go more lower than last week. $TQQQ $TSLA $ROKU </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:14:19 </td>
-   <td style="text-align:left;"> $TSLA I actually knew that TSLA would correct a bit, when 10 year began to rise. But I didn&amp;#39;t sell? Why not? Because I don&amp;#39;t want to pay income tax on my capital gains. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:13:15 </td>
-   <td style="text-align:left;"> $TSLA futures slightly up </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:12:56 </td>
-   <td style="text-align:left;"> $TSLA it&amp;#39;s gonna be YUGEEE </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:12:09 </td>
-   <td style="text-align:left;"> $TSLA I&amp;#39;m just hoping to exit above 1000 at open at this point. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:11:09 </td>
-   <td style="text-align:left;"> $TSLA Dogshit futures down </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:09:08 </td>
-   <td style="text-align:left;"> $TSLA all Stocktwits is is people saying;
-
-It will do this ____ 
-
-It will do that ____
-
-Very toxic! Mostly because no one knows what this stock will do! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:08:39 </td>
-   <td style="text-align:left;"> $SPY $TSLA $QQQ $ARKK
-
-Zanger: “There are huge differences between bear market and bull market rallies. For example, buying the dips in a true bull market can work very well. Buying dips during a bear rally will wipe you out.” </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:07:51 </td>
-   <td style="text-align:left;"> $TSLA futures haven&amp;#39;t opened great. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:07:49 </td>
-   <td style="text-align:left;"> $TSLA  does this mean FSD software will eventually go to open-source so other car companies will adopt? Similar to how Google made Android open-source and secured market share? Genuine question I’m new to researching this stuff thanks </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:07:17 </td>
-   <td style="text-align:left;"> $TSLA weekly </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:06:29 </td>
-   <td style="text-align:left;"> $TSLA muahahahaha! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:06:00 </td>
-   <td style="text-align:left;"> The MOTHLY candle on $TSLA is bearish - but is it ready to sell off? 
- 
-https://youtu.be/hRb6Pn3TI_g </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:05:48 </td>
-   <td style="text-align:left;"> $TSLA safest car ever!  https://twitter.com/ray4tesla/status/1480244538320900099?s=12 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:03:23 </td>
-   <td style="text-align:left;"> $TSLA green futures. Bears sweating </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:02:49 </td>
-   <td style="text-align:left;"> $COIN $ARKK $TSLA more and more company insiders are sellibg their shares!!! Crash is coming! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:01:28 </td>
-   <td style="text-align:left;"> Tesla $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 07:01:24 </td>
-   <td style="text-align:left;"> https://www.investing.com/indices/indices-futures Excellent,  welcome to Crash Monday, carry on sticking forks in the stock markets at large for profits.  Thank dog that I am here to help. @Profit_Maker https://stocktwits.com/Profit_Maker your 24/7 short care bear specialist for profits.  Thanks bulls for lending me your shares to short for profits at your expense 🐻❤😈😁 $tsla $ccl $f $qqq $spy ... COVID-19 and the demented socioeconomic economy at large rules 🤮  Such bs the Fraud Street rally has been since 2009 ✔ ... Ignore the jawboning stupid from Fraud St, cronies, #Whitehouse, #CNBC, media, government, memes, #Cramer, #SleepyJoe, #Yellen, #Powell #MUSK #FORD #SPY #QQQ #TESLA #CCL and more 🐷  Rest assured this ain&amp;#39;t my first rodeo shorting this crap and more.  Rest assured we ain&amp;#39;t seen nothing yet.  Enjoy the Armageddon Depression incoming starting now. Fact is I&amp;#39;ve warned you all for months. 🎉 ... BTW, close to 50,000 in profits last week at close to 19% roi week / ytd ... fact 🎆 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:58:43 </td>
-   <td style="text-align:left;"> $TSLA What could the &amp;#39;Tesla Owners of Austin&amp;#39; group possibly know  or announce ?  Whats their proximity to the GIGA Plant in Austin ?
-
-I have know idea, lol, but I am smiling right now, mainly at bears using blow dryers to get rid of the BUTTCRACK Sweat </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:57:35 </td>
-   <td style="text-align:left;"> $TSLA Powell power Tuesday </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:57:26 </td>
-   <td style="text-align:left;"> $DOGE.X friend of mine mentioned the $TSLA meeting is about accepting dogecoin. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:49:24 </td>
-   <td style="text-align:left;"> $TSLA something tells me the markets are about to tank this week in a way that hasn&amp;#39;t been seen for a while.  Just a gut feeling. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:47:46 </td>
-   <td style="text-align:left;"> $TSLA anyone know if Musk plans to hold another Twitter poll? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:42:16 </td>
-   <td style="text-align:left;"> $TSLA all’s I’m saying is this was $1160 two trading days ago. The reversal will be insane </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:41:36 </td>
-   <td style="text-align:left;"> $TSLA  Its on Twitter  ...... @elonmusk copied on tweet </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:37:16 </td>
-   <td style="text-align:left;"> $TSLA this is gonna murder bears when it rebounds back to $1200. All of those cocky idiots who don’t sell there puts when up will be down -99% Friday. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:35:13 </td>
-   <td style="text-align:left;"> $TSLA definitely seeing $950 this week. Loading puts at 9:30AM. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:33:58 </td>
-   <td style="text-align:left;"> $TSLA #STUDY https://whalewisdom.com/stock/tsla </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:33:02 </td>
-   <td style="text-align:left;"> $TSLA squeeze tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:32:29 </td>
-   <td style="text-align:left;"> $SYTA $TSLA $BLNK 
-EV charging with cellular signal 🚀🚀🚀
-Best low float play 🚀🚀
-SYTA squeeze </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:30:57 </td>
-   <td style="text-align:left;"> $TSLA The PUT Play officially ended at 2:25pm ET  on Friday (that was max gain).   Many do not know it yet, and especially those who held PUTS over the week-end
-
-BIG Surprise tonight </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:27:37 </td>
-   <td style="text-align:left;"> $TSLA https://twitter.com/sawyermerritt/status/1480301536303529985?s=21 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:24:16 </td>
-   <td style="text-align:left;"> $TSLA how many Teslas will SpaceX send to Mars for the Martians to use? Are those vehicles included in the delivery numbers? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:23:51 </td>
-   <td style="text-align:left;"> $TSLA $1100 tomorrow EASY! Was 1160 on WED </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:23:15 </td>
-   <td style="text-align:left;"> $NVDA $TSLA $AAPL $AMD 
- Free discord link in bio!🚨 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:21:30 </td>
-   <td style="text-align:left;"> $TSLA this is currently down 80% on the Kabul Stock Exchange. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:21:06 </td>
-   <td style="text-align:left;"> $TSLA NEW ARTICLE : Tesla: 2nd And 3rd Order Effects Of Production Growth https://www.stck.pro/news/TSLA/21051046 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:20:13 </td>
-   <td style="text-align:left;"> $TSLA ⏱🧨🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:19:55 </td>
-   <td style="text-align:left;"> $TSLA when gamma squeeze? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:19:45 </td>
-   <td style="text-align:left;"> $TSLA Buy 10 calls 1150 for 01/14 on Monday 
- 
-Follow for option plays  
-OptionDonkey.Tesla </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:19:23 </td>
-   <td style="text-align:left;"> $SPY $TSLA $AMC $GME 
-
-https://youtu.be/ro-iZHJWSig </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:09:46 </td>
-   <td style="text-align:left;"> $TSLA My Model Y is a year old, and i could sell it for more than i paid.   It has over 30000 miles! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:07:57 </td>
-   <td style="text-align:left;"> $TSLA Elon Musk Calls This Tesla Model The EV Maker&amp;#39;s &amp;#39;Best-ever Car&amp;#39;: Here&amp;#39;s Why 
-
-https://newsfilter.io/a/40ba199192a311e387f5592b81732415 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:04:56 </td>
-   <td style="text-align:left;"> $TSLA More than likely those calls at $1200 will be murdered for the next two weeks. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:04:42 </td>
-   <td style="text-align:left;"> $TSLA TSLA 2022-01-09 Daily Forecast Video: 
-https://www.youtube.com/watch?v=7vdS9w9q2j8 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 06:01:23 </td>
-   <td style="text-align:left;"> $TSLA 
-
-Tesla Cars are appreciating assets - if you bought FSD 2 yrs ago you are already up 50% on your 8k purchase !! 
-
-The car value is already more by at least 10-20% -incredible!! 
-
-If you bought any other EV or legacy your car is likely lost 40-50% of its value or been recalled !! 
-
-It’s as simple as that ! 
-
-🙏🏻🦅🐉 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:57:53 </td>
-   <td style="text-align:left;"> $TSLA Another price target raise🔥🔥🔥
-
-https://pulse2.com/tesla-stock-nasdaq-tsla-1300-price-target-from-mizuho/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:55:40 </td>
-   <td style="text-align:left;"> $TSLA woots woots, nice ideas by @RiskVsReward who caught on with some good Tesla movements. This is consolidating and seems like it’s ready to run next week soon! Let’s go’n </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:55:05 </td>
-   <td style="text-align:left;"> $TSLA 1250 next week 👀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:53:03 </td>
-   <td style="text-align:left;"> $TSLA  enough already  ... thank dog that I #5 Alive to infinity and beyond is here to clean up this TESLA forum ... @Profit_Maker https://stocktwits.com/Profit_Maker is the BlockMaster for all bulls and sheoples jawboning stupid long TESLA 🐻❤😈 ... incoming sub 500&amp;#39;s re due diligence ✔ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:52:41 </td>
-   <td style="text-align:left;"> $TSLA Just checked the futures market and it&amp;#39;s showing beans went up alot and the futures are eating it all up. I expect Tesla to be overwhelmed in a pool of shit, and therefore a sell off. - Jerome Powell talking to Elon Musk Jan 9,2022. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:50:01 </td>
-   <td style="text-align:left;"> $TSLA good luck tomorrow gamblers and fortune tellers. I am *so* happy to know I will not be gambling this wow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:48:43 </td>
-   <td style="text-align:left;"> $TSLA sign up Use my referral link https://crypto.com/app/krgke9qjyr to sign up for Crypto.com and we both get $25 USD :) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:46:43 </td>
-   <td style="text-align:left;"> $DM @FegTechnology what a crock of shit 😅🤣🤣🤣.  Do you any idea the number of cell phone companies that went belly up before Apple?  You have any idea the Billions invested into failed social media sites that are not facebook???  How about all thr failed EV companies that are NOT $TSLA.  The point is just because you pick the right emerging industry, doesn&amp;#39;t mean you pick the right company. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:44:38 </td>
-   <td style="text-align:left;"> $TSLA price targets this week? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:44:13 </td>
-   <td style="text-align:left;"> $TSLA for every buyer of a put there is a seller. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:42:43 </td>
-   <td style="text-align:left;"> Are you a good Technician? Come share your thoughts’ join us tonight at 6:00pm ET on Twitter ‘Spaces’ @JIMROInvest “Let’s talk ‘Technicals’ for this week’s Markets”. $AMZN $SQ $TSLA $SPY … https://twitter.com/jimroinvest/status/1479939788287393792?s=12 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:42:29 </td>
-   <td style="text-align:left;"> $AMZN $TSLA everyone in the world including my grandpa have puts into next week lol.does market pay to all these people 🧐🤔 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:42:08 </td>
-   <td style="text-align:left;"> $TSLA I wonder what fake &amp;quot;rumors&amp;quot; will be spread to try to pump the stock? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:41:27 </td>
-   <td style="text-align:left;"> $TSLA fsd is only an option, it will not affect the price of the tesla cars per se. pp only pay for it if they chose to. this may affect tsla sp only because mentally weak pp can&amp;#39;t differentiate options and standard features. investors simply don&amp;#39;t get confused by that. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-01-10 05:40:35 </td>
-   <td style="text-align:left;"> $TSLA oops </td>
   </tr>
 </tbody>
 </table></div>
