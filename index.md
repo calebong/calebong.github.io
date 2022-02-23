@@ -62,7 +62,7 @@ My portfolio exhibits some examples of the data analytics and financial modellin
 
 [View the latest Currency Forecasts](/Latest-Currency-Forecasts.html)
 
-<img src="images/ghpCurrencyFrontplot.png?raw=true"/>
+
 <img src="images/ghpCurrencyTestplot.png?raw=true"/>
 <img src="images/ghpCurrencyFutureplot.png?raw=true"/>
 
@@ -92,7 +92,7 @@ At present, sources of news include:
 
 
 
-Last Updated: 2022-02-23 09:27:29 UTC +8
+Last Updated: 2022-02-23 10:54:15 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -105,6 +105,18 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/commodity/palm-oil </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:01 </td>
+   <td style="text-align:left;"> Palm Oil Hits All-time High </td>
+   <td style="text-align:left;"> Palm Oil increased to an all-time high of 5890 MYR/T </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/new-zealand/currency </td>
+   <td style="text-align:left;"> 2022-02-23 10:23:39 </td>
+   <td style="text-align:left;"> NZ Dollar Jumps on Hawkish RBNZ </td>
+   <td style="text-align:left;"> The New Zealand dollar jumped about 0.6% to trade firmly above $0.673 on Wednesday, after the Reserve Bank of New Zealand raised the official cash rate by 25 basis points to 1% and said it was willing to increase the cash rate in “larger increments if required over coming quarters.” The central bank also stated that it will commence the gradual reduction of its bond holdings under the Large Scale Asset Purchase program through both bond maturities and managed sales. The RBNZ has now raised interest rates for the third time since October as it tries to prevent decades-high inflation from becoming entrenched. Moreover, the central bank projected that the cash rate would reach 2.2% by the end of this year compared with previous forecast of 2.1%, and also projected that it will reach 3.3% in the last quarter of 2023, much higher than the November forecast of 2.6%. </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/australia/construction-output </td>
    <td style="text-align:left;"> 2022-02-23 09:26:43 </td>
    <td style="text-align:left;"> Australia Q4 Construction Output Misses Expectations </td>
@@ -113,14 +125,14 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/new-zealand/interest-rate </td>
    <td style="text-align:left;"> 2022-02-23 09:16:00 </td>
-   <td style="text-align:left;"> New Zealand Hikes Cash Rate by 25Bps to 1% </td>
-   <td style="text-align:left;"> The Reserve Bank of New Zealand raised its official cash rate (OCR) by 25 basis points to 1.0% during the February meeting, as widely expected. This was the third consecutive rate hike, amid rising inflationary pressures, the relaxation of COVID-19 restrictions and surging housing prices. The board mentioned that it will commence the gradual reduction of its bond holdings under the Large Scale Asset Purchase (LSAP) programme through both bond maturities and managed sales. </td>
+   <td style="text-align:left;"> RBNZ Hikes Cash Rate for 3rd Time, Flags Higher Peak </td>
+   <td style="text-align:left;"> The Reserve Bank of New Zealand raised its official cash rate (OCR) by 25 basis points to 1.0% during the February meeting, as widely expected. This was the third consecutive rate hike that brings borrowing costs to pre-pandemic levels, amid soaring inflation and surging housing prices. The board mentioned that more monetary tightening was needed to cool a heated economy, saying the cash rate would reach  2.2% by the end of this year and 2.57% by March 2023, which is a more aggressive path than the 2.1% and 2.3% seen in November's projections. The committee also stated that it will commence the gradual reduction of its bond holdings under the Large Scale Asset Purchase (LSAP) programme through both bond maturities and managed sales. That said, policymakers acknowledged that the spread of the Omicron COVID-19 variant would further disrupt economic activity and weigh on consumer and investor confidence in the near term. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html </td>
    <td style="text-align:left;"> 2022-02-23 09:06:46 </td>
    <td style="text-align:left;"> U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine - The New York Times </td>
-   <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     , Supported by                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis.                                                                                                                                                                                                                                                                                                                                                                                           , By Michael D. Shear, Richard Pérez-Peña, Zolan Kanno-Youngs and Anton Troianovski                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 , WASHINGTON — The United States and its allies on Tuesday swiftly imposed economic sanctions on Russia for what President Biden denounced as the beginning of an “invasion of Ukraine,” unveiling a set of coordinated punishments as Western officials confirmed that Russian forces had begun crossing the Ukrainian border.                                                                                                                                                                                                                                                     , Speaking from the White House, Mr. Biden condemned President Vladimir V. Putin of Russia and said the immediate consequences for his aggression against Ukraine included the loss of a key natural gas pipeline and cutting off global financing to two Russian banks and a handful of the country’s elites.                                                                                                                                                                                                                                                                      , “Who in the Lord’s name does Putin think gives him the right to declare new so-called countries on territory that belonged to his neighbors?” Mr. Biden said on Tuesday afternoon, joining a cascade of criticism from global leaders earlier in the day. “This is a flagrant violation of international law and demands a firm response from the international community.”                                                                                                                                                                                                       , Mr. Biden warned Mr. Putin that more sanctions would follow if the Russian leader did not withdraw his forces and engage in diplomatic efforts to resolve the crisis.                                                                                                                                                                                                                                                                                                                                                                                                             , But that prospect remained dim by the end of the day, as Secretary of State Antony J. Blinken canceled plans to meet with the Russian foreign minister on Thursday, saying that it does not “make sense” to hold talks while Russian forces are on the move.                                                                                                                                                                                                                                                                                                                      , “To put it simply, Russia just announced that it is carving out a big chunk of Ukraine,” Mr. Biden said, adding, “He’s setting up a rationale to take more territory by force.”                                                                                                                                                                                                                                                                                                                                                                                                   , The global response began early on Tuesday, just hours after Mr. Putin recognized the self-declared separatist states in eastern Ukraine and Russian forces started rolling into their territory, according to NATO, European Union and White House officials. It was the first major deployment of Russian troops across the internationally recognized border since the current crisis began.                                                                                                                                                                                   , At a news conference in Moscow, Mr. Putin said that he had not decided to send in troops “right at this moment.” But officials said the invasion started overnight, just hours before Mr. Putin’s Parliament formally granted him the authority to deploy the military abroad. Ukrainians near the territory controlled by Kremlin-backed separatists have already endured days of shelling, and as Ukrainian troops hunkered down in their trenches and civilians took shelter in basements, the country’s military said that one soldier had been killed so far and six wounded., Financial markets around the world wobbled on Tuesday in the wake of the Russian actions and the response from Western governments. In the United States, the news pushed stocks lower, leaving the S&amp;P 500 in correction territory, more than 10 percent below its January peak. Oil prices, which had risen to nearly $100 a barrel in anticipation of a global disruption, settled at $96.84 a barrel, up 1.5 percent.                                                                                                                                                         , Mr. Biden and his counterparts in Germany, England and other European nations described the package of global sanctions as severe. They include financial directives by the United States to deny Russia the ability to borrow money in Western markets and to block financial transactions by two banks and the families of three wealthy Russian elites.                                                                                                                                                                                                                        , Chancellor Olaf Scholz of Germany put the Nord Stream 2 gas pipeline on hold. The $11 billion conduit from Russia to Germany — completed but not yet operational — is crucial to Moscow’s plans to increase energy sales to Europe. European Union foreign ministers and the British government approved sanctions against legislators in Moscow who voted to authorize the use of force, as well as Russian elites, companies and organizations.                                                                                                                                 , “It will hurt a lot,” said the E.U. foreign policy chief, Josep Borrell Fontelles.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                , The governments of Japan, Taiwan and Singapore also issued a joint statement saying they would limit technology exports to Russia in an effort to pressure Mr. Putin with damaging restrictions on his ambitions to compete in high-tech industries.                                                                                                                                                                                                                                                                                                                              , But the moves in Washington and other capitals around the world were limited in scope and fell short of the more sweeping economic warfare that some — including members of Congress and other supporters of Ukraine — have repeatedly demanded in recent weeks.                                                                                                                                                                                                                                                                                                                  , Mr. Biden and his counterparts have said they must balance the need to take swift and severe action with preserving the possibility of even greater sanctions on Russia if Mr. Putin escalates the conflict by trying to seize more territory claimed by the separatists, or even the entire country — a war that could kill tens of thousands of people.                                                                                                                                                                                                                         , “This is the beginning of a Russian invasion of Ukraine,” he said, adding that “we’ll continue to escalate sanctions if Russia escalates.”                                                                                                                                                                                                                                                                                                                                                                                                                                        , European leaders also vowed to get tougher if Mr. Putin’s forces continued to advance. Prime Minister Boris Johnson described British sanctions as just “the first tranche.”                                                                                                                                                                                                                                                                                                                                                                                                      , Mr. Biden’s use of the word “invasion” was significant. In the past, he had angered the Ukrainian leadership when he suggested that there might be lesser penalties for a “minor incursion.” Now that Mr. Putin has ordered forces into eastern Ukraine, Mr. Biden, in his choice of words, is making clear that there is nothing minor about the operation.                                                                                                                                                                                                                      , But that still leaves open the question of how to calibrate the sanctions — because so far there have been no mass casualties. John Finer, the president’s deputy national security adviser, said early Tuesday that the administration could hold back some of its promised punishments in the hopes of deterring further, far more violent aggression by Mr. Putin aimed at taking the rest of the country.                                                                                                                                                                     , “We’ve always envisioned waves of sanctions that would unfold over time in response to steps Russia actually takes, not just statements that they make,” Mr. Finer said on CNN. “We’ve always said we’re going to watch the situation on the ground and have a swift and severe response.”                                                                                                                                                                                                                                                                                        , Crucially, it remains unclear how far Mr. Putin — who has argued that Ukraine itself is a phony country, wrongly carved away from Russia — is prepared to go. On Tuesday, he said ominously that he recognized the so-called Donetsk and Luhansk republics’ sovereignty over not only the land they control, but also the much larger portion of Ukraine that they lay claim to, home to 2.5 million people.                                                                                                                                                                      , At a hastily called news conference on Tuesday, Mr. Putin demanded that Ukraine vow never to join NATO, give up the advanced weapons the West has delivered to it, recognize Russia’s annexation of Crimea and negotiate directly with the Luhansk and Donetsk separatists, who are seen in Kyiv and Western capitals as illegitimate Kremlin proxies.                                                                                                                                                                                                                            , “The most important point is a known degree of demilitarization of Ukraine today,” Mr. Putin said. “This is the only objectively controllable factor that can be observed and reacted to.”                                                                                                                                                                                                                                                                                                                                                                                        , A deputy Russian defense minister, Nikolai Pankov, claimed that Ukraine had gathered 60,000 troops to attack the Russia-backed separatist enclaves in the country’s east — a step that Ukraine denies having any plans to take. Mr. Pankov’s remarks offered little evidence that a peaceful end to the conflict between the two countries was in sight.                                                                                                                                                                                                                          , “Negotiations have reached a dead end,” he said in a televised speech. “The Ukrainian leadership has taken the path of violence and bloodshed.”                                                                                                                                                                                                                                                                                                                                                                                                                                   , Mr. Biden’s announcement of the new sanctions was equally grim. He said the United States was imposing “full blocking” on two large Russian financial institutions and “comprehensive sanctions” on Russian debt.                                                                                                                                                                                                                                                                                                                                                                 , “That means we’ve cut off Russia’s government from Western finance,” he said. “It can no longer raise money from the West and cannot trade in its new debt on our markets or European markets, either.”                                                                                                                                                                                                                                                                                                                                                                           , He also said that the United States would impose sanctions on Russian elites and their families, an effort to ensure that those closest to Mr. Putin do not escape the financial pain that is expected to hit hard for average Russian citizens.                                                                                                                                                                                                                                                                                                                                  , Daleep Singh, a deputy national security adviser, called the sanctions announced on Tuesday “only the sharp edge of the pain we can inflict.”                                                                                                                                                                                                                                                                                                                                                                                                                                     , Mr. Singh described the two banks as a “glorified piggy bank of the Kremlin” and a financier “of the activities of the Russian military.” The banks will be prohibited from making transactions in the United States or Europe, and their assets in the U.S. will be frozen.                                                                                                                                                                                                                                                                                                      , Mr. Singh said the sanctions against the Russian elites and their families would punish those who “shared in the corrupt gains of the Kremlin, and they will now share in the pain.”                                                                                                                                                                                                                                                                                                                                                                                              , American officials have worried for weeks that imposing severe sanctions on Russia could also have consequences in the United States, including higher gas prices. Jen Psaki, the White House press secretary, said Americans should be prepared for the conflict with Russia to have that result.                                                                                                                                                                                                                                                                                , Asked about Mr. Biden’s proposed summit with Mr. Putin, Ms. Psaki said the administration was still open to diplomacy. “That remains an option,” she said of a potential meeting, but only if Russia de-escalates hostilities toward Ukraine.                                                                                                                                                                                                                                                                                                                                     , By day’s end in eastern Ukraine, there was no immediate sign of major military escalation, but fearful Ukrainians boarded buses out of the separatist areas as the country’s president, Volodymyr Zelensky, urged his nation to “keep a cool head” in the crisis.                                                                                                                                                                                                                                                                                                                 , Mr. Zelensky insisted that Ukraine would not yield territory, and his defense minister, Oleksiy Reznikov, appeared to be girding his country’s troops for battle.                                                                                                                                                                                                                                                                                                                                                                                                                 , “Ahead will be a difficult trial,” Mr. Reznikov said in a somber message released by the military. “There will be losses. You will have to go through pain and overcome fear and despondency.”                                                                                                                                                                                                                                                                                                                                                                                    , Michael D. Shear and Zolan Kanno-Youngs reported from Washington, Richard Pérez-Peña from New York and Anton Troianovski from Moscow.                                                                                                                                                                                                                                                                                                                                                                                                                                             , Advertisement </td>
+   <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     , Supported by                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis.                                                                                                                                                                                                                                                                                                                                                                                           , By Michael D. Shear, Richard Pérez-Peña, Zolan Kanno-Youngs and Anton Troianovski                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 , WASHINGTON — The United States and its allies on Tuesday swiftly imposed economic sanctions on Russia for what President Biden denounced as the beginning of an “invasion of Ukraine,” unveiling a set of coordinated punishments as Western officials confirmed that Russian forces had begun crossing the Ukrainian border.                                                                                                                                                                                                                                                     , Speaking from the White House, Mr. Biden condemned President Vladimir V. Putin of Russia and said the immediate consequences for his aggression against Ukraine included the loss of a key natural gas pipeline and cutting off global financing to two Russian banks and a handful of the country’s elites.                                                                                                                                                                                                                                                                      , “Who in the Lord’s name does Putin think gives him the right to declare new so-called countries on territory that belonged to his neighbors?” Mr. Biden said on Tuesday afternoon, joining a cascade of criticism from global leaders earlier in the day. “This is a flagrant violation of international law and demands a firm response from the international community.”                                                                                                                                                                                                       , Mr. Biden warned Mr. Putin that more sanctions would follow if the Russian leader did not withdraw his forces and engage in diplomatic efforts to resolve the crisis.                                                                                                                                                                                                                                                                                                                                                                                                             , But that prospect remained dim by the end of the day, as Secretary of State Antony J. Blinken canceled plans to meet with the Russian foreign minister on Thursday, saying that it does not “make sense” to hold talks while Russian forces are on the move.                                                                                                                                                                                                                                                                                                                      , “To put it simply, Russia just announced that it is carving out a big chunk of Ukraine,” Mr. Biden said, adding, “He’s setting up a rationale to take more territory by force.”                                                                                                                                                                                                                                                                                                                                                                                                   , The global response began early on Tuesday, just hours after Mr. Putin recognized the self-declared separatist states in eastern Ukraine and Russian forces started rolling into their territory, according to NATO, European Union and White House officials. It was the first major deployment of Russian troops across the internationally recognized border since the current crisis began.                                                                                                                                                                                   , At a news conference in Moscow, Mr. Putin said that he had not decided to send in troops “right at this moment.” But officials said the invasion started overnight, just hours before Mr. Putin’s Parliament formally granted him the authority to deploy the military abroad. Ukrainians near the territory controlled by Kremlin-backed separatists have already endured days of shelling, and as Ukrainian troops hunkered down in their trenches and civilians took shelter in basements, the country’s military said that one soldier had been killed so far and six wounded., Financial markets around the world wobbled on Tuesday in the wake of the Russian actions and the response from Western governments. In the United States, the news pushed stocks lower, leaving the S&amp;P 500 in correction territory, more than 10 percent below its January peak. Oil prices, which had risen to nearly $100 a barrel in anticipation of a global disruption, settled at $96.84 a barrel, up 1.5 percent.                                                                                                                                                         , Mr. Biden and his counterparts in Germany, England and other European nations described the package of global sanctions as severe. They include financial directives by the United States to deny Russia the ability to borrow money in Western markets and to block financial transactions by two banks and the families of three wealthy Russian elites.                                                                                                                                                                                                                        , Chancellor Olaf Scholz of Germany put the Nord Stream 2 gas pipeline on hold. The $11 billion conduit from Russia to Germany — completed but not yet operational — is crucial to Moscow’s plans to increase energy sales to Europe. European Union foreign ministers and the British government approved sanctions against legislators in Moscow who voted to authorize the use of force, as well as Russian elites, companies and organizations.                                                                                                                                 , “It will hurt a lot,” said the E.U. foreign policy chief, Josep Borrell Fontelles.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                , The governments of Japan, Taiwan and Singapore also issued a joint statement saying they would limit technology exports to Russia in an effort to pressure Mr. Putin with damaging restrictions on his ambitions to compete in high-tech industries.                                                                                                                                                                                                                                                                                                                              , But the moves in Washington and other capitals around the world were limited in scope and fell short of the more sweeping economic warfare that some — including members of Congress and other supporters of Ukraine — have repeatedly demanded in recent weeks.                                                                                                                                                                                                                                                                                                                  , Mr. Biden and his counterparts have said they must balance the need to take swift and severe action with preserving the possibility of even greater sanctions on Russia if Mr. Putin escalates the conflict by trying to seize more territory claimed by the separatists, or even the entire country — a war that could kill tens of thousands of people.                                                                                                                                                                                                                         , “This is the beginning of a Russian invasion of Ukraine,” he said, adding that “we’ll continue to escalate sanctions if Russia escalates.”                                                                                                                                                                                                                                                                                                                                                                                                                                        , European leaders also vowed to get tougher if Mr. Putin’s forces continued to advance. Prime Minister Boris Johnson described British sanctions as just “the first tranche.”                                                                                                                                                                                                                                                                                                                                                                                                      , Mr. Biden’s use of the word “invasion” was significant. In the past, he had angered the Ukrainian leadership when he suggested that there might be lesser penalties for a “minor incursion.” Now that Mr. Putin has ordered forces into eastern Ukraine, Mr. Biden, in his choice of words, is making clear that there is nothing minor about the operation.                                                                                                                                                                                                                      , But that still leaves open the question of how to calibrate the sanctions — because so far there have been no mass casualties. John Finer, the president’s deputy national security adviser, said early Tuesday that the administration could hold back some of its promised punishments in the hopes of deterring further, far more violent aggression by Mr. Putin aimed at taking the rest of the country.                                                                                                                                                                     , “We’ve always envisioned waves of sanctions that would unfold over time in response to steps Russia actually takes, not just statements that they make,” Mr. Finer said on CNN. “We’ve always said we’re going to watch the situation on the ground and have a swift and severe response.”                                                                                                                                                                                                                                                                                        , Crucially, it remains unclear how far Mr. Putin — who has argued that Ukraine itself is a phony country, wrongly carved away from Russia — is prepared to go. On Tuesday, he said ominously that he recognized the so-called Donetsk and Luhansk republics’ sovereignty over not only the land they control, but also the much larger portion of Ukraine that they lay claim to, home to 2.5 million people.                                                                                                                                                                      , At a hastily called news conference on Tuesday, Mr. Putin demanded that Ukraine vow never to join NATO, give up the advanced weapons the West has delivered to it, recognize Russia’s annexation of Crimea and negotiate directly with the Luhansk and Donetsk separatists, who are seen in Kyiv and Western capitals as illegitimate Kremlin proxies.                                                                                                                                                                                                                            , “The most important point is a known degree of demilitarization of Ukraine today,” Mr. Putin said. “This is the only objectively controllable factor that can be observed and reacted to.”                                                                                                                                                                                                                                                                                                                                                                                        , A deputy Russian defense minister, Nikolai Pankov, claimed that Ukraine had gathered 60,000 troops to attack the Russia-backed separatist enclaves in the country’s east — a step that Ukraine denies having any plans to take. Mr. Pankov’s remarks offered little evidence that a peaceful end to the conflict between the two countries was in sight.                                                                                                                                                                                                                          , How it all began. Antagonism between Ukraine and Russia has been simmering since 2014, when the Russian military crossed into Ukrainian territory, after an uprising in Ukraine replaced their Russia-friendly president with a Western-facing government. Russia annexed Crimea and inspired a separatist movement in the east. A cease-fire was negotiated in 2015, but fighting continued.                                                                                                                                                                                     , Russia’s interests in Ukraine. Russia has been unnerved by NATO’s eastward expansion and Ukraine’s growing closeness with the West. While Ukraine is not part of the European Union or NATO, it receives financial and military aid from the United States and Europe.                                                                                                                                                                                                                                                                                                            , How the recent tensions began. In recent months Russia has built up a military presence near its border with Ukraine. U.S. officials say they have evidence of a Russian war plan that envisions an invasion force of 175,000 troops.                                                                                                                                                                                                                                                                                                                                             , Failed diplomatic efforts. The United States, NATO and Russia have been engaged in a whirlwind of diplomacy to prevent an escalation of the conflict. In December, Russia put forth a set of demands, including a guarantee that Ukraine would never join NATO. The West dismissed those demands and threatened economic consequences.                                                                                                                                                                                                                                            , The U.S.’s role. In February, the United States began warning that a full-scale invasion might be days away. Some 8,500 American troops have been placed on “high alert” for possible deployment to Eastern Europe, though President Biden has made clear that the United States would not send troops to fight for Ukraine.                                                                                                                                                                                                                                                      , Moscow asserts its power. On Feb. 21, President Vladimir V. Putin of Russia signed decrees recognizing two pro-Russian breakaway regions in eastern Ukraine and ordering troops to carry out “peacekeeping functions” in those areas. In an emotional speech announcing the move, the Russian president laid claim to all of Ukraine as a country “created by Russia.”                                                                                                                                                                                                            , What is next? Mr. Putin's actions appear to be laying the groundwork for wider intervention in Ukraine. But the economic damage of Western-imposed sanctions, and the death toll of a war, might be too great a cost for Moscow to stomach.                                                                                                                                                                                                                                                                                                                                       , “Negotiations have reached a dead end,” he said in a televised speech. “The Ukrainian leadership has taken the path of violence and bloodshed.”                                                                                                                                                                                                                                                                                                                                                                                                                                   , Mr. Biden’s announcement of the new sanctions was equally grim. He said the United States was imposing “full blocking” on two large Russian financial institutions and “comprehensive sanctions” on Russian debt.                                                                                                                                                                                                                                                                                                                                                                 , “That means we’ve cut off Russia’s government from Western finance,” he said. “It can no longer raise money from the West and cannot trade in its new debt on our markets or European markets, either.”                                                                                                                                                                                                                                                                                                                                                                           , He also said that the United States would impose sanctions on Russian elites and their families, an effort to ensure that those closest to Mr. Putin do not escape the financial pain that is expected to hit hard for average Russian citizens.                                                                                                                                                                                                                                                                                                                                  , Daleep Singh, a deputy national security adviser, called the sanctions announced on Tuesday “only the sharp edge of the pain we can inflict.”                                                                                                                                                                                                                                                                                                                                                                                                                                     , Mr. Singh described the two banks as a “glorified piggy bank of the Kremlin” and a financier “of the activities of the Russian military.” The banks will be prohibited from making transactions in the United States or Europe, and their assets in the U.S. will be frozen.                                                                                                                                                                                                                                                                                                      , Mr. Singh said the sanctions against the Russian elites and their families would punish those who “shared in the corrupt gains of the Kremlin, and they will now share in the pain.”                                                                                                                                                                                                                                                                                                                                                                                              , American officials have worried for weeks that imposing severe sanctions on Russia could also have consequences in the United States, including higher gas prices. Jen Psaki, the White House press secretary, said Americans should be prepared for the conflict with Russia to have that result.                                                                                                                                                                                                                                                                                , Asked about Mr. Biden’s proposed summit with Mr. Putin, Ms. Psaki said the administration was still open to diplomacy. “That remains an option,” she said of a potential meeting, but only if Russia de-escalates hostilities toward Ukraine.                                                                                                                                                                                                                                                                                                                                     , By day’s end in eastern Ukraine, there was no immediate sign of major military escalation, but fearful Ukrainians boarded buses out of the separatist areas as the country’s president, Volodymyr Zelensky, urged his nation to “keep a cool head” in the crisis.                                                                                                                                                                                                                                                                                                                 , Mr. Zelensky insisted that Ukraine would not yield territory, and his defense minister, Oleksiy Reznikov, appeared to be girding his country’s troops for battle.                                                                                                                                                                                                                                                                                                                                                                                                                 , “Ahead will be a difficult trial,” Mr. Reznikov said in a somber message released by the military. “There will be losses. You will have to go through pain and overcome fear and despondency.”                                                                                                                                                                                                                                                                                                                                                                                    , Michael D. Shear and Zolan Kanno-Youngs reported from Washington, Richard Pérez-Peña from New York and Anton Troianovski from Moscow.                                                                                                                                                                                                                                                                                                                                                                                                                                             , Advertisement </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/australia/stock-market </td>
@@ -149,6 +161,12 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
    <td style="text-align:left;"> US stock futures rose on Wednesday after a broad market selloff in the previous session, as investors continued to grapple with escalating tensions between Russia and Ukraine. Dow futures edged up 0.5%, S&amp;P 500 futures gained 0.6% and Nasdaq 100 futures were up by 0.8%. President Joe Biden announced on Tuesday the first tranche of sanctions against Russia, targeting Russian banks, the country’s sovereign debt and three individuals. The Dow and Nasdaq closed 1.42% and 1.23% lower, respectively, on Tuesday for their fourth straight negative session. The S&amp;P 500 also fell 1.01% and is now 10.25% below its Jan. 3 record, entering correction territory. All 11 S&amp;P sectors declined, led by the consumer cyclical, technology and industrial sectors. Meanwhile, investors are also weighing the effects of geopolitical uncertainties and soaring energy costs on inflation and the outlook for monetary policy. </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> https://www.cnn.com/videos/world/2022/02/22/dmytro-kuleba-ukraine-foreign-minister-sot-lead-vpx.cnn </td>
+   <td style="text-align:left;"> 2022-02-23 08:22:45 </td>
+   <td style="text-align:left;"> Ukrainian foreign minister: No sanctions enough until Russian forces leave - CNN Video </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> https://www.foxbusiness.com/politics/nord-stream-2-pipeline-europe-germany-russia-explainer </td>
    <td style="text-align:left;"> 2022-02-23 07:20:47 </td>
    <td style="text-align:left;"> Nord Stream 2: What to know about the controversial gas pipeline connecting Russia with Europe </td>
@@ -158,7 +176,7 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
    <td style="text-align:left;"> https://www.cnbc.com/2022/02/22/stock-market-futures-open-to-close-news.html </td>
    <td style="text-align:left;"> 2022-02-23 07:07:02 </td>
    <td style="text-align:left;"> Stock futures inch higher after S&amp;P 500 closes in correction </td>
-   <td style="text-align:left;"> , U.S. stock market futures were modestly higher in overnight trading Tuesday after the S&amp;P 500 closed in correction territory amid escalating tensions between Russia and Ukraine.                                                                                                                                                                                                         , Futures contracts tied to the Dow Jones Industrial Average advanced 85 points. S&amp;P 500 futures gained 0.35%, while Nasdaq 100 futures rose 0.5%.                                                                                                                                                                                                                                          , During regular trading the Dow fell 483 points, or 1.42%, for its fourth straight negative session. At one point the 30-stock benchmark had been down more than 700 points. The S&amp;P 500 shed 1.01%, and is now 10.25% below its Jan. 3 record close, putting the broad market index in correction territory. The Nasdaq Composite declined 1.23% for its fourth straight negative session., On Tuesday afternoon President Joe Biden announced a first tranche of sanctions against Russia. The measures target Russian banks, the country's sovereign debt and three individuals.                                                                                                                                                                                                    , "While uncertainties remain, our work shows that historically military/crisis events tend to inject volatility into markets and often cause a short-term dip, but stocks tend to eventually rebound unless the event pushes the economy into recession," Eylem Senyuz, senior global macro strategist at Truist wrote in a note to clients.                                               , "Investor sentiment also suggests the bar for positive surprises is low," the firm added.                                                                                                                                                                                                                                                                                                 , All 11 S&amp;P 500 sectors declined on Tuesday, led to the downside by consumer discretionary stocks, which fell 3%. Energy stocks moved lower despite a jump in oil prices. International benchmark Brent crude traded as high as $99.50 per barrel. West Texas Intermediate crude futures, the U.S. oil benchmark, hit a session high of $96, a price last seen in August 2014.             , Conflict playbook: Barclays picks its top stocks to navigate Russia-Ukraine tensions                                                                                                                                                                                                                                                                                                      , Russia-Ukraine tension is a convenient excuse for the stock sell-off, but it's about more than that                                                                                                                                                                                                                                                                                       , Meta is the worst performing FAANG stock this year. Here’s where Wall Street sees it going next                                                                                                                                                                                                                                                                                           , "The contagion risk will completely feed into inflationary pressures as energy costs will skyrocket and that will derail large parts of the economic recovery coming out of Covid," said Oanda's Ed Moya.                                                                                                                                                                                 , "Geopolitical risks could lead to a slower growth cycle and that could remove the risk of a half-point Fed rate hike at the March 16th FOMC decision," he added.                                                                                                                                                                                                                          , Wall Street is betting that there's a 100% chance of a rate hike at the Federal Reserve's March meeting, according to the CME Group's FedWatch tool. With inflation running hot, calls for a 50-basis point hike at the March meeting had been accelerating.                                                                                                                              , As tensions build between Russia and Ukraine, yields have retreated, with the yield on the benchmark U.S. 10-year Treasury falling below 2% as investors seek out safe-haven assets.                                                                                                                                                                                                      , As of Friday 78% of S&amp;P 500 companies that have reported have topped earnings estimates, while 78% have exceeded revenue expectations, according to data from FactSet.                                                                                                                                                                                                                    , Got a confidential news tip? We want to hear from you.                                                                                                                                                                                                                                                                                                                                    , Sign up for free newsletters and get more CNBC delivered to your inbox                                                                                                                                                                                                                                                                                                                    , Get this delivered to your inbox, and more info about our products and services.                                                                                                                                                                                                                                                                                                          , © 2022 CNBC LLC. All Rights Reserved. A Division of NBCUniversal                                                                                                                                                                                                                                                                                                                          , Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.                                                                                                                                                                                                                                        , Data also provided by </td>
+   <td style="text-align:left;"> , U.S. stock market futures were modestly higher in overnight trading Tuesday after the S&amp;P 500 closed in correction territory amid escalating tensions between Russia and Ukraine.                                                                                                                                                                                                         , Futures contracts tied to the Dow Jones Industrial Average advanced 85 points. S&amp;P 500 futures gained 0.35%, while Nasdaq 100 futures rose 0.5%.                                                                                                                                                                                                                                          , During regular trading the Dow fell 483 points, or 1.42%, for its fourth straight negative session. At one point the 30-stock benchmark had been down more than 700 points. The S&amp;P 500 shed 1.01%, and is now 10.25% below its Jan. 3 record close, putting the broad market index in correction territory. The Nasdaq Composite declined 1.23% for its fourth straight negative session., On Tuesday afternoon President Joe Biden announced a first tranche of sanctions against Russia. The measures target Russian banks, the country's sovereign debt and three individuals.                                                                                                                                                                                                    , "While uncertainties remain, our work shows that historically military/crisis events tend to inject volatility into markets and often cause a short-term dip, but stocks tend to eventually rebound unless the event pushes the economy into recession," Eylem Senyuz, senior global macro strategist at Truist wrote in a note to clients.                                               , "Investor sentiment also suggests the bar for positive surprises is low," the firm added.                                                                                                                                                                                                                                                                                                 , All 11 S&amp;P 500 sectors declined on Tuesday, led to the downside by consumer discretionary stocks, which fell 3%. Energy stocks moved lower despite a jump in oil prices. International benchmark Brent crude traded as high as $99.50 per barrel. West Texas Intermediate crude futures, the U.S. oil benchmark, hit a session high of $96, a price last seen in August 2014.             , These tech stocks may have bottomed after massive sell-off, Bank of America says                                                                                                                                                                                                                                                                                                          , Russia-Ukraine tension is a convenient excuse for the stock sell-off, but it's about more than that                                                                                                                                                                                                                                                                                       , These dividend growers have hefty and safe payouts                                                                                                                                                                                                                                                                                                                                        , Meta is the worst performing FAANG stock this year. Here’s where Wall Street sees it going next                                                                                                                                                                                                                                                                                           , "The contagion risk will completely feed into inflationary pressures as energy costs will skyrocket and that will derail large parts of the economic recovery coming out of Covid," said Oanda's Ed Moya.                                                                                                                                                                                 , "Geopolitical risks could lead to a slower growth cycle and that could remove the risk of a half-point Fed rate hike at the March 16th FOMC decision," he added.                                                                                                                                                                                                                          , Wall Street is betting that there's a 100% chance of a rate hike at the Federal Reserve's March meeting, according to the CME Group's FedWatch tool. With inflation running hot, calls for a 50-basis point hike at the March meeting had been accelerating.                                                                                                                              , As tensions build between Russia and Ukraine, yields have retreated, with the yield on the benchmark U.S. 10-year Treasury falling below 2% as investors seek out safe-haven assets.                                                                                                                                                                                                      , As of Friday 78% of S&amp;P 500 companies that have reported have topped earnings estimates, while 78% have exceeded revenue expectations, according to data from FactSet.                                                                                                                                                                                                                    , Got a confidential news tip? We want to hear from you.                                                                                                                                                                                                                                                                                                                                    , Sign up for free newsletters and get more CNBC delivered to your inbox                                                                                                                                                                                                                                                                                                                    , Get this delivered to your inbox, and more info about our products and services.                                                                                                                                                                                                                                                                                                          , © 2022 CNBC LLC. All Rights Reserved. A Division of NBCUniversal                                                                                                                                                                                                                                                                                                                          , Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.                                                                                                                                                                                                                                        , Data also provided by </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/australia/government-bond-yield </td>
@@ -173,7 +191,7 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
    <td style="text-align:left;"> Shares of Teladoc Health Inc. 
         TDOC,
         +0.46%
-       fell more than 6% in the extended session Tuesday after investors looked past a narrower quarterly loss and sales that were above expectations. Teladoc said it lost $11 million, or 7 cents a share, in the fourth quarter, compared with a loss of $394 million, or $3.07 a share, in the year-ago period. Revenue rose 45% to $554.2 million, Teladoc said. Analysts polled by FactSet expected the company to report a loss of 57 cents a share on sales of  $547 million. Teladoc guided for full-year 2022 sales of between $2.55 billion and $2.65 billion, representing 25% to 30% growth and, at the top of the range, in line with expectations. The telemedicine company said it saw "meaningful growth and penetration across several key areas of our business," including mental health and primary care. "Healthcare has a 'new normal,'" Teladoc said. "We are proud of the role Teladoc Health has played in leading this transformation and are equally excited about our role in 2022 and beyond as we continue to innovate." Shares of Teladoc ended the regular trading day up 0.5%. , Chinese regulators warned over investment fraud schemes linked to the metaverse, raising the prospect of wider scrutiny on the emerging space.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  , Claudia Assis is a San Francisco-based reporter for MarketWatch. Follow her on Twitter @ClaudiaAssisMW. </td>
+       fell more than 6% in the extended session Tuesday after investors looked past a narrower quarterly loss and sales that were above expectations. Teladoc said it lost $11 million, or 7 cents a share, in the fourth quarter, compared with a loss of $394 million, or $3.07 a share, in the year-ago period. Revenue rose 45% to $554.2 million, Teladoc said. Analysts polled by FactSet expected the company to report a loss of 57 cents a share on sales of  $547 million. Teladoc guided for full-year 2022 sales of between $2.55 billion and $2.65 billion, representing 25% to 30% growth and, at the top of the range, in line with expectations. The telemedicine company said it saw "meaningful growth and penetration across several key areas of our business," including mental health and primary care. "Healthcare has a 'new normal,'" Teladoc said. "We are proud of the role Teladoc Health has played in leading this transformation and are equally excited about our role in 2022 and beyond as we continue to innovate." Shares of Teladoc ended the regular trading day up 0.5%. , Calpers more than quadrupled holdings in meme stocks AMC and GameStop, and also loaded up on Berkshire Hathaway. It trimmed holdings in Palantir.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               , Claudia Assis is a San Francisco-based reporter for MarketWatch. Follow her on Twitter @ClaudiaAssisMW. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.cnbc.com/2022/02/22/stocks-making-the-biggest-moves-after-hours-palo-alto-networks-mosaic-more.html </td>
@@ -195,7 +213,7 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
         MOS,
         -1.80%
        dropped more than 6% in the extended session Tuesday after the fertilizer and feed producer missed fourth-quarter expectations and said rising agricultural commodity prices will be good for demand for its products this year. Mosaic said it earned $665 million, or $1.76 a share, in the quarter, compared with $828 million, or $2.17 a share, in the year-ago quarter. Adjusted for one-time items, the company earned $1.95 a share. Revenue rose to $3.8 billion from $2.5 billion a year ago Analysts polled by FactSet expected Mosaic to report adjusted earnings of $1.97 a share on sales of $3.9 billion. "Strong agricultural commodity pricing trends are expected to continue driving demand for fertilizers through 2022," the company said. "Global demand for grain and oilseeds remain high while stock-to-use ratios are at the lowest point in more than a decade," with food-security worries, rising biofuel consumption, and textiles are driving demand for corn, soybeans, and other agricultural commodities, it said. "As a result, strong global fertilizer demand in 2022 is expected as growers seek to maximize yields." Mosaic said its board authorized a dividend increase to 60 cents a share, from 45 cents a share, and a new share buyback of $1 billion. Shares of Mosaic ended the regular trading day down 1.8%. 
-, Former President Donald Trump's social media app that he hopes will rival Twitter launched Monday as he seeks a new digital stage to rally his supporters and fight Big Tech limits on speech a year after he was banned from Twitter, Facebook and YouTube.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                , Claudia Assis is a San Francisco-based reporter for MarketWatch. Follow her on Twitter @ClaudiaAssisMW. </td>
+, "I'm beyond disappointed and will make every effort to self-reflect and learn from this," says the 51-year-old golf pro.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , Claudia Assis is a San Francisco-based reporter for MarketWatch. Follow her on Twitter @ClaudiaAssisMW. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> http://www.marketwatch.com/news/story/hims-hers-shares-pop/story.aspx?guid={AF2AC8CE-E65F-4664-B643-20A0412CC62C}&amp;siteid=rss </td>
@@ -207,7 +225,7 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
        stock jumped 13% in extended trading Tuesday after the company reported fiscal fourth-quarter revenue that exceeded Wall Street analysts' forecasts. Hims &amp; Hers reported a net loss of $31.2 million, compared with a net loss of $5.2 million in the year-ago quarter. Revenue more than doubled to $84.7 million from $41.5 million a year ago. Analysts surveyed by FactSet had expected a net loss of 9 cents a share on revenue of $76.8 million. Hims &amp; Hers' stock has plunged 36% this year, while the broader S&amp;P 500 index 
         SPX,
         -1.01%
-       has declined 10%.                                                                                                                                    , Shares of Home Depot Inc. undefined tumbled 9.8% in afternoon trading Tuesday, to pace the Dow Jones Industrial Average's decliners, after the home improvement retailer reported fiscal fourth-quarter results that beat expectations and raised its dividend, but reported gross margin that fell and provided a less than enthusiastic profit outlook. The stock's price decline of $33.84 was shaving about 223 points off the Dow's price, representing about 38% of the Dow's decline of 580 points, or 1.7%. The stock was headed for the biggest percentage decline since dropped 10.4% on March 18, 2020. Meanwhile, shares of Home Depot rival Lowe's Companies undefined, which reports fiscal fourth-quarter results before Wednesday's open, dropped 4.4% in afternoon trading Tuesday., Jon Swartz is a senior reporter for MarketWatch in San Francisco, covering many of the biggest players in tech, including Netflix, Facebook and Google. Jon has covered technology for more than 20 years, and previously worked for Barron's and USA Today. Follow him on Twitter @jswartz. </td>
+       has declined 10%.                                                                                                         , Shares of special purpose acquisition company (SPAC) Digital World Acquisition Corp. undefined shot up 17.4% toward a four-month high in premarket trading Tuesday, after former President Donald Trump's social media app Truth Social launched over the long weekend with glitches, but at the top of Apple Inc.'s undefined list of free apps downloaded. The SPAC had announced in October 2021 a plan to merge with Trump Media &amp; Technology Group, which launched Truth Social. The SPAC's stock is on track to open at the highest price seen during regular-session hours since Oct. 25, and above the SPAC's highest stock closing price of $94.20 on Oct. 22. The stock has rallied 88.0% over the past three months while the S&amp;P 500 undefined has lost 7.1%., Jon Swartz is a senior reporter for MarketWatch in San Francisco, covering many of the biggest players in tech, including Netflix, Facebook and Google. Jon has covered technology for more than 20 years, and previously worked for Barron's and USA Today. Follow him on Twitter @jswartz. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&amp;at_campaign=KARANGA </td>
@@ -273,7 +291,7 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
        initially were initially up 1% in extended trading Tuesday after the company reported fiscal first-quarter results that were slightly above Wall Street analysts' forecasts. Agilent posted net income of $283 million, or 93 cents a share, compared with net income of $288 million, or 93 cents a share, in the year-ago quarter. The company recorded an adjusted earnings of $1.21 a share. Net revenue soared 8% to $1.67 billion from $1.55 billion a year ago. Agilent also offered full-year net revenue guidance of between $6.67 billion and $6.73 billion, in line with analyst estimates. Analysts surveyed by FactSet had expected net income of $1.18 a share on revenue of $1.65 billion. Agilent's stock has slumped 18% so far this year, while the broader S&amp;P 500 index 
         SPX,
         -1.01%
-       has tumbled 10%., Chinese regulators warned over investment fraud schemes linked to the metaverse, raising the prospect of wider scrutiny on the emerging space.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              , Jon Swartz is a senior reporter for MarketWatch in San Francisco, covering many of the biggest players in tech, including Netflix, Facebook and Google. Jon has covered technology for more than 20 years, and previously worked for Barron's and USA Today. Follow him on Twitter @jswartz. </td>
+       has tumbled 10%., Oil prices spiked after Russian President Vladimir Putin ordered troops into two breakaway regions of Ukraine, raising the threat of war in Eastern Europe.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 , Jon Swartz is a senior reporter for MarketWatch in San Francisco, covering many of the biggest players in tech, including Netflix, Facebook and Google. Jon has covered technology for more than 20 years, and previously worked for Barron's and USA Today. Follow him on Twitter @jswartz. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/canada/stock-market </td>
@@ -326,8 +344,8 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
         +1.32%
        rose $1.28, or 1.4%, to end at $92.35 a barrel on the New York Mercantile Exchange on the contract's expiration day. The new front-month April contract 
         CLJ22,
-        +0.07%
-       rose $1.70, or 1.9%, to settle at $91.91., Shares of Home Depot Inc. undefined tumbled 9.8% in afternoon trading Tuesday, to pace the Dow Jones Industrial Average's decliners, after the home improvement retailer reported fiscal fourth-quarter results that beat expectations and raised its dividend, but reported gross margin that fell and provided a less than enthusiastic profit outlook. The stock's price decline of $33.84 was shaving about 223 points off the Dow's price, representing about 38% of the Dow's decline of 580 points, or 1.7%. The stock was headed for the biggest percentage decline since dropped 10.4% on March 18, 2020. Meanwhile, shares of Home Depot rival Lowe's Companies undefined, which reports fiscal fourth-quarter results before Wednesday's open, dropped 4.4% in afternoon trading Tuesday.                                                                                                                                                                                             , Myra P. Saefong, assistant global markets editor, has covered the commodities sector for MarketWatch for 20 years. She has spent the bulk of her years at the company writing the daily Futures Movers and Metals Stocks columns and has been writing the weekly Commodities Corner column since 2005. </td>
+        +0.02%
+       rose $1.70, or 1.9%, to settle at $91.91., Shares of special purpose acquisition company (SPAC) Digital World Acquisition Corp. undefined shot up 17.4% toward a four-month high in premarket trading Tuesday, after former President Donald Trump's social media app Truth Social launched over the long weekend with glitches, but at the top of Apple Inc.'s undefined list of free apps downloaded. The SPAC had announced in October 2021 a plan to merge with Trump Media &amp; Technology Group, which launched Truth Social. The SPAC's stock is on track to open at the highest price seen during regular-session hours since Oct. 25, and above the SPAC's highest stock closing price of $94.20 on Oct. 22. The stock has rallied 88.0% over the past three months while the S&amp;P 500 undefined has lost 7.1%.                                                                                                                                                                                                                        , Myra P. Saefong, assistant global markets editor, has covered the commodities sector for MarketWatch for 20 years. She has spent the bulk of her years at the company writing the daily Futures Movers and Metals Stocks columns and has been writing the weekly Commodities Corner column since 2005. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/united-states/stock-market </td>
@@ -366,7 +384,7 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
        has given up 12.2% and the Dow Jones Industrial Average 
         DJIA,
         -1.42%
-       has declined 6.1%., Former President Donald Trump's social media app that he hopes will rival Twitter launched Monday as he seeks a new digital stage to rally his supporters and fight Big Tech limits on speech a year after he was banned from Twitter, Facebook and YouTube.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       has declined 6.1%., Shares of special purpose acquisition company (SPAC) Digital World Acquisition Corp. undefined shot up 17.4% toward a four-month high in premarket trading Tuesday, after former President Donald Trump's social media app Truth Social launched over the long weekend with glitches, but at the top of Apple Inc.'s undefined list of free apps downloaded. The SPAC had announced in October 2021 a plan to merge with Trump Media &amp; Technology Group, which launched Truth Social. The SPAC's stock is on track to open at the highest price seen during regular-session hours since Oct. 25, and above the SPAC's highest stock closing price of $94.20 on Oct. 22. The stock has rallied 88.0% over the past three months while the S&amp;P 500 undefined has lost 7.1%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> http://www.marketwatch.com/news/story/gold-futures-settle-back-above/story.aspx?guid={5900BC67-A379-452A-9FFB-D6098A38EB5C}&amp;siteid=rss </td>
@@ -374,8 +392,8 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
    <td style="text-align:left;"> Gold futures settle back above $1,900, at highest since June - MarketWatch </td>
    <td style="text-align:left;"> Gold futures rose Tuesday to their highest finish since June, as Russia's move into Ukraine boosted haven demand for the precious metal. "Gold did move higher over the past couple weeks, rising from approximately $1,800 on February 1st to $1,900 today, in anticipation of Russia invading Ukraine and not pursuing any real diplomatic solution," said Jeff Wright, chief investment officer at Wolfpack Capital. "The safe-haven buying of gold has been real and substantial over this time." April gold 
         GCJ22,
-        -0.26%
-       rose $7.60, or 0.4%, to settle at $1,907.40 an ounce - the highest intraday level for a most-active contract since June 2, 2021, FactSet data show. , "I'm beyond disappointed and will make every effort to self-reflect and learn from this," says the 51-year-old golf pro.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , Myra P. Saefong, assistant global markets editor, has covered the commodities sector for MarketWatch for 20 years. She has spent the bulk of her years at the company writing the daily Futures Movers and Metals Stocks columns and has been writing the weekly Commodities Corner column since 2005. </td>
+        -0.33%
+       rose $7.60, or 0.4%, to settle at $1,907.40 an ounce - the highest intraday level for a most-active contract since June 2, 2021, FactSet data show. , The U.K. announced its own sanctions on five Russian banks and three oligarchs with close links to Moscow.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , Myra P. Saefong, assistant global markets editor, has covered the commodities sector for MarketWatch for 20 years. She has spent the bulk of her years at the company writing the daily Futures Movers and Metals Stocks columns and has been writing the weekly Commodities Corner column since 2005. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.foxbusiness.com/economy/inflation-wages-lower-income-americans </td>
@@ -399,7 +417,7 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
        tumbled 9.8% in afternoon trading Tuesday, to pace the Dow Jones Industrial Average's decliners, after the home improvement retailer reported fiscal fourth-quarter results that beat expectations and raised its dividend, but reported gross margin that fell and provided a less than enthusiastic profit outlook. The stock's price decline of $33.84 was shaving about 223 points off the Dow's price, representing about 38% of the Dow's decline of 580 points, or 1.7%. The stock was headed for the biggest percentage decline since dropped 10.4% on March 18, 2020. Meanwhile, shares of Home Depot rival Lowe's Companies 
         LOW,
         -3.64%,
-       which reports fiscal fourth-quarter results before Wednesday's open, dropped 4.4% in afternoon trading Tuesday., The U.K. announced its own sanctions on five Russian banks and three oligarchs with close links to Moscow.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       which reports fiscal fourth-quarter results before Wednesday's open, dropped 4.4% in afternoon trading Tuesday., Former President Donald Trump's social media app that he hopes will rival Twitter launched Monday as he seeks a new digital stage to rally his supporters and fight Big Tech limits on speech a year after he was banned from Twitter, Facebook and YouTube.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/spx:ind </td>
@@ -432,7 +450,7 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
        which influences mortgage rates and refinancings, was at 1.941% in midday trading, up from 1.529% at the end of September.  "Competition and mix-shift (towards partner) could impact margins in 2022 and we expect [Rocket] to continue to invest in marketing, technology and non-mortgage businesses, which could lead to higher-than-expected [operating expenditure] spending. The stock has tumbled 24.5% over the past three months while the S&amp;P 500 
         SPX,
         -1.01%
-       has lost 8.1%., Shares of special purpose acquisition company (SPAC) Digital World Acquisition Corp. undefined shot up 17.4% toward a four-month high in premarket trading Tuesday, after former President Donald Trump's social media app Truth Social launched over the long weekend with glitches, but at the top of Apple Inc.'s undefined list of free apps downloaded. The SPAC had announced in October 2021 a plan to merge with Trump Media &amp; Technology Group, which launched Truth Social. The SPAC's stock is on track to open at the highest price seen during regular-session hours since Oct. 25, and above the SPAC's highest stock closing price of $94.20 on Oct. 22. The stock has rallied 88.0% over the past three months while the S&amp;P 500 undefined has lost 7.1%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
+       has lost 8.1%., Calpers more than quadrupled holdings in meme stocks AMC and GameStop, and also loaded up on Berkshire Hathaway. It trimmed holdings in Palantir.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , Tomi Kilgore is MarketWatch's deputy investing and corporate news editor and is based in New York. You can follow him on Twitter @TomiKilgore. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/mdt:us </td>
@@ -481,6 +499,12 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
    <td style="text-align:left;"> 2022-02-23 01:23:30 </td>
    <td style="text-align:left;"> HSBC earnings below expectations at 0.45 USD </td>
    <td style="text-align:left;"> HSBC (HSBC) released earnings per share at 0.45 USD, compared to market expectations of 0.60 USD. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.foxbusiness.com/markets/home-depot-earnings-lumber-prices </td>
+   <td style="text-align:left;"> 2022-02-23 01:19:10 </td>
+   <td style="text-align:left;"> Home Depot signals lumber prices will remain ‘volatile’ </td>
+   <td style="text-align:left;">  Kevin Mahn, Hennion &amp; Walsh Asset Management president, analyzes the impact of Russia-Ukraine tensions on the economy and weighs in on easing inflation on 'Making Money.'                                                                                                                                                                                                                                                              , Home Depot signaled the swings in lumber prices plaguing builders are not going to abate anytime soon.                                                                                                                                                                                                                                                                                                                                   , "When lumber hit those extraordinary highs in the early part of last year, we saw a dramatic unit productivity fall off, and then we also saw a very quick fall off in lumber prices," Home Depot's chief operating officer and incoming CEO Ted Decker told analysts on the company's fourth quarter earnings call Tuesday. "As lumber prices have recovered through this quarter, we are starting to see some unit pressure on lumber.", According to Decker, prices for framing lumber in the fourth quarter alone ranged from approximately $585 to over $1,200 per thousand board feet, an increase of more than 100%. He emphasized that lumber prices "remain volatile."                                                                                                                                                                                                     , LABOR SHORTAGE HAS HOME DEPOT PUSHING ‘ACCELERATED HIRING PROCESS’                                                                                                                                                                                                                                                                                                                                                                       , Home Depot stock finished down nearly 9% at the end of Tuesday's trading session despite the home improvement retailer reporting strong quarterly sales growth.                                                                                                                                                                                                                                                                          , Fourth-quarter sales were $35.7 billion, an increase of $3.5 billion, or 10.7% year-over-year. Comparable sales for the quarter jumped 8.1%, with U.S. comparable sales climbing 7.6%. Home Depot posted a quarterly net profit $3.4 billion, or $3.21 per share, compared to $2.9 billion, or $2.65 per share, a year ago. Analysts surveyed by Refinitiv were expecting earnings per share of $3.18 and net sales of $34.87 billion.   , The home improvement retailer posted fourth quarter sales of $35.7 billion, an increase of $3.5 billion, or 10.7% year-over-year.  (Getty Images / Getty Images)                                                                                                                                                                                                                                                                         , Departments with above-average comps included plumbing, electrical, building materials, millwork, decor and storage and paint. Meanwhile, kitchen and bath was in line with the company average and hardware, tools, lumber, flooring, appliances and garden were positive but below the company average.                                                                                                                                , Home Depot’s total customer transactions during the quarter fell to 402.5 million from 416.8 million a year ago. However, the average ticket rose to $85.11, compared to $75.69 a year ago. Growth in its average ticket was driven primarily by inflation as the cost of lumber, building materials and copper rose.                                                                                                                    , Big-ticket comp transactions, which are those over $1,000, rose 18% compared to the same period last year. Sales growth from home professionals outpaced do-it-yourself customers during the three-month period ending Jan. 30.                                                                                                                                                                                                          , CLICK HERE TO READ MORE ON FOX BUSINESS                                                                                                                                                                                                                                                                                                                                                                                                  , Looking ahead, Home Depot is anticipating sales growth and comparable sales growth to be "slightly positive" and diluted earnings-per-share-growth to be in the "low single digits." Home Depot chief financial officer Richard McPhail noted that the company has set a goal to reach $200 billion in annual sales, but did not disclose specific timing for reaching that goal.                                                        , "We intend to get there as soon as we can in a sustainable and profitable way," McPhail said.                                                                                                                                                                                                                                                                                                                                            , Along with its earnings results, Home Depot disclosed that its board of directors has approved a 15% increase in its quarterly dividend to $1.90 per share, which equates to an annual dividend of $7.60 per share. The dividend is payable on March 24 to shareholders of record as of the close of business on March 10. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.foxbusiness.com/politics/putin-trying-to-muddy-the-waters-says-former-deputy-secretary-general-of-nato </td>
@@ -534,7 +558,7 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
    <td style="text-align:left;"> https://www.nytimes.com/2022/02/22/business/sephora-bloomingdales-sexual-wellness.html </td>
    <td style="text-align:left;"> 2022-02-23 00:38:54 </td>
    <td style="text-align:left;"> Sephora and Bloomingdale's Start to Embrace Sexual Wellness - The New York Times </td>
-   <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Supported by                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , With careful rebranding, word choice and packaging, products like vibrators and lubricants have become newly palatable to higher-end retailers.                                                                                                                                                                                                                                                                                                                                                                                                                                                     , By Sapna Maheshwari                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 , A recent email from Sephora promoted the usual: mascaras, face masks and blush compacts. But tucked among those products was a promotion for “intimate care,” encouraging shoppers to try two brands that were new to the retailer — Maude and Dame Products.                                                                                                                                                                                                                                                                                                                                       , A click on a link revealed dozens of artistically styled vibrators, lubricants, oils for sensitive body parts and candles that burn down into massage oil.                                                                                                                                                                                                                                                                                                                                                                                                                                          , Sephora is the latest major retailer to embrace a category known as “sexual wellness,” following Bloomingdale’s and Nordstrom, which started carrying such products last year. With careful rebranding, word choice and packaging, products like vibrators and lubricants have become newly palatable to higher-end retailers that cater to women. It’s a significant evolution in the public acceptance of such products, helped in part by celebrity endorsements, and it comes amid a broader focus on wellness and self-care spurred by the pandemic.                                           , “People are spending more time, energy and disposable income on their own wellness, so it was natural that this expanded to sexual wellness,” said Elizabeth Miller, a vice president who oversees cosmetics at Bloomingdale’s. “It’s evolved so much from what it used to be maybe 10 or 15 years ago to be much more approachable.”                                                                                                                                                                                                                                                               , Bloomingdale’s — which recently promoted “the ultimate sexual wellness picks” alongside bathrobes and David Yurman jewelry in a Valentine’s Day marketing email — introduced sexual wellness products in May 2021, after an employee in its executive development program pitched the idea. Ms. Miller said that some of the retailer’s comfort with the strategy could be traced to the actress Gwyneth Paltrow, whose Goop brand introduced a vibrator last year.                                                                                                                                 , “Seeing Gwyneth Paltrow and Goop take the lead in this category made it feel brand right for us, so I give her a lot of credit,” Ms. Miller said, noting that the products are seen as a draw for Generation Z and millennial shoppers. “Obviously, we reviewed it internally with management to make sure everyone felt comfortable, but the performance has been very strong.”                                                                                                                                                                                                                    , For the start-ups selling adult-oriented products, which often have difficulty navigating advertising guidelines, being promoted and bought alongside other beauty and luxury wares lends credibility.                                                                                                                                                                                                                                                                                                                                                                                              , “Sephora and these other big beauty retailers are saying, it’s just like everything else, you can buy it together,” said Éva Goicochea, founder and chief executive of Maude, which is carried at Bloomingdale’s and Sephora. “It’s impactful in this subtle way.”                                                                                                                                                                                                                                                                                                                                  , Or as Alexandra Fine, co-founder and chief executive of Dame, put it: “Each time somebody puts us in their store, especially a major player like Sephora, it makes it easier for other people to put in their store, easier for investors to invest in us and easier for customers to buy us.”                                                                                                                                                                                                                                                                                                      , Maude and Dame have several things in common. Both start-ups have their headquarters in Williamsburg, Brooklyn, and both are founded and led by women; Maude, which began selling products in 2018, has raised more than $10 million in funding, while Dame, founded in 2014, has raised more than $5 million.                                                                                                                                                                                                                                                                                      , For many years, products like vibrators have been associated with adult stores, often portrayed as seedy or male-oriented, or otherwise found in the fluorescent aisles of drugstores or chains like Walmart. Maude and Dame have sought to elevate the retail experience, incorporating more approachable language and design. Celebrities have also gotten involved: The actress Dakota Johnson works with Maude as an investor and co-creative director, while the singers Demi Lovato and Lily Allen have released sex toys with other big brands.                                              , Lisa Finn, a brand manager and sex educator for Babeland, the decades-old feminist adult products emporium with stores in Seattle and New York, said that conversations about sex toys became more “normalized” during the pandemic as people were suddenly isolated either alone or with their partners. She has increasingly seen them referred to as “pleasure products” or “sexual wellness tools.”                                                                                                                                                                                             , “This takes some of this idea that sex toys are dirty or kinky,” she said. “And though they absolutely can be, for a lot of folks, these are tools.” That shift “does allow for them to exist in the mainstream,” she said.                                                                                                                                                                                                                                                                                                                                                                         , Tyler Aldridge, director of product at Maude, said that the brand was “trying to blend this idea of beauty, wellness and sexual wellness.” Retailers have liked those terms, along with phrases like “sexual health” or “intimate care,” Ms. Goicochea said, adding that Maude was more about “intimacy and romance than explicit sex.” These terms have the benefit of both sounding healthy but stopping short of making any kind of medical claim.                                                                                                                                               , So while Maude sells $49 vibrators in muted colors, it also sells amber-hued bottles of $25 aloe- and water-based lubricant, $35 unscented massage oil and $18 mineral bath salts. The products’ minimalist design and limited color palette are perhaps no surprise given that Ms. Goicochea previously worked at Everlane, the clothing brand that prioritizes a similar design aesthetic. Maude’s office in Williamsburg similarly boasts plenty of natural light, soaring ceilings, light wooden shelves and desks, as well as lots of clean white text on dark backgrounds. Clean lines abound., While Dame is more focused on devices, it also carries a $30 “arousal serum,” an $18 aloe-based lubricant and a $95 adult-oriented pillow called, much in keeping with start-up parlance, “Pillo.”                                                                                                                                                                                                                                                                                                                                                                                                  , The companies tend to emphasize their products’ clean and natural ingredients. Descriptions like “aloe-infused” and “contains jojoba oil” are common.                                                                                                                                                                                                                                                                                                                                                                                                                                               , The styling of the products has caught some retailers by surprise. For example, Mr. Aldridge said that Madewell, a clothing retailer, initially balked at the idea of carrying Maude products on its website. But then a buyer actually saw the items on a colleague’s desk, marveled that they “looked like a beauty brand,” and decided it was worth adding them to the company’s online marketplace.                                                                                                                                                                                             , Cristina Nuñez, the co-founder of True Beauty Ventures, a venture firm that invested in Maude, said that the products were crafted with an eye to the “shelfie,” meaning that people can feel proud and comfortable displaying the items in a photograph on social media.                                                                                                                                                                                                                                                                                                                           , “We would joke around that the vibe was something that you could leave out on your night stand and not be embarrassed that you had a vibrator on your night stand,” she said. “There wouldn’t be that stigma around it because it wasn’t crass.”                                                                                                                                                                                                                                                                                                                                                    , It’s difficult to estimate the size of the sexual wellness industry, particularly because increasingly it can cross over into beauty products. Many of the key players are private companies, and both Maude and Dame were unwilling to share their sales figures. But Ms. Nuñez, who studied seven or eight similar brands before investing in Maude, said that many of the companies her firm looked at made in the “low single-digit millions” of dollars in revenue. She said that she was optimistic about the path to tens of millions of dollars in revenue and beyond.                      , “The opening of retail to these brands will help them get there,” Ms. Nuñez said, “because historically, they really were only able to get to that point through direct-to-consumer, and now they’ve got multiple outlets, from mass, to prestige to luxury department store channels.”                                                                                                                                                                                                                                                                                                             , Showing up in a major retailer’s emails also helps the brands with their advertising issues, which do still come up. Dame, for instance, recently settled a lawsuit with the Metropolitan Transportation Authority, which had rejected an ad campaign because it was a “sexually oriented business.” The M.T.A.’s move had raised an outcry, given other subway ads for things like erectile dysfunction medications and the Museum of Sex.                                                                                                                                                         , On social media, Facebook and Instagram prohibit ads that promote the sale or use of adult products or services, particularly those focused on sexual pleasure. That means brands have to get creative —  and the notion of “sexual wellness” helps. While Maude may not be able to advertise its devices on these platforms, it can promote its “massage candle,” which melts into massage oil, and its condoms.                                                                                                                                                                                   , “The reality is we’ll still see flags, we’ll still get our warnings,” Ms. Finn of Babeland said, but Babeland’s products are less likely “to be targeted as such if we’re not talking about them as vibrators but rather as ‘tools’ or ‘massagers.’”                                                                                                                                                                                                                                                                                                                                                , Ms. Fine of Dame said that it was an uphill battle. When she tried posting about Dame’s launch with Sephora on LinkedIn this month (“Somebody pinch me — after 5 years of pitching, we are in SEPHORA!”) her post was automatically removed multiple times for violating the professional site’s guidelines against “sexually explicit material or language.” That persisted even when she included a link to an article about the deal. Ms. Fine said that she had a similar experience last year when she posted about Dame’s being at Bloomingdale’s.                                            , “It does feel personal in some way — it’s my voice and me as an entrepreneur, making me feel like I’m inherently unprofessional because of what I do,” she said. But she said that she hoped the partnership with Sephora and Bloomingdale’s would dull that perception.                                                                                                                                                                                                                                                                                                                            , Retailers are largely offering sexual wellness products online — Ms. Miller of Bloomingdale’s pointed out that many customers probably prefer the privacy — though Ms. Goicochea and her team are hoping that Maude will make it to Sephora stores in 2023. One of her colleagues noted that logistics can be tricky at traditional specialty and department stores —  after all, does a vibrator go next to the hair stylers or by the beauty supplements?                                                                                                                                         , Nordstrom sold the products in some stores last year, putting vibrators and other items in 10 self-love-themed pop-up shops. While a company spokeswoman said that “the customer response was very strong,” the products have not become permanent fixtures. “Not all our customers are comfortable approaching the category openly and we want to be thoughtful and sensitive in our approach,” the spokeswoman said in an email.                                                                                                                                                                  , Still, Ms. Fine, who noted that she had been in talks with Sephora for five years, said even the online presence is a major change from the reception she received when she was starting out. She had applied for an accelerator program that promised to help start-ups grow, where two judges offered feedback on each pitch.                                                                                                                                                                                                                                                                     , “One judge wrote, ‘Is this a joke?’ and that was his whole piece of feedback,” she said. “That is telling of what 2014 was like versus now.”                                                                                                                                                                                                                                                                                                                                                                                                                                                        , Advertisement </td>
+   <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           , Supported by                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , With careful rebranding, word choice and packaging, products like vibrators and lubricants have become newly palatable to higher-end retailers.                                                                                                                                                                                                                                                                                                                                                                                                                                                         , By Sapna Maheshwari                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     , A recent email from Sephora promoted the usual: mascaras, face masks and blush compacts. But tucked among those products was a promotion for “intimate care,” encouraging shoppers to try two brands that were new to the retailer — Maude and Dame Products.                                                                                                                                                                                                                                                                                                                                           , A click on a link revealed dozens of artistically styled vibrators, lubricants, oils for sensitive body parts and candles that burn down into massage oil.                                                                                                                                                                                                                                                                                                                                                                                                                                              , Sephora is the latest major retailer to embrace a category known as “sexual wellness,” following Bloomingdale’s and Nordstrom, which started carrying such products last year. With careful rebranding, word choice and packaging, products like vibrators and lubricants have become newly palatable to higher-end retailers that cater to women. It’s a significant evolution in the public acceptance of such products, helped in part by celebrity endorsements, and it comes amid a broader focus on wellness and self-care spurred by the pandemic.                                               , “People are spending more time, energy and disposable income on their own wellness, so it was natural that this expanded to sexual wellness,” said Elizabeth Miller, a vice president who oversees cosmetics at Bloomingdale’s. “It’s evolved so much from what it used to be maybe 10 or 15 years ago to be much more approachable.”                                                                                                                                                                                                                                                                   , Bloomingdale’s — which recently promoted “the ultimate sexual wellness picks” alongside bathrobes and David Yurman jewelry in a Valentine’s Day marketing email — introduced sexual wellness products in May, after an employee in its executive development program pitched the idea. Ms. Miller said some of the retailer’s comfort with the strategy could be traced to the actress Gwyneth Paltrow, whose Goop brand introduced a vibrator last year.                                                                                                                                               , “Seeing Gwyneth Paltrow and Goop take the lead in this category made it feel brand right for us, so I give her a lot of credit,” Ms. Miller said, noting that the products are seen as a draw for Generation Z and millennial shoppers. “Obviously, we reviewed it internally with management to make sure everyone felt comfortable, but the performance has been very strong.”                                                                                                                                                                                                                        , For the start-ups selling adult-oriented products, which often have difficulty navigating advertising guidelines, being promoted and bought alongside other beauty and luxury wares lends credibility.                                                                                                                                                                                                                                                                                                                                                                                                  , “Sephora and these other big beauty retailers are saying it’s just like everything else, you can buy it together,” said Éva Goicochea, founder and chief executive of Maude, which is carried at Bloomingdale’s and Sephora. “It’s impactful in this subtle way.”                                                                                                                                                                                                                                                                                                                                       , Or as Alexandra Fine, co-founder and chief executive of Dame, put it: “Each time somebody puts us in their store, especially a major player like Sephora, it makes it easier for other people to put in their store, easier for investors to invest in us and easier for customers to buy us.”                                                                                                                                                                                                                                                                                                          , Maude and Dame have several things in common. Both start-ups have their headquarters in Williamsburg, Brooklyn, and both are founded and led by women. Maude, which began selling products in 2018, has raised more than $10 million in funding, while Dame, founded in 2014, has raised more than $5 million.                                                                                                                                                                                                                                                                                          , For many years, products like vibrators have been associated with adult stores, often portrayed as seedy or male-oriented, or otherwise found in the fluorescent aisles of drugstores or chains like Walmart. Maude and Dame have sought to elevate the retail experience, incorporating more approachable language and design. Celebrities have also gotten involved: The actress Dakota Johnson works with Maude as an investor and co-creative director, while the singers Demi Lovato and Lily Allen have released sex toys with other big brands.                                                  , Lisa Finn, a brand manager and sex educator for Babeland, the decades-old feminist adult products emporium with stores in Seattle and New York, said conversations about sex toys became more “normalized” during the pandemic as people were suddenly isolated either alone or with their partners. She has increasingly seen them referred to as “pleasure products” or “sexual wellness tools.”                                                                                                                                                                                                      , “This takes some of this idea that sex toys are dirty or kinky,” she said. “And though they absolutely can be, for a lot of folks, these are tools.” That shift “does allow for them to exist in the mainstream,” she said.                                                                                                                                                                                                                                                                                                                                                                             , Tyler Aldridge, director of product at Maude, said the brand was “trying to blend this idea of beauty, wellness and sexual wellness.” Retailers have liked those terms, along with phrases like “sexual health” and “intimate care,” Ms. Goicochea said, adding that Maude was more about “intimacy and romance than explicit sex.” These terms have the benefit of both sounding healthy but stopping short of making any kind of medical claim.                                                                                                                                                       , So while Maude sells $49 vibrators in muted colors, it also sells amber-hued bottles of $25 aloe- and water-based lubricant, $35 unscented massage oil and $18 mineral bath salts. The products’ minimalist design and limited color palette are perhaps no surprise given that Ms. Goicochea previously worked at Everlane, the clothing brand that prioritizes a similar design aesthetic. Maude’s office in Williamsburg similarly boasts plenty of natural light, soaring ceilings, and light wooden shelves and desks, as well as lots of clean white text on dark backgrounds. Clean lines abound., While Dame is more focused on devices, it also carries a $30 “arousal serum,” an $18 aloe-based lubricant and a $95 adult-oriented pillow called, much in keeping with start-up parlance, “Pillo.”                                                                                                                                                                                                                                                                                                                                                                                                      , The companies tend to emphasize their products’ clean and natural ingredients. Descriptions like “aloe-infused” and “contains jojoba oil” are common.                                                                                                                                                                                                                                                                                                                                                                                                                                                   , The styling of the products has caught some retailers by surprise. For example, Mr. Aldridge said Madewell, a clothing retailer, had initially balked at the idea of carrying Maude products on its website. But then a buyer saw the items on a colleague’s desk, marveled that they “looked like a beauty brand” and decided it was worth adding them to the company’s online marketplace.                                                                                                                                                                                                            , Cristina Nuñez, a co-founder of True Beauty Ventures, a venture firm that invested in Maude, said the products were crafted with an eye to the “shelfie,” meaning that people can feel proud and comfortable displaying the items in a photograph on social media.                                                                                                                                                                                                                                                                                                                                      , “We would joke around that the vibe was something that you could leave out on your night stand and not be embarrassed that you had a vibrator on your night stand,” she said. “There wouldn’t be that stigma around it because it wasn’t crass.”                                                                                                                                                                                                                                                                                                                                                        , It’s difficult to estimate the size of the sexual wellness industry, particularly because increasingly it can cross over into beauty products. Many of the key players are private companies, and both Maude and Dame were unwilling to share their sales figures. But Ms. Nuñez, who studied seven or eight similar brands before investing in Maude, said many of the companies her firm had looked at made in the “low single-digit millions” of dollars in revenue. She said she was optimistic about the path to tens of millions of dollars in revenue and beyond.                                , “The opening of retail to these brands will help them get there,” Ms. Nuñez said, “because historically, they really were only able to get to that point through direct-to-consumer, and now they’ve got multiple outlets, from mass, to prestige to luxury department store channels.”                                                                                                                                                                                                                                                                                                                 , Showing up in a major retailer’s emails also helps the brands with their advertising issues, which do still come up. Dame, for instance, recently settled a lawsuit with the Metropolitan Transportation Authority, which had rejected an ad campaign because it was a “sexually oriented business.” The M.T.A.’s move had raised an outcry, given other subway ads for things like erectile dysfunction medications and the Museum of Sex.                                                                                                                                                             , On social media, Facebook and Instagram prohibit ads that promote the sale or use of adult products or services, particularly those focused on sexual pleasure. That means brands have to get creative —  and the notion of “sexual wellness” helps. While Maude may not be able to advertise its devices on these platforms, it can promote its “massage candle,” which melts into massage oil, and its condoms.                                                                                                                                                                                       , “The reality is we’ll still see flags, we’ll still get our warnings,” Ms. Finn of Babeland said, but Babeland’s products are less likely “to be targeted as such if we’re not talking about them as vibrators but rather as ‘tools’ or ‘massagers.’”                                                                                                                                                                                                                                                                                                                                                    , Ms. Fine of Dame said it was an uphill battle. When she tried posting about Dame’s launch with Sephora on LinkedIn this month (“Somebody pinch me — after 5 years of pitching, we are in SEPHORA!”) her post was automatically removed multiple times for violating the professional site’s guidelines against “sexually explicit material or language.” That persisted even when she included a link to an article about the deal. Ms. Fine said she had a similar experience last year when she posted about Dame’s being at Bloomingdale’s.                                                          , “It does feel personal in some way — it’s my voice and me as an entrepreneur, making me feel like I’m inherently unprofessional because of what I do,” she said. But she said she hoped the partnership with Sephora and Bloomingdale’s would dull that perception.                                                                                                                                                                                                                                                                                                                                     , Retailers are largely offering sexual wellness products online — Ms. Miller of Bloomingdale’s pointed out that many customers probably prefer the privacy — though Ms. Goicochea and her team are hoping that Maude will make it to Sephora stores in 2023. One of her colleagues noted that logistics can be tricky at traditional specialty and department stores —  after all, does a vibrator go next to the hair stylers or by the beauty supplements?                                                                                                                                             , Nordstrom sold the products in some stores last year, putting vibrators and other items in 10 self-love-themed pop-up shops. While a company spokeswoman said that “the customer response was very strong,” the products have not become permanent fixtures. “Not all our customers are comfortable approaching the category openly, and we want to be thoughtful and sensitive in our approach,” the spokeswoman said in an email.                                                                                                                                                                     , Still, Ms. Fine, who noted that she had been in talks with Sephora for five years, said even the online presence was a major change from the reception she received when she was starting out. She had applied for an accelerator program that promised to help start-ups grow, where two judges offered feedback on each pitch.                                                                                                                                                                                                                                                                        , “One judge wrote, ‘Is this a joke?’ and that was his whole piece of feedback,” she said. “That is telling of what 2014 was like versus now.”                                                                                                                                                                                                                                                                                                                                                                                                                                                            , Advertisement </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/commodity/gold </td>
@@ -699,12 +723,6 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
    <td style="text-align:left;"> The average prices of single-family houses with mortgages guaranteed by Fannie Mae and Freddie Mac in the United States increased 1.2 percent from a month earlier in December 2021, the same pace as in November. Year-on-year, house prices jumped 17.6 percent in December, also at the same rate as in the previous month. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> https://www.cnn.com/videos/world/2022/02/22/coronavirus-united-kingdom-australia-new-zealand-dos-santos-intl-ovn-vpx.cnn </td>
-   <td style="text-align:left;"> 2022-02-22 21:56:59 </td>
-   <td style="text-align:left;"> Three countries enter the 'living with Covid' phase  - CNN Video </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> https://www.bbc.co.uk/news/entertainment-arts-60476760?at_medium=RSS&amp;at_campaign=KARANGA </td>
    <td style="text-align:left;"> 2022-02-22 21:51:32 </td>
    <td style="text-align:left;"> National Portrait Gallery's BP sponsorship to end </td>
@@ -740,24 +758,6 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
    <td style="text-align:left;"> Irish Wholesale Price Inflation Eases in January </td>
    <td style="text-align:left;"> Ireland’s wholesale prices rose by 3.5 percent from a year earlier in January of 2022, easing from the four-year high of 4.5 percent in the previous month. Prices rose at a slower rate for export sales (3.3 percent vs 4.3 percent in December 2021), while costs picked up for home sales (7.9 percent vs 5.9 percent). On a monthly basis, wholesale prices advanced by 0.1 percent, after remaining unchanged in the prior month. </td>
   </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.cnbc.com/2022/02/22/stocks-making-the-biggest-moves-premarket-home-depot-macys-medtronic-and-others.html </td>
-   <td style="text-align:left;"> 2022-02-22 20:53:53 </td>
-   <td style="text-align:left;"> Stocks making the biggest moves premarket: Home Depot, Macy's, Medtronic and others </td>
-   <td style="text-align:left;"> , In this article                                                                                                                                                                                                                                                                                                                                                                                                                           , Check out the companies making headlines before the bell:                                                                                                                                                                                                                                                                                                                                                                                 , Home Depot (HD) – The home improvement retailer's stock rose 1% in the premarket after its quarterly profit and revenue beat Wall Street forecasts. Home Depot earned $3.21 per share, 3 cents above estimates, and comparable-store sales also beat estimates. Home Depot also announced a 15% dividend increase.                                                                                                                        , Macy's (M) – Macy's beat estimates by 45 cents with adjusted quarterly earnings of $2.45 per share, and the retailer's revenue beat estimates as well. Macy's also authorized a new $2 billion share buyback program and announced a 5% dividend increase. The stock rallied 7.9% in premarket action.                                                                                                                                    , Tempur Sealy (TPX) – The mattress company's stock slid 5% in the premarket after its adjusted quarterly earnings of 88 cents per share missed estimates by 8 cents, and revenue fell short of Street forecasts. Tempur Sealy's results were impacted by costs that grew faster than sales.                                                                                                                                                , Medtronic (MDT) – The medical device maker's shares reported a mixed quarter. Revenue missed forecasts and its adjusted quarterly profit beat estimates by a penny at $1.37 per share. Medtronic said it is seeing improved procedure volumes, and its most recent quarter was driven by strong demand for its heart devices. The stock initially slid 1.2% in the premarket but then erased that loss.                                   , Houghton Mifflin (HMHC) – The publishing company agreed to be bought by private equity firm Veritas Capital for $21 per share in cash or about $2.8 billion. The stock surged 14.9% in premarket trading.                                                                                                                                                                                                                                 , SoFi Technologies (SOFI) – The financial technology firm announced a deal to buy banking software maker Technisys for about $1.1 billion stock, saying the addition will generate up to $800 million in additional revenue through 2025. SoFi fell 2.7% in premarket action.                                                                                                                                                              , Tegna (TGNA) – The TV station operator's shares jumped 7.4% in the premarket after agreeing to a $24 per share buyout deal with private equity firms Standard General and Apollo Global Management (APO).                                                                                                                                                                                                                                 , McDonald's (MCD) – Investor Carl Icahn launched a proxy fight for two board seats at the restaurant chain, as part of his push for more ethical treatment of pigs by McDonald's suppliers. McDonald's fell 1% in the premarket.                                                                                                                                                                                                           , Krispy Kreme (DNUT) – The doughnut chain fell a penny shy of forecasts with adjusted quarterly earnings of 8 cents per share, although revenue topped Wall Street forecasts. Krispy Kreme was able to offset wage and commodity inflation with price increases. Krispy Kreme added 1.2% in premarket trading.                                                                                                                             , DraftKings (DKNG) – The sports betting company's stock slid 5.5% in the premarket after Wells Fargo downgraded it to "equal weight" from "overweight" and cut the price target to $19 per share from $41. Wells Fargo is concerned with the company's path to profitability given the pace of the increase in expenses. DraftKings has fallen for the past three sessions, including a 21.6% plunge Friday following its quarterly report., Got a confidential news tip? We want to hear from you.                                                                                                                                                                                                                                                                                                                                                                                    , Sign up for free newsletters and get more CNBC delivered to your inbox                                                                                                                                                                                                                                                                                                                                                                    , Get this delivered to your inbox, and more info about our products and services.                                                                                                                                                                                                                                                                                                                                                          , © 2022 CNBC LLC. All Rights Reserved. A Division of NBCUniversal                                                                                                                                                                                                                                                                                                                                                                          , Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.                                                                                                                                                                                                                                                                                        , Data also provided by </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/germany/government-bond-yield </td>
-   <td style="text-align:left;"> 2022-02-22 20:32:00 </td>
-   <td style="text-align:left;"> German 10Y Bund Yield Rebounds </td>
-   <td style="text-align:left;"> The yield on the German 10-year Bund rebounded to 0.24% from the two-week low of 0.2%, as prospects of monetary policy tightening by the ECB outweighed escalated geopolitical tension in Ukraine. A sharp rebound in the Ifo business climate and German PMI figures for February, in addition to record a high producer price inflation for January, strengthened the case for the ECB to end its bond-buying program, a precondition set by the bank before interest rate hikes. Still, ECB Chief Christine Lagarde reiterated last week that any change in the bank's policy will be gradual. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.bbc.co.uk/news/world-europe-60131520?at_medium=RSS&amp;at_campaign=KARANGA </td>
-   <td style="text-align:left;"> 2022-02-22 20:30:04 </td>
-   <td style="text-align:left;"> Nord Stream 2: How does the pipeline fit into the Ukraine-Russia crisis? </td>
-   <td style="text-align:left;"> Final approval of the Nord Stream 2 gas pipeline has been put on hold because of Russia's actions in Ukraine, Germany has said.                                                                                                            , The pipeline between Russia and Germany was completed last September but is not yet operating.                                                                                                                                             , What sanctions are being imposed on Russia?                                                                                                                                                                                                , Nord Stream 2 is a 1,200km pipeline under the Baltic Sea, which will take gas from the Russian coast near St Petersburg to Lubmin in Germany.                                                                                              , It cost €10bn (£8.4bn) and was completed last September. The Russian state-owned energy giant Gazprom put up half of the cost and western energy firms such as Shell and ENGIE of France are paying the rest.                              , Nord Stream 2 runs parallel to an existing gas pipeline, Nord Stream, which has been working since 2011.                                                                                                                                   , Together, these two pipelines could deliver 110bn cubic metres of gas to Europe every year. That is over a quarter of all the gas that European Union countries use annually.                                                              , The pipeline does not yet have an operating licence - and Germany has now put this on hold.                                                                                                                                                , It took the step after Russia formally recognised two breakaway regions in eastern Ukraine, and sent troops there.                                                                                                                         , "In light of the most recent developments we must reassess the situation in particular regarding Nord Stream 2," Chancellor Olaf Scholz said.                                                                                              , US President Joe Biden had previously vowed to shut down Nord Stream 2 if Moscow invades Ukraine, saying "I promise you we will be able to do it".                                                                                         , The US and UK, along with Russia's neighbours Poland and Ukraine, strongly oppose Nord Stream 2.                                                                                                                                           , They fear that if were to start operating, it would give Russia even more of a stranglehold over gas supplies to Europe.                                                                                                                   , Ukrainian president Volodymyr Zelensky has called Nord Stream 2 "a dangerous political weapon".                                                                                                                                            , UK Prime Minister Boris Johnson said Europe needs to "snip the drip feed into our bloodstream from Nord Stream".                                                                                                                           , In 2006, Russia shut off gas supplies going through Ukraine because of a financial quarrel between the two countries. It caused acute energy shortages during winter in central and eastern Europe.                                        , There are fears Russia might stop gas supplies in the future for political reasons.                                                                                                                                                        , The US has tried to block Nord Stream 2 before, by imposing sanctions on companies involved in the project. However, it has only targeted Russian firms and not German ones, for fear of damaging diplomatic relations with Berlin.        , Russia is keen to boost supplies of gas to Europe from its vast fields in the west of the country.                                                                                                                                         , It wants an undersea pipeline to Europe, rather than relying on its land-based pipelines which go through Poland and Ukraine. These pipeline networks are aging and inefficient. Besides this, Poland and Ukraine charge high transit fees., Before the Ukraine crisis, Mr Scholz's predecessor Angela Merkel did a lot to try and push through Nord Stream 2.                                                                                                                          , Germany already imports 35% of the gas it needs from Russia and she thought Nord Stream 2 would be a way of getting much more Russian gas delivered directly to Germany.                                                                   , Even before Germany's latest action, the project still faced a big legal hurdle and was unlikely to be delivering any gas before the summer of 2022.                                                                                       , Germany's regulator had already refused to give it an operating licence because Russian firm Gazprom owns both a 50% stake in the Nord Stream 2 pipeline and all of the gas that would go through it.                                      , Germany says that gives Russia too much control over supplies and it wants the ownership of the pipeline to be passed to another company.                                                                                                  , A fresh perspective on how Hitler brutally seized and kept power                                                                                                                                                                           , The music that inspired the show, from Leonard Cohen to Joy Division                                                                                                                                                                       , Why did a glamorous start up trick its own staff?                                                                                                                                                                                          , © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking. </td>
-  </tr>
 </tbody>
 </table></div>
 
@@ -772,7 +772,7 @@ Last Updated: 2022-02-23 09:27:29 UTC +8
 
 
 
-Last Updated: 2022-02-23 09:27:44 UTC +8
+Last Updated: 2022-02-23 10:54:39 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -785,614 +785,533 @@ Last Updated: 2022-02-23 09:27:44 UTC +8
 <tbody>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:27:21 </td>
-   <td style="text-align:left;"> $BTC.X $SPX $SPY You know what makes sanctions useless, Cryptocurrency! These useless sanction are pointless and just shows the dummies as if you are doing something!  No, do not and will not trade crypto, but watch it fly. Cut Russia from the SWIFT payments, useless, why do you think he is doing what he is doing. </td>
+   <td style="text-align:left;"> 2022-02-23 10:54:09 </td>
+   <td style="text-align:left;"> $SPY Above $433, and I’m buying $440 Calls. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:27:13 </td>
-   <td style="text-align:left;"> $PLTR YES SHES COMPLETELY OUT!!!!! $SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:53:53 </td>
+   <td style="text-align:left;"> $SPY these are about to print 🤩 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:27:10 </td>
-   <td style="text-align:left;"> $QQQ $spy  
- 
-big gap n go day tmrw war rally starts soon  
- 
-on a side note anyone find it funny how Russia always tries shit with the fed is about to raise rates? They don’t want us to crash their commodities market with a strong dollar swap lol  
- 
-losers gonna take the L </td>
+   <td style="text-align:left;"> 2022-02-23 10:53:46 </td>
+   <td style="text-align:left;"> $SPY potato’s </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:26:51 </td>
-   <td style="text-align:left;"> $SPY looks like the old bull put spread, market missed the fed banks 3-12 vote on rate lifting from discounted levels what caused some buy pressure, we’ll see now won’t we </td>
+   <td style="text-align:left;"> 2022-02-23 10:53:38 </td>
+   <td style="text-align:left;"> $SPY 440 train coming </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:26:42 </td>
-   <td style="text-align:left;"> $QQQ $SPY $VIX well it was a good run </td>
+   <td style="text-align:left;"> 2022-02-23 10:53:10 </td>
+   <td style="text-align:left;"> $SPY run run run </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:26:38 </td>
-   <td style="text-align:left;"> $SPY meeting cancelled …. Sorry bulls 🤭 </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:36 </td>
+   <td style="text-align:left;"> $SPY anyway  to kick all the democrats  out. I&amp;#39;m simple just want 1.99 gas , watch sports w/o politics,  and pay under $20 for i bag of food. 
+https://www.foxbusiness.com/politics/white-house-says-americans-should-expect-higher-energy-prices-amid-russia-ukraine-tensions </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:26:17 </td>
-   <td style="text-align:left;"> $QQQ $SPY as someone who wants to be bullish I wouldn’t mind this opening red to gap fill then bounce </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:27 </td>
+   <td style="text-align:left;"> $SPY $vix will fold watch out </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:26:15 </td>
-   <td style="text-align:left;"> $SPY futures must be broken or something. </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:24 </td>
+   <td style="text-align:left;"> $SPY Bear Market SPY 396/329
+
+When weekly falls below 50MA, its kinda of big deal.  Monthly,  Quarterly already rolled over. Any rallies are just gasp for air as this is drowning IMO </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:26:10 </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:22 </td>
+   <td style="text-align:left;"> $SPY Lol China sanctioning US companies who sell arms to Taiwan. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:18 </td>
+   <td style="text-align:left;"> $SPY  Futures still green 🤔 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:17 </td>
+   <td style="text-align:left;"> $SPY tomorrow is the day, I can feel it in my potatoes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:16 </td>
+   <td style="text-align:left;"> Sell the rumor, buy the invasion. $SPY $FB </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:09 </td>
+   <td style="text-align:left;"> $SPY Went to the grocery store and they didn’t have any Choca Choca chip! Tf is going on Brandon??! I want that shit too! 👎 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:07 </td>
+   <td style="text-align:left;"> $SPY look guys there are a lot of sour grapes out tonight </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:06 </td>
+   <td style="text-align:left;"> $BTC.X $ETH.X $DWAC $SPY $TSLA orange man bad </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:51:38 </td>
+   <td style="text-align:left;"> $SPY $BTC.X You idiots are long the internet scam coins, I am long the New Bitcoin which is vaccinated sperm! My 4X jabbed semen will make super soldier babies to defeat the Russians. You ANTI-VAXXERS and your cum can only make muggle babies, my wife and I will give birth to MEGATRON </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:51:32 </td>
+   <td style="text-align:left;"> Remember this $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:51:24 </td>
+   <td style="text-align:left;"> $SPY When excessive put buying is the only bullish signal, well... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:51:05 </td>
+   <td style="text-align:left;"> $SPY $DJIA IT BETTER FUCKING NOT ! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:51:00 </td>
    <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:26:09 </td>
-   <td style="text-align:left;"> $SPY Canadian lawmaker said that “honk honk” is trucker code for “heil hitler”. Glad I don’t live in that fruity country. </td>
+   <td style="text-align:left;"> 2022-02-23 10:50:53 </td>
+   <td style="text-align:left;"> $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:26:04 </td>
-   <td style="text-align:left;"> $SPY bulls beginning to sound like bears a few months ago. Drops 1% or more in a day, 5% in 10 days then they get excited about .55% green futures. The tables have literally turned. 
+   <td style="text-align:left;"> 2022-02-23 10:50:51 </td>
+   <td style="text-align:left;"> $SPY hold onto your seatbelt, we going for a ride </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:50:50 </td>
+   <td style="text-align:left;"> $SPY $QQQ the market doesn’t like this waiting around whats going to happen between russia and ukraine, i think the markets just want a resolution or even war, “sadly” for it to move on from this. what is going now, its uncertainty, thats why the market sucks. thats why i am not bullish now. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:50:17 </td>
+   <td style="text-align:left;"> $SPY Sanctions to include; 
+- Vodka and orange juice will not be allowed to mix together in the same glass. 
+- Nesting dolls will be permanently glued shut. 
+- The proletariat will only be allowed to uprise once a month. 
+$QQQ $DWAC </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:50:11 </td>
+   <td style="text-align:left;"> $SPY Watch for the pump tomorrow. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:50:03 </td>
+   <td style="text-align:left;"> $SPY FUD </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:49:54 </td>
+   <td style="text-align:left;"> $SPY could not break our resistance this morning.  The sellers took over to $426 target </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:49:29 </td>
+   <td style="text-align:left;"> $SPY now looking at futures feels that I covered under pressure . Didn’t want to lose profits. Oh well cash is king ! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:49:16 </td>
+   <td style="text-align:left;"> $SPY $450 EOW when Russia withdraws its forrces amidst sanctions </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:48:59 </td>
+   <td style="text-align:left;"> $SPY 400 eow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:48:24 </td>
+   <td style="text-align:left;"> $SPY DIX fell below 45% for first time, GEX also went negative </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:47:41 </td>
+   <td style="text-align:left;"> $SPY Very bearish short term. Let&amp;#39;s see what happens.... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:47:37 </td>
+   <td style="text-align:left;"> $SPY “Whenever you’re worried about position sizing it’s best just to ignore it, if you go all in then you’re only a 20 bagger away from retirement.” - Call_Me_Put </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:47:28 </td>
+   <td style="text-align:left;"> $SPY whatcha doing dxy?? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:47:27 </td>
+   <td style="text-align:left;"> $SPY eh going down again for nothing, correction is boring </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:47:25 </td>
+   <td style="text-align:left;"> $SPY red open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:47:16 </td>
+   <td style="text-align:left;"> $SPY tomorrow get your options open baby and the day after short that bitch. too easy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:46:56 </td>
+   <td style="text-align:left;"> $SPY I don’t care which way it goes with my straddle, but…puts do pay better 💰🇷🇺 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:46:53 </td>
+   <td style="text-align:left;"> $SPY what a day 🌙 🍄🤩 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:46:48 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:46:44 </td>
+   <td style="text-align:left;"> $SPY Hold up $AMZN is doing share split </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:46:26 </td>
+   <td style="text-align:left;"> $SPY I see a 10 dollar day tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:58 </td>
+   <td style="text-align:left;"> $SPY Likely bleed before Europe before 4280 test. Go long at 4280 if you’re brave. Me, I’ll keep shorting the pops. We are officially maintaining under the last line of defense at ~4350. This is not bullish. However, that doesn’t mean that we don’t pop, tomorrow. Need more liquidity in an almost completely illiquid environment. Bears will get their low test. Bulls will get their 50%. It’s not over yet. Just be well positioned for the limit down. It will come. If you are young, this is one of the most important moments of your life, financially speaking. We have reached the moment of truth where volatility will remain elevated for quite some time. Vix under 20 won’t be seen for months. How high will the vix go? Impossible to tell. But don’t short it until at least 80 and have a healthy account to back it up. Short oil? Not yet. Buy the 500 dip? Not yet. Sit on your hands unless you have enough money to speculate. It’s about to be much more wild than you’ve seen thus far. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:57 </td>
+   <td style="text-align:left;"> $SPY Biden made it clear today in his speech - &amp;quot;Expect higher energy prices&amp;quot; 1) Biden dismantled XL pipeline 2) cancelled all licenses to drill on federal lands 3) begging OPEC and Russia to sell us more oil.  THEN he goes to blame Russia for the higher energy prices here.  Biden did this.  All of it.   $USO $QQQ $UVXY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:39 </td>
+   <td style="text-align:left;"> $SPY lol. Daily HnS lately feeling 2018ish. Crazy that was 3.5 years ago. All the other sell offs recovered so fast for years. Impressive to see this sustained selling. Wonder where the relief is? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:36 </td>
+   <td style="text-align:left;"> $SPY Gonna bittersweet symphony my way to 440
 
-Bulls had 8 massive green candles in a row today after Biden’s speech from 2pm-3:30pm and it still didn’t break the trend. That should scare the crap out of you </td>
+https://www.youtube.com/watch?v=1lyu1KKwC74&amp;amp;list=RDMM&amp;amp;index=48 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:26:02 </td>
-   <td style="text-align:left;"> $SPY  Europe shutting down Nord Stream 2 </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:24 </td>
+   <td style="text-align:left;"> $SPY is trending the last 24hrs across Twitter and StockTwits - looking for a strong push tmw. This dashboard allows you to track the trends across social and stay ahead of the movements👇 
+ 
+https://utradea.com/social-dashboard?utm_source=stocktwits&amp;amp;utm_medium=ssd-stocktwits&amp;amp;utm_campaign=pw_20220222 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:25:35 </td>
-   <td style="text-align:left;"> $SPY Not trying to hit home runs even though I’d gladly welcome them but I’ll take 5 days like today any day. #Sniper </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:21 </td>
+   <td style="text-align:left;"> $SPY I got it ! Let’s have a standoff with Russia right quick 😂 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:25:33 </td>
-   <td style="text-align:left;"> $SPY it’s possible to see a run to $449, but I don’t see it holding </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:13 </td>
+   <td style="text-align:left;"> $SPY futures always either are, or are nit, ripping. And we should tale solace in the consistency. 0.01 green? RIPPING! -4% red? NOT RIPPING! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:25:19 </td>
-   <td style="text-align:left;"> $SPY $DWAC Gas prices will be higher for Americans thanks to Joe Biden’s sanctions on Russia, but don’t worry guys, it’s only for two weeks to slow the spread of Russia in Ukraine…only two weeks!  We’re all in this together.
+   <td style="text-align:left;"> 2022-02-23 10:45:06 </td>
+   <td style="text-align:left;"> $SPY okay we gapping down tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:44:59 </td>
+   <td style="text-align:left;"> $SPY Looks like S and P wants to hit 4,000 near term to complete an ABC move to the down side. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:44:38 </td>
+   <td style="text-align:left;"> $SPY $QQQ Tom Lee interview today, did not mention anything about his face ripper rally for february… </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:44:29 </td>
+   <td style="text-align:left;"> $SPY dearish💯 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:44:01 </td>
+   <td style="text-align:left;"> $SPY $DWAC Remember when the “experts” said Trump was going to get us into a war?  Good times! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:56 </td>
+   <td style="text-align:left;"> $SPY @Stocktwits 😔 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:56 </td>
+   <td style="text-align:left;"> $SPY If Biden wants to see results then he should put a sanction on vodka and krokodil. Russians will not respond to anything else. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:54 </td>
+   <td style="text-align:left;"> $SPY these are the type of retail traders we need liquidated before the end of 2022 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:53 </td>
+   <td style="text-align:left;"> S&amp;amp;P 500 Biggest Gainers &amp;amp; Losers for 02/22/22- $SPX $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:51 </td>
+   <td style="text-align:left;"> $SPY Why are democrats so scared of guns 🔫🤷‍♂️ When I went to high school in Florida the entire student parking lot we’re trucks with a gun rack and gun in the back window 🤣🤣🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:48 </td>
+   <td style="text-align:left;"> New Analysis: It is time to sell before things get worse? Or is this a golden opportunity? https://cracked.market/2022/02/it-is-time-to-sell-before-things-get-worse-or-is-this-a-golden-opportunity/ $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:46 </td>
+   <td style="text-align:left;"> latex6274de57b1d066e62e317d7c1f804271$. Don’t get too used to it! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:42 </td>
+   <td style="text-align:left;"> $SPY “The Fed should have a special meeting, right now, to end QE,” Summers told Bloomberg Television’s “Wall Street Week” with David Westin. “It is nothing short of preposterous that in an economy with 7.5% inflation, that in an economy with the tightest labor market we’ve seen in two generations, that the central bank is still as we speak growing its balance sheet.” </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:42 </td>
+   <td style="text-align:left;"> $SPY head and shoulders everywhere </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:33 </td>
+   <td style="text-align:left;"> $SPY what shitcoin should I buy that will x5 soon? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:17 </td>
+   <td style="text-align:left;"> $SPY o shit here comes Niagara Falls 🧞‍♂️🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:15 </td>
+   <td style="text-align:left;"> $SPY update on my TA. Very bearish guys. Couple all of this with rate hikes, war tensions, inflation, covid, and so many stocks being overvalued. The tech sell-off does not appear to be bouncing anytime soon. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:15 </td>
+   <td style="text-align:left;"> $SPY futes futin&amp;#39; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:42:54 </td>
+   <td style="text-align:left;"> $SPY Putins reasoning is spooky similar to Hitlers reasoning </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:42:42 </td>
+   <td style="text-align:left;"> $SPY what are putins sanctions? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:42:38 </td>
+   <td style="text-align:left;"> $BTC.X $ETH.X $DWAC $SPY $TSLA I know it’s wishful thinking. But I hope one day we can get to a point to where we’re not so focused on propaganda, wars, unlimited paper money, politics, etc. We still act so primitive towards one another. When we should be trying to understand one another more and wipe out corruption and evil. 🇺🇸 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:42:28 </td>
+   <td style="text-align:left;"> $SPY Forget Oil, Forget gas... If Putin stops all exotic metal exports.. - Dow 10k again... in 3 months.. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:42:28 </td>
+   <td style="text-align:left;"> $SPY ahhhhhh yah we found support we found support, now go up! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:42:06 </td>
+   <td style="text-align:left;"> $SPY Moon soon? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:41:47 </td>
+   <td style="text-align:left;"> $SPY Fuckin rip already so I can cash out these $VXX puts 
 
-https://babylonbee.com/news/gas-stations-introduce-convenient-new-option-to-pay-with-arms-legs </td>
+Come on </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:25:16 </td>
-   <td style="text-align:left;"> $SPY I admit I was expecting some black swan event on 2/22/22, posted before. And Russia didn&amp;#39;t disappoint 😂 </td>
+   <td style="text-align:left;"> 2022-02-23 10:41:45 </td>
+   <td style="text-align:left;"> $SPY the theta decay+ losing 1 trading day, by time market opens your calls be down 20-40% even if it&amp;#39;s green overnight.. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:25:15 </td>
-   <td style="text-align:left;"> $SPY Before you go all in on oil, consider this: China is the number one importer of Russian oil and gas, followed by Germany and the Netherlands. If Russia turns off the gas/oil to Europe in the winter, it’d be catastrophic. The E.U. won’t publish a list of sanctions yet because the Union can’t agree on it… – despite the obvious concern – the consensus seems to be that it is highly unlikely that either side will want to disrupt the flow of natural gas into Europe.
-
-Russia’s – and before it the Soviet Union’s – supply of natural gas to Europe has created an enduring interdependence that has survived many geopolitical upsets, such as the Soviet Invasion of Afghanistan in 1979, the declaration of martial law in Poland in 1980s, the fall of the Berlin wall in 1989, the collapse of the Soviet Union in 1991 and most recently Russia’s annexation of Crimea in 2014. Time and again both sides have recognised that they have too much to lose from disrupting the flow of gas. </td>
+   <td style="text-align:left;"> 2022-02-23 10:41:43 </td>
+   <td style="text-align:left;"> The chart below diagrams the pattern on State Street’s S&amp;amp;P 500 Index ETF ($SPY). The key feature of this pattern is that it demonstrates how the price action has no longer continued its upward trend. It fails to make a higher swing high. This sets the stage for the price to begin making lower swing lows, which are the key characteristic of downward trends. $SPX  
+ 
+The coincidental timing of the indexes falling into correction territory with a completed head-and-shoulders pattern draws attention to the impact of a downward trend right now. Under the current state of investor concern, it wouldn’t take much for prices to continue trending lower toward bear market territory. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:25:14 </td>
-   <td style="text-align:left;"> $BTC.X $QQQ $SPX $SPY 
-
-I feel comfortable with Biden.
-
-Trump has shown he is very stupid and has the attention span and temper of a 2 year old.
-
-The Russia situation would have been too much for the child to handle. 
-
-Thank god Biden is in, and Trump is out 🇺🇸🙌👌 </td>
+   <td style="text-align:left;"> 2022-02-23 10:41:43 </td>
+   <td style="text-align:left;"> $SPY I can’t stop laughing at the bulls </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:24:32 </td>
-   <td style="text-align:left;"> $SPY Christ, has jumped like .20 here and n charlotte area, I remember it was 3.39 last week😩😩😩😩😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:24:30 </td>
+   <td style="text-align:left;"> 2022-02-23 10:41:06 </td>
    <td style="text-align:left;"> $SPY 
 
-HURHUR 
-
-HEAD AND SHOULDERS HURHUR 
-
-GOING DOWN HURHUR
-
-🤡🤡📈🙂 </td>
+Sooooo you’re still distracted than? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:24:03 </td>
-   <td style="text-align:left;"> $SPY chart looks awful! </td>
+   <td style="text-align:left;"> 2022-02-23 10:40:50 </td>
+   <td style="text-align:left;"> $SPY $RUT $IWM 
+I like. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:23:57 </td>
-   <td style="text-align:left;"> $SPY we are the U.S.A baby! </td>
+   <td style="text-align:left;"> 2022-02-23 10:40:47 </td>
+   <td style="text-align:left;"> $SPY Mooooo </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:23:47 </td>
-   <td style="text-align:left;"> $SPY  
-Unless it is men&amp;#39;s soccer </td>
+   <td style="text-align:left;"> 2022-02-23 10:40:41 </td>
+   <td style="text-align:left;"> $SPY coiled like a rattlesnake somebody gonna get bite </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:23:43 </td>
-   <td style="text-align:left;"> $SPY Tomorrow huge relief rally. Futes ripping. </td>
+   <td style="text-align:left;"> 2022-02-23 10:40:38 </td>
+   <td style="text-align:left;"> $SPY Damn it’s almost March. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:23:30 </td>
-   <td style="text-align:left;"> $SPY no matter what happens I have faith in America long term. The next few years will be tough but we will come out of this better than ever. </td>
+   <td style="text-align:left;"> 2022-02-23 10:40:36 </td>
+   <td style="text-align:left;"> $SPY songoku told me to btd when spy drop from 480 to 470 now im behind wendys giving handies 🤦‍♂️ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:23:25 </td>
-   <td style="text-align:left;"> No matter what the market is doing you can make money on any given day. That&amp;#39;s the beauty of day trading and staying liquid. Plenty of opportunities. If not, you can just sit on your hands and observe while studying up and building a watchlist for the next day. It&amp;#39;s all about risk management, discipline, consistency, growing your account, having a plan and sticking to it. Let&amp;#39;s go! $INDO $IMPP $OCGN $SPY $QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:40:17 </td>
+   <td style="text-align:left;"> $SPY why would americans care about what is happening in Ukraine.  Most americans cannot even point Ukraine on the map. 
+https://youtu.be/umpalMtQE50?t=56 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:23:08 </td>
-   <td style="text-align:left;"> $SPY never bet against the USA. </td>
+   <td style="text-align:left;"> 2022-02-23 10:40:05 </td>
+   <td style="text-align:left;"> Every time you take a trade that&amp;#39;s not a part of your system, you simply disrespect all the hard you work you put in. FOLLOW YOUR PROCCESS  🙌 $SPY #PRESSIT $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:23:06 </td>
-   <td style="text-align:left;"> $SPY Do we even see SPY 444 again as resistance.  Guesses on where we stop going higher?  
+   <td style="text-align:left;"> 2022-02-23 10:39:59 </td>
+   <td style="text-align:left;"> These dips are gift to long term holders $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:55 </td>
+   <td style="text-align:left;"> $SPY rip them futes downwards. Spy testing 007 this week </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:49 </td>
+   <td style="text-align:left;"> $SPY this is one I can&amp;#39;t call tonight my guess is bulls pull out for at least green open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:44 </td>
+   <td style="text-align:left;"> $SPY their  is always rude DWAC site go post over their  you  will  find  your  kind </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:25 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DIA all it take is a little push. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:25 </td>
+   <td style="text-align:left;"> $SPY Watching the 4 hour chart from here until morning. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:25 </td>
+   <td style="text-align:left;"> $SPY how did sonic get banned again </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:11 </td>
+   <td style="text-align:left;"> $SPY wonder if market tanks while I sleep tonight ?🤷‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:11 </td>
+   <td style="text-align:left;"> $TDOC $DWAC $SPY  
  
-Still looking at 418 for a short-term solid support. </td>
+Account Challenge Update:-  
+Start Date: Feb 2, 2022  
+Starting Balance: $1,800  
+Current Balance: $89,637  
+Goal: $100,000 by end of February.  
+Strategy: Swing Trade Options, Stocks  
+   
+Watch out for next play👓 http://stock-options.topwinningroom.com </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:23:01 </td>
-   <td style="text-align:left;"> $SPY 
+   <td style="text-align:left;"> 2022-02-23 10:39:09 </td>
+   <td style="text-align:left;"> $SPY emergencies act is fu#king awesome. They only go after the losers. I live in the tyrannical land of Canada and fully support this </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:04 </td>
+   <td style="text-align:left;"> $SPY btc tank8ng spy you next </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:03 </td>
+   <td style="text-align:left;"> $SPY Have the every other hour press release about russia invading stopped? 
 
-Do you think Putin care about Biden limiting resources for Russia by US ? I bet you Russian will just start relying more towards China . </td>
+I missed most of day but I am not seeing any </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:22:44 </td>
-   <td style="text-align:left;"> $SPY $USO  I still can’t figure why folks take being bent over but anyways you get what you vote for sheep </td>
+   <td style="text-align:left;"> 2022-02-23 10:38:35 </td>
+   <td style="text-align:left;"> $SPY well gapy down Wednesday I guess🤷🏻‍♂️😂😂 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:22:40 </td>
-   <td style="text-align:left;"> $SPY Anyone else hoping Ukraine turns into full out war? Volatility will be fun, and the rading opportunities make my mouth water. </td>
+   <td style="text-align:left;"> 2022-02-23 10:38:06 </td>
+   <td style="text-align:left;"> $SPY 🤣🤣🤣🤣🤣 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:22:39 </td>
-   <td style="text-align:left;"> $SPY U.S. SENDING 32 ANTI-TANK HELICOPTERS TO BALTICS, POLAND 
- 
-*U.S. DEPLOYING 8 F-35 JETS ALONG NATO&amp;#39;S EASTERN FLANK: OFFICIAL 
- 
-*U.S. ALSO MOVING INFANTRY BATTALION TASK FORCE TO BALTICS 
- 
-*U.S. SHIFTS SOME EUROPE-BASED FORCES FARTHER EAST          how are we bullish dmbasses Russia wants to invade Poland and Ukraine and we sent troops to defend Poland as well embassy moved out of Ukraine to Poland and now conflict with Afghanistan whats bullish nothing bears all the 425 or under tom </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:22:26 </td>
-   <td style="text-align:left;"> $SPY $QQQ The bears definitely not having too much fun this evening by seeing how green the futures are </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:22:26 </td>
-   <td style="text-align:left;"> Just sharing today’s recap again.
-
-Quick trades on $SPY for some nice gains today!
-
-Took advantage of the market and played $UPST for a downtrend along with $LCID .
-
-Wanted to play $DASH but didn’t like the spread, and puts ended up running huge..
-
-Also on live, I mentioned I wanted a $DWAC entry around $85 but missed it while I was sidetracked.. 
-
-Can’t win them all!!
-
-Group is growing quick! Message me for details or follow the link in the profile! Really proud of everyone !!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:22:19 </td>
-   <td style="text-align:left;"> $SPY Do not try to compare this sliding with covid&amp;#39;s 2020. You gonna be easily cucked by WS if you get too complacent. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:21:34 </td>
-   <td style="text-align:left;"> $SPY 
-
-Fox News - Tulsi Gabbard says, “Biden is too focused on punishing Putin and he does not see how high oil price will hurt Americans”… 
-“The sanctions do not work, Putin will retaliate and it will escalate to nuke war”… 
-
-Anyone still think Tulsi is not a Russian operative? LMAO 
-Fuck this bitch. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:21:28 </td>
-   <td style="text-align:left;"> $SPY $TSLA HK opens comfortably green </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:21:26 </td>
-   <td style="text-align:left;"> $SOFI ACQUISITION ON 02/22/2022. THE UNIVERSE HAS A PLAN FOR YOU $SPY 
-
-👁👁👁👁👁👁
-
-The vibrations that come through in number 22222 are strong. The number 22 is extremely powerful and relates to your dreams coming into reality.
-
-Specifically, number 22222 is saying that you have been through a lot, but you never crumbled. Now is the moment all of your suffering will come to pass. That is, blessings and rewards will be coming your way in the very near future. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:21:11 </td>
-   <td style="text-align:left;"> $SPY Experienced traders understand that the Market is Forward Looking. This war is priced in already.  
- 
-With that being said , get ready to make some money tomorrow BULLS !! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:21:07 </td>
-   <td style="text-align:left;"> $SPY $380 before $480. There i said it first. Over $500 in 6 months too. Market is fragile right now buts it’s not to shatter. Any questions? Class dismissed </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:21:05 </td>
-   <td style="text-align:left;"> $SPY I told her ride it like a rental
-It’s just a rental </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:20:54 </td>
-   <td style="text-align:left;"> $SPY say NO to cotton socks </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:19:42 </td>
-   <td style="text-align:left;"> $SPY futures mean nothing last 2 days… first 20 minutes today squeezed out shorts… tomorrow I suspect a stop loss raid down first then probably more volatility </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:19:38 </td>
-   <td style="text-align:left;"> $SPY gonna see 300 again before June. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:19:18 </td>
-   <td style="text-align:left;"> $SPY 🔪🦆 not the duck 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:19:13 </td>
-   <td style="text-align:left;"> $AMC $SPY Futures are green. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:18:51 </td>
-   <td style="text-align:left;"> $SPY 470 call 350 puts 6 month expiration is a millionaire maker either way </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:18:48 </td>
-   <td style="text-align:left;"> $QQQ $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:18:40 </td>
-   <td style="text-align:left;"> $SPY https://www.msn.com/en-us/health/medical/copy-of-highly-contagious-ba-2-omicron-strain-spreading-in-the-united-states/vi-AAUaGN3?ocid=mmx </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:18:34 </td>
-   <td style="text-align:left;"> $SPY government response to inflation is print more money </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:18:33 </td>
-   <td style="text-align:left;"> $SPY $IWM Anyone here still think there will be a full fledge war? Genuinely curious. My money is on no. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:18:32 </td>
-   <td style="text-align:left;"> $SPY at what time is the next Russian invasion?? Tomorrow or Thursday?? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:18:31 </td>
-   <td style="text-align:left;"> $MP anyone have a reference of what other stock a president has sat down with like today and what happened after??? $SPY  up down?? Nothing? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:18:24 </td>
-   <td style="text-align:left;"> $SPY people are about to get wrecked </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:17:54 </td>
-   <td style="text-align:left;"> $AAPL If NASDAQ 🐻Decline Continues then maybe a full year back to 3/2021 Lows
-We shall see…. 
-$AMD $QQQ $MSFT $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:17:52 </td>
-   <td style="text-align:left;"> $BTC.X $SPY tomorrow going to be green. Markets just wanted to hear that we would not be intervening militarily. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:17:47 </td>
-   <td style="text-align:left;"> $SPY  $QQQ  Futures are green overnight 🎰  
- 
-FOMC March 16..   
-  🎢  🤷🏻 
- 
-$tsla $sofi $upst </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:17:45 </td>
-   <td style="text-align:left;"> There’s 100,000 open $380 puts for 3/18
-
-There’s 126,000 open $400 Puts for 3/18
-
-$SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:17:39 </td>
-   <td style="text-align:left;"> $SPY I just want some nice range trading please😁 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:17:36 </td>
-   <td style="text-align:left;"> $SPY sometimes I feel similar </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:17:12 </td>
-   <td style="text-align:left;"> $SPY $QQQ Gotta love the volatility.. hopefully you guys trimming profit up and down. Hope we see another big day tomorrow! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:17:00 </td>
-   <td style="text-align:left;"> $SPY bond yields dropping no rate hikes being priced in dollar.dropping crypto commodities rising more qe coming </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:16:04 </td>
-   <td style="text-align:left;"> $SPY $TDOC teladoc is growing fast but they don’t have deep pockets like Amazon. same as streaming. As long as big tech businesses can subsidize their other businesses, there will be a big risk. But a lot of that risk is already priced in. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:16:03 </td>
-   <td style="text-align:left;"> $SPY if you put 100k dollars worth of SPY calls last week.. they would now be worthless today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:15:55 </td>
-   <td style="text-align:left;"> $SPY I’m glad Biden addressed the nation today after waking up from his mid noon nap. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:15:42 </td>
-   <td style="text-align:left;"> $SPY - wow.  Everything is turning green.  Let’s see how it looks at 4am.  GL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:15:18 </td>
-   <td style="text-align:left;"> $SPY $QQQ  you guys know why Biden didn&amp;#39;t slap big dick sanctions on Russia right? He can&amp;#39;t because of INFLATION. Imagine how much more out of control inflation would be if Russian oil/nat gas and semiconductors parts had sanctions.  Extremely bearish move </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:15:04 </td>
-   <td style="text-align:left;"> $SPY can anyone help me understand what would happen in below situation?
-Lets say I own 100 shares of spy, also a debit spread put (450 long put - 430 short put) expiring Feb 18th.  If spy closes above 430 and I do not close my options position. What should happen? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:14:45 </td>
-   <td style="text-align:left;"> $SPY everybody relax i have it from here </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:14:44 </td>
-   <td style="text-align:left;"> $SPY pretty sure the invasion is priced in Biden said no us intervention </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:14:39 </td>
-   <td style="text-align:left;"> $SPY $BTC.X $ETH.X $TSLA $MATIC.X HAVE yall thought what happens once Biden runs out of sanctions in his playbook? What comes next? WWlll? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:14:36 </td>
-   <td style="text-align:left;"> $SPY Friday wasn&amp;#39;t too bad either and Thursday and the entire week lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:14:25 </td>
-   <td style="text-align:left;"> $SPY fuck it at this point everyone invade your neighbor😏🥴 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:14:16 </td>
-   <td style="text-align:left;"> $SPY Let&amp;#39;s just get real, so Putin can announce or find a way to announce the rebel area as independent, he&amp;#39;s moving troops. What is he going to gain by owning Ukraine? He just enjoys playing with the rest and showing off who&amp;#39;s the real boss is. Badass guy has everyone on their knees. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:14:09 </td>
-   <td style="text-align:left;"> $SPY double bottom, but geopolitics trumps all TA as always </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:14:07 </td>
-   <td style="text-align:left;"> $SPY is definitely going to go back up, but I think it’s hitting $420 this week before it pops. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:13:53 </td>
-   <td style="text-align:left;"> $SPY remember how it felt before falling in love? This is that :) we will be fine in time. Don&amp;#39;t be the crazy ex, be the understanding love of some ones life, or stock. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:13:46 </td>
-   <td style="text-align:left;"> $SPY blah blah
-
-corn pop or corn flakes or something
-
-🙂👍 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:13:42 </td>
-   <td style="text-align:left;"> $SPY I bought calls. But idk if it’s a good decision </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:13:27 </td>
-   <td style="text-align:left;"> $QQQ $SPY $DOW 
-
-Just keep loading weekly puts and cashing profits! RINSE &amp;amp; REPEAT! Hold a few for longer gains but THE DAILY AND WEEKLY PUT SINGLES will continue to add up FAST!
-
-EASY MONEY! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:13:15 </td>
-   <td style="text-align:left;"> $SPY 436 range tmrw and 440 Thursday-Friday. Then down again imo </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:13:00 </td>
-   <td style="text-align:left;"> $SPY  Alright who shit my pants? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:52 </td>
-   <td style="text-align:left;"> If you $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:45 </td>
-   <td style="text-align:left;"> $SPY Nobody is asking the real questions, like who names a city Lviv? How does one even pronounce it? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:43 </td>
-   <td style="text-align:left;"> Mental health $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:41 </td>
-   <td style="text-align:left;"> $SPY Russia and USA are the same country in these days LOL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:40 </td>
-   <td style="text-align:left;"> $SPY double bottom, time to watch the bears race to close their shorts </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:36 </td>
-   <td style="text-align:left;"> $SPY if you had say, $34,500 to invest, what would you put it in? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:36 </td>
-   <td style="text-align:left;"> $SPY is that a cup and handle </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:31 </td>
-   <td style="text-align:left;"> $SPY suckers rally’s , just don’t get caught bulls. 415 is a possibility </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:15 </td>
-   <td style="text-align:left;"> $SPY Short the dollar &amp;amp; long gold! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:09 </td>
-   <td style="text-align:left;"> $SPY if there’s two things we’ve learned from this it’s 1. Stonks only go up and 2. Bears are idiots </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:12:06 </td>
-   <td style="text-align:left;"> $SPY add milk </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:11:36 </td>
-   <td style="text-align:left;"> $SPY Russia: 1 USA: -1. Embarrassing </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:11:35 </td>
-   <td style="text-align:left;"> $SPY let’s get the drop! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:11:28 </td>
-   <td style="text-align:left;"> $SPY &amp;quot;Rising Vol&amp;quot;, follow the waves. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:11:24 </td>
-   <td style="text-align:left;"> $SPY  
- 
-So many stocks are down 50 percent or more from the highs.  
- 
-We are about to have a violent rally tomorrow ! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:11:02 </td>
-   <td style="text-align:left;"> $SPY Blocked almost 400 bots and trolls in the last 4 hours.  It&amp;#39;s like an entirely different Stocktwits. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:10:55 </td>
-   <td style="text-align:left;"> $SPY Next move seems pretty clear. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:10:50 </td>
-   <td style="text-align:left;"> $SPY corn pop was worse than Putin </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:10:29 </td>
-   <td style="text-align:left;"> $SPY love corn pop </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:10:22 </td>
-   <td style="text-align:left;"> $SPY  
-Corn Pops were a good cereal </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:10:00 </td>
-   <td style="text-align:left;"> $SPY Corn Pop was a good dude. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:09:43 </td>
-   <td style="text-align:left;"> $BTC.X $QQQ $SPY $SPX 
+   <td style="text-align:left;"> 2022-02-23 10:38:02 </td>
+   <td style="text-align:left;"> $SPY $QQQ $SPX $BTC.X 
 
 Thank the lord for Biden , his amazing vaccines, containing/eradicating the virus with his well executed plan (something trump couldn’t do), his push to get conservative CEOs to fix their supply chain issues and his strong arm stance to JPOW, curbing inflation. Not only this, but he also was able to stand up too and scare off Putin. 
 
@@ -1400,1146 +1319,1580 @@ What a blessing that Biden is in and Trump is out.
 
 Not to mention he has the best VP in the history of this nation at his side in Kamala Harris.
 
-No more Republicans please. </td>
+No more Republicans please. 
+🙏🙌🇺🇸 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:09:19 </td>
-   <td style="text-align:left;"> $SPY Growth is slowing, BUT IT ALL UP🙄 </td>
+   <td style="text-align:left;"> 2022-02-23 10:38:00 </td>
+   <td style="text-align:left;"> $SPY looks like it holding, can the bears strike and break the bull momentum? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:09:10 </td>
-   <td style="text-align:left;"> $SPY Long $TQQQ. Limit sell set at $52. Hopefully gone before I wake up. </td>
+   <td style="text-align:left;"> 2022-02-23 10:37:48 </td>
+   <td style="text-align:left;"> $SPY so many  rude imbecile need to get  a life </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:09:03 </td>
-   <td style="text-align:left;"> $SPY MOON TIME </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:09:00 </td>
-   <td style="text-align:left;"> $SPY Nothing says Biodiesel like Corn Pop...he&amp;#39;s a bad crude dude </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:58 </td>
-   <td style="text-align:left;"> $SPY maybe nota bad thing to visit Moscow on my Thai passport </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:51 </td>
-   <td style="text-align:left;"> $SPY $QQQ Cup and Handle on Monthly Futures </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:51 </td>
-   <td style="text-align:left;"> $SPY $DWAC I wonder what Joe Biden sounds like in Putin’s mind after Biden words are translated to Russian </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:49 </td>
-   <td style="text-align:left;"> $SPY  The Canadian Senate is debating the emergency powers act … Canada needs to be added to the list of nations lost to the Global Cabal … new rule; when you use the word ‘misogynist’ in an argument you lose all credibility … </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:49 </td>
-   <td style="text-align:left;"> $SPY wen moon </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:45 </td>
-   <td style="text-align:left;"> $SPY 🚬👀
+   <td style="text-align:left;"> 2022-02-23 10:37:43 </td>
+   <td style="text-align:left;"> $SPY $DWAC 
 
-I&amp;#39;m convinced -
-
-99% here are bots as am I - retarded monkeys </td>
+https://mobile.twitter.com/RandPaul/status/1493946605942325250?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1493946605942325250%7Ctwgr%5E%7Ctwcon%5Es1_&amp;amp;ref_url=https%3A%2F%2Fwww.infowars.com%2Fbreaking-news%2F </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:41 </td>
-   <td style="text-align:left;"> $SPY have you met the twins? Vanna and Charm? </td>
+   <td style="text-align:left;"> 2022-02-23 10:37:42 </td>
+   <td style="text-align:left;"> $SPY How does a person like moo get banned immediately after getting unbanned? He/she never says anything that’s fracking offensive lol. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:14 </td>
-   <td style="text-align:left;"> $SPY kissed my PUTS today like! 😆🎣👄 FUTURE&amp;#39;S are setting up the LOWER HIGH for tomorrow! 🤷‍♂️ 
+   <td style="text-align:left;"> 2022-02-23 10:37:19 </td>
+   <td style="text-align:left;"> $SPY ready for war </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:37:14 </td>
+   <td style="text-align:left;"> $SPY Queen Elizabeth is on her deathbed. Hope she doesn’t suffer, good bless. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:36:40 </td>
+   <td style="text-align:left;"> $SPY okay futues are not rippin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:36:40 </td>
+   <td style="text-align:left;"> $SPY Futes MM be like: </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:36:36 </td>
+   <td style="text-align:left;"> $SPY bears 🐻 tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:36:33 </td>
+   <td style="text-align:left;"> $SPY parts of Ukraine probably remains independent and Russia will just take over other parts </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:36:14 </td>
+   <td style="text-align:left;"> $SPY bulls be like but muhhh charts. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:36:03 </td>
+   <td style="text-align:left;"> $SPY I think bears got shaken out today It was a Sharp V  
+Embarrassing </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:35:59 </td>
+   <td style="text-align:left;"> $SPY can Ukraine bring down economy in United States?? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:35:57 </td>
+   <td style="text-align:left;"> $SPY 435  #WhosKnow???  #DojiCandle  Bounce to 443 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:35:56 </td>
+   <td style="text-align:left;"> $SPY “look at the futes!! They’re rippppin” </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:35:45 </td>
+   <td style="text-align:left;"> $SPY man oh man . Weakest shit I’ve ever laid eyes on is these futes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:35:37 </td>
+   <td style="text-align:left;"> $SPY udder bull that sonicmerlin banned </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:35:17 </td>
+   <td style="text-align:left;"> $SPY if you&amp;#39;re still a biden supporters in 2022 then you need to ask yourself &amp;quot;why am I such a c uck?&amp;quot; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:35:16 </td>
+   <td style="text-align:left;"> $SPY The eyes of March gonna be up on us 🤔 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:34:42 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:34:30 </td>
+   <td style="text-align:left;"> $SPY green to red tomorrow!! Maybe just red!! Time will only tell!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:34:21 </td>
+   <td style="text-align:left;"> $SPY FUTES are …. ? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:34:10 </td>
+   <td style="text-align:left;"> $SPY a sell off to 360 is not such a bad thing </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:34:07 </td>
+   <td style="text-align:left;"> $CLOV i went on some side quests on $SPY and $TSLA but now im back to my back me true love $CLOV. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:34:07 </td>
+   <td style="text-align:left;"> $SPY fuuutes rippin xD </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:57 </td>
+   <td style="text-align:left;"> $SPY Need capitulation for bottoms.....420 will test and a break will bottom us near 390-400. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:56 </td>
+   <td style="text-align:left;"> $SPY 425 easy tomorrow? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:49 </td>
+   <td style="text-align:left;"> $SPY DIEEEE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:49 </td>
+   <td style="text-align:left;"> $SPY Bulls want bears to forget about inflation and think about the war cause the war will blow over but inflation wont </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:36 </td>
+   <td style="text-align:left;"> $SPY for the one time…futes rippin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:34 </td>
+   <td style="text-align:left;"> $SPY bulls just don&amp;#39;t get it. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:27 </td>
+   <td style="text-align:left;"> $SPY Avg bull market reaches 115% and lasts 2-3 years, check.  The average bear market drops around 30% and takes about 9 months (if we don’t go into recession) that puts us around august. We are half way there folks. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:15 </td>
+   <td style="text-align:left;"> $SPY we have idiots, like truly stupid idiots in charge. That puppet in the oval office doesn&amp;#39;t know what day it his lack of knowledge is only overshadowed by Kamala&amp;#39;s dumb ass when she opens her noise hole. As if the crap with this inflation wasn&amp;#39;t bad enough, but now they tell us things are going to get bad...So let me get this straight. My tank of gas cost me $2 for premium 2 years ago. Now it&amp;#39;s 4.50 where I live. And you don&amp;#39;t see that as bad... Appearently it&amp;#39;s about to get bad. Smh. This is not your pure garden variety ineptitude. This is a new breed that hasn&amp;#39;t been named yet. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:11 </td>
+   <td style="text-align:left;"> $SPY sure could use a keystone pipeline right now JS 😒 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:00 </td>
+   <td style="text-align:left;"> $SPY demand zone moved to 425, you didn’t catch that did you and didn’t cover and bought more puts 😂😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:33:00 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:32:53 </td>
+   <td style="text-align:left;"> $SPY this war in the Ukraine is so important they decided to not cancel recess for the Senate because all work and no play makes us ineffective global leaders🤔 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:32:41 </td>
+   <td style="text-align:left;"> $SPY futes ripping </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:32:28 </td>
+   <td style="text-align:left;"> $SPY here for the futes rippin posts </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:32:20 </td>
+   <td style="text-align:left;"> $SPY booga booga, bears. Never bet against America. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:32:09 </td>
+   <td style="text-align:left;"> $QQQ $SPY $ROKU $TSLA bears out here queefin bruh smh </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:31:44 </td>
+   <td style="text-align:left;"> $SPY Weekly starting, below 50 descending to Fib at 4200. Bounce people are idiots, maybe at 4200, before NO.  Sure countertrend pullbacks, opportunity to short more.  Largest up days are in downtrends this is a historical market fact.  If 4200 breaks 3800 awaits and El Castigador makes bags more of money and money comes in many colors it is only green in the US. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:31:44 </td>
+   <td style="text-align:left;"> $SPY Looks like I’ll be taking an L on $TQQQ long tomorrow. Thought PJ and PM traders didn’t know the sell button existed. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:31:30 </td>
+   <td style="text-align:left;"> REMEMBER:  ALL of this craziness and the fed is still buying assets and has rates at 0.  Have not even done the first rate hike Or stopped QE.  
  
-disclaimer* nice boat and snapper fish! $tdoc ER kiss </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:13 </td>
-   <td style="text-align:left;"> $SPY bearish sentiment makes me bullish </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:03 </td>
-   <td style="text-align:left;"> $AAPL $SPY  will this green in futures hold? Almost absolutely not. Barely green if green at all by open seems to be the expectation unless there’s another sell off magically around 3 am. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:08:00 </td>
-   <td style="text-align:left;"> $SPY has an average volume of 107433000. This is a good sign as it is always nice to have a liquid stock. https://www.chartmill.com/stock/quote/SPY/technical-analysis?key=84303b30-e7bc-44d7-b0b1-1493858db9a2&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=SPY&amp;amp;utm_campaign=social_tracking </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:07:46 </td>
-   <td style="text-align:left;"> $SPY Wall Street sentiment poll going into this week was 64% bearish to 27% bullish. Hopefully it is contrarian this time... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:07:46 </td>
-   <td style="text-align:left;"> $SPY starting to think we had an artificial pump today. A disguise of actual fears. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:07:31 </td>
-   <td style="text-align:left;"> $SPY Not a bad day I guess 🙏 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:07:25 </td>
-   <td style="text-align:left;"> $SPY fake pump tom for dump later in day puts all the way to 425 or under who with me </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:07:00 </td>
-   <td style="text-align:left;"> $SPY looks like Chucky needs some inside intel to help his gang either buy or sell some equites lol 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:06:58 </td>
-   <td style="text-align:left;"> $SPY remember this crazy b has no idea what she’s doing. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:06:41 </td>
-   <td style="text-align:left;"> $SPY it’s bullshit, they are gonna use this as a cover to not raise rates more than .25 in March and let inflation run hot by placing blame on Putin </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:06:35 </td>
-   <td style="text-align:left;"> $SPY If it were really bullish, they’d make the day green, it’s the same script 3 days in a row yet dumb bulls still BTD </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:05:50 </td>
-   <td style="text-align:left;"> $SPY #NewsThread #2022_02_22 
  
-Zombie #REITs #REIT $AAT $AKR $VRE $CSR $JBGS </td>
+$spy $qqq </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:05:40 </td>
-   <td style="text-align:left;"> $SPY March is going to bullish. </td>
+   <td style="text-align:left;"> 2022-02-23 10:31:27 </td>
+   <td style="text-align:left;"> $SPY make or break area </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:05:32 </td>
-   <td style="text-align:left;"> $SPY The bottom is in! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:05:21 </td>
-   <td style="text-align:left;"> $SPY so calm. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:05:07 </td>
-   <td style="text-align:left;"> $SPY can we just nuke something already..
-I&amp;#39;m dying to see Skynet become fully evolved during my lifetime.. Markets ripping on Fake War news </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:05:04 </td>
-   <td style="text-align:left;"> $SPY people wonder why it matters to the market. Hikes in oil prices have been known to cause recessions. I’m bearish short term, but I certainly don’t want a recession. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:04:53 </td>
-   <td style="text-align:left;"> $SPY 2022 will be our year! I feel it, the year of the hustlers. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:04:43 </td>
-   <td style="text-align:left;"> $SPY  lazy lefties out in full force lmaooo </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:04:31 </td>
-   <td style="text-align:left;"> $SPY with all these did he actually invade or not?? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:04:14 </td>
-   <td style="text-align:left;"> $SPY if you can guess my current location by this picture i will send you eth or bitcoin to your wallet address $BTC.X $AMC </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:04:08 </td>
-   <td style="text-align:left;"> $SPX $SPY Add back was 98% of the earlier sale of FEZ. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:03:49 </td>
-   <td style="text-align:left;"> $SPY I&amp;#39;m going to listen to love songs and sad music until I feel better. I make money easily in the market and at the strip club. She brings me joy though. Not money. Money is a video game to me. She is the sweetness in life. 
+   <td style="text-align:left;"> 2022-02-23 10:31:22 </td>
+   <td style="text-align:left;"> $SPY But mommy I thought it was time to buy 
 
-Made 2200 so far In Facebook trading this month </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:03:47 </td>
-   <td style="text-align:left;"> $SPY people think this is about russia? morons we have inflation and rate hikes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:03:45 </td>
-   <td style="text-align:left;"> $SPY only so much money to bid up the market till they print more. And they increasing rates and shutting the printing down on top of war. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:03:42 </td>
-   <td style="text-align:left;"> $SPY 🚬👀
+Sorry mommy I lost all your money 😢 
 
-Bro - 440 would be legit and appropriate. Anything else is bullshit. </td>
+  🧞‍♂️ $QQQ $DIA $NDX $SPX  TRUE STORY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:03:02 </td>
-   <td style="text-align:left;"> $SPY $QQQ $BTC.X $SPX 
+   <td style="text-align:left;"> 2022-02-23 10:31:10 </td>
+   <td style="text-align:left;"> $SPY how are futures looking? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:31:08 </td>
+   <td style="text-align:left;"> $SPY options expiring again tomorrow 😵‍💫 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:31:01 </td>
+   <td style="text-align:left;"> $QQQ $SPY papa pow, papa pow, the bulls fell down the well, come quick </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:30:57 </td>
+   <td style="text-align:left;"> $SPY watch it launch tomorrow 😂😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:30:52 </td>
+   <td style="text-align:left;"> $SPY Putin laughing his ass off right now </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:30:28 </td>
+   <td style="text-align:left;"> $SPY let see if it hold here... at support line... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:30:14 </td>
+   <td style="text-align:left;"> $SPY Ukrainian resorts got some great deals right now, just saying... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:30:06 </td>
+   <td style="text-align:left;"> $SPY slaughtered </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:30:04 </td>
+   <td style="text-align:left;"> $SPY my weekly calls purchased to hedge my April puts 
+👇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:29:59 </td>
+   <td style="text-align:left;"> $SPY Russia? 
 
-Republicans are truly not the brightest , they crash all the markets and then blame the democrats. 
+Ok Cool 👍
 
-Turn off faux news and do your own research guys. It’s called reality - not everything is a conspiracy theory. </td>
+Deep green by open Can’t wait to test 440 Wall cash session </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:48 </td>
-   <td style="text-align:left;"> $SPY UKRANE&amp;#39;S PRESIDENT ZELENSKIY SIGNS ORDER TO CALL UP RESERVISTS 
-
-U.N. SECRETARY GENERAL SAYS RUSSIAN TROOPS ON UKRAINE BORDER ARE &amp;#39;NOT PEACEKEEPERS&amp;#39;, CALLS FOR IMMEDIATE CEASEFIRE. 
-
-PENTAGON ORDERS MOVING UP TO 8 F-35 JETS TO &amp;quot;SEVERAL OPERATING LOCATIONS ALONG NATO&amp;#39;S EASTERN FLANK </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:47 </td>
-   <td style="text-align:left;"> $SPY hate to be that guys but futures are ripping son </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:40 </td>
-   <td style="text-align:left;"> $SPY can we just nuke Russia ? Asking for a friend </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:39 </td>
-   <td style="text-align:left;"> CNBC $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:35 </td>
-   <td style="text-align:left;"> $SPY futes lookin a little woozie here </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:29 </td>
-   <td style="text-align:left;"> $SPY Putin has absolute control of the red/green candles. If you hold a bullish position then I’m sorry for your losses. 
-Situational Awareness </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:22 </td>
-   <td style="text-align:left;"> $SPY $AMC $BTC.X 
-Bitcoin under 22k coming. AMC squeeze soon and yes it will make many rich but with economic repercussuions to follow. Yes it’s reasonable, no it’s not FUD. Some yall just get mad when your equity or crypto doesn’t go to “1,000,000 dollars” overnight. Now will Bitcoin go up? Definitely but not yet. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:20 </td>
-   <td style="text-align:left;"> $SPY $NOK $MSFT They have helped me to grow my account to almost 2.5 million.. 100% recommend joining! 
+   <td style="text-align:left;"> 2022-02-23 10:29:48 </td>
+   <td style="text-align:left;"> $qqq bottomed at the exact level of January 24th low.  ;)  
  
-It&amp;#39;s free joining ~~~~~~🚀 discord.io/phFwD7xWe </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:18 </td>
-   <td style="text-align:left;"> $SPY what the futures doin </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:15 </td>
-   <td style="text-align:left;"> $SPY  
+charts are more important than everything  
  
-How pissed would you be during the world leaders forum if you got Joey as a partner in the three-legged relay race? </td>
+$spy </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:08 </td>
-   <td style="text-align:left;"> $SPY dumb bulls relax it&amp;#39;s all a plan by MM to trap you </td>
+   <td style="text-align:left;"> 2022-02-23 10:29:26 </td>
+   <td style="text-align:left;"> $SPY i am over this dip, going long tomorrow yolo </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:02:05 </td>
-   <td style="text-align:left;"> $SPY First day on ST has 2 shares of vxx </td>
+   <td style="text-align:left;"> 2022-02-23 10:29:23 </td>
+   <td style="text-align:left;"> $SPY Mommy I think we should buy it now 🤣🤣🤣🤣🤣 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:01:54 </td>
-   <td style="text-align:left;"> $SPY if you are over 55 and day trade SPY call options.. You should be able to retire next year </td>
+   <td style="text-align:left;"> 2022-02-23 10:29:12 </td>
+   <td style="text-align:left;"> $SPY transitory fuckery </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:01:30 </td>
-   <td style="text-align:left;"> $SPY when moon?! </td>
+   <td style="text-align:left;"> 2022-02-23 10:28:52 </td>
+   <td style="text-align:left;"> $SPY I have a feeling biden knocked 2 rate hikes at least with today&amp;#39;s speech </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:01:20 </td>
-   <td style="text-align:left;"> $SPY 330 on deck </td>
+   <td style="text-align:left;"> 2022-02-23 10:28:32 </td>
+   <td style="text-align:left;"> $SPY  But Mommy is was up $17.50 after hours
+
+🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 🧞‍♂️🐝 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:01:10 </td>
-   <td style="text-align:left;"> $SPY always over react where your gonna put your money then? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:01:03 </td>
-   <td style="text-align:left;"> $SPY bears smoking hopium </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:00:50 </td>
-   <td style="text-align:left;"> $SPY I’m calling capitulation. Too much down we’re due for a reversal </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:00:32 </td>
-   <td style="text-align:left;"> $SPY just do it </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:00:31 </td>
-   <td style="text-align:left;"> $SPY Market don’t go down forever neither you forever, that’s when you know market is unpredictable. Trade facts not fears $IWM $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:00:00 </td>
-   <td style="text-align:left;"> $SPY Next CPI data is released Thursday March 10th and PPI Tuesday March 15th, the FOMC meeting is also on the 15th. I’m not sure if there’s a pattern or if it’s even relevant but recently, most of the larger sell offs happened after the CPI &amp;amp; PPI data. There was another sell off after the Recent Fed minutes but it’s important to note the initial reaction to the data and FOMC meetings/events is usually positive and then a sell off follows the same day or the following days. Would be interesting if we seen the market move to the upside to close the month out and then sell off again after March inflation data and FOMC. QE is scheduled to end and the first rate hike comes in March and then a possible reduction of their balance sheet. No clue how all this is going to play out we just have to watch the levels. I hope everyone makes money with whatever strategy they use… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 09:00:00 </td>
-   <td style="text-align:left;"> $SPY  
- 
-Me waking up tomorrow and logging into my account  , BULLISH AF! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:59:59 </td>
-   <td style="text-align:left;"> $SPY So here’s the deal. Ukraine ain’t a thang it’s a narrative and MS saying the fed may delay hikes or add liquidity is nonsense. At this point it’s death, or death by chacka chacka. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:59:58 </td>
-   <td style="text-align:left;"> $SPY $GOOGL $TSLA $QQQ $AMZN For all of you Traitor Trump fans, he would be the ultimate Putin doormat. (He is after all Putin&amp;#39;s c*ckholser.)  Remember this &amp;quot;meeting&amp;quot; with the Russians in the Oval Office no less after Russia interfered in the 2016 election to secure his &amp;quot;win.&amp;quot; Yeah. they must be laughing at how they pulled the wool over the eyes of America: </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:59:31 </td>
-   <td style="text-align:left;"> $SPY $DJIA $QQQ $TLT $GLD  
- 
-Stop insulting JDADDY with all this talk of &amp;quot;war&amp;quot;...he don&amp;#39;t appreciate it. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:59:24 </td>
-   <td style="text-align:left;"> $SPY so if Russia enters into Pro-Russian territory, is it still an invasion? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:59:20 </td>
-   <td style="text-align:left;"> $SPY the fact that so many imbeciles were calling for a circuit breaker yesterday was idiotic </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:59:16 </td>
-   <td style="text-align:left;"> $SPY can’t wait for bears to call me lucky later this year when my stocks are up 100% + 😂😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:58:54 </td>
-   <td style="text-align:left;"> $SPY 👯‍♀️ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:58:42 </td>
-   <td style="text-align:left;"> $SPY vanna </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:58:33 </td>
-   <td style="text-align:left;"> $SPY I&amp;#39;ve lost count on how many Bull traps we have had in the last 1.5 months.  No good catalysts coming, no reason for it to go up. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:58:31 </td>
-   <td style="text-align:left;"> $SPY Fear don&amp;#39;t take side. Bears are now in fear. It&amp;#39;s bad it&amp;#39;s bad what we went through, you should go through now for rest of the week. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:58:22 </td>
-   <td style="text-align:left;"> $SPY lol every time Biden makes a move Putin is 2 steps ahead of him lol 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:58:12 </td>
+   <td style="text-align:left;"> 2022-02-23 10:28:30 </td>
    <td style="text-align:left;"> $SPY 
 
-Watching oil. If the sanctions cause oil to spike up, its impacts on inflation would be worrisome because of the Fed’s obligation to fight inflation. Possibly more damaging to the markets than potential war. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:58:04 </td>
-   <td style="text-align:left;"> $SPY wowww MMs are too kind AGAIN. Going to let us load up on more puts tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:57:59 </td>
-   <td style="text-align:left;"> $FB $SPY I just love LOVE when puts print off tyrant liberal companies. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:57:55 </td>
-   <td style="text-align:left;"> $TSLA $BABA $BIDU $AAPL 
+&amp;#39;China&amp;#39;s going to be next&amp;#39;: #Trump says Putin&amp;#39;s #assault on #Ukraine #will embolden Xi to
 
-Massive stock crash is near … Taiwan will be taken over by air and sea …. No missiles can stop destiny …. The seas and oceans know this , many bodies are about to sink to the bottom of the ocean 🌊 $SPY </td>
+Taiwan 👀 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:57:34 </td>
-   <td style="text-align:left;"> $SPY Same shit different day. Now bulls claiming victory. Will see what tomorrow brings. Probably not what bulls expect but who knows. </td>
+   <td style="text-align:left;"> 2022-02-23 10:28:18 </td>
+   <td style="text-align:left;"> $BTC.X $ETH.X $DWAC $TSLA $SPY about that peace in the Middle East as well.. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:57:33 </td>
-   <td style="text-align:left;"> I was bullish during the last correction in October .. and got out at my price target.
-Unfortunately I don’t feel the same ♦️ about this current $spy $qqq correction but I maybe wrong but hopefully not. I’m waiting for a deeper pullback 
+   <td style="text-align:left;"> 2022-02-23 10:27:37 </td>
+   <td style="text-align:left;"> $SPY  Mommy make it go up mommy 🙏🏻 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:27:23 </td>
+   <td style="text-align:left;"> $SPY guys stay positive. You can&amp;#39;t inflation with sanctions </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:27:22 </td>
+   <td style="text-align:left;"> $SPY $TSLA $QQQ  https://finance.yahoo.com/news/legendary-investor-jeremy-grantham-sees-121600816.html?guccounter=1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:27:21 </td>
+   <td style="text-align:left;"> $SPY very angry fake news bears trying to time dips… </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:27:17 </td>
+   <td style="text-align:left;"> $SPY sonic got banned again </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:27:02 </td>
+   <td style="text-align:left;"> $SPY Asian market ripping </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:52 </td>
+   <td style="text-align:left;"> $SPY  $3800 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:37 </td>
+   <td style="text-align:left;"> $SPY  x. But mommy I got crushed 
 
-$IWM $DIA $XLK </td>
+Like the  cockroach I am </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:57:21 </td>
-   <td style="text-align:left;"> $SPY bullets start flying. It&amp;#39;s goodnight Irene. Got the feeling this will be a pump fake to field the big ticket exits until this &amp;quot;invasion&amp;quot; is over </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:33 </td>
+   <td style="text-align:left;"> $SPY y&amp;#39;all care about Ukraine only because they got them mail to order, hungry looking, broomstick women y&amp;#39;all call &amp;quot;hot&amp;quot;. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:57:13 </td>
-   <td style="text-align:left;"> If biden wants to go to war with Ukraine than that&amp;#39;s just another reason to add to the list of why he is off his rocker. Biden is the worst general we have ever seen. But I guess since they put &amp;quot;kamikaze kamela&amp;quot; in charge of the war with Ukraine they don&amp;#39;t find it too important. Just wipe Ukraine off the map and get it over with $SPY $CMG $BTC.X $DOGE.X </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:33 </td>
+   <td style="text-align:left;"> $SPY moving as fast as a snail.... </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:57:04 </td>
-   <td style="text-align:left;"> $SPY sold made 20 bucks.. Im living the Vida loca </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:31 </td>
+   <td style="text-align:left;"> $SPY $QQQ Birth of the Antichrist priced in. We rise tomorrow. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:57:00 </td>
-   <td style="text-align:left;"> $SPY Trying to beat this down more, shameful bears. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:56:50 </td>
-   <td style="text-align:left;"> $SPY Hey so I lost a lot of $ on my old phone. Deleted the app, bought a new phone. I’m back </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:56:47 </td>
-   <td style="text-align:left;"> Keep compounding $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:56:46 </td>
-   <td style="text-align:left;"> $SPY not looking good. A lot
-big hitters broke demand today. They will be bouncing at the next demand zone </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:56:45 </td>
-   <td style="text-align:left;"> $SPY $SPX nice little flag on futes wouldn’t mind risking 4275 for 4350+ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:56:38 </td>
-   <td style="text-align:left;"> $SPY $DJIA $QQQ $TLT $GLD  
- 
-So the FED has said it will go from printing $120 BILLION/mo in 2020/21 to printing $0 Billion by the middle of next month. 
- 
-hmmm...rising balance sheet says no. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:56:25 </td>
-   <td style="text-align:left;"> $SPY Why do I feel like we are in an episode of family guy with the stock market reacting to every actions by Putin?  Are we americans or russians?  I want to see a new ATH tomorrow! $AMZN $GOOGL $MSFT $TSLA  
-https://www.youtube.com/watch?v=CnZUsYcy6L8 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:56:18 </td>
-   <td style="text-align:left;"> $QQQ $SPY $DIA $IWM Lol all these bears sweating now. Why would you chase a short down after it&amp;#39;s been beaten like a dead horse? Greedy greedy greedy. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:56:00 </td>
-   <td style="text-align:left;"> $SPY market overreacted and oversold, bears are going to be shocked by how fast this recovers </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:55:57 </td>
-   <td style="text-align:left;"> $SPY 
-Putin will not stand sanctions that we just did …
-He will respond to hurt our economy as well …
-So let’s wait and see what he has to say or what he is about to do . </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:55:44 </td>
-   <td style="text-align:left;"> $SPY Slight rainbow 🌈 🐻 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:55:22 </td>
-   <td style="text-align:left;"> $SPY  
-THIS IS THE BEARS TOMORROW, THEY ARE GOING TO GO HIDING TOMORROW AND SLEEPING BACK IN THEIR CAVES.  
- 
-TOMORROW MY BULLS WE RALLLLLY!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:55:17 </td>
-   <td style="text-align:left;"> $SPY not many people are considering the possibility of the market going into a long term consolidation in this 420-450 range. Many newer post covid traders used to 10% swings every few months. Historically the market just doesnt do that. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:55:15 </td>
-   <td style="text-align:left;"> $SPY lol none of this is bullish youre all delusional </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:55:10 </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:13 </td>
    <td style="text-align:left;"> $SPY 
 
-Haven&amp;#39;t heard a less intelligent statement in a while. Wow.  What morons. Expecting to keep a mask mandate because 4 yr olds are not vaccinated?   No words can describe the stupidity. 
+Dumpy dump at open. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:13 </td>
+   <td style="text-align:left;"> $SPY Guys, the rumor on this board is that shorts haven&amp;#39;t covered a single share. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:03 </td>
+   <td style="text-align:left;"> $AAPL $SPY All china stocks look to be pump and dumps. I&amp;#39;m guessing every time a stock IPOs they all buy calls and then cash out at the top after the quick run, because then you can spend the rest of the time printing naked shorted shares and get rich with ease </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:03 </td>
+   <td style="text-align:left;"> $SPY Futs slow as molasses in winter </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:25:53 </td>
+   <td style="text-align:left;"> $SPY no one is attacking anyone, the only thing under attack is permabear feelings lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:25:51 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:25:25 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DOW Wake up idiots, Russia just a distraction from the real menace: historic inflation. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:25:15 </td>
+   <td style="text-align:left;"> $HBAR $SPY $AMC    All that you need to know;. Shorts haven&amp;#39;t covered a single share:~~~~~~~~~ Check it out below 👇  
+highly recommend everyone to follow them. 🚀     mostwinningchat.optionsmarketmovers.com </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:25:14 </td>
+   <td style="text-align:left;"> $SPY $DWAC Jesus Lord help us 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:25:11 </td>
+   <td style="text-align:left;"> The SPX is $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:25:10 </td>
+   <td style="text-align:left;"> $SPY Like Tom Petty Said “Free Falling”
 
-&amp;quot;The Association of Flight Attendants-CWA represents flight attendants from companies including United Airlines and Delta Air Lines. 
+ 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:25:00 </td>
+   <td style="text-align:left;"> $SPY Putins not attacking the US, nATO response was simply this 😂😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:24:16 </td>
+   <td style="text-align:left;"> $SPY and just like that the Russia Ukraine headlines dwindle </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:24:15 </td>
+   <td style="text-align:left;"> $SPY oh yea </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:24:11 </td>
+   <td style="text-align:left;"> $SPY Sanctions on russia will be majorly seen on Asian countries which are mostly dependent on gas as their prices are going to be high </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:23:44 </td>
+   <td style="text-align:left;"> $SPY Free Fallin   🧞‍♂️🤣🤣🤣🤣🤣🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:23:42 </td>
+   <td style="text-align:left;"> $SPY $440 tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:23:14 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:23:09 </td>
+   <td style="text-align:left;"> $SPY 
+$vix might just freefall
+Bulls: what do you think bears will say when this happens? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:23:07 </td>
+   <td style="text-align:left;"> $SPY Biden is really taunting Russia to invade Ukraine. Would not be surprised to see a false flag in America in order to send US troops to fight Russia $GUSH $BTC.X </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:23:07 </td>
+   <td style="text-align:left;"> $SPY Very Unstable      Watch out new bees 🐝     $DIA $QQQ  🐝 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:23:05 </td>
+   <td style="text-align:left;"> $SPY go to 420 cmon i need to put gas im my car in cali lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:22:55 </td>
+   <td style="text-align:left;"> $SPY If the bulls think that the bears are done them, they are in for a rude awakening. They are just getting started. No one wants to pay more for their bag of groceries. Inflation is not going away anytime soon. Trade wisely. 🤝 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:22:39 </td>
+   <td style="text-align:left;"> $SPY who? You? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:22:37 </td>
+   <td style="text-align:left;"> $SPY anyone know how severed the sanctions on Russia are at the moment or is it only on the two new new independent states </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:22:32 </td>
+   <td style="text-align:left;"> $BTC.X $ETH.X $DWAC $TSLA $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:22:11 </td>
+   <td style="text-align:left;"> $SPY They just pumping futures </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:21:50 </td>
+   <td style="text-align:left;"> $SPY bulls tomorrow b like </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:21:41 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DJIA FUTES RIPPIN AIRCRAFT CARRIER AT SOME POINT </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:21:30 </td>
+   <td style="text-align:left;"> $SPY nothing really matters 🌷 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:21:12 </td>
+   <td style="text-align:left;"> $SPY cash money! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:21:09 </td>
+   <td style="text-align:left;"> Head and shoulders on $SPY &amp;amp; $DJIA descending triangle on $QQQ  &amp;amp; inverse head and shoulders on $SQQQ with a pennant on $UVXY charts say a crash is coming…are they right? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:20:12 </td>
+   <td style="text-align:left;"> S&amp;amp;P down $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:19:58 </td>
+   <td style="text-align:left;"> $SPY Bulls ? Tomorrow night at this time I’ll be booking a nice vacation after tomorrows monster rally gains.  
+ 
+Where is a nice place to go on a vacation ? Any ideas. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:19:58 </td>
+   <td style="text-align:left;"> $SPY congrats on all you have done this year..and its only February!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:19:53 </td>
+   <td style="text-align:left;"> $SPY I speak for all Americans when I say we are ready to die to save Ukraine from the ineptitude of their sitcom star president with no political experience. Crash the economy? Of course. Draft? Hell yeah! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:19:41 </td>
+   <td style="text-align:left;"> Every day I pick 2-5 stocks - the most undervalued stocks in AMEX, NYSE &amp;amp; NASDAQ to trade for the next trading day. Market participants are not perfectly rational in their judgments resulting in pricing irregularities and even predictable patterns in stock returns which could persist for short periods of time. I have developed mathematical and statistical techniques to exploit the temporary market inefficiencies for financial gains that beat the market. I am targeting a trading goal of 50% return by Dec 31 2022. In 2020 I gained 121%. In 2021 I gained 15%.Below is profit &amp;amp; loss from Friday&amp;#39;s picks. Keep these stocks on your watchlist for the next 1-5 days. Some of them may see huge gains in the next 1-5 days.        
+$BKI $API $SPY $FAF $AMPL  
+   
+Details: https://www.youtube.com/watch?v=drA6Ywzm-sg 
+NOTE: Below is P&amp;amp;L for one day only. This is my journey to achieve a cumulative 50% profit by Dec 21 2022 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:19:19 </td>
+   <td style="text-align:left;"> $SPY short squeeze mofos </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:18:13 </td>
+   <td style="text-align:left;"> $QQQ vix steady uptrend since beginning of February $UVXY $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:18:12 </td>
+   <td style="text-align:left;"> $SPY when did this jump after hours? I&amp;#39;m still assuming we drop in the morning. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:18:02 </td>
+   <td style="text-align:left;"> $SPY here we go </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:17:59 </td>
+   <td style="text-align:left;"> $SPY ok </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:17:39 </td>
+   <td style="text-align:left;"> $SPY this will go over every bears head - 
+You are not a player in this game. You are a helping hand 
 
-&amp;quot;We have every expectation that the mask mandate will be extended for the near term… The conditions in aviation are the same. Our youngest passengers do not yet have access to the vaccine,&amp;quot; the union told the outlet in an emailed statement. </td>
+Powell Pop I cannot wait to see the look on bears faces when they choke opex </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:55:03 </td>
-   <td style="text-align:left;"> Who else is ready for the amusement park ride tomorrow? $SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:17:37 </td>
+   <td style="text-align:left;"> $ARKK $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:54:58 </td>
-   <td style="text-align:left;"> $SPY  this app is an endless cycle of laughing at the other side and getting fucked right after. Never ending cycle 🤣🤣 </td>
+   <td style="text-align:left;"> 2022-02-23 10:17:11 </td>
+   <td style="text-align:left;"> $SPY just pulled up </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:54:51 </td>
-   <td style="text-align:left;"> S&amp;amp;P 500 Index testing the neckline to a massive head-and-shoulders topping pattern. http://www.equityclock.com/2022/02/22/stock-market-outlook-for-february-23-2022/ $SPX $SPY $ES_F </td>
+   <td style="text-align:left;"> 2022-02-23 10:17:08 </td>
+   <td style="text-align:left;"> $SPY any good answers as to why futures are up? Did I miss some good news while I was digging my bomb shelter 🤣🤣 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:54:43 </td>
-   <td style="text-align:left;"> $SPY  I’m back. But who am I? </td>
+   <td style="text-align:left;"> 2022-02-23 10:17:00 </td>
+   <td style="text-align:left;"> $SPY lets just say I have only one long term left, and I am currently able to buy all my longs term back for 8-10% cheaper already. I saw it, and I acted quick... joe Biden does not deserve a market at ATHS, he deserves to be down as the worst president ever, and the market will show for it.  ill buy myself a boat load of long term plays in the coming months. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:54:42 </td>
-   <td style="text-align:left;"> Daily Recap 
-Top Earners: $SPY $NKE $RBLX $OCGN  
- 
-Analysts: 
-u.trhub.net/hot+papa+curry 
-http://u.trhub.net/macrozz 
-http://u.trhub.net/noob 
-http://u.trhub.net/adm+ii 
-http://u.trhub.net/spoobysnax 
-http://u.trhub.net/djbrod24 
- 
-linktr.ee/thetradehub 
- 
-Daily Movement 
-SPY closed -1.08% 
-NKE closed -3.32% 
-RBLX closed -3.02% 
-OCGN closed +22.25% </td>
+   <td style="text-align:left;"> 2022-02-23 10:16:58 </td>
+   <td style="text-align:left;"> $SPY just got word from a connect in Eastern Europe. It’s not clear when, but there is word of Russia build up of troops near Ukraine. Would watch carefully. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:54:39 </td>
-   <td style="text-align:left;"> $SPY more bears must mean we are nearing the bottom </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:54:36 </td>
-   <td style="text-align:left;"> $SPY sold made $147 in extended hours trading </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:54:36 </td>
-   <td style="text-align:left;"> $QQQ $SPY $IWM $DIA  
- 
-First close below 340 for QQQ since January low. Today&amp;#39;s bounce off the 334 level was expected but it will be short lived as we break through 334 and head to 320s in the coming days. RSI is not yet oversold and MACD has crossed firmly to the negative side.  
- 
-Easy on the BTD mode as you may end up bagholding very quickly :) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:54:27 </td>
-   <td style="text-align:left;"> $SPY futures about to pop up or dump hard just look at right now.
-Really just waiting untill 8 so Ah closes let’s see </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:54:15 </td>
-   <td style="text-align:left;"> $SPY  Corn Pop was a bad dude!!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:53:43 </td>
-   <td style="text-align:left;"> $SPY big move coming </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:53:16 </td>
-   <td style="text-align:left;"> $SPY There won&amp;#39;t be any sustained uptrend until Russia/Ukraine situation is resolved. Puts on any pop is 💰💰💰💰💰 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:53:15 </td>
-   <td style="text-align:left;"> $SPY $SPX $COST $TGT  #XRT   
-watch retail bounce after great retail sales numbers.  
- 
-Unusual Call Activity in Target .. ready for bounce.  
- 
-hourly  #Weird #Science chart </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:53:01 </td>
-   <td style="text-align:left;"> $SPY Biden has given the order for the fed to go to war with Bears. Futes prove that. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:52:28 </td>
-   <td style="text-align:left;"> $SPY futures be looking weird </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:52:02 </td>
-   <td style="text-align:left;"> $SPY It’ll be funny if it opens red 😮‍💨👊🏼 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:51:57 </td>
-   <td style="text-align:left;"> $SPY 425 tmm </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:51:55 </td>
-   <td style="text-align:left;"> $SPY not ideal here at 430 with 3 days left of uncertainty to finish the week.  We’re going down peeps.  This market is weak AF right now. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:51:52 </td>
-   <td style="text-align:left;"> $QQQ $SPY  mean they can gap it up sure i have no position but I’d much rather see them flush the bowl and lock it limit down. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:51:52 </td>
-   <td style="text-align:left;"> $SPY Here&amp;#39;s some info regarding past performance you may find helpful: https://youtu.be/b8FSRI7qD_8 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:51:29 </td>
-   <td style="text-align:left;"> $SPY you say bull trap, I say bull crap. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:51:09 </td>
-   <td style="text-align:left;"> $QQQ $SPY $SPX $BTC.X 
+   <td style="text-align:left;"> 2022-02-23 10:16:52 </td>
+   <td style="text-align:left;"> $AMC $GME $SNDL $SPY 
 
-It’s rare we see a President do so many things right this early on in his term.
-
-Biden, you magnificent beast.
-
-Keep up the outstanding work, our economy is roaring. 
-
-Takes notes - Conservatives 🇺🇸✌️ </td>
+Ryan Cohen tweeted —&amp;gt; 🩳 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:51:08 </td>
-   <td style="text-align:left;"> $SPY $ES $AMZN &amp;#39;;&amp;#39;;&amp;#39; 
+   <td style="text-align:left;"> 2022-02-23 10:16:43 </td>
+   <td style="text-align:left;"> $SPY  this market 👎 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:16:40 </td>
+   <td style="text-align:left;"> $SPY We need a Republican back in there! George W. Bush please come back! Best Market we ever had!!  -40%!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:16:27 </td>
+   <td style="text-align:left;"> $SPY watch this and smile. It explains the stock market in 30 seconds 🍻
+
+https://vm.tiktok.com/TTPdS26r8A/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:16:19 </td>
+   <td style="text-align:left;"> $SPY Biden’s speech, pretty much said we are only here to defend. No war. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:16:07 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:16:03 </td>
+   <td style="text-align:left;"> WP $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:15:56 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ  
  
+7.5% inflation 
+ 
+and FED have everything under control...lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:15:37 </td>
+   <td style="text-align:left;"> $SPY just want to let you all know I’m going. To Colorado for the week as my stonk vacation 
+Btd </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:15:34 </td>
+   <td style="text-align:left;"> $SPY Bring a Republican back! We need George W. Bush’s market! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:15:16 </td>
+   <td style="text-align:left;"> $SPY  question is where interest of us in to?
+
+1) go to war against Russia with boots on the ground
+2) go to war without boots on the ground 
+3) take opportunity to put more sanctions and  push Russia  back in weapon race
+4) shut the fuck up and keep nose out of this shit where we have no business 
+
+for some reason option 4 is more attractive but what do i know </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:15:10 </td>
+   <td style="text-align:left;"> $SPY  $155 oil   🧞‍♂️😢 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:14:59 </td>
+   <td style="text-align:left;"> $SPY sell options dont buy them. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:14:56 </td>
+   <td style="text-align:left;"> $SPY going to 420.01 then load calls. Big run </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:14:50 </td>
+   <td style="text-align:left;"> $SPY $420 let’s go 👌🏼 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:14:15 </td>
+   <td style="text-align:left;"> $SPY: In no man&amp;#39;s land. Under 426, we most likely see 420 and then 417 level. If we can push back above 433, look for a retest of 436.5 resistance and then 440 level. Everything in between 426-433 is chop. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:14:06 </td>
+   <td style="text-align:left;"> $SPY i want lower </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:14:06 </td>
+   <td style="text-align:left;"> $SPY $VIX Did Biden just send Millions of defense weapons to Ukraine only to leave it for Russia to take like he did in Afganistan? Can we be done with this POS Potus yet? Now he wants to inflate Gas prices and blame Russia for inflation. Its all a distraction. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:14:01 </td>
+   <td style="text-align:left;"> $SPY 
+
+Nothing about the word - Violent, 
+ever sounded bullish. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:13:53 </td>
+   <td style="text-align:left;"> $SPY How do I file a  lawsuit against the market ? Seems rigged. I have too much losses. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:13:48 </td>
+   <td style="text-align:left;"> $SPY Putin never did this under trump! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:13:35 </td>
+   <td style="text-align:left;"> $SPY Comrade Tucker
+
+&amp;quot;Treason against the United States, shall consist only in levying War against them, or in adhering to their Enemies, giving them Aid and Comfort.&amp;quot; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:13:34 </td>
+   <td style="text-align:left;"> $SPY  1% </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:13:29 </td>
+   <td style="text-align:left;"> $SPY jokes 
+
+https://www.dailymail.co.uk/news/article-10540799/Emmanuel-Macrons-rivals-mock-summit-failure.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:13:10 </td>
+   <td style="text-align:left;"> $SPY https://www.theonion.com/new-iphone-setting-reduces-eyestrain-with-black-text-on-1848564004 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:12:32 </td>
+   <td style="text-align:left;"> $SPY hsi ripping faces, a precursor for the U.S.A baby! Shorts.run.for.cover </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:12:31 </td>
+   <td style="text-align:left;"> $SPY imagine being assetless in an economy and inflation like this. These bears. $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:12:13 </td>
+   <td style="text-align:left;"> $SPX $SPY $QQQ $DIA $DJIA  🧞‍♂️
+
+2022 will be remembered by a bear market </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:12:03 </td>
+   <td style="text-align:left;"> $SPY we’re waiting Tom </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:12:01 </td>
+   <td style="text-align:left;"> $SPY my slvm puts today! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:11:54 </td>
+   <td style="text-align:left;"> $SPY Everyone selling is gonna wanna commit suicide a year from now .....just saying 🤷‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:11:54 </td>
+   <td style="text-align:left;"> $SPY So many Bart Simpson haircuts on all these charts that bulls will be lucky if they can afford ramen for diner tomorrow  &amp;gt;=) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:11:52 </td>
+   <td style="text-align:left;"> $SPY Hasbulla got drafted </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:11:14 </td>
+   <td style="text-align:left;"> $SPY I don&amp;#39;t think Putin cares about any sanctions.. He is rich and they have lot of oil </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:11:11 </td>
+   <td style="text-align:left;"> $SPY well I guess it’s on now! Got his teeth cleaned! 😂🤣🤑 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:11:06 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ  
+ 
+7.5% inflation 
+ 
+FED still increasing balance sheet 
+FED still holding interest rates at 0% 
+FED still printing Billions 
+ 
+Not so good for poor folk and middle class. 
+ 
+Rich people love it !!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:53 </td>
+   <td style="text-align:left;"> The SPX $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:52 </td>
+   <td style="text-align:left;"> $SPY $QQQ don’t stare at the 1 min chart all night bears. 🚀🚀🚀⛳️🏌🏾‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:43 </td>
+   <td style="text-align:left;"> $SPY Ryan Cohen everybody </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:42 </td>
+   <td style="text-align:left;"> $SPY $TSLA is it a waka waka or what? 🧐 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:29 </td>
+   <td style="text-align:left;"> $SPY Cramer said everything is ok </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:28 </td>
+   <td style="text-align:left;"> $SPY next leg up ⬆️ 435-440 if it breaks above that ⬆️⬆️⬆️😁🍻 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:19 </td>
+   <td style="text-align:left;"> $SPY guys I&amp;#39;ve been pissed off since the all star weekend. How is kobe a baseline to crack top 10? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:10 </td>
+   <td style="text-align:left;"> $SPY am I the only one here who’s still a teen? I feel like I keep arguing with Middle Aged men who are sexually frustrated (cough cough @PilotZee) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:09:55 </td>
+   <td style="text-align:left;"> $SPY is like to hear from the Russian-Americans! What y’all think about this Ukraine invasion? There’s got to be a few Russians in the room? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:09:37 </td>
+   <td style="text-align:left;"> $SPY soon bulls soon </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:09:34 </td>
+   <td style="text-align:left;"> $SPY gonna keep dying, $SBSW going to $50 if rumor of Putin cutting metal exports true </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:09:27 </td>
+   <td style="text-align:left;"> $SPY  http://www.b4signals.com </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:09:25 </td>
+   <td style="text-align:left;"> $SPY   $3800 gap fill coming.  $SPX 🧞‍♂️ $ES_F </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:09:22 </td>
+   <td style="text-align:left;"> $SPY On the major green days you have to go with the most volatile stocks to make the most money. Tesla it is ! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:09:11 </td>
+   <td style="text-align:left;"> $SPY so Trump woukdve praised this and markets woukdve boomed 😂. Tells you how much Biden is making a big deal about this. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:09:07 </td>
+   <td style="text-align:left;"> $SPY Bulls got lucky today.  They still might have a chance to get out tomorrow before crash. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:08:56 </td>
+   <td style="text-align:left;"> $SPY Putan will make sure oil goes to $155 🧞‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:08:46 </td>
+   <td style="text-align:left;"> $SPY nothing to write home about but it’s looks better than it did   earlier today. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:08:45 </td>
+   <td style="text-align:left;"> $SPY printer go brrr </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:08:28 </td>
+   <td style="text-align:left;"> $SPY do you guys think putin will do something to drive bitcoin down? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:08:08 </td>
+   <td style="text-align:left;"> $PLTR $ARKK $SPY $QQQ 
+
+I’d love to know the reasoning of her selling out of $PLTR , I mean she was underwater right ? Was it people constantly bailing on her funds and she needs the $ , was it really that $TDOC is so low that she wants as much as she can get , is it because she doesn’t see $PLTR working out anymore ? I can’t see it being the latter with their growth and prospects , but it still doesn’t make sense why she wouldn’t sell something she’s in the $ on and not take a big loss . Weird all around </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:55 </td>
+   <td style="text-align:left;"> $SPY what are some of the greatest opportunities out there which might really quickly and strongly if markets v-shape? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:41 </td>
+   <td style="text-align:left;"> $SPY Putin meeting CEOs of mining companies..
+
+Is Russia preparing sanctions on United States??? Cut exotic metal exports? Hmm.. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:40 </td>
+   <td style="text-align:left;"> $SPY Wall Street next!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:24 </td>
+   <td style="text-align:left;"> $SPY $TSLA $AMC $INDO &amp;quot;Shaking off the weak hands&amp;quot; is the most overused phrase on StockTwits. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:04 </td>
+   <td style="text-align:left;"> $SPY not sure how $6 a gallon gas is going to help anything. Glad I’m not in CA...........for like a billion more reasons </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:01 </td>
+   <td style="text-align:left;"> $SPY I hope it stays up all night opens high I still hace 17k I wanted to load into puts 😫  don&amp;#39;t drop hard without me </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:00 </td>
+   <td style="text-align:left;"> $SPY If he wanted to hurt Putin and help Americans he’d let us pump our own oil.
+
+Feels like they want high oil and gas prices to help push their new green deal. Gotta benefit those donors and special interests. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:49 </td>
+   <td style="text-align:left;"> $SPY  Gap up in a bear market and see how fast it gets filled </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:39 </td>
+   <td style="text-align:left;"> $SPY bears trying so hard to make their opinions heard while bull just post a meme and go on with life </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:36 </td>
+   <td style="text-align:left;"> $SPY futures want to rebound I guess </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:36 </td>
+   <td style="text-align:left;"> $SPY  another -$21.55 correction territory 
+
+   🧞‍♂️👊🏻  $QQQ $DIA $NASDAQ $NDX  🪳
+
+ Who wants to see in real time full blown 
+                   ♠️  correction ♠️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:21 </td>
+   <td style="text-align:left;"> $SPY 420 support </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:21 </td>
+   <td style="text-align:left;"> $SPY we vibin today 🎉 
+
+https://m.youtube.com/watch?v=pRpeEdMmmQ0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:20 </td>
+   <td style="text-align:left;"> $SPY nothing like a joint to end the day off </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:16 </td>
+   <td style="text-align:left;"> $SPY putin has a gift for Biden tomorrow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:08 </td>
+   <td style="text-align:left;"> $SPY there’s a violent bull run coming, don’t get left in the dust like 2020 💨 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:07 </td>
+   <td style="text-align:left;"> $SPY Shaking the weak hands </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:02 </td>
+   <td style="text-align:left;"> $SPY we will retest lows of today tomorrow the question is do they hold or not </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:05:59 </td>
+   <td style="text-align:left;"> $SPY How long was Justice Ginsberg dead before they admitted it 🤷‍♂️ just say’n she gone ! 👑 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2022-02-23 10:05:47 </td>
+   <td style="text-align:left;"> $SPY 💯 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:50:50 </td>
+   <td style="text-align:left;"> $SPY $QQQ the market doesn’t like this waiting around whats going to happen between russia and ukraine, i think the markets just want a resolution or even war, “sadly” for it to move on from this. what is going now, its uncertainty, thats why the market sucks. thats why i am not bullish now. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:50:30 </td>
+   <td style="text-align:left;"> $DWAC $TSLA $QQQ .. 
  
 Account Challenge Update:-  
-Start Date: Jan 3, 2022  
-Starting Balance: $1,700  
-Current Balance: $93,279 
+Start Date: Feb 2, 2022  
+Starting Balance: $1,800  
+Current Balance: $89,637  
 Goal: $100,000 by end of February.  
 Strategy: Swing Trade Options, Stocks  
-  
-Watch out for next play👓 top.stocksboss.xyz/ </td>
+   
+Watch out for next play👓  https://www.discord.io/xEvE2Aatrp </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:50:55 </td>
-   <td style="text-align:left;"> $SPY why they always set these bull traps </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:50:17 </td>
+   <td style="text-align:left;"> $SPY Sanctions to include; 
+- Vodka and orange juice will not be allowed to mix together in the same glass. 
+- Nesting dolls will be permanently glued shut. 
+- The proletariat will only be allowed to uprise once a month. 
+$QQQ $DWAC </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:50:43 </td>
-   <td style="text-align:left;"> $QQQ $SPY $DJIA  $10/ gallon soon
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:47:27 </td>
+   <td style="text-align:left;"> $QQQ what happened with the -5% bears talked about yesterday?😂😂😉 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:57 </td>
+   <td style="text-align:left;"> $SPY Biden made it clear today in his speech - &amp;quot;Expect higher energy prices&amp;quot; 1) Biden dismantled XL pipeline 2) cancelled all licenses to drill on federal lands 3) begging OPEC and Russia to sell us more oil.  THEN he goes to blame Russia for the higher energy prices here.  Biden did this.  All of it.   $USO $QQQ $UVXY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:44:38 </td>
+   <td style="text-align:left;"> $SPY $QQQ Tom Lee interview today, did not mention anything about his face ripper rally for february… </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:43:48 </td>
+   <td style="text-align:left;"> New Analysis: It is time to sell before things get worse? Or is this a golden opportunity? https://cracked.market/2022/02/it-is-time-to-sell-before-things-get-worse-or-is-this-a-golden-opportunity/ $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:41:04 </td>
+   <td style="text-align:left;"> $QQQ anyone know of a broker that doesn&amp;#39;t intentionally mess up your options dates on 1099b for 2022? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:45 </td>
+   <td style="text-align:left;"> $QQQ Fuck Biden. Why is my broker intentionally making errors with options dates on my 1099b. Something corrupt is going on </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:25 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DIA all it take is a little push. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:04 </td>
+   <td style="text-align:left;"> $OCGN $BTC.X $QQQ   All that you need to know;. Shorts haven&amp;#39;t covered a single share:~~~~~~~ Check it out below 👇  
+highly recommend everyone to follow them. 🚀     mostwinningchat.optionsmarketmovers.com </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:38:02 </td>
+   <td style="text-align:left;"> $SPY $QQQ $SPX $BTC.X 
 
-https://www.marketwatch.com/story/russia-ukraine-puts-10-u-s-inflation-on-radar-as-blackrock-repeats-central-banks-may-have-to-live-with-inflation-11645565763?siteid=yhoof2 </td>
+Thank the lord for Biden , his amazing vaccines, containing/eradicating the virus with his well executed plan (something trump couldn’t do), his push to get conservative CEOs to fix their supply chain issues and his strong arm stance to JPOW, curbing inflation. Not only this, but he also was able to stand up too and scare off Putin. 
+
+What a blessing that Biden is in and Trump is out. 
+
+Not to mention he has the best VP in the history of this nation at his side in Kamala Harris.
+
+No more Republicans please. 
+🙏🙌🇺🇸 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:50:35 </td>
-   <td style="text-align:left;"> $SPY @Honest_Abe wants to know if the sanctions are serious: 
-$7.50/gallon serious! </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:32:09 </td>
+   <td style="text-align:left;"> $QQQ $SPY $ROKU $TSLA bears out here queefin bruh smh </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:50:07 </td>
-   <td style="text-align:left;"> $SPY gap up at 4am? Possibly </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:49:58 </td>
-   <td style="text-align:left;"> $SPY anything left ? Did u digesteverything or not yet? With everything goin on i thought u gonna break it to 420 410 400 wheres tht ?.lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:49:57 </td>
-   <td style="text-align:left;"> $SPY stop and pop byron scott </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:49:56 </td>
-   <td style="text-align:left;"> $SPY when is the margin call? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:49:40 </td>
-   <td style="text-align:left;"> $SPY  floating among 60 day lows here. Tighten up your margin usage </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:49:36 </td>
-   <td style="text-align:left;"> $SPY bears late to the party. How many times were they expecting 425 to hit before upside?? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:49:31 </td>
-   <td style="text-align:left;"> $SPY biden pretends to feel the average guys pain at the pump but does not ease restrictions on USA oil and gas production.  politicians should all be replaced with new not so experienced lying sacks of crap </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:49:30 </td>
-   <td style="text-align:left;"> $SPY Foreign markets will possibly correct this later. Not buying it. Vix broke out. Staying right here with my  0DTE 434 sold calls. I might be sweaty but that&amp;#39;s fine. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:49:05 </td>
-   <td style="text-align:left;"> $SPY bulee buleeeeeeeeeeeeeeee 
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:31:30 </td>
+   <td style="text-align:left;"> REMEMBER:  ALL of this craziness and the fed is still buying assets and has rates at 0.  Have not even done the first rate hike Or stopped QE.  
  
-Bule bule 😎 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:48:14 </td>
-   <td style="text-align:left;"> $QQQ $SPY $SPX $BTC.X 
-
-Donald Trump could quite possibly be considered one of the WORST leaders in the history of the world. Let that sink in.
-
-Thank the lord Biden is in, and Trump is out. Biden eradicated the virus with his beautiful executed plan, and now prevented a world war by scaring off Putin. Putin wanted no part of Joe’s Wraith so he decided to ride with Biden rather , instead. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:48:14 </td>
-   <td style="text-align:left;"> $SPY best energy ETF? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:48:13 </td>
-   <td style="text-align:left;"> $SPY no time to die. yay or nay? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:48:06 </td>
-   <td style="text-align:left;"> $SPY I predict a green open, pop to $435, tank to sub $430. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:47:58 </td>
-   <td style="text-align:left;"> $SPY what a pump </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:47:56 </td>
-   <td style="text-align:left;"> 2/22 RECAP
-
-✅ $SPY 425p 2/23 +200%
-
-✅ $AAPL 160p 2/26 +40%
-
-✅ $TDOC +13%
-
-✅ $MULN +10%
-
-✅ $KAVL +4% </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:47:38 </td>
-   <td style="text-align:left;"> $amd  $nvda  $spy   $qqq  $TSla  
-Advanced Micro Devices upgraded to outperform with a $150 price target at Bernstein 
-A Wall Street analyst upgraded Advanced Micro Devices to a buy rating after 10 years on Tuesday, highlighting its growing market share, a strong portfolio of computer chips to rival that of Intel and a relatively cheap stock price. 
  
-&amp;quot;This is not the AMD of a decade ago,&amp;quot; Bernstein Research analyst Stacy Rasgon said, lifting the brokerage&amp;#39;s rating on the company to &amp;quot;outperform&amp;quot; — its highest stock rating — from &amp;quot;market-perform&amp;quot;. 
+$spy $qqq </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:31:22 </td>
+   <td style="text-align:left;"> $SPY But mommy I thought it was time to buy 
+
+Sorry mommy I lost all your money 😢 
+
+  🧞‍♂️ $QQQ $DIA $NDX $SPX  TRUE STORY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:31:04 </td>
+   <td style="text-align:left;"> $QQQ $TQQQ NQ daily candle looking like this so far </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:31:01 </td>
+   <td style="text-align:left;"> $QQQ $SPY papa pow, papa pow, the bulls fell down the well, come quick </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:29:48 </td>
+   <td style="text-align:left;"> $QQQ 13;483 hits amd down </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:29:48 </td>
+   <td style="text-align:left;"> $qqq bottomed at the exact level of January 24th low.  ;)  
  
-https://seekingalpha.com/news/3802395-advanced-micro-devices-upgraded-at-bernstein-firm-sees-30-upside?mailingid=26788713&amp;amp;messageid=2900&amp;amp;serial=26788713.25205&amp;amp;utm_campaign=rta-stock-news&amp;amp;utm_content=link-1&amp;amp;utm_medium=email&amp;amp;utm_source=seeking_alpha&amp;amp;utm_term=26788713.25205 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:47:27 </td>
-   <td style="text-align:left;"> $SPY 420&amp;amp; 420 hours before 4/20 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:47:26 </td>
-   <td style="text-align:left;"> $SPY face ripper rally knocking on the door.  SPX 4260 hit and retested. 440 and 450 on deck..and quick, barring  crazy Russia-Ukraine BS </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:47:25 </td>
-   <td style="text-align:left;"> $QQQ $SPY $BTC.X $SPX 
-
-I feel comfortable with Biden.
-
-Trump has shown he is very stupid and has the attention span and temper of a 2 year old.
-
-The Russia situation would have been too much for the child to handle. 
-
-Thank god Biden is in, and Trump is out </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:47:13 </td>
-   <td style="text-align:left;"> $SPY looks like it’s a “sell the news” type play. But in this case buy the news. Invasion has started </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:46:56 </td>
-   <td style="text-align:left;"> $SPY The market is in clear Reverse Downward Crunchwrap pose right now. Join my Discord for alerts! 🚀 🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:46:21 </td>
-   <td style="text-align:left;"> $SPY well there was your pop boys 😆 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:46:12 </td>
-   <td style="text-align:left;"> $SPY  
+charts are more important than everything  
  
-Fun fact: 
+$spy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:28:28 </td>
+   <td style="text-align:left;"> $QQQ anyone else notice the market crashed at the same sharp rate &amp;amp; timing as omicron variant infections plummeted?  Is this all bullshit??? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:27:22 </td>
+   <td style="text-align:left;"> $SPY $TSLA $QQQ  https://finance.yahoo.com/news/legendary-investor-jeremy-grantham-sees-121600816.html?guccounter=1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:31 </td>
+   <td style="text-align:left;"> $SPY $QQQ Birth of the Antichrist priced in. We rise tomorrow. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:17 </td>
+   <td style="text-align:left;"> $QQQ Bears pwned permabulls this whole year. You think you have the balls to drag your testicles across every falling knife?! Do ya!?? Be smart out there yall I hope $DWAC tanks tomorrow I’m loaded with puts!! Let’s go Brandon! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:25:25 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DOW Wake up idiots, Russia just a distraction from the real menace: historic inflation. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:25:03 </td>
+   <td style="text-align:left;"> $QQQ same shit different time and reason ….. well done assholes .. speaking of assholes…. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:23:07 </td>
+   <td style="text-align:left;"> $SPY Very Unstable      Watch out new bees 🐝     $DIA $QQQ  🐝 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:21:41 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DJIA FUTES RIPPIN AIRCRAFT CARRIER AT SOME POINT </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:21:09 </td>
+   <td style="text-align:left;"> Head and shoulders on $SPY &amp;amp; $DJIA descending triangle on $QQQ  &amp;amp; inverse head and shoulders on $SQQQ with a pennant on $UVXY charts say a crash is coming…are they right? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:18:13 </td>
+   <td style="text-align:left;"> $QQQ vix steady uptrend since beginning of February $UVXY $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:16:03 </td>
+   <td style="text-align:left;"> $QQQ lmao bears having been driving this down for 2 months.. u think u got some power bulls lmapopoooo </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:15:56 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ  
  
-Red Snapper was a premier prize on Wheel of Fish </td>
+7.5% inflation 
+ 
+and FED have everything under control...lol </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:46:02 </td>
-   <td style="text-align:left;"> $SPY i tough sanctions were ready lol he just called you bluff 🤦🏼‍♂️ </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:12:36 </td>
+   <td style="text-align:left;"> $DWAC $NVDA $QQQ Does anyone know any good Russia company stocks I can invest in ? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:45:54 </td>
-   <td style="text-align:left;"> $SPY  the king of fake break downs </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:12:31 </td>
+   <td style="text-align:left;"> $SPY imagine being assetless in an economy and inflation like this. These bears. $QQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:45:47 </td>
-   <td style="text-align:left;"> $SPY Listen up fools. Tom Lee and Cathie Woods are saying to BTMFD!! BTC to $100,000 and $TSLA to $3000!!! ATH right around the corner!!! 
-*Satire </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:45:23 </td>
-   <td style="text-align:left;"> Tomorrow $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:45:21 </td>
-   <td style="text-align:left;"> $SPY old guy seeing it under 430z </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:45:11 </td>
-   <td style="text-align:left;"> $SPY FUCK YOUR CALLS HAHAHAHAH </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:44:42 </td>
-   <td style="text-align:left;"> $SPY futures 4hr 20ema 👀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:44:40 </td>
-   <td style="text-align:left;"> $SPY how is $DKNG UP over $1 Today and there’s still no MLB ? 🤷‍♂️ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:44:30 </td>
-   <td style="text-align:left;"> $SPY This are about to get very back. Good luck.👍 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:44:23 </td>
-   <td style="text-align:left;"> $SPY what are expectations for tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:43:46 </td>
-   <td style="text-align:left;"> Even the cat is pissed about all the BS this guy throws on CNBC. 
-Photo credit StockCats
-$QQQ $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:43:43 </td>
-   <td style="text-align:left;"> $SPY So are the sanctions on Russia serious or more of a slap on the hand? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:43:36 </td>
-   <td style="text-align:left;"> $SPY she constantly goes from warm to cold. Are women like this? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:43:32 </td>
-   <td style="text-align:left;"> $SPY imagine not making money today. This is an options trader dream. So much volatility. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:43:22 </td>
-   <td style="text-align:left;"> $SPY Energy prices are about to go parabolic with new Russian sanctions.  Considering inflation is at 7.5% and energy makes up what... a 1/3 of CPI?  Nothing to be bullish about here. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:43:01 </td>
-   <td style="text-align:left;"> $SPY she liked my plants yesterday and said Omg!! I love them!. Can&amp;#39;t wait! 
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:12:13 </td>
+   <td style="text-align:left;"> $SPX $SPY $QQQ $DIA $DJIA  🧞‍♂️
 
-Today I said you are a very sweet woman. Read </td>
+2022 will be remembered by a bear market </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:42:46 </td>
-   <td style="text-align:left;"> $SPY Reminder to the bulls: Putin has over 150,000 troops next to Ukraine and they move closer every day and set up field hospitals and war facilities such as pontoon bridges.  Putin is a madman.  You really believe he is just going to walk away from this? </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:11:16 </td>
+   <td style="text-align:left;"> $QQQ Bears on Stocktwits whether it’s looking good or bad for them….. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:42:21 </td>
-   <td style="text-align:left;"> $SPY FISHING for more PUTS tomorrow! 😁🎣♻️📉 
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:11:06 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ  
  
-disclaimer* focus on the SNAPPER FISH Stocktwits (that&amp;#39;s my perspective) 💯🙏 </td>
+7.5% inflation 
+ 
+FED still increasing balance sheet 
+FED still holding interest rates at 0% 
+FED still printing Billions 
+ 
+Not so good for poor folk and middle class. 
+ 
+Rich people love it !!! </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:41:45 </td>
-   <td style="text-align:left;"> $SPY at the starting line like.... </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:52 </td>
+   <td style="text-align:left;"> $SPY $QQQ don’t stare at the 1 min chart all night bears. 🚀🚀🚀⛳️🏌🏾‍♂️ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:41:23 </td>
-   <td style="text-align:left;"> $SPY looks proud of it too 🤣🤣🤣 </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:04 </td>
+   <td style="text-align:left;"> $QQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:41:22 </td>
-   <td style="text-align:left;"> $SPY this will have a 3 handle in future I believe.  Not considering “investing” until we see 380 or less. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:41:10 </td>
-   <td style="text-align:left;"> $SPY let&amp;#39;s see 3s in the next couple weeks </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:41:01 </td>
-   <td style="text-align:left;"> $SPY once it hits 420 im full bull </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:40:52 </td>
-   <td style="text-align:left;"> $QQQ $SPY  by April all the bears will be in hibernation cause we will be at ATH </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:40:43 </td>
-   <td style="text-align:left;"> $SPY I’ll say it again… it’s where the bulls go to die </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:40:04 </td>
-   <td style="text-align:left;"> $QQQ $SPY $IWM $DIA $NDX … @MarkNewtonCMT great interview 👇🏻
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:08:08 </td>
+   <td style="text-align:left;"> $PLTR $ARKK $SPY $QQQ 
 
-https://twitter.com/yahoofinance/status/1494755380819279878?s=21 </td>
+I’d love to know the reasoning of her selling out of $PLTR , I mean she was underwater right ? Was it people constantly bailing on her funds and she needs the $ , was it really that $TDOC is so low that she wants as much as she can get , is it because she doesn’t see $PLTR working out anymore ? I can’t see it being the latter with their growth and prospects , but it still doesn’t make sense why she wouldn’t sell something she’s in the $ on and not take a big loss . Weird all around </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:39:52 </td>
-   <td style="text-align:left;"> $SPY  $440 before the weekend?  Pleaseeee. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:55 </td>
+   <td style="text-align:left;"> $QQQ LOL.
+ANOTHER BANK CLOSURE - ATM BOARDED UP - MARKET SUPERBUBBLE WILL BURST -STOCK MARKET PLUNGES NEEDS QE
+https://www.youtube.com/watch?v=dAQXLE7SjM8 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:39:17 </td>
-   <td style="text-align:left;"> $SPY War is just FUD as of now. Market is doing what it does, we are in still correction. Not yet in bear market. If it drop below 415 then consider as bear market </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:38:42 </td>
-   <td style="text-align:left;"> $PANW Don&amp;#39;t be surprised to see a CYBER ATTACK. You can blame SLEEPY JOE 
-$SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:38:39 </td>
-   <td style="text-align:left;"> $SPY Fake ass plandemic fake ass war </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:38:13 </td>
-   <td style="text-align:left;"> $SPY whatever was gonna type sumn about mkt dynamics, oil and tesla but I’m on demon time. Put the pieces together or use imagination </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:38:05 </td>
-   <td style="text-align:left;"> $SPY way too bullish when nothing has changed. Russia will likely cut all gas supply to Europe in response to sanctions. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:38:02 </td>
-   <td style="text-align:left;"> $SPY Lets all short some Cathie Wood...they are starting to pay minimum wage for waiting tables. Hey, can I get some more sweet tea over here😆😆😆 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:37:55 </td>
-   <td style="text-align:left;"> $SPY $QQQ $VIX $SPX $IWM  
- 
-bear&amp;#39;s ass be widening 
- 
-you always go long ATM at peak IV </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:37:39 </td>
-   <td style="text-align:left;"> $SPY opening deep red </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:37:07 </td>
-   <td style="text-align:left;"> $SPY Worldwide pandemic? And now Putin is a factor? Get that clown out of here. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:36:41 </td>
-   <td style="text-align:left;"> $SPY I don’t see this going down tomorrow or the rest of the week. Anyone care to explain what could drive this down?! I don’t see it! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:36:40 </td>
-   <td style="text-align:left;"> $SPY rippin’ 🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:36:33 </td>
-   <td style="text-align:left;"> $SPY  not going anywhere for a while? grab a snickers.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:36:13 </td>
-   <td style="text-align:left;"> $SPy most of y&amp;#39;all cool but if you say f america i hate your guts lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:36:02 </td>
-   <td style="text-align:left;"> $SPY If anybody thinks that Putin will go quietly, think again....he wouldn&amp;#39;t mind starving a few million people to achieve his goal....in my opinion, it was risky to stay long o/n....cash is king....just day trade </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:35:58 </td>
-   <td style="text-align:left;"> $QQQ $SPY where my TA people at that know everything? Can’t seem to figure out what the market is wanting to do short term (hourly-4 hour chart) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:35:58 </td>
-   <td style="text-align:left;"> $SPY Futs be ripping </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:35:39 </td>
-   <td style="text-align:left;"> $SPY I’m bearullish! Calls and puts all day </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:35:38 </td>
-   <td style="text-align:left;"> $SPY wake me up when september ends </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:35:30 </td>
-   <td style="text-align:left;"> $SPY 
-Everyone thinks that sanctions it will effect only Russians ..
-Think again that will effect all Europe and ultimately our economy as well …
-So yes this situation is not good and I don’t know why everyone thinks dropping couple pints means it’s already priced in !
-No my friends think again the long run effect still to come . </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:35:29 </td>
-   <td style="text-align:left;"> $SPY  dolor y tristeza? 
-https://www.labelsoftwaredirect.com/2022/02/23/put-in/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:35:27 </td>
-   <td style="text-align:left;"> $SPY $DWAC $AMC 👍
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:36 </td>
+   <td style="text-align:left;"> $SPY  another -$21.55 correction territory 
 
-https://youtu.be/HrcbCW4y9Dw </td>
+   🧞‍♂️👊🏻  $QQQ $DIA $NASDAQ $NDX  🪳
+
+ Who wants to see in real time full blown 
+                   ♠️  correction ♠️ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:35:15 </td>
-   <td style="text-align:left;"> $SPY if the real economy will br truly measured without manipulation the price should be between 150 -180 minus russian invasion at -40. This is just what if </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:31 </td>
+   <td style="text-align:left;"> $QQQ idk how anyone is bullish on this lmfao </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:35:13 </td>
-   <td style="text-align:left;"> $SPY Biden admin has destroyed everything in one year. Stock market is next </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:04:39 </td>
+   <td style="text-align:left;"> $QQQ short this POS on the any rip tomorrow. Bull trap incoming </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2022-02-23 08:35:00 </td>
-   <td style="text-align:left;"> A real leader motivates everyone around them during the toughest points in life the average person will celebrate when times are good $SPY </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:03:38 </td>
+   <td style="text-align:left;"> $SPY $QQQ $arkk $DJIA 
+
+The world may not need natural gas or oil soon.  Nuclear fusion ( how the sun generates light and heat sustainably ) is becoming a real thing.
+
+https://www.universal-sci.com/article/highest-ever-sustained-fusion-energy-output-by-jet </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:03:23 </td>
+   <td style="text-align:left;"> $SPY $SPX $ES_F $QQQ $DIA 🧞‍♂️🍿
+
+FYI: S&amp;amp;P is -$21 away from full blown correction  haha ha ha haha 
+We love crushing tiny teeny tiny cockroaches </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 10:00:34 </td>
+   <td style="text-align:left;"> $BBIG $SPY $QQQ 
+Futures saying </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:59:35 </td>
+   <td style="text-align:left;"> $SPY $QQQ fyi, just because you see some names that were pumped up with the feds help and now they are down 50% or more from their highs still doesnt mean they are oversold. these companies valuations are still insane with this haircut they got…. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:59:34 </td>
+   <td style="text-align:left;"> $QQQ daily, weekly, monthly.. it doesn&amp;#39;t matter at this point. All of my bearish indicators are hitting, it&amp;#39;s crazy that the moment of clarity is here. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:59:34 </td>
+   <td style="text-align:left;"> $SPY $QQQ 
+
+My daddy will save us all once again </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:57:05 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TDOC Another extremely oversold name.... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:56:36 </td>
+   <td style="text-align:left;"> $QQQ $SPY $IWM $DJIA  
+We might have a green day tomorrow 
+ 
+Im hopeful 
+ 
+Weekly update: 
+Is it a buying opportunity for Rblx &amp;amp; NVDA?  
+https://youtu.be/JStETvXu0vM </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:55:21 </td>
+   <td style="text-align:left;"> $QQQ Keep calm and stack 💵💵💵
+https://youtu.be/5ue7aSPUfZ4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:54:19 </td>
+   <td style="text-align:left;"> $QQQ $SPY tonight it’s the bears who are most likely gonna get faked out </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:53:36 </td>
+   <td style="text-align:left;"> $SPY $QQQ  pretty much sums up all traders here if you swap the word porn with trading </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:53:19 </td>
+   <td style="text-align:left;"> $SPY For all the little cockroaches 🪳 $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:52:51 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA $SQQQ Problem with traders now is they’re so shortsighted after a 10% drop a 2 % correction happens and they think the market can only go up from there. The trend is your friend not the 1 minute chart. 🤦‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:50:58 </td>
+   <td style="text-align:left;"> $SPY could retrace to 400/380 
+
+$AMD $AAPL $MSFT $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:50:17 </td>
+   <td style="text-align:left;"> $SPY $QQQ 
+I might as well start flipping coins to trade. Forget the news. Everything is ran on Hopium. 🌬🌬🌬 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:48:48 </td>
+   <td style="text-align:left;"> $SPY $QQQ $DIA max leverage long on futures for the print of your life by the morning. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:48:16 </td>
+   <td style="text-align:left;"> $SPY $QQQ Dump this sucker once and for all. It needs to retest highs of right before pandemic hit. Then we move higher 🔻🔻🔻🚽🚽🚽 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:47:51 </td>
+   <td style="text-align:left;"> $SPY If you can’t technically trade you suck 👊🏻🧞‍♂️
+
+    $qqq $dia $nasdaq $djia </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:43:44 </td>
+   <td style="text-align:left;"> $SPY $QQQ let’s go apes. Puts about to print hardddd. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:43:23 </td>
+   <td style="text-align:left;"> $SPY $QQQ 
+
+Biden voters!! Accomplishments?? Let&amp;#39;s hear them!! I know you&amp;#39;ve got a few!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:42:49 </td>
+   <td style="text-align:left;"> $QQQ $SPY $TQQQ miss the days when Futes would rip bigly and gap up 4/5 days a week </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:42:36 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ  
+ 
+Another &amp;quot;turn around Tuesday&amp;quot; in the books. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:41:19 </td>
+   <td style="text-align:left;"> $QQQ let’s go </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:40:26 </td>
+   <td style="text-align:left;"> $SPY $QQQ This man must be stopped </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:39:39 </td>
+   <td style="text-align:left;"> $SPY Don’t get excited for $qqq and spy. MM will screw everyone with their premium collection. 😹 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:37:02 </td>
+   <td style="text-align:left;"> $SPY $qqq bulls about to get super confused when it now tanks for “no reason.” Russia is over they will say. And rate hikes are priced they will tell everyone. 
+
+But they don’t know it takes 3 months to price in liquidity shifts. We are halfway </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:37:02 </td>
+   <td style="text-align:left;"> $QQQ $SPY $DOW    Too easy now! There is just no way these markets are going to get any upward momentum back! 
+
+Puts the easy play and you WILL make huge money!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:35:21 </td>
+   <td style="text-align:left;"> $QQQ If you guys didn’t see this coming a mile away when SLEEPY JOE was elected…your head needs examined! This markets in SERIOUS TROUBLE, This  Country is being destroyed 1 day at a time &amp;amp; THE MARKETS KNOW THIS!  
+
+BIDEN IS DESTROYING EVERYTHING YOU DREAMED OF! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:34:41 </td>
+   <td style="text-align:left;"> $SPY $QQQ everyone attacking trump for being weak on russia.. ya none of this bullshit happened 2016-2020 last time I checked. last time russia did something like this? oh ya 2014 under obama and biden. everyone acting like biden is so tough and standing up to putin, ya how bout those weak ass sanctions he came out with today. russia laughing. ill ask again, what is there to be bullish about NOW? 2016-2020 the world was peaceful. isis was gone. north korea stopped firing missiles. syria was in check. russia wasn’t at ukraines footstep. chinas economy was worse than ours. backed off from taiwan. illegal crossings were down at our southern border. countries didnt like what trump had to say, whoopty doo, grow a pair. now we are the laughing stock of the world. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:34:24 </td>
+   <td style="text-align:left;"> $QQQ not even close to trend yet.... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:34:04 </td>
+   <td style="text-align:left;"> $QQQ dayum whats goin on here </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:32:13 </td>
+   <td style="text-align:left;"> $QQQ NOOOO PLZ DONT DUMP YET I WANTED MORE PUTS AT 343 :’( </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:31:07 </td>
+   <td style="text-align:left;"> $SPY $QQQ who wins financially through EVERY conflict, during and post? 
+
+AMERICA motherf***ers 🇺🇸 🚀🇺🇸🚀🇺🇸🚀
+
+Bring on the “post war” rally </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2022-02-23 09:28:38 </td>
+   <td style="text-align:left;"> $SPY $QQQ so if russia is only claiming the east regions in ukraine then why do they have troops surrounding the whole country? why arent they just in the eastern part only…? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
@@ -2937,11 +3290,6 @@ $QQQ  $SPY  $GME </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 08:24:24 </td>
-   <td style="text-align:left;"> $QQQ tomorrow the Nasdaq stock exchange will be invaded by Putin forcing mass liquidation. Putin will profit on his yolo daily puts that are $50 strike. He we cash out and steal all of Wall Streets money. It’s coming unfortunately 👿🥀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
    <td style="text-align:left;"> 2022-02-23 08:23:31 </td>
    <td style="text-align:left;"> $QQQ  Things will continue to go lower due to Economic factors.  If all you DIP buyers are jumping back in now. Good Luck! </td>
   </tr>
@@ -3051,11 +3399,6 @@ $QQQ $AAPL $AMZN $TSLA </td>
    <td style="text-align:left;"> QQQ </td>
    <td style="text-align:left;"> 2022-02-23 08:14:49 </td>
    <td style="text-align:left;"> $SPY $QQQ A reprieve from Jan low as Pres. Biden announces sanctions against Russia.  Sanctions were not so harsh so as to leave Putin with nothing to lose if he should act more aggressively.  This is a balanced approach.  Federal Reserve unlikely to hike 50 bp in March. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 08:10:14 </td>
-   <td style="text-align:left;"> $QQQ everything closed right at the key support level before the next leg down. Break through this will start the next 10% flush maybe tomorow </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
@@ -3297,11 +3640,6 @@ Most earnings for the quarter are done, and have resulted in market caps being c
    <td style="text-align:left;"> QQQ </td>
    <td style="text-align:left;"> 2022-02-23 07:37:13 </td>
    <td style="text-align:left;"> $QQQ don’t understand this market smh </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 07:34:18 </td>
-   <td style="text-align:left;"> $QQQ boring ahh future let’s just get this correction over with tbh so I can buy 🤷‍♂️🥷 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
@@ -4011,408 +4349,111 @@ https://youtu.be/I_ojG91wo0A </td>
    <td style="text-align:left;"> $SPY these sanctions are going fk us..  We already got supply issues,  now the tech sector is going get his harder. $QQQ  thanks Brandon. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:54:23 </td>
-   <td style="text-align:left;"> $SPY $DJIA $QQQ  
- 
-Lots of tapering to do before 3/10/22...lol </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:46:32 </td>
+   <td style="text-align:left;"> $MULN $FB $AAPL     All that you need to know;. Shorts haven&amp;#39;t covered a single share:~~~~~~ Check it out below 👇  
+highly recommend everyone to follow them. 🚀     mostwinningchat.optionsmarketmovers.com </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:53:11 </td>
-   <td style="text-align:left;"> $SPY $QQQ Because of btd and slow declines, only people like me who take the risk to short calls make money </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:36:35 </td>
+   <td style="text-align:left;"> $AMD $NVDA $AAPL thats the risk relying on Taiwan, don’t put all your eggs in one basket. INTC smart investing against to geopolitical risk </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:52:48 </td>
-   <td style="text-align:left;"> $QQQ $SPY guys, that meeting is cancelled between russian dude and blinken. remember we gapped up hard on that news last thursday. now what </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:32:35 </td>
+   <td style="text-align:left;"> $AAPL buy the rumor sell the news. So when there’s bad news like a potential war should you sell the rumor and buy the news </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:52:21 </td>
-   <td style="text-align:left;"> $QQQ anticipation </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:51:53 </td>
-   <td style="text-align:left;"> $QQQ according to my calculations we either go up or down 🧐 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:51:18 </td>
-   <td style="text-align:left;"> $SPY $QQQ Surging after hours, looking good for the bulls tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:51:04 </td>
-   <td style="text-align:left;"> $SPY $QQQ poontang putin. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:51:02 </td>
-   <td style="text-align:left;"> 5-Day ETF Sentiment Recap: $QQQ is the #2 ETF that institutions are trading over rolling 5 day window with 646.2K options contracts.
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:28:09 </td>
+   <td style="text-align:left;"> $AMZN $AAPL Members made +$500in profits for the day with our Options Alerts of $AMZN , $WMT &amp;amp; $PFE within 30 minutes.
 
-Market analysis included in screenshot of dashboard from http://insiderfinance.io. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:48:26 </td>
-   <td style="text-align:left;"> $TDOC $ARKW $PLTR $QQQ 
+Please join our whatsup group 1 month free
+chat.whatsapp.com/Lt2vyMfOQqB7Q4…
 
-At what point do people take these algos hammering her entire portfolio serious ? At some point it’s more then just a correction you don’t have to be a conspiracy but to know she’s directly being attacked </td>
+chat.whatsapp.com/LU8QOWTzFAr9r2… </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:48:18 </td>
-   <td style="text-align:left;"> $QQQ me and @Joe32141 printed bigly on puts today, $IWM you’re next, bout to fade 💨 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:27:25 </td>
+   <td style="text-align:left;"> $TDOC $AMD $FB $AAPL I&amp;#39;d like to invite you to make 300k starting with 500k....oh wait! Lol...don&amp;#39;t you hate those ads...jeez. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:46:36 </td>
-   <td style="text-align:left;"> $QQQ Trumping it up.com </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:26:03 </td>
+   <td style="text-align:left;"> $AAPL $SPY All china stocks look to be pump and dumps. I&amp;#39;m guessing every time a stock IPOs they all buy calls and then cash out at the top after the quick run, because then you can spend the rest of the time printing naked shorted shares and get rich with ease </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:45:10 </td>
-   <td style="text-align:left;"> $QQQ wtf happened lol </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:22:05 </td>
+   <td style="text-align:left;"> $AAPL I guess the markets will be crashing the week.  Terible times coming.  Major losses coming.  How do we keep strong during this current crisis? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:45:09 </td>
-   <td style="text-align:left;"> $SPY $QQQ Up or down tomorrow based on my TA </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:21:20 </td>
+   <td style="text-align:left;"> $AAPL $170 by Friday </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:43:58 </td>
-   <td style="text-align:left;"> $QQQ don’t think this ends well this week. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:13:06 </td>
+   <td style="text-align:left;"> $AAPL Closing chart on Apple </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:43:54 </td>
-   <td style="text-align:left;"> #Dow Drops 482 Points After U.S. Announces Sanctions on #Russia $HD $MCD $QQQ $SPX $VIX $DJI https://talkmarkets.com/content/commodities/dow-drops-482-points-after-us-announces-sanctions-on-russia?post=345710 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:08:01 </td>
+   <td style="text-align:left;"> $AAPL $DWAC From Philip Elmer-DeWitt&amp;#39;s Apple 3.0 
+&amp;quot;Truth Social is Trump-ing the App Store at #1. While the app’s debut resulted in nearly 500K left on the waitlist, President Trump once had 88.9M followers on Twitter. Free speech is what promotes the marketplace of ideas, but 500K on any social media platform is likely not enough to sustain compelling conversation.&amp;quot; </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:42:51 </td>
-   <td style="text-align:left;"> $QQQ $SPY $DJIA latexd9b40c422855593655da907c8b2a790fIWM - 2 Broke down from its wedge. There is support at 193 that coincides with the 100 wma. Should the support fail, the downside target would be near 170. If the support holds, 210s could be back on the table. 
- 
-$XLF - 2 Cup and Handle has failed. Failed C&amp;amp;H is basically a double top. The double top is confirmed below 37.50 (little far away but what can we do?) 
- 
-Final Thoughts // Look for a break below support before adding or starting new shorts. Todays close above support suggests that buyers are not yet ready to give way just yet. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:01 </td>
+   <td style="text-align:left;"> $AAPL 👁 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:38:00 </td>
-   <td style="text-align:left;"> $QQQ are americans the bad guys in russian movies the same way russians are always the bad ones in movies here? </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:08 </td>
+   <td style="text-align:left;"> $AAPL AAPL 2022-02-20 Largest Trades Data: 
+https://www.youtube.com/watch?v=2h5BxPQmOcM </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:37:41 </td>
-   <td style="text-align:left;"> $QQQ didn&amp;#39;t tank, so we climb from here </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:05:06 </td>
+   <td style="text-align:left;"> $AAPL wow on watch for tomorrow </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:36:45 </td>
-   <td style="text-align:left;"> $DWAC pretty much everyone who bought on the day this was listed got bailed out this month! Trump stock to hedge against Biden Market 🤣 $SPY $QQQ </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 10:03:11 </td>
+   <td style="text-align:left;"> $AAPL i hope its bloody all week latex442ca008e0e9403806381b25871a077dMU 93c 133%
+@MommasOptions 
+$AAPL 160p 100%+ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:34:02 </td>
-   <td style="text-align:left;"> $QQQ $SPY $DIA  Biden is no different than Bush Jr. was it’s all about business with Ukraine, Big Oil and $$$$. If you can’t see this you are blind, they are putting Putin in a corner with no choice but to attack. Globalists are no good for this country. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 09:35:26 </td>
+   <td style="text-align:left;"> $SPY $AAPL no less than 30 min after hours closes, futures are losing ground fast and Almost too eager to get back to the default red. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:33:57 </td>
-   <td style="text-align:left;"> $SPY $QQQ Biden begging OPEC+ (OPEC + RUSSIA) to pump more while slamming domestic US energy. 
-
-Even Germany was like yeah we need Russian Gas and Oil more than we need Biden and his politics.
-
-Biden is a woke politics guy. Putin is a realpolitik savage. Railroaded him quick. 
-
-The US of woke politics dive is going to accelerate big time this year. Energy/inflation crisis getting even worse and putting us on stagflationary recession watch. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 09:32:58 </td>
+   <td style="text-align:left;"> Watch list for tomorrow part 1: $ZVIA $FUBO $CLOV $AAPL $PYPL </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:33:44 </td>
-   <td style="text-align:left;"> $QQQ 
-
-Back down she goes AH 💩 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 09:32:08 </td>
+   <td style="text-align:left;"> $AAPL I have 170 shares now in 20 years think we will split a few more times? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:33:25 </td>
-   <td style="text-align:left;"> $SPY $UVXY $QQQ Little bulls are in serious danger </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 09:29:48 </td>
+   <td style="text-align:left;"> $AAPL this will push to make a lower high. 4hr was oversold. Friday high needs to break. 170-171 is possible test in coming days. Still in a daily/weekly downtrend since ATH. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:33:10 </td>
-   <td style="text-align:left;"> $SPY $SPX $ES_F  Kumbia.   🧞‍♂️ $DIA $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:32:58 </td>
-   <td style="text-align:left;"> $SPY $QQQ $DIA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:32:21 </td>
-   <td style="text-align:left;"> $QQQ I’ve been trading this both ways for weeks. Finally at 335ish, bought some leap calls. It will be up and down but setting it and forgetting it on my TOS account that I don’t watch. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:32:07 </td>
-   <td style="text-align:left;"> $QQQ 340 by 8:00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:31:42 </td>
-   <td style="text-align:left;"> $QQQ any chance we will have some kind of relief rally tmr 😭 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:30:25 </td>
-   <td style="text-align:left;"> $QQQ this market really is buying puts on all the green sharp up days. Pretty easy till it’s not </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:30:13 </td>
-   <td style="text-align:left;"> $QQQ This is about as much sense as the market makes currently…wibble! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:30:04 </td>
-   <td style="text-align:left;"> $SPY $QQQ another bs article by cnbc trapping young calves. Who cares about Ukraine if ppl cant buy from dollar menu anymore. 
-
-Russia&amp;#39;s Ukraine incursion could complicate the Fed&amp;#39;s interest rate decisions https://www.cnbc.com/2022/02/22/russias-ukraine-incursion-could-complicate-the-federal-reserves-interest-rate-decisions.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:29:23 </td>
-   <td style="text-align:left;"> $QQQ loved sell the rip action... so predictable lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:29:12 </td>
-   <td style="text-align:left;"> $QQQ Come on step bros come on me step sisters </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:29:07 </td>
-   <td style="text-align:left;"> $TSLA $QQQ $BTC.X $AMZN $DWAC flipped to LEAP calls today. $200k … 🙏🏻 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:27:56 </td>
-   <td style="text-align:left;"> $QQQ be careful holding puts, we are ready for a pump. Nothing goes straight down. Hoping to exit my puts in the morning and move to calls with an expiration 2 weeks out. Need to get some more ammo for march 10 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:27:44 </td>
-   <td style="text-align:left;"> $SPY  $QQQ  
-enough fud. Tommorrow rally. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:27:18 </td>
-   <td style="text-align:left;"> $QQQ there is nothing bullish about this market… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:27:08 </td>
-   <td style="text-align:left;"> $spy $qqq &amp;quot;The most recent survey from the American Association of Individual Investors showed the percentage of investors who believe stocks will be higher in six months dropped to 19.2%, its lowest level since May 2016. The S&amp;amp;P 500 was higher three months later 94% of the time with an average gain of 6.7% after similar past readings&amp;quot; Reuters </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:26:37 </td>
-   <td style="text-align:left;"> $SPY $QQQ starting to get the &amp;quot;worried&amp;quot; chit chat from my retirement-age relatives about the market + inflation + russia. Bear market gonna bear market </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:25:49 </td>
-   <td style="text-align:left;"> $QQQ Russian elites to Putin after sanctions </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:25:31 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TSLA 
-
-Are my puts screwed?... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:25:23 </td>
-   <td style="text-align:left;"> $QQQ Creaming up the food chain </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:24:54 </td>
-   <td style="text-align:left;"> $QQQ $SPY These things have been trading on news lately, there isn&amp;#39;t a single piece of news that could make the market genuiely rip up from here. 
-Looks like Russia will take all of Ukraine by Friday, maybe next week things will relax. 
-Buy puts on any run up tomorrow, try to find the bottom sell and buy calls again. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:24:38 </td>
-   <td style="text-align:left;"> $QQQ
-
-https://www.reuters.com/business/feds-bowman-keeping-open-mind-size-rate-rise-march-meeting-2022-02-21/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:21:30 </td>
-   <td style="text-align:left;"> We need to be patient with the market. I think we&amp;#39;ve got a lot more downside. $SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:21:18 </td>
-   <td style="text-align:left;"> $QQQ 
-
-Moving almost a percent AH in minutes on NO NEWS 😂😂😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:21:02 </td>
-   <td style="text-align:left;"> $QQQ biden is responsible for bears and bulls losses </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:19:49 </td>
-   <td style="text-align:left;"> $FB very telling that bulls pulled it well offthe lows of the day and closed off the highly psychological $200 level. Expect nothing but green in futures as long as their is no escalation in russian conflict. $SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:19:37 </td>
-   <td style="text-align:left;"> $QQQ LOL.  5min chart of today.  Price hit the 10&amp;amp;15min 50 MAs and it got hammered back to just above the 5min </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:18:44 </td>
-   <td style="text-align:left;"> $QQQ Got busy with work and I&amp;#39;m stuck holding my puts until tomorrow. I am bearish long/medium, but I think short term we are ready for a relief rally.  It won&amp;#39;t take much, just an easing to tensions with russia and I bet we rally 3-4 days at 2-3%.  Then we all have to wait for march 10 to see if inflation comes in hotter than expected again. If it does, we can expect a nice bear market I think </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:18:34 </td>
-   <td style="text-align:left;"> $QQQ $SPY  is this live? https://youtu.be/MuY5t7Yaqxs </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:18:20 </td>
-   <td style="text-align:left;"> $QQQ bear s </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:17:42 </td>
-   <td style="text-align:left;"> $QQQ I dont mean this with any malice, only pity:  Biden needs to be in hospice care. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:16:58 </td>
-   <td style="text-align:left;"> $QQQ I remember a whole month of green days in October. Nowadays a green day is as scarce as the desert. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:16:38 </td>
-   <td style="text-align:left;"> $SPY $SPX $QQQ $IWM $DJIA   
- 
-Russia stock mkt flying UP and we will follow. They know there will be no invasion </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:16:14 </td>
-   <td style="text-align:left;"> Hey @KremlinRussia_E the $DJIA $SPY $QQQ doesn&amp;#39;t care. #Russia is no longer relevant. Have you seen South Africa, India, South Korea, or Brasil? Yeah their gonna kick your ass. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:15:41 </td>
-   <td style="text-align:left;"> $SPY $QQQ $IWM *Morrissey voice* DEEEEP GREEN INCOMING </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:15:34 </td>
-   <td style="text-align:left;"> $QQQ check out the Futes daily candle here in a bit.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:15:27 </td>
-   <td style="text-align:left;"> We have identified an unusual $QQQ block that expires on March 18, 2022 with a strike price of $310.00.
-
-3,000 PUT contracts with a price of $3.32 (Mid-Market) were purchased at a $996,000 premium. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:15:16 </td>
-   <td style="text-align:left;"> $QQQ looks like for the first time in years the risk is off. market could not hold the gains after the 1pm swing </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:15:05 </td>
-   <td style="text-align:left;"> $SPY $QQQ $IWM $DIA 
-So this week …. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:15:00 </td>
-   <td style="text-align:left;"> $QQQ has an average volume of 74319900. This is a good sign as it is always nice to have a liquid stock. https://www.chartmill.com/stock/analyzer/stock/QQQ?key=d8dac8fb-a874-4422-96db-185a5752c108&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=QQQ&amp;amp;utm_campaign=social_tracking </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:14:34 </td>
-   <td style="text-align:left;"> Market wrap: 
-🔷 US indices closed lower on the day:  
-$DJIA -1.4%, $SPX -1.0%, $QQQ -1.2% 
-🔷 #Gold (+0.1%) and #WTI (+1.3%) both rose. 
-🔷 #NZD was the day&amp;#39;s strongest major currency; #CHF was the weakest. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:13:10 </td>
-   <td style="text-align:left;"> $SPY $QQQ Cybersecurity stocks should be a buy here, expect the Russian to do more hacking during the war </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:12:06 </td>
-   <td style="text-align:left;"> $QQQ strong economic data means the Feds will hasten the QE removals and introduce QT. There is data showing billions in liquidity moving from stocks which will continue the rest of the year. Inflation data due out in March will show even high inflation numbers. Russian sanctions and instability will increase energy prices adding to the inflationary prices. Market will correct in the next few weeks to lower and lower lows. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:11:49 </td>
-   <td style="text-align:left;"> $QQQ what is this rickety AH? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:10:49 </td>
-   <td style="text-align:left;"> $QQQ down in Jan and Feb.  I think March we’ll start seeing some gains to end Q1 still down from Q4 2021 but not as much. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:10:40 </td>
-   <td style="text-align:left;"> $QQQ $SPY $ARVL 
-
-Not disappointed with today’s ARVL red closing. 
-
-All other EV stocks are red like blood. So, ARVL is having sector influence. 
-
-Will be doubled in less than a quarter. Who thinks US &amp;amp; EU Govt won’t look for alternates to oil dependency quickly. 
-Next 2 to 3 decades will be all about generating renewable energy, preparing infrastructure &amp;amp; EVs. Oil &amp;amp; Gas will be the matter of past. Next generation won’t even know what was oil &amp;amp; gas. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:09:55 </td>
-   <td style="text-align:left;"> $SPY $QQQ  
- 
-https://www.washingtontimes.com/news/2022/feb/22/trump-people-will-be-happy-about-2024-decision/ 
- 
-If Trump runs again in 2024, no doubt he would lose badly to President Biden. Mike Pence would be a tougher opponent for President Biden but President Biden should still beat him. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:08:00 </td>
-   <td style="text-align:left;"> $SPY $QQQ $IWM $DIA $VIX Closing imbalance = ~$986M to the SELL side </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2022-02-23 05:07:56 </td>
-   <td style="text-align:left;"> $QQQ nice if this opens tomorrow up .5% I can sell my $VXX puts for a little profit </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2022-02-23 09:27:32 </td>
+   <td style="text-align:left;"> Some of the BIGGEST options trades for today 
+$AAPL $TSLA $FB $ROKU $SPY 
+https://goldentrading.website/learn-how-to-trade-stocks-and-make-1000-a-day-make-money-while-you-sleep/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> AAPL </td>
@@ -6018,120 +6059,499 @@ Get him off the air </td>
    <td style="text-align:left;"> $AAPL He started.  God Help Us! </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:23:27 </td>
-   <td style="text-align:left;"> $AAPL $AAPL 
- https://www.dw.com/en/hostage-situation-at-amsterdam-apple-store/a-60878403 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:53:40 </td>
+   <td style="text-align:left;"> $TSLA Fed will continue to destroy the stock market. Dip buyers think it&amp;#39;ll be like 2020, 2021 all over again. Not a single chance. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:23:05 </td>
-   <td style="text-align:left;"> $AAPL buy now and DCA if go 154-155  for </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:58 </td>
+   <td style="text-align:left;"> $TSLA just quitcha bitchin and buy shares. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:22:48 </td>
-   <td style="text-align:left;"> $SPY In my opinion buy and keep good stocks like $AAPL and don’t worry, you will make money in long term. Recession War, Russia and China is all noise. </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:52:06 </td>
+   <td style="text-align:left;"> $BTC.X $ETH.X $DWAC $SPY $TSLA orange man bad </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:22:36 </td>
-   <td style="text-align:left;"> $AAPL don&amp;#39;t own any yet should I buy here? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:21:02 </td>
-   <td style="text-align:left;"> $AAPL where is that stupid fuck,I have to shit </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:20:41 </td>
-   <td style="text-align:left;"> $AAPL scouts are now saying retail short traders are next call for margin call liquidations,   the weak hands longs who got stopped out have all been executed. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:20:39 </td>
-   <td style="text-align:left;"> $AAPL alright, last chance here is ramp into close. Not confident that it will but it’s possible </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:20:13 </td>
-   <td style="text-align:left;"> $AAPL $BA $DIS Learn now to recognize and TRADE triangles successfully!
-Make sure you like, subscribe, and click the alert button so you don’t miss out on any of our valuable drops! Enjoy!
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:51:34 </td>
+   <td style="text-align:left;"> $TSLA 
 
-https://youtu.be/B3nn1ZRLM98 </td>
+ I will be retaining two lawyers SEC &amp;amp; Stock experts to seek compensation for losses incurred due to SEC retaining 40m settlement for 3 yrs n failing to distribute them to shareholders (large position) in a timely matter during which stock has gained more than 22x if such distribution was available to reinvest at the time of the settlement - SEC failed to protect investors best interest !! 
+
+Just to let @elonmusk know we are fighting back with him against the corrupt government!! 
+
+~ Tesla Shareholders 
+
+🙏🏻🐉🦅 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:20:12 </td>
-   <td style="text-align:left;"> $TSLA $BTC.X $MSFT $AAPL $DWAC hopefully the big guy didn’t shit himself again </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:50:55 </td>
+   <td style="text-align:left;"> $TSLA next few  weeks this trash will trade over 20% from these levels#cathywoods#contrary indicator, tutes are looking for suckers to unload </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:20:00 </td>
-   <td style="text-align:left;"> $SPY $QQQ $AAPL uh oh... </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:50:30 </td>
+   <td style="text-align:left;"> $DWAC $TSLA $QQQ .. 
+ 
+Account Challenge Update:-  
+Start Date: Feb 2, 2022  
+Starting Balance: $1,800  
+Current Balance: $89,637  
+Goal: $100,000 by end of February.  
+Strategy: Swing Trade Options, Stocks  
+   
+Watch out for next play👓  https://www.discord.io/xEvE2Aatrp </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:19:54 </td>
-   <td style="text-align:left;"> $SPY $AAPL $TSLA $FB $PYPL this is when they no longer bounce hahahaha </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:49:32 </td>
+   <td style="text-align:left;"> $TSLA don’t be fooled, I bought more in 2021 when it dipped after 900 and went down to around 535. I see the same pattern and will load up with only intention now of buy and hold no sell </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:19:27 </td>
-   <td style="text-align:left;"> $AAPL dirty soda in the styrofoam — in and out quick $600 </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:49:24 </td>
+   <td style="text-align:left;"> $TSLA Stocks regroup as investors hold their breath on Ukraine  
+ 
+ 
+https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-02-23/ SINGAPORE, Feb 23 (Reuters) - 
+ 
+ 
+ Asian stocks steadied on Wednesday and demand for safe-havens waned a little as investors regarded Russian troop movements near Ukraine and initial Western sanctions as leaving room to avoid a war, </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:19:19 </td>
-   <td style="text-align:left;"> $AAPL Is it possible that both the public/gov- say hey no more China mfg of products- unethical opinions? </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:49:21 </td>
+   <td style="text-align:left;"> $TSLA oh god not another Cathie wood purchase </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:18:12 </td>
-   <td style="text-align:left;"> $AAPL 💰 all the way down from $174 bruh… hey cuckboy @shadowfires hows my Apple bag taste bruh… hey bruh </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:48:22 </td>
+   <td style="text-align:left;"> $TSLA $ARKK 
+
+Cathy bought more TSLA lol 🤣🤣🤣, </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:17:31 </td>
-   <td style="text-align:left;"> $AAPL $ABNB  Someone once said, the two were safe haven during the COLD WAR..LMAO  go ahead and blame Trumf.. $QQQ $SPY </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:47:00 </td>
+   <td style="text-align:left;"> Based on estimates for the next 5 years, $TSLA will show a very strong growth in EPS: 26.78% on average per year. https://www.chartmill.com/stock/analyzer/stock/TSLA?view=fundamental-analysis&amp;amp;key=b3fb89e7-ce52-4df4-906a-b4ccaf80eec8&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=FA&amp;amp;utm_content=TSLA&amp;amp;utm_campaign=social_tracking </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:16:18 </td>
-   <td style="text-align:left;"> $AAPL turning </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:48 </td>
+   <td style="text-align:left;"> $TSLA anything under 900 is a gift 💝 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:15:50 </td>
-   <td style="text-align:left;"> $AAPL somebody will stop the bleeding and jpow should thank them for their service in assisting with a slow and orderly decline.  Keep buying that dip. </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:25 </td>
+   <td style="text-align:left;"> $TSLA  
+FXHedge 
+@Fxhedgers 
+· 
+1h 
+JAPAN PM KISHIDA: IMPOSES SANCTIONS ON RUSSIA OVER UKRAINE 
+ 
+FREEZES ASSETS OF CERTAIN RUSSIAN INDIVIDUALS 
+ 
+ PROHIBITS RUSSIAN ISSUE OF BONDS IN JAPAN </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:15:48 </td>
-   <td style="text-align:left;"> $AAPL the scouts did good, now the next stage is set to begin. </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:45:04 </td>
+   <td style="text-align:left;"> $TSLA | Tesla  Inc. $TSLA Proactive Strategies (TSLA) https://tinyurl.com/ybzz93xr </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:15:37 </td>
-   <td style="text-align:left;"> $AAPL My take... In future sessions, it will test the 200ma around the 152 area. </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:44:58 </td>
+   <td style="text-align:left;"> $TSLA Something just happened within the last thirty minutes because BTC is dumping all of the sudden. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:15:16 </td>
-   <td style="text-align:left;"> $AAPL lets see if the 100MA on daily holds. Bounced off and was strong support last month </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:44:22 </td>
+   <td style="text-align:left;"> $TSLA 
+
+If you read the entire story, the Germany factory may never get built and it’s all about water. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:14:59 </td>
-   <td style="text-align:left;"> $UVXY I&amp;#39;m looking at $18.80 possibly for today. 
-I heard Joe started his speech today with:
- My Fellow Jamaicans as I was changing my Diapers I had to make a Quick Buy of $UVXY $SDOW $USO and short $AAPL &amp;amp; $FB also I Had to call TRUMP for Advice on how to deal with Putin. </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:42:38 </td>
+   <td style="text-align:left;"> $BTC.X $ETH.X $DWAC $SPY $TSLA I know it’s wishful thinking. But I hope one day we can get to a point to where we’re not so focused on propaganda, wars, unlimited paper money, politics, etc. We still act so primitive towards one another. When we should be trying to understand one another more and wipe out corruption and evil. 🇺🇸 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2022-02-23 03:14:12 </td>
-   <td style="text-align:left;"> $aapl The market darling </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:42:09 </td>
+   <td style="text-align:left;"> $TSLA $BIDU No tesla to be seen. https://pulse2.com/baidu-nasdaq-bidu-bringing-apollo-go-robotaxi-service-to-downtown-shenzhen/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:39:06 </td>
+   <td style="text-align:left;"> $SOFI $TSLA $PHUN   All that you need to know;. Shorts haven&amp;#39;t covered a single share:~~~~~~~ Check it out below 👇  
+highly recommend everyone to follow them. 🚀     mostwinningchat.optionsmarketmovers.com </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:37:09 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:36:33 </td>
+   <td style="text-align:left;"> $AMC all smart apes closing positions and moving to $TSLA according to unconfirmed reports. Go green, go mean </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:36:01 </td>
+   <td style="text-align:left;"> $TSLA did you know we can make money and provide clean water for all in need? 
+
+$CLEAR.X </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:35:52 </td>
+   <td style="text-align:left;"> $TSLA Sinks -4.1%. The 25-Feb-22 Option Straddle is Implying a ±3.8% Move in the Next 3 days https://tinyurl.com/yybt77jv </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:35:39 </td>
+   <td style="text-align:left;"> $TSLA The market will get over this in a few days.   Many people can&amp;#39;t even locate Ukraine on a map anyway. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:34:14 </td>
+   <td style="text-align:left;"> $GOOGL $TSLA $SPCE $IPOF Space stocks are going to take off this summer. Google it. SpaceX rulz. https://www.fool.com/investing/general/2016/02/14/why-did-google-invest-1-billion-in-spacex.aspx </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:34:07 </td>
+   <td style="text-align:left;"> $CLOV i went on some side quests on $SPY and $TSLA but now im back to my back me true love $CLOV. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:32:35 </td>
+   <td style="text-align:left;"> $TSLA  
+https://www.stocktargetadvisor.com/blog/analysts-rate-tesla-inc-tslansd-with-a-buy-at-960-target/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:32:09 </td>
+   <td style="text-align:left;"> $QQQ $SPY $ROKU $TSLA bears out here queefin bruh smh </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:30:31 </td>
+   <td style="text-align:left;"> $tqqq $tsla $aal $wynn $dal  So expect another large drop IF/When some shots are fired.  Won&amp;#39;t last long.  Putin will take Eastern Ukraine quickly and NATO or the USA can&amp;#39;t/wont do shit about it.  Sanctions wont work as Germany and the rest of the European Nato woketards sold their soul to Russian oil/gas and the USA is producing way too little atm bc of Biden&amp;#39;s crack down on US oil production using taxes/regulations and outright bans.  Good news is the market will recover quickly, as no one will give a fuck after a few days. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:30:31 </td>
+   <td style="text-align:left;"> $TSLA Jim Cramer Move To Value, EARNINGS   https://www.youtube.com/watch?v=_f3YkmhjGdo </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:29:53 </td>
+   <td style="text-align:left;"> $TSLA More Insider selling </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:28:33 </td>
+   <td style="text-align:left;"> $TSLA $SHOP $FB $NFLX 
+heard reporters are tired of Ukraine 2014 old news 😂  
+...they wanna talk something else tomorrow... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:28:18 </td>
+   <td style="text-align:left;"> $BTC.X $ETH.X $DWAC $TSLA $SPY about that peace in the Middle East as well.. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:27:30 </td>
+   <td style="text-align:left;"> $BTC.X 5x your money with my call outs 💵💯😎👍🔥 $TSLA $FB $MSFT $TQQQ https://youtube.com/shorts/HdyutmsLkr8?feature=share </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:27:22 </td>
+   <td style="text-align:left;"> $SPY $TSLA $QQQ  https://finance.yahoo.com/news/legendary-investor-jeremy-grantham-sees-121600816.html?guccounter=1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:27:16 </td>
+   <td style="text-align:left;"> $TSLA Touched 810/61.80% support level. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:24:57 </td>
+   <td style="text-align:left;"> $TSLA buy buy 👋🏻 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:24:27 </td>
+   <td style="text-align:left;"> $TSLA &amp;quot;Invasion&amp;quot; of Ukraine,  haha. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:24:09 </td>
+   <td style="text-align:left;"> $TSLA sorry Elon, old man keeps traditional things.  No hi tech, Twitter, chat.. AI.. if you said 70s 80s .. Biden all over it. Hahahna. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:22:32 </td>
+   <td style="text-align:left;"> $BTC.X $ETH.X $DWAC $TSLA $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:21:50 </td>
+   <td style="text-align:left;"> Tesla Motors&amp;#39;s Chief Financial Officer just disposed of 1,250 shares  https://www.conferencecalltranscripts.com/summary/?id=10480474 $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:21:31 </td>
+   <td style="text-align:left;"> $TSLA Today was the president day sale! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:19:18 </td>
+   <td style="text-align:left;"> $TSLA huge opportunity tomorrow on this if you can buy in the morning! I’m glad to have load up on Option Calls before market closed today. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:18:32 </td>
+   <td style="text-align:left;"> $TSLA futures ripping.... 870+ mañana. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:17:43 </td>
+   <td style="text-align:left;"> $BTC.X 5x your money with my call outs 💯🚀💵⬅️ $SHIB.X $ETH.X $MANA.X $TSLA https://youtube.com/shorts/bAt-L3tQGIk?feature=share </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:17:42 </td>
+   <td style="text-align:left;"> $TSLA people are still hoping for a split. Market is already &amp;quot;splitting&amp;quot; it for you. Or halving rather. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:16:25 </td>
+   <td style="text-align:left;"> $TSLA  not rocket science , if you want to make money tomorrow it’s simple , buy Tesla.  
+ 
+It’s oversold , massive 2 day rally incoming </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:15:05 </td>
+   <td style="text-align:left;"> $TSLA it’s time! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:59 </td>
+   <td style="text-align:left;"> $TSLA I can’t wait for Tesla $500 after next split </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:10:42 </td>
+   <td style="text-align:left;"> $SPY $TSLA is it a waka waka or what? 🧐 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:09:54 </td>
+   <td style="text-align:left;"> $TSLA only on peacock-cock-cock </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:24 </td>
+   <td style="text-align:left;"> $SPY $TSLA $AMC $INDO &amp;quot;Shaking off the weak hands&amp;quot; is the most overused phrase on StockTwits. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:16 </td>
+   <td style="text-align:left;"> $TSLA will buy again once it hits 500$ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:07:00 </td>
+   <td style="text-align:left;"> $TSLA Get ready for a violent rally tomorrow.  
+ 
+When Tesla Moves She Moves !!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:06:26 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2022-02-20 Largest Trades Data: 
+https://www.youtube.com/watch?v=cc74tgjkv9E </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:04:09 </td>
+   <td style="text-align:left;"> $TSLA Stocktwits: Why This Popular Stock Will Continue to Grow 
+ 
+https://utradea.com/positions/TSLA-Stocktwits-Why-This-Popular-Stock-Will-Continue-to-Grow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:03:11 </td>
+   <td style="text-align:left;"> $AAPL i hope its bloody all week $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:01:05 </td>
+   <td style="text-align:left;"> We absolutely destroyed $TSLA today with B4-Algo &amp;amp; Full trading system.. Both sides paid VERY well.  💰💰 
+ 
+http://www.b4signals.com </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 10:00:49 </td>
+   <td style="text-align:left;"> $SOFI I feel genuinely bad for the people who sold today. I made a similar mistake selling $TSLA in 2019 and it won’t happen again.
+
+Hopefully this one becomes that once in a decade mistake you don’t make twice. Godspeed. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:59:44 </td>
+   <td style="text-align:left;"> $TSLA ➕ $AMD ↗️ = #GAMING in car!
+Elon Musk: Tesla is working to make Steam video games work in its vehicles - Electrek
+
+“A known chip leaker, Patrick Schur, posted a diagram of Tesla’s new gaming computer powered by the AMD Navi 23 GPU: https://electrek.co/2022/02/22/elon-musk-tesla-working-steam-video-games-work-in-vehicles/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:58:20 </td>
+   <td style="text-align:left;"> $SPY $TSLA  saminamina waka waka, it’s time for Africa </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:54:44 </td>
+   <td style="text-align:left;"> $TSLA who knew this face was our very own @jccoo </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:54:27 </td>
+   <td style="text-align:left;"> $SPY $msft $tsla my TD envelope said “sit before opening “ on the outside </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:52:51 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA $SQQQ Problem with traders now is they’re so shortsighted after a 10% drop a 2 % correction happens and they think the market can only go up from there. The trend is your friend not the 1 minute chart. 🤦‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:52:13 </td>
+   <td style="text-align:left;"> Cathie Wood loads up on Tesla. She purchased 24,366 shares today
+
+$TSLA $ARKK $ARKQ $ARKW </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:52:04 </td>
+   <td style="text-align:left;"> $TSLA [U-EV] Tesla announced that the production of 4680 cells has reached 1 million, and the 4680 version of Model Y will be delivered in the first quarter of 2022 at the earliest </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:49:30 </td>
+   <td style="text-align:left;"> $TSLA tesla dont need No stinking oil </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:48:58 </td>
+   <td style="text-align:left;"> $TSLA this is possibly one of the funniest posts I’ve ever seen. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:44:37 </td>
+   <td style="text-align:left;"> $TSLA  
+ 
+Tesla gets wrist slap from EPA for violating Clean Air Act - What are your thoughts on this? 
+ 
+https://techcrunch.com/2022/02/22/tesla-gets-wrist-slap-from-epa-for-violating-clean-air-act/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:42:12 </td>
+   <td style="text-align:left;"> $TSLA $LCID $FSR $GGPI $RIVN 
+
+Those shorting EV are clearly behind the curve of understanding higher gas prices = higher EV demand. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:42:11 </td>
+   <td style="text-align:left;"> $TSLA $TDOC $SPCE $OSTK $NVDA not gonna lie folks, after todays raping, I’m tempted to pick this shit up. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:38:33 </td>
+   <td style="text-align:left;"> $TSLA futs are reacting to something. However, have not seen any news out of Ukraine. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:37:08 </td>
+   <td style="text-align:left;"> $TSLA any bounce will get sold. Nobody with stable mind enter new positions until rate hikes and this conflict comes to logical conclusion. It just started with sanctions and escalating the situation. $AMZN . </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:34:57 </td>
+   <td style="text-align:left;"> $TSLA Made over 120k in this garbage on puts this year#junk# keep buying this trash </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:34:35 </td>
+   <td style="text-align:left;"> $ARKK latexbc7982474e6ddc038d6fe6661065c9acDWAC ss 4pts
+$GME Long 1.5pts+
+
+Live S </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:32:30 </td>
+   <td style="text-align:left;"> $TSLA how many more splits do you think we will have in the next ten years? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:32:08 </td>
+   <td style="text-align:left;"> $TSLA TSLA 2022-02-22 Options Analysis Video: 
+https://www.youtube.com/watch?v=mZJ9OeIpTMg </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:31:53 </td>
+   <td style="text-align:left;"> $TSLA I think the Ruskies have initiated military ops because futs are dumping. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:31:47 </td>
+   <td style="text-align:left;"> $TSLA Cathie Wood = The new poor man&amp;#39;s Quantitative Easing. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:31:04 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:30:58 </td>
+   <td style="text-align:left;"> $TSLA open gaps need filled </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:30:25 </td>
+   <td style="text-align:left;"> $TSLA we going to the moooooon tomorrow!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:29:20 </td>
+   <td style="text-align:left;"> $TSLA wow Cathie bought more Tesla. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:28:50 </td>
+   <td style="text-align:left;"> $TSLA wonder if Elon will have bear barbecue as well as pig? Bears sure have kept me feed since $220 pre split </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2022-02-23 09:27:32 </td>
+   <td style="text-align:left;"> Some of the BIGGEST options trades for today 
+$AAPL $TSLA $FB $ROKU $SPY 
+https://goldentrading.website/learn-how-to-trade-stocks-and-make-1000-a-day-make-money-while-you-sleep/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
@@ -6268,13 +6688,6 @@ https://www.youtube.com/watch?v=nJQGq5qXvXM </td>
    <td style="text-align:left;"> 2022-02-23 09:01:40 </td>
    <td style="text-align:left;"> $TSLA Volatility is King!! Simulated Weekly $860.0 CALLS for Tuesday&amp;#39;s open on StockOrbit. 
  https://apps.apple.com/us/app/stockorbit/id1541560646 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 09:01:00 </td>
-   <td style="text-align:left;"> $BABA $TSLA $TWTR They have helped me to grow my account to almost 2.5 million.. 100% recommend joining! 
- 
-It&amp;#39;s free joining ~~~~~🚀 discord.io/phFwD7xWe </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
@@ -7330,526 +7743,6 @@ https://www.youtube.com/watch?v=cc74tgjkv9E </td>
    <td style="text-align:left;"> TSLA </td>
    <td style="text-align:left;"> 2022-02-23 06:23:44 </td>
    <td style="text-align:left;"> $TSLA here is where I’m ready to go long. What war? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:23:40 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:22:37 </td>
-   <td style="text-align:left;"> $TSLA 
-
-Deleted ! I have it though …👀
-
-🙏🏻🐉🦅 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:22:29 </td>
-   <td style="text-align:left;"> $TSLA on its way back to 50 bucks............ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:21:38 </td>
-   <td style="text-align:left;"> $ARKK Poster child of the EV Tech &amp;amp; Crypto mania. I believe that this portfolio better represents the average Americans investment account or IRA account. The DOW is so old fashioned and many want to believe that we are on the cusp of flying to mars in electric space shuttles funded by Crypto Tokens like &amp;quot;SpaceCoin&amp;quot;. What a time to be alive. $TSLA $BTC.X $QQQ $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:21:24 </td>
-   <td style="text-align:left;"> $TSLA https://podcasts.apple.com/us/podcast/worldaffairs/id101215657?i=1000551747688 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:19:45 </td>
-   <td style="text-align:left;"> $TSLA everything humanity needs comes from oil . Without it humanity dies </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:17:48 </td>
-   <td style="text-align:left;"> $TSLA THE EV MARKET IS SATURATED...BEWARE </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:16:17 </td>
-   <td style="text-align:left;"> $TSLA I would join the army and fight the Russians if I could but unfortunately I am not vaccinated </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:16:11 </td>
-   <td style="text-align:left;"> $TSLA  Ready for my first major green day as a TESLA investor.....Excited </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:15:46 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TSLA $AAPL Bottom line: Bulls got RUG PULLED by the smart money and they are the dumb money. Tonight Vladamir Putin will invade New York while the snow melts and King Kong will tear down the Empire State Building. SPY will gap down to 380 and allude the circuit breakers. My OTM puts will print with the MM&amp;#39;s SHORT positions </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:15:14 </td>
-   <td style="text-align:left;"> $TSLA higher afterhours 🚀🤑. Let’s run it up higher 🚀🤑🤑🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:14:31 </td>
-   <td style="text-align:left;"> $TSLA @bigsteve2200 a little quiet this month did u get wiped like i said 🤣🤣 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:14:17 </td>
-   <td style="text-align:left;"> $TSLA question.  So where will the 400 Billion$ come from to bring this back up to where you wish for? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:14:11 </td>
-   <td style="text-align:left;"> $AMD $AAPL $TSLA $AMD  
-Holding on by a thread. Needs to hold lows. 
- 
-https://www.youtube.com/watch?v=Cxkh9YIo16A&amp;amp;feature=youtu.be </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:11:21 </td>
-   <td style="text-align:left;"> $TSLA NEW ARTICLE : European Expansion Will Ultimately Mean a Smooth Road for TSLA Stock https://www.stck.pro/news/TSLA/23309917 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:09:47 </td>
-   <td style="text-align:left;"> $TSLA. What was that? Glitchy today huh </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:09:30 </td>
-   <td style="text-align:left;"> European Expansion Will Ultimately Mean a Smooth Road for $TSLA Stock https://investorplace.com/2022/02/european-expansion-will-ultimately-mean-a-smooth-road-for-tsla-stock/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:09:05 </td>
-   <td style="text-align:left;"> $TSLA $SPY latex59756ead12ff7093c54d8e86cd5e387cFB 
-$AMC </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:01:02 </td>
-   <td style="text-align:left;"> $TSLA next 600$ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:00:20 </td>
-   <td style="text-align:left;"> $TSLA QUEEN ELIZABETH DIED OF COVID 
-R.I.P. 🕊🙏🕊...
-. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 06:00:17 </td>
-   <td style="text-align:left;"> $TSLA TSLA 2022-02-22 Options Analysis Video: 
-https://www.youtube.com/watch?v=mZJ9OeIpTMg </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:59:34 </td>
-   <td style="text-align:left;"> $TSLA  
-zerohedge 
-@zerohedge 
-· 
-4m 
-BLINKEN SAYS MEETING WITH RUSSIA&amp;#39;S LAVROV IS CANCELLED </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:58:56 </td>
-   <td style="text-align:left;"> $TSLA held 250 simple again </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:58:39 </td>
-   <td style="text-align:left;"> $TSLA we didn’t see $700s today, but got half way there… it’s coming…. But everyone thinks this stock is untouchable… when it’s really “just-a-bubble” ready to pop…. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:57:07 </td>
-   <td style="text-align:left;"> $TSLA 
-
-Between China 🇨🇳 &amp;amp; Russia 🇷🇺 both can affect US Economy directly or indirectly !  There’s no winner here we all know that from previous experiments !! 
-
-Repeating same mistake is not too smart !! I believe in peaceful and smart solutions - 
-
-I do recall how we broke up USSR without firing one bullet !! 
-
-Ultimately ppl suffer - governments are just Monopoly with unlimited resources at best !! 
-
-That’s my best 0.02! 
-
-🙏🏻🐉🦅 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:56:47 </td>
-   <td style="text-align:left;"> $PYPL I&amp;#39;m so glad Cathie is out of Paypal.  No more $ARKK dumping to worry about as Cathie continues to hold money losing hype companies while selling companies like $PYPLE with $5 billion quarterly PROFITs.   In fact, as soon as Cathie bought back $TSLA shares, Tesla is down.  lmao $sq $coin </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:55:09 </td>
-   <td style="text-align:left;"> $TSLA this baby going straight to 900 buckaroos tomorrow 🪐 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:54:36 </td>
-   <td style="text-align:left;"> $TSLA $855 to get back to trend </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:54:07 </td>
-   <td style="text-align:left;"> $TSLA What if Putin immediately starts an initial mass migration of Russian citizens to Mexico and starts teaching Spanish in Russian schools then after a couple of Ruskie Kremlinpoultries sneak their way into Mexico&amp;#39;s Congresso local Russian businesses can advocate Mexican schools teach Russian to the gueros. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:53:19 </td>
-   <td style="text-align:left;"> $TSLA When ever the Dark Pool shows up more often than not it is not a good thing.  They will short this down tomorrow. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:52:51 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:52:27 </td>
-   <td style="text-align:left;"> $TSLA the Russian market is ripping </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:52:16 </td>
-   <td style="text-align:left;"> $TSLA 760 tomorrow before it rebounds </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:51:15 </td>
-   <td style="text-align:left;"> $TSLA fucking felon sold at the top…bastard… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:51:01 </td>
-   <td style="text-align:left;"> New Peloton Lanebreak Similar To Video Game: Is It More Than Meets The Eye?  $PTON $AAPL $TSLA 
-
-https://newsfilter.io/a/69ae2fcdebe2183639af6c83e0380ba1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:50:26 </td>
-   <td style="text-align:left;"> $TSLA Bears, if Elon Musk wants, he can really fak you up in the after hours. With a couple million dollars, he can double the price. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:48:45 </td>
-   <td style="text-align:left;"> $TSLA $NKLA
-https://youtu.be/guVr3FXWz-M </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:46:51 </td>
-   <td style="text-align:left;"> 5-Day Equity Sentiment Recap: $TSLA is the #6 stock that institutions are trading over rolling 5 day window with 80.1K options contracts.
-
-Market analysis included in screenshot of dashboard from http://insiderfinance.io. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:45:50 </td>
-   <td style="text-align:left;"> $TSLA that’s all you got bears?! So gentle…. So sweet…. Where was the 750 guaranteed!? 
-
-Tomorrow will be a quiet day for you. 
-
-A long overdue one. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:43:00 </td>
-   <td style="text-align:left;"> $TSLA luck day i buy tsla $805/1。buy 100s </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:42:36 </td>
-   <td style="text-align:left;"> $TSLA Can we get a green day tomorrow damn this is getting ridiculous </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:42:34 </td>
-   <td style="text-align:left;"> $TSLA 
-
-Hugging 🤗 200SMA a scenario seen before and the result :
-ATH followed after max selling pressure - Newton 2nd law of physics !! 
-
-“Physics is the law, everything else is a recommendation”
-
-~Elon 
-
-🙏🏻🐉🦅 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:42:13 </td>
-   <td style="text-align:left;"> $TSLA 1 tweet from Elon Musk, and there goes all your shorts. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:41:18 </td>
-   <td style="text-align:left;"> latex019dee6aa3fb727a701b7cf014d7b829$es, I know you&amp;#39;re rooting for WWIII, but I&amp;#39;m here to tell you that&amp;#39;s NOT WHAT YOU WANT and IT&amp;#39;S NOT GON&amp;#39; HAPPEN ANYWAY!!! Your d@mn puts, calls whatever won&amp;#39;t matter when you&amp;#39;re burn up from a d@mn nuclear bomb!!! Let&amp;#39;s be smart and reasonable (if you have the ability)!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:40:53 </td>
-   <td style="text-align:left;"> $TSLA 770? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:40:06 </td>
-   <td style="text-align:left;"> $TSLA $M who bought the dip? 😜 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:39:23 </td>
-   <td style="text-align:left;"> $TSLA we had a nice bounce of weekly support dating back to Oct 2019.  It&amp;#39;s a good place to play a bounce or go short if the 50 ma is lost.  Still bullish for now. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:38:10 </td>
-   <td style="text-align:left;"> $TSLA Up or down tomorrow? What do you think...? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:37:43 </td>
-   <td style="text-align:left;"> $DWAC Pathetic Libtards here with their same old rhetoric soon to realize that this is not just some trade, but an investment in a movement that cannot be stopped.  Was in $TSLA at $22 a share, out a $35, will not make the same mistake again. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:37:23 </td>
-   <td style="text-align:left;"> $CENN $MULN $AKB $TSLA NASDAQ  
-Back to green, tomorrow reversal here !!  
-Trading below Cash on hand , 300 million in cash, no debt, no RISK buying below 52WK low RN here bottom at $1.25  it bounced off today three times already.  
- 
-ECV sector is hot  , multiple PR&amp;#39;s for share buyback , Share evaluation, and the main big HF shorting it (Esousa and Streetrville)  from $7.30 after the share consolidation 1/15 reverse merger  split  have covered completely in latest 13D filings on Fintel. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:36:21 </td>
-   <td style="text-align:left;"> $TSLA Spunktrader, are you really chatting with your self? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:36:21 </td>
-   <td style="text-align:left;"> $TSLA Putin&amp;#39;s smartest play is annexing Mexico that way NATO has nukes in Ukraine and Russia has nukes in Mexico win/win </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:35:58 </td>
-   <td style="text-align:left;"> $TSLA Stocktwits: Why This Popular Stock Will Continue to Grow👇 
- 
-TSLA is one of the most followed stocks on StockTwits, with over 780K followers and an average of 20,000 message volume over the past month.  
- 
-https://utradea.com/positions/TSLA-Stocktwits-Why-This-Popular-Stock-Will-Continue-to-Grow?utm_source=stocktwits&amp;amp;utm_medium=position&amp;amp;utm_campaign=PW_20220222 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:34:15 </td>
-   <td style="text-align:left;"> $TSLA Ok, let&amp;#39;s be honest. Do you believe Putin is not going to do anything after the sanctions? That m**f*er is a psycopath. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:33:12 </td>
-   <td style="text-align:left;"> $TSLA TSLA 2022-02-22 Dark Pool &amp;amp; Short Interest Data: 
-https://www.youtube.com/watch?v=nJQGq5qXvXM </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:32:54 </td>
-   <td style="text-align:left;"> Going to send out my WATCHLIST later tonight! and my analysis. 
- 
-Would recommend FOLLOWING me.  
-We caught $TSLA for 120%+ today and $AAPL for 30%+  
- 
-Giving this all out for FREE, don&amp;#39;t FOLLOW at your own risk :) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:31:00 </td>
-   <td style="text-align:left;"> $TSLA highly likely TSLA will see sub 800 this week if this high volume of selling continues </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:30:41 </td>
-   <td style="text-align:left;"> $SAVA $GME $TSLA $AMC our markets are completely corrupt thanks Gary Gensler.... #GaryGensler Retail is dying </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:29:53 </td>
-   <td style="text-align:left;"> $TSLA 
-
-US needs to spend more time on taking care of innovative business and be friendly and supportive not hostile !! 
-
-The backbone of this country is and has been always innovation !! 
-
-I’d sanction any country harbors red tape groups and  list them  as environmental hostile terrorists !! 
-
-Now that’s a good sanction that won’t have effect on American ppl! 😂
-
-Seriously 🙄
-
-🙏🏻🐉🦅 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:29:07 </td>
-   <td style="text-align:left;"> $TSLA $QQQ $BTC.X $AMZN $DWAC flipped to LEAP calls today. $200k … 🙏🏻 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:28:04 </td>
-   <td style="text-align:left;"> $TSLA Russia will crush all tech stocks this year until NATO stops bullying them. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:27:01 </td>
-   <td style="text-align:left;"> $TSLA bearish -30 tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:26:37 </td>
-   <td style="text-align:left;"> $TSLA death by a thousand cuts </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:25:45 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:25:31 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TSLA 
-
-Are my puts screwed?... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:23:49 </td>
-   <td style="text-align:left;"> $FB $AAPL $TSLA  
-Giant snowball rolling down hill. Gaining speed.   
-Nasdaq approaches death cross.   
- 
-Putin, telling the Ukraine to disarm.   
-Its going to get worse before it gets better... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:23:41 </td>
-   <td style="text-align:left;"> Going to be posting my Trades EVERY morning PRE-MARKET! FOLLOW AND WATCH. We caught $TSLA $AAPL for 100%+ on TSLA and 30%+ on AAPL. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:23:26 </td>
-   <td style="text-align:left;"> $TSLA MM deliberately closed below 200dma to scare the bulls! Do not fall into this trap! As long as $800 holds, we are good to go! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:22:03 </td>
-   <td style="text-align:left;"> $TSLA why tf would EV not skyrocket in the midst of Russia/Ukraine bs?! If we want to avoid importing oil from there we need to rely on our own goods. This shit needs to go flying. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:21:52 </td>
-   <td style="text-align:left;"> Biden likes to make the market difficult! ahhaha $TSLA $AMZN $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:20:18 </td>
-   <td style="text-align:left;"> $TSLA Closed below 200 MA. Goodnight and good luck. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:19:44 </td>
-   <td style="text-align:left;"> $TSLA We survived. Live to fight another day. We all know this will go back up. Just hold. We good. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:19:42 </td>
-   <td style="text-align:left;"> $TSLA   Zzzzzz.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:19:31 </td>
-   <td style="text-align:left;"> $TSLA be careful. Tech is about to go on a bullish run. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:19:01 </td>
-   <td style="text-align:left;"> $TSLA    This morning.. decided to play $TSLA  all the way down to the $837 area </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:18:42 </td>
-   <td style="text-align:left;"> $TSLA  we are due for a a Green Day I say tomorrow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:18:21 </td>
-   <td style="text-align:left;"> $TSLA 🚨20 spots open for 1 year free membership at the Free_Game_Tradez Discord link in bio first come first serve $LCID $RIVN $NIO $XPEV </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:17:44 </td>
-   <td style="text-align:left;"> $TSLA 
-  
-TSLA what a choppy start to the week of trading. Russia/Ukraine, Biden speech, general market sentiment. How are you guys feeling about the week ahead? I think we will continue to see stocks and the market move sideways and down a bit longer.  
-  
-I&amp;#39;m keeping a close eye on news and social sentiment - one of the best trading/investing indicators in this type of market. Check out this social sentiment dashboard with real-time feed of social momentum and market trends. It&amp;#39;s been super useful and helps me stay ahead of big moves.  
-  
-https://utradea.com/social-dashboard?utm_source=stocktwits&amp;amp;utm_medium=ssd-stocktwits&amp;amp;utm_campaign=pw_20220222 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:16:26 </td>
-   <td style="text-align:left;"> $TSLA Harris hiring iron man(tom cruise) to kill putin like they did with IS leader ? Thats why its running AH? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:15:37 </td>
-   <td style="text-align:left;"> $TSLA $750 next </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:15:05 </td>
-   <td style="text-align:left;"> $SPCE $TSLA
-
-🔥VIRGIN GALACTIC WILL BE THE NEXT TESLA🔥
-
-Just a few short years ago, Tesla jumped from just $40 a share to what would be over $4500 a share before the split price and is $900 a share after the spilt. Many people said they couldn’t and would be successful but look at them now.
-
-This is the same case with Virgin Galactic. They are the first to Commercial Space Flight, Space Exploration, Supersonic High Speed Travel and more.
-
-You can bet once Space Flights resume sometime around June or July, this stock would had already been in the $40’s-$60’s. Once Commercial Space Flights start you can expect this to be in the $100’s and you will never see anything under $100 again.
-
-BUY, HOLD AND MAKE MORE MONEY HERE THAN YOU’VE EVER HAD IN YOUR LIFETIME!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:14:39 </td>
-   <td style="text-align:left;"> $MAXR a 1,467% beat on EPS.. and less than 1% movement LMFAO.... $TSLA would be at 100,000 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:13:48 </td>
-   <td style="text-align:left;"> $TSLA loaded $2475 2024 calls. See you fuckboi’s on Mars 🤫🤝🚀🧨 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:13:39 </td>
-   <td style="text-align:left;"> Dr John Burba, Elon Musk and brine water lithium extraction : u/dexefx $tsla  $ibatf 🔋🔋⚡️⚡️ https://www.reddit.com/user/dexefx/comments/lcuukv/dr_john_burba_elon_musk_and_brine_water_lithium/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2022-02-23 05:11:07 </td>
-   <td style="text-align:left;"> $TSLA sigh my date keeps getting pushed , all I want is the vehicle is that so much to ask for </td>
   </tr>
 </tbody>
 </table></div>
