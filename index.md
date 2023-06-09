@@ -6,7 +6,7 @@ output:
 
 # Financial Data Analytics Portfolio
 
-This section highlights my experience in workflow conceptualization, idea implementation, and deployment of financial and risk management analytical tools, which are used in everyday work.
+A preview of my experience in workflow conceptualization, idea implementation, and deployment of financial and risk management analytical tools, which are used/have been used in everyday work.
 
 * Forecasting Models
   * Monthly Country Industry Performance and Risk Forecast Model
@@ -27,7 +27,7 @@ This section highlights my experience in workflow conceptualization, idea implem
 
 ### Monthly Country Industry Performance and Risk Forecast Model
 
-#### Gradient boosting frameworks for probabilistic assessments of market sectors performance and risk expectations. Implementable and scalable across industries and sub sectors of many countries. The preview document highlights the workflow and analysis, as applied to the 11 main USA GIC sectors.
+#### Gradient boosting frameworks for emprical probabilistic assessments of market sectors performance and risk expectations. Implementable and scalable across industries and sub sectors of many countries. The preview document highlights the workflow and analysis, as applied to the 11 main USA GIC sectors and some investment style factors.
 
 [Preview Document](/pdf/Preview-Monthly-Country-Industry-Forecast-Model.pdf)
 
@@ -35,7 +35,7 @@ This section highlights my experience in workflow conceptualization, idea implem
 
 ### Daily Country Industry Risk Monitoring and Forecast Model
 
-#### Markov-switching GARCH models for market sectors risk monitoring and risk expectations assessment. Implementable and scalable across industries and sub sectors of many countries. The preview document highlights the workflow and analysis, as applied to the 11 main USA GIC sectors.
+#### Markov-switching GARCH models for market sectors risk monitoring and risk expectations assessment. Implementable and scalable across industries and sub sectors of many countries. The preview document highlights the workflow and analysis, as applied to the 11 main USA GIC sectors and some investment style factors.
 
 
 [Preview Document](/pdf/Preview-Daily-Country-Industry-Risk-Forecast-Model.pdf)
@@ -111,7 +111,7 @@ At present, sources of news include:
 
 
 
-Last Updated: 2023-06-09 21:01:16 UTC +8
+Last Updated: 2023-06-09 21:11:09 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -124,10 +124,40 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/canada/currency </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:13 </td>
+   <td style="text-align:left;"> Canadian Dollar Eases from 2-Month High </td>
+   <td style="text-align:left;"> The Canadian dollar depreciated slightly since touching the two-month high of 1.335 per USD on June 8th, as higher unemployment in the Canadian economy challenged the Bank of Canada’s hawkish pledges. The domestic jobless rate rose by 0.2 percentage points to 5.2% in May, the first increase since August of 2022, suggesting that the labor market is finally feeling the impact of the BoC’s aggressive tightening cycle. The data came shortly after the central bank unexpectedly hiked its key rate by 25bps, going against the BoC’s signal that rates could have peaked and suggesting that borrowing costs were not as restrictive as policymakers expected. The latest price data showed that the Canadian CPI rose by 4.4% in April, well above market forecasts of 4.1% and picking up from 4.3% in March. In the meantime, crude oil prices bounced from recent lows and supported buying activity for the loonie. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/canada/government-bond-yield </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:00 </td>
+   <td style="text-align:left;"> Canadian 10-Year Bond Yield Edges Lower after Disappointing Jobs Data </td>
+   <td style="text-align:left;"> The yield on the Canadian 10-year government bond eased to below 3.4% after the labour force report showed a bigger-than-expected slowdown in the job market, with the economy losing jobs for the first time in nine months and the unemployment rate rising above forecasts to 5.2%. Earlier, the yield topped 3.46%, the highest in near three months, after the Bank of Canada unexpectedly raised interest rates by another 25bps in June, and signalled it could increase them further if necessary. Markets are still expecting another increase in July as the inflation remains more than twice the central bank's target of 2%. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.nytimes.com/2023/06/09/business/bernanke-banks-inflation-ai.html </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:10 </td>
+   <td style="text-align:left;"> Former Fed Chair Ben Bernanke on Inflation, Bank Runs and More - The New York Times </td>
+   <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , Supported by                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Strategies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         , The former Fed chairman shared his thoughts with our columnist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , By Jeff Sommer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     , Jeff Sommer is the author of Strategies, a weekly column on markets, finance and the economy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , I called Ben S. Bernanke, the former chairman of the Federal Reserve, late in the debt-ceiling standoff. It hadn’t been concluded quite yet but soon would be. This time, at least, the financial system averted another full-fledged crisis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , But when truly dire events happen and Congress and the White House are focused on political battles, the Fed often ends up as the “only game in town,” Mr. Bernanke said, “the only policymaker that can help an economy in trouble.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              , Fixing the world’s urgent problems is no longer Mr. Bernanke’s responsibility. In 2014, he stepped down as Fed chair, after leading it through the global financial crisis. Now, at 69, he is a scholar at the Brookings Institution in Washington, devoting himself mainly to research and writing.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               , His research, showing “that bank crises can potentially have catastrophic consequences” and illustrating “the importance of well-functioning bank regulation,” earned him a Nobel Prize in economics in 2022. That academic work, and the changes he made at the Fed, have altered the way we understand financial news, even if he is making fewer headlines himself.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , Yet, Mr. Bernanke said he still “monitors the Fed very carefully,” and in a wide-ranging interview, he discussed many thorny issues, including bank runs, inflation and threats to financial stability.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , At the moment, the banking system appears to be stable, he said, but you never know. In the summer of 2007, for instance, when the global financial crisis started, Mr. Bernanke said he didn’t immediately recognize how “devastating” it was going to be. Now, he said, he regrets that it took “some months” to “appreciate the magnitude of the crisis.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       , Conditions in the financial system appear to be fairly calm today, he said, but added, “I’ve learned from painful experience that one never says never; it’s always possible.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     , In agreeing to an open-ended conversation, he insisted on one ground rule: He would not “second-guess the Fed.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , “I will tell you what I think the Federal Reserve is doing and why it’s doing it,” he said, “but I will not tell you what I think they should do at the next meeting,” he said.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , Once Mr. Bernanke got rolling, his comments included these highlights:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , Further bank runs could be headed off by raising the ceiling for deposit insurance. That insurance “should cover more than $250,000 per account,” perhaps by requiring larger bank depositors “to pay some kind of premium” for the benefit. His research, and that of his two fellow 2022 Nobel laureates, Douglas W. Diamond and Philip H. Dybvig, showed that fear of losing money at a weakened bank could set off or worsen bank runs, like those earlier this year, and lead to deep economic stress.                                                                                                                                                                                                                                                                                                                                                                                        , If the Fed had the legal authority that other central banks possess, it wouldn’t need to invoke emergency powers and set up temporary rescue “facilities” every time a crisis demands that it backstop “shadow banks,” which include hedge funds, investment banks, private equity funds, money market funds and the like. These giant institutions perform many of the functions of traditional banks. The Fed is hampered by “a structural flaw that was never corrected by Congress, which is that the Fed is restricted on normal grounds to lending only to banks and not to other types of financial institutions,” he said.                                                                                                                                                                                                                                                                 , Don’t ever assume everything in the financial system is OK. It may not be. There is a need for constant monitoring and bolstering of systemic regulatory oversight to head off major problems. Mr. Bernanke’s research showed that “the financial crisis of the 1930s was a major factor in the Great Depression,” an insight that, he recalls, people “laughed at” when he first wrote about it. “I think it’s become quite conventional wisdom at this point that a big financial crisis is really bad for the economy.”                                                                                                                                                                                                                                                                                                                                                                         , The Fed may need time to get inflation down to the 2 percent target he helped institute, but unlike some writers — including this columnist — he said that target must stand. Two percent isn’t an “ideal” number, he said, and during his early academic career, he advocated a higher target, of 3 or 4 percent, for Japan. But now, U.S. politics and practical reality mean the 2 percent target should be preserved, he said. “I would think that if the Fed announced tomorrow that it was raising the inflation target, that would destroy its credibility,” he said. And any attempt to raise the target might set off Congressional action that could have the opposite effect.                                                                                                                                                                                                           , Are we in an A.I. bubble? Mr. Bernanke said it was hard to identify bubbles as they were forming, and to know what to do when one existed. “A.I. stocks are zooming up despite the fact that the overall economic environment is worrisome,” he said. “Is that a bubble? It depends on whether A.I. turns out to be the transformative technology that some people think it will be. Maybe it is, maybe it isn’t.” The problem is that when some bubbles collapse, they can wreak havoc, as the housing bubble did in 2008. Such a collapse can “bring down critical financial institutions and that creates tremendous financial distress.” He added, “If you have a strong and well-regulated financial system, then even if you have a bubble that comes down, the system should be able to weather it without massive effects on the economy.”                                                 , Regular news conferences by the Fed chair, which Mr. Bernanke initiated, and which his successors, Janet L. Yellen and Jerome H. Powell, expanded, are essential, he said. They are needed not just to convey the Fed’s messaging to market specialists, but also to explain what’s going on to the general public. At the onset of the 2007-8 crisis, he said, the Fed took a lot of heat for rescuing big Wall Street firms while, supposedly, neglecting the little guy. “It probably was impossible, but at least I should have tried to explain why it was important to preserve the stability of the financial system,” he said. “And why it would benefit everyone and not just the Wall Street C.E.O.s. There’s this feeling that the Fed is captured by Wall Street, which is just not true. But if you’re asking for regrets, I think that’s one thing I should have done more actively.”, The Fed, he said, had to innovate in those years because the economy was in a severe downturn and needed more help, yet the Fed had already reduced short-term interest rates to close to zero.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , By 2011, he said, “we were facing a very, very bad situation with no more ammunition, in terms of the Fed funds rate.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             , More fiscal stimulus — more spending — might have done the trick, he said. But, he recalled, “Congress was already trying to go to an austerity program, trying to cut back on fiscal policy.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     , “And so essentially, the Federal Reserve was left as the only policymaker in Washington that could do anything about this desperately deep recession and all the job losses and all the cost that was imposing on workers and their families,” he said. “So we needed a new set of tools.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         , By that point in his academic work, Mr. Bernanke had formulated the principles for quantitative easing (purchasing bonds and other securities to reduce longer-term interest rates) and forward guidance (using messaging to shift expectations). These become permanent parts of the Fed tool kit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                , Large-scale fiscal stimulus certainly occurred in the recent pandemic downturn, but with inflationary consequences, so the Fed has been not only raising interest rates, but also using its new tools, too. In a reversal of quantitative easing, it has been paring down the assets it has purchased through the years, and sent out plenty of belt-tightening messages. At a policymaking meeting next week, the Fed will assess whether all these measures are slowing the economy.                                                                                                                                                                                                                                                                                                                                                                                                             , The Fed’s job would be easier if fiscal policy were “more cooperative,” he said, but it’s most likely the central bank will frequently find itself “the only game in town.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , Mr. Bernanke has been churning out a stream of books and articles on both abstruse and topical subjects, including a paper in the American Economic Review based on his December Nobel lecture summarizing his life work. The paperback edition of his book, “21st Century Monetary Policy” was released in May, with a fresh analysis of recent events.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           , Like many of us, Mr. Bernanke is putting away money for retirement. A cottage industry of Fed watchers base their investment strategies on what they believe the Fed is doing. Mr. Bernanke may be the most sophisticated of Fed watchers, but he said he was “a very boring investor.” “I basically have a well-diversified portfolio,” he said. “I do not try to pick individual stocks. I don’t base my investments on what I think the Fed is going to do.”                                                                                                                                                                                                                                                                                                                                                                                                                                    , In fact, Mr. Bernanke told me that he essentially practiced the straightforward approach that “you advocate in your column.” He added, “I’m certainly not going to advise people to buy meme stocks, or to do anything unusual.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   , He summarized his approach this way: “The other day you said something like, you know, have your portfolio consistent with your risk aversion and with your liquidity needs.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , I’d say, make sure you can pay the bills first. Don’t put any money into the stock market that you can’t stand to lose. And invest for the long haul.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              , Based on Mr. Bernanke’s own example, I’d add: Think, study, innovate and do all you possibly can to keep the world afloat. But for your own personal investing, keep it simple.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , Jeff Sommer writes Strategies, a column on markets, finance and the economy. He also edits business news. Previously, he was a national editor. At Newsday, he was the foreign editor and a correspondent in Asia and Eastern Europe.  @jeffsommer • Facebook                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      , Advertisement </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/sweden-s-alecta-scales-back-international-holdings-after-review </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:20 </td>
+   <td style="text-align:left;"> Sweden’s Alecta Scales Back International Holdings After Review </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                                       , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                                     , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                                    , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                                , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                                      , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                                      , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                                              , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                                   , China Mounts Six-Month Campaign to Get Car Sales Moving                                                                                                                                                                                                                                                                                                       , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                                              , Visa Nearing Deal for Brazil Payments Provider Pismo, Sources Say                                                                                                                                                                                                                                                                                             , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                                              , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                                      , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                                    , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                                 , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                                   , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                                    , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                                , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                                   , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                                         , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                                          , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                                             , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                                            , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                                         , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                                 , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                                              , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                               , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                                , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                                           , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                                , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                                              , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                                      , A New Crypto Banking System Arises Under the Shadow of a Regulatory Crackdown                                                                                                                                                                                                                                                                                 , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                                            , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                                              , Love Liman                                                                                                                                                                                                                                                                                                                                                    , Subscriber Benefit                                                                                                                                                                                                                                                                                                                                            , Subscribe                                                                                                                                                                                                                                                                                                                                                     , The Swedish pension fund caught up in the fallout from Silicon Valley Bank in March has decided to scale back its stock holdings in companies located outside the Nordic region.                                                                                                                                                                              , The decision by Alecta follows a review into the group’s failed bets on three niche US lenders, SVB Financial Group, First Republic Bank and Signature Bank. The holdings triggered loses of nearly $2 billion, equivalent to roughly 2% of the fund’s total assets, and saw the then chief executive and equities boss ousted amid a public outcry in Sweden. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/rising-profit-estimates-mask-south-africa-s-frail-equity-outlook </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:44 </td>
+   <td style="text-align:left;"> Rising Profit Estimates Mask South Africa’s Frail Equity Outlook </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                 , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                               , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                              , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                          , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                        , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                             , China Mounts Six-Month Campaign to Get Car Sales Moving                                                                                                                                                                                                                                                                 , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                        , Visa Nearing Deal for Brazil Payments Provider Pismo, Sources Say                                                                                                                                                                                                                                                       , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                        , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                              , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                           , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                             , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                              , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                          , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                             , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                   , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                    , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                       , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                      , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                   , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                           , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                        , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                         , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                          , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                     , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                          , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                        , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                , A New Crypto Banking System Arises Under the Shadow of a Regulatory Crackdown                                                                                                                                                                                                                                           , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                      , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                        , Srinivasan Sivabalan and                                                                                                                                                                                                                                                                                                , Khuleko Siwele                                                                                                                                                                                                                                                                                                          , Subscriber Benefit                                                                                                                                                                                                                                                                                                      , Subscribe                                                                                                                                                                                                                                                                                                               , Analysts have raised the earnings outlook for South Africa’s main equity index to an almost 11-year high. Money managers say that’s a red herring.                                                                                                                                                                      , The average forecast for 12-month profits in the FTSE JSE Africa All Share Index rose as much as 4% in dollar terms this year through May 31 to the highest level since 2012. It also hit a record high in local-currency terms. The upgrades came even as the estimate for emerging-market stocks as a whole fell 1.4%. </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/canada/capacity-utilization </td>
    <td style="text-align:left;"> 2023-06-09 20:38:00 </td>
-   <td style="text-align:left;"> Canada Capacity Utilization Rate Ticks Up to 81.9% in Q1 </td>
-   <td style="text-align:left;"> Canadian industries operated at 81.9% of their production capacity in the first quarter of 2023, slightly higher than the upwardly revised 81.8% in the fourth quarter of 2022, largely attributed to an uptick in the manufacturing capacity utilization rate (78.1% vs 77.1% in Q4). Capacity utilization increased in 13 of the 21 major manufacturing industry groups, representing approximately 75% of the gross domestic product in the manufacturing sector, notably the manufacture of transportation equipment (80.7% vs 77%), petroleum and coal products (86.8% vs 83.8%) and fabricated metal products (78.3% vs 76.3%).  Meanwhile, capacity utilization fell in the mining, quarrying, and oil and gas extraction sector (79.5% from 80.4%) and construction (90.2% vs 90.5%). </td>
+   <td style="text-align:left;"> Canada Capacity Utilization Rate Below Forecasts </td>
+   <td style="text-align:left;"> Canadian industries operated at 81.9% of their production capacity in the first quarter of 2023, slightly higher than the upwardly revised 81.8% in the prior period, but below market forecasts of 82.2%, largely attributed to an uptick in the manufacturing capacity utilization rate (78.1% vs 77.1% in Q4). Capacity utilization increased in 13 of the 21 major manufacturing industry groups, representing approximately 75% of the gross domestic product in the manufacturing sector, notably the manufacture of transportation equipment (80.7% vs 77%), petroleum and coal products (86.8% vs 83.8%) and fabricated metal products (78.3% vs 76.3%).  Meanwhile, capacity utilization fell in the mining, quarrying, and oil and gas extraction sector (79.5% from 80.4%) and construction (90.2% vs 90.5%). </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/canada/unemployment-rate </td>
@@ -151,7 +181,7 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/citi-to-cut-50-london-jobs-in-investment-and-corporate-banking </td>
    <td style="text-align:left;"> 2023-06-09 20:20:28 </td>
    <td style="text-align:left;"> Citi to Cut 50 London Jobs in Investment and Corporate Banking </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                      , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                    , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                   , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                               , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                     , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                     , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                             , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                  , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                          , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                  , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                             , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                     , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                             , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                   , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                  , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                   , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                               , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                  , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                        , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                         , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                            , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                           , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                        , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                             , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                              , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                               , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                          , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                               , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                             , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                     , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                           , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                             , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                              , Citigroup’s offices in Canary Wharf, London.                                                                                                                                                                                 , William Shaw                                                                                                                                                                                                                 , Subscriber Benefit                                                                                                                                                                                                           , Subscribe                                                                                                                                                                                                                    , Citigroup Inc. is planning to cut 30 investment banking jobs and 20 more in its corporate banking unit in London in its latest wave of redundancies.                                                                         , The cuts are necessary for the bank to reduce its cost base because of adverse market conditions, according to a person within the bank, who isn’t authorized to speak publicly. Financial News reported the layoffs earlier. </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                      , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                    , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                   , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                               , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                     , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                     , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                             , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                  , China Mounts Six-Month Campaign to Get Car Sales Moving                                                                                                                                                                      , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                             , Visa Nearing Deal for Brazil Payments Provider Pismo, Sources Say                                                                                                                                                            , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                             , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                     , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                   , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                  , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                   , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                               , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                  , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                        , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                         , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                            , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                           , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                        , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                             , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                              , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                               , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                          , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                               , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                             , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                     , A New Crypto Banking System Arises Under the Shadow of a Regulatory Crackdown                                                                                                                                                , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                           , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                             , Citigroup’s offices in Canary Wharf, London.                                                                                                                                                                                 , William Shaw                                                                                                                                                                                                                 , Subscriber Benefit                                                                                                                                                                                                           , Subscribe                                                                                                                                                                                                                    , Citigroup Inc. is planning to cut 30 investment banking jobs and 20 more in its corporate banking unit in London in its latest wave of redundancies.                                                                         , The cuts are necessary for the bank to reduce its cost base because of adverse market conditions, according to a person within the bank, who isn’t authorized to speak publicly. Financial News reported the layoffs earlier. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/mexico/industrial-production </td>
@@ -169,13 +199,7 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/inflation-s-big-stock-winner-insurance-broker-arthur-j-gallagher-outperforms </td>
    <td style="text-align:left;"> 2023-06-09 20:00:00 </td>
    <td style="text-align:left;"> The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                     , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                   , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.  , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                              , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                    , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                    , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                            , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                 , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                         , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                 , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                            , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                    , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                            , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                  , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                               , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                 , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                  , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                              , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                 , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                       , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                        , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                           , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                          , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                       , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                               , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                            , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                             , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                              , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                         , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                              , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                            , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                    , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                          , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                            , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                             , Arthur J. Gallagher &amp; Co. CEO J. Patrick Gallagher Jr.                                                                                                                                                      , Source: PRNewswire                                                                                                                                                                                          , Breanna Bradham                                                                                                                                                                                             , Subscriber Benefit                                                                                                                                                                                          , Subscribe                                                                                                                                                                                                   , It’s enemy No. 1 inside the halls of the Federal Reserve, dreaded in cash-strapped households across America and a headache for CFOs at countless companies, big and small.                                 , But bring up inflation with executives at Arthur J. Gallagher &amp; Co., an insurance broker outside Chicago, and you’ll get a very different reaction. “We win,” says J. Patrick Gallagher Jr., the firm’s CEO. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.nytimes.com/2023/06/09/business/dealbook/trump-indictment-2024.html </td>
-   <td style="text-align:left;"> 2023-06-09 19:55:59 </td>
-   <td style="text-align:left;"> Donald Trump’s Latest Indictment May Reshape the 2024 Race - The New York Times </td>
-   <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                                                           , Supported by                                                                                                                                                                                                                                                                                                                                                                                                                                                                            , DealBook Newsletter                                                                                                                                                                                                                                                                                                                                                                                                                                                                     , The former president, who faces seven criminal charges for mishandling classified documents, is expected to surrender to authorities next week.                                                                                                                                                                                                                                                                                                                                         , By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni                                                                                                                                                                                                                                                                                                                                                              , For the second time in two months, Donald Trump will surrender to the authorities to face legal charges, dropping another bomb into the 2024 presidential race. Within minutes, he was fund-raising on the back of the news.                                                                                                                                                                                                                                                            , The indictment won’t be unsealed until next week, but some details are known. The former president and front-runner for the Republican nomination faces seven criminal charges that he mishandled classified documents from his time in the White House and obstructed the government’s efforts to reclaim them. He is expected to turn himself in to the authorities on Tuesday.                                                                                                       , Mr. Trump himself broke the news last night, a sign his inner circle had been bracing for the indictment for weeks.                                                                                                                                                                                                                                                                                                                                                                     , On his Truth Social platform, Mr. Trump called the charges “election interference at the highest level,” adding, “I’m an innocent man.”                                                                                                                                                                                                                                                                                                                                                 , Mr. Trump’s legal troubles keep piling up. But this indictment holds greater “legal gravity and political peril,” writes The Times’s Peter Baker. It’s not just a first in American history for a former president, but also involves the nation’s secrets.                                                                                                                                                                                                                             , Here’s a recap of the other legal matters he faces:                                                                                                                                                                                                                                                                                                                                                                                                                                     , A federal grand jury last month ordered Mr. Trump to pay $5 million to the journalist E. Jean Carroll in a civil case that he sexually abused and then defamed her; Carroll’s legal team has sued Mr. Trump again over subsequent comments he made about her.                                                                                                                                                                                                                           , In April, the New York authorities charged Mr. Trump with falsifying business documents in connection with hush-money payments to the porn star Stormy Daniels in the run-up to the 2016 presidential election.                                                                                                                                                                                                                                                                         , Mr. Trump is also under investigation in Georgia for possible election tampering in the state; a decision is expected later this summer.                                                                                                                                                                                                                                                                                                                                                , Mr. Trump’s Republican challengers came to his defense. Gov. Ron DeSantis of Florida, his nearest rival in the polls, accused the Biden administration of weaponizing the Justice Department to take on a political rival. And Vivek Ramaswamy, the anti-woke financier, said he would pardon Mr. Trump if elected president.                                                                                                                                                           , Mr. Trump gained in the polls the last time he was charged. It is unclear if the public will be so supportive this time. A Yahoo-YouGov poll showed nearly two-thirds of Americans view the charges of removing classified documents and obstructing the investigation as a serious criminal matter; a similar percentage feel that he should not serve as president if convicted.                                                                                                      , So far, big-money conservative donors have stayed mum on the latest charges. Many have deserted Mr. Trump after backing him in previous election cycles.                                                                                                                                                                                                                                                                                                                                , The wildfire haze is moving on from the Northeast. Cities including New York and Philadelphia have seen air conditions improve, though the noxious smoke is spreading south and west; the F.A.A. has lifted ground stops at LaGuardia and Newark airports. But scientists confirmed that the El Niño weather phenomenon has started, portending hotter temperatures through next year.                                                                                                  , China suffers from a lack of inflation. New monthly data shows that producer prices fell 4.6 percent in May, the sharpest year-on-year drop in seven years, while consumer prices rose just 0.2 percent. Though a contrast from Western countries grappling with rapid inflation, the trend suggests China’s faltering economy may soon suffer from deflation.                                                                                                                          , The White House reportedly braces for the death of its student loan forgiveness program. Biden administration officials are privately worrying that the Supreme Court may strike down its proposal, which would eliminate up to $20,000 in education debt per person for millions of Americans, according to The Wall Street Journal. The White House is preparing less legally risky alternatives to help borrowers.                                                                   , G.M. electric vehicles will gain access to Tesla’s charging network. The move, which follows a similar announcement by Ford, will vastly expand charger accessibility for G.M. But some in the industry fear that wider adoption of Tesla’s plugs, which are now likely to become the industry standard, will give Elon Musk’s company even greater power over the E.V. market.                                                                                                         , Investors shrugged off lousy labor market data and a new round of inflation warnings to push the S&amp;P 500 into bull market territory on Thursday. But that enthusiasm seems to be waning on Friday morning as stock futures suggest markets will open lower.                                                                                                                                                                                                                             , The bear market lasted 248 trading days, the longest such run since 1948. Since its October low, the S&amp;P 500 has gained 20.04 percent, just enough to tip into a bull market. The benchmark index is still roughly 10 percent away from a record high; some market observers say, therefore, that it’s premature to call this a true bull market.                                                                                                                                       , Investor enthusiasm for artificial intelligence has underpinned this rally. According to Deutsche Bank analysts, the FANG+ Index — a collection of big cap tech stocks, many of which are expanding into A.I. — is up nearly 80 percent since ChatGPT debuted in November.                                                                                                                                                                                                              , Now to the bad news … A growing number of economists believe that next week’s Consumer Price Index report will show an uptick in core inflation. That could pressure the Fed to raise interest rates further — if not next week, in July.                                                                                                                                                                                                                                               , And there are signs of economic weakness. The Labor Department on Thursday reported 261,000 new jobless claims, the highest number since October 2021.                                                                                                                                                                                                                                                                                                                                  , Expect a prolonged period of economic uncertainty. That was the message from Mario Draghi, the former Italian prime minister and president of the E.C.B., in a speech on Thursday at M.I.T.                                                                                                                                                                                                                                                                                             , The economist, who once famously vowed to do “whatever it takes” to save the euro, has a bearish view of the future. He warned that industrialized economies face a “volatile cocktail” of persistent inflation, high budget deficits, high interest rates and low potential growth as central banks grapple with a climate crisis, the reshoring of supply chains and the impact of Russia’s war in Ukraine.                                                                           , Regulators and crypto executives are making their cases in the court of public opinion after the S.E.C. sued Binance and Coinbase, two of the sector’s biggest exchanges, this week in an intensifying crackdown on the industry.                                                                                                                                                                                                                                                       , “We’ve seen this story before,” the S.E.C. chairman Gary Gensler said on Thursday at a fintech conference, likening widespread noncompliance in crypto to the era of “hucksters” and fraud a century ago. He rejected claims that digital asset businesses cannot comply with the existing rules or do not realize that they apply: “When crypto asset market participants go on Twitter or TV and say they lacked ‘fair notice’ that their conduct could be illegal, don’t believe it.”, Coinbase’s boss says that new regulations are needed. Its C.E.O., Brian Armstrong, addressed the event on Wednesday, saying the rules are opaque and need to be updated. The S.E.C. case is certainly a drag on his company: Moody’s, the ratings agency, downgraded Coinbase on Thursday to negative from stable because of the charges.                                                                                                                                               , Binance is regrouping. The company’s American division said on Thursday that it would no longer allow customers to trade in U.S. dollars, after banks stopped working with it. At the same time, the S.E.C. says it is trying to find “alternative means” to serve legal papers to Binance and Changpeng Zhao, the company’s C.E.O., telling a federal court that it was difficult to determine where he was.                                                                           , Who’s judging? The S.E.C.’s case against Coinbase in New York was assigned to District Judge Jennifer Rearden. Her nomination last year angered some Democratic lawmakers because she represented Chevron as a lawyer at Gibson, Dunn &amp; Crutcher. She’s also handling the government’s appeal of the sale of the failed crypto broker Voyager to Binance’s U.S. arm and put the deal on hold in March.                                                                                  , Judge Amy Berman Jackson of the Federal District Court for D.C. is presiding over the Binance case, and is best known for overseeing the criminal proceedings against two Mr. Trump advisers, Paul Manafort and Roger Stone. Next week, she will hold a hearing on an S.E.C. request to freeze Binance’s assets.                                                                                                                                                                        , — Steven Schwartz, a lawyer who has practiced in New York for 30 years. He told a federal judge that he regrets using the chatbot to write a legal brief that was found to be filled with fake judicial opinions and legal citations.                                                                                                                                                                                                                                                   , Apple unveiled its first headset for augmented/virtual/mixed reality this week, but none of those words appears in a nine-minute video on its website about the $3,500 Vision Pro goggles. Instead, the company preferred a more obscure term: “spatial computing.”                                                                                                                                                                                                                     , Apple is trying to put its own stamp on the category. When it comes to spatial computing, “no one knows what that is — and that provides Apple the opportunity to define it,” Marcus Collins, the author of “For the Culture: The Power Behind What We Buy, What We Do and Who We Want to Be,” told DealBook.                                                                                                                                                                           , Apple has successfully done this in the past. Before the App Store, people didn’t talk about apps; they talked about “software programs.”                                                                                                                                                                                                                                                                                                                                               , And the iPhone and AirPods were neither the first mobile phone nor the first earbuds, but they became runaway hits (despite being priced at a premium to the competition).                                                                                                                                                                                                                                                                                                              , Jim Posner, a communications consultant who has led teams at Twitter and Google, said that the intended audience may be investors and the media rather than consumers. “They are pitching a product to people,” he said. “For the tech press, industry analysts and investors, they’re pitching a concept.”                                                                                                                                                                             , Elsewhere, Mark Zuckerberg gave his thoughts on Apple’s Vision Pro goggles. “I was really curious to see what they’d ship,” the Meta C.E.O. told employees on Thursday, “and it’s a good sign for our own development that they don’t have any magical solutions to the laws of physics that we haven’t already explored.”                                                                                                                                                              , Deals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   , The agricultural commodities giant Bunge is said to be finalizing a deal to buy Viterra, a grain trader, that could value the combined firm at $30 billion. (Reuters)                                                                                                                                                                                                                                                                                                                   , UBS has secured a government backstop for losses tied to its takeover of Credit Suisse, clearing the last hurdle for combining Switzerland’s top two banks. (FT)                                                                                                                                                                                                                                                                                                                        , Permira is reportedly weighing a sale or public listing for Golden Goose, a footwear brand favored by Taylor Swift, at a $2.7 billion valuation. (Bloomberg)                                                                                                                                                                                                                                                                                                                            , Policy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  , Louisiana passed a bill that would block online services — including Instagram, TikTok and Fortnite — for children under 18 without their parents’ permission. (NYT)                                                                                                                                                                                                                                                                                                                    , The Supreme Court unanimously ruled against a dog-toy maker whose product closely resembles a bottle of Jack Daniels whiskey. (NYT)                                                                                                                                                                                                                                                                                                                                                     , Best of the rest                                                                                                                                                                                                                                                                                                                                                                                                                                                                        , Sam Altman of OpenAI, Bob Iger of Disney, Jay Monahan of the PGA Tour, Rupert Murdoch of Fox and Sundar Pichai of Alphabet are all on the guest list for this year’s Allen &amp; Company gathering in Sun Valley, Idaho. (Variety)                                                                                                                                                                                                                                                          , How Taylor Swift is a godsend for Chicago’s hotel industry. (Bloomberg)                                                                                                                                                                                                                                                                                                                                                                                                                 , “What All the Single Ladies (and Men) Say About the Economy” (NYT)                                                                                                                                                                                                                                                                                                                                                                                                                      , We’d like your feedback! Please email thoughts and suggestions to dealbook@nytimes.com.                                                                                                                                                                                                                                                                                                                                                                                                 , Andrew Ross Sorkin is a columnist and the founder and editor at large of DealBook. He is a co-anchor of CNBC’s "Squawk Box" and the author of “Too Big to Fail.” He is also a co-creator of the Showtime drama series "Billions."  @andrewrsorkin • Facebook                                                                                                                                                                                                                            , Ravi Mattu is the managing editor of DealBook, based in London. He joined The New York Times in 2022 from the Financial Times, where he held a number of senior roles in Hong Kong and London.  @ravmattu                                                                                                                                                                                                                                                                               , Bernhard Warner joined the The Times in 2022 as a senior editor for DealBook. Previously he was a senior writer and editor at Fortune focusing on business, the economy and the markets.  @bernhardwarner                                                                                                                                                                                                                                                                               , Sarah Kessler is a senior staff editor for DealBook and the author of “Gigged,” a book about workers in the gig economy.  @sarahfkessler                                                                                                                                                                                                                                                                                                                                                , Michael de la Merced joined The Times as a reporter in 2006, covering Wall Street and finance. Among his main coverage areas are mergers and acquisitions, bankruptcies and the private equity industry.  @m_delamerced • Facebook                                                                                                                                                                                                                                                      , Lauren Hirsch joined The Times from CNBC in 2020, covering deals and the biggest stories on Wall Street.  @laurenshirsch                                                                                                                                                                                                                                                                                                                                                                , Ephrat Livni reports from Washington on the intersection of business and policy for DealBook. Previously, she was a senior reporter at Quartz, covering law and politics, and has practiced law in the public and private sectors.    @el72champs                                                                                                                                                                                                                                       , Advertisement </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                     , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                   , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.  , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                              , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                    , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                    , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                            , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                 , China Mounts Six-Month Campaign to Get Car Sales Moving                                                                                                                                                     , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                            , Visa Nearing Deal for Brazil Payments Provider Pismo, Sources Say                                                                                                                                           , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                            , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                    , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                  , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                               , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                 , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                  , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                              , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                 , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                       , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                        , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                           , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                          , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                       , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                               , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                            , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                             , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                              , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                         , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                              , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                            , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                    , A New Crypto Banking System Arises Under the Shadow of a Regulatory Crackdown                                                                                                                               , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                          , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                            , Arthur J. Gallagher &amp; Co. CEO J. Patrick Gallagher Jr.                                                                                                                                                      , Source: PRNewswire                                                                                                                                                                                          , Breanna Bradham                                                                                                                                                                                             , Subscriber Benefit                                                                                                                                                                                          , Subscribe                                                                                                                                                                                                   , It’s enemy No. 1 inside the halls of the Federal Reserve, dreaded in cash-strapped households across America and a headache for CFOs at countless companies, big and small.                                 , But bring up inflation with executives at Arthur J. Gallagher &amp; Co., an insurance broker outside Chicago, and you’ll get a very different reaction. “We win,” says J. Patrick Gallagher Jr., the firm’s CEO. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.cnbc.com/2023/06/09/stocks-making-the-biggest-moves-premarket-target-tesla-general-motors-docusign-and-more.html </td>
@@ -205,7 +229,7 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/teachers-strike-in-romania-as-union-sees-little-scope-for-deal </td>
    <td style="text-align:left;"> 2023-06-09 19:28:13 </td>
    <td style="text-align:left;"> Teachers Strike in Romania as Union Sees Little Scope for Deal </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                         , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                       , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                      , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                  , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                        , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                        , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                     , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                             , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                     , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                        , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                      , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                   , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                     , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                      , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                  , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                     , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                           , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                            , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                               , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                              , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                           , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                   , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                 , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                  , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                             , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                  , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                        , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                              , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                 , Romanian teachers protest in front of the Romanian Government headquarters in Bucharest, on May 25                                                                                                                              , Photographer: Daniel Michaelscu/AFP/Getty Images                                                                                                                                                                                , Andra Timu and                                                                                                                                                                                                                  , Irina Vilcu                                                                                                                                                                                                                     , Subscriber Benefit                                                                                                                                                                                                              , Subscribe                                                                                                                                                                                                                       , Thousands of teachers took to the streets of Romania’s capital as the biggest education strike in almost two decades approached its third week and the government struggled to reach a deal with union negotiators.             , Some 10,000 people joined the demonstration in central Bucharest Friday to demand a pay hike and better working conditions, according to local media. It was the third such gathering since the teachers’ strike began May 22.   </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                         , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                       , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                      , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                  , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                        , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                        , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                     , China Mounts Six-Month Campaign to Get Car Sales Moving                                                                                                                                                                         , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                , Visa Nearing Deal for Brazil Payments Provider Pismo, Sources Say                                                                                                                                                               , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                        , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                      , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                   , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                     , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                      , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                  , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                     , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                           , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                            , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                               , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                              , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                           , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                   , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                 , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                  , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                             , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                  , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                        , A New Crypto Banking System Arises Under the Shadow of a Regulatory Crackdown                                                                                                                                                   , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                              , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                , Romanian teachers protest in front of the Romanian Government headquarters in Bucharest, on May 25                                                                                                                              , Photographer: Daniel Michaelscu/AFP/Getty Images                                                                                                                                                                                , Andra Timu and                                                                                                                                                                                                                  , Irina Vilcu                                                                                                                                                                                                                     , Subscriber Benefit                                                                                                                                                                                                              , Subscribe                                                                                                                                                                                                                       , Thousands of teachers took to the streets of Romania’s capital as the biggest education strike in almost two decades approached its third week and the government struggled to reach a deal with union negotiators.             , Some 10,000 people joined the demonstration in central Bucharest Friday to demand a pay hike and better working conditions, according to local media. It was the third such gathering since the teachers’ strike began May 22.   </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/commodity/cocoa </td>
@@ -259,13 +283,13 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/malaysia-names-abdul-rasheed-ghaffour-as-central-bank-governor </td>
    <td style="text-align:left;"> 2023-06-09 18:36:21 </td>
    <td style="text-align:left;"> Malaysia Names Abdul Rasheed Ghaffour as Central Bank Governor </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                               , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                             , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                            , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                        , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                              , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                              , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                      , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                           , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                   , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                           , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                      , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                              , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                      , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                            , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                         , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                           , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                            , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                        , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                           , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                 , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                  , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                     , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                    , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                 , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                         , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                      , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                       , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                        , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                   , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                        , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                      , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                              , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                    , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                      , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                       , Shaik Abdul Rasheed Abdul Ghaffour                                                                                                                                                                                                    , Anisah Shukry                                                                                                                                                                                                                         , Subscriber Benefit                                                                                                                                                                                                                    , Subscribe                                                                                                                                                                                                                             , Malaysia named Shaik Abdul Rasheed Abdul Ghaffour as its new central bank governor, tasked with fostering stability and confidence in an economy under pressure from slowing global demand, volatile inflation and a weakened ringgit., Malaysia’s king approved Abdul Rasheed as the governor from July 1 for a period of five years, Bank Negara Malaysia said Friday. He will replace Nor Shamsiah Mohd Yunus, whose term ends June 30, according to the statement. </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                               , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                             , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                            , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                        , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                              , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                              , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                      , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                           , China Mounts Six-Month Campaign to Get Car Sales Moving                                                                                                                                                                               , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                      , Visa Nearing Deal for Brazil Payments Provider Pismo, Sources Say                                                                                                                                                                     , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                      , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                              , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                            , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                         , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                           , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                            , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                        , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                           , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                 , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                  , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                     , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                    , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                 , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                         , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                      , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                       , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                        , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                   , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                        , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                      , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                              , A New Crypto Banking System Arises Under the Shadow of a Regulatory Crackdown                                                                                                                                                         , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                    , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                      , Shaik Abdul Rasheed Abdul Ghaffour                                                                                                                                                                                                    , Anisah Shukry                                                                                                                                                                                                                         , Subscriber Benefit                                                                                                                                                                                                                    , Subscribe                                                                                                                                                                                                                             , Malaysia named Shaik Abdul Rasheed Abdul Ghaffour as its new central bank governor, tasked with fostering stability and confidence in an economy under pressure from slowing global demand, volatile inflation and a weakened ringgit., Malaysia’s king approved Abdul Rasheed as the governor from July 1 for a period of five years, Bank Negara Malaysia said Friday. He will replace Nor Shamsiah Mohd Yunus, whose term ends June 30, according to the statement. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/zimbabwe-share-prices-daily-limit-raised-after-760-jump </td>
    <td style="text-align:left;"> 2023-06-09 18:27:11 </td>
    <td style="text-align:left;"> Zimbabwe Lifts Daily Share-Move Limit to Cope With Price Surges </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                               , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                             , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                            , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                        , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                              , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                              , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                                      , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                           , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                                   , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                                                                                                                                           , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                                      , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                              , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                                      , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                            , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                         , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                           , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                            , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                        , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                           , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                                 , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                                  , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                                     , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                                    , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                                 , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                         , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                                      , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                       , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                        , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                                   , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                        , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                                      , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                              , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                                    , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                                      , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                                       , Ray Ndlovu                                                                                                                                                                                                                                                                                                                                            , Subscriber Benefit                                                                                                                                                                                                                                                                                                                                    , Subscribe                                                                                                                                                                                                                                                                                                                                             , Share prices are rising so rapidly on Zimbabwe’s main stock exchange that the bourse is increasing the maximum move allowed in a single day.                                                                                                                                                                                                          , A new daily limit of a 15% move in the all-share index — up from 10% — will be implemented from Monday, Justin Bgoni, chief executive officer of the Zimbabwe Stock Exchange in Harare, said by phone Friday. Circuit breakers halted trading on the bourse on three consecutive days this week. “It’s in response to the recent activity,” he said.   </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                               , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                             , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                            , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                        , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                              , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                              , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                                      , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                           , China Mounts Six-Month Campaign to Get Car Sales Moving                                                                                                                                                                                                                                                                                               , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                                      , Visa Nearing Deal for Brazil Payments Provider Pismo, Sources Say                                                                                                                                                                                                                                                                                     , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                                      , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                              , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                            , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                         , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                           , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                            , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                        , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                           , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                                 , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                                  , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                                     , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                                    , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                                 , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                         , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                                      , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                       , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                        , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                                   , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                        , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                                      , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                              , A New Crypto Banking System Arises Under the Shadow of a Regulatory Crackdown                                                                                                                                                                                                                                                                         , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                                    , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                                      , Ray Ndlovu                                                                                                                                                                                                                                                                                                                                            , Subscriber Benefit                                                                                                                                                                                                                                                                                                                                    , Subscribe                                                                                                                                                                                                                                                                                                                                             , Share prices are rising so rapidly on Zimbabwe’s main stock exchange that the bourse is increasing the maximum move allowed in a single day.                                                                                                                                                                                                          , A new daily limit of a 15% move in the all-share index — up from 10% — will be implemented from Monday, Justin Bgoni, chief executive officer of the Zimbabwe Stock Exchange in Harare, said by phone Friday. Circuit breakers halted trading on the bourse on three consecutive days this week. “It’s in response to the recent activity,” he said.   </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/india/stock-market </td>
@@ -295,31 +319,19 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/japan-watchdog-seeks-penalty-on-regional-banks-over-bond-sales </td>
    <td style="text-align:left;"> 2023-06-09 18:00:21 </td>
    <td style="text-align:left;"> Japan Watchdog Seeks Penalty On Regional Banks Over Bond Sales </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                        , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                      , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                     , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                 , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                       , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                       , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                               , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                    , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                            , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                                                                                                                                    , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                               , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                       , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                               , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                     , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                  , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                    , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                     , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                 , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                    , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                          , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                           , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                              , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                             , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                          , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                  , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                               , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                 , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                            , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                 , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                               , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                       , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                             , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                               , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                                , Fumio Kishida                                                                                                                                                                                                                                                                                                                                  , Photographer: Kimimasa Mayama/EPA/Bloomberg                                                                                                                                                                                                                                                                                                    , Takashi Nakamichi                                                                                                                                                                                                                                                                                                                              , Subscriber Benefit                                                                                                                                                                                                                                                                                                                             , Subscribe                                                                                                                                                                                                                                                                                                                                      , Japan’s securities watchdog is seeking penalties on two regional banks for improperly selling structured bonds, a rare move that could send a signal to the broader industry about its sales practices.                                                                                                                                        , The Securities and Exchange Surveillance Commission on Friday asked the Financial Services Agency to punish Chiba Bank Ltd. and its brokerage subsidiary, as well as Musashino Bank Ltd. The agency said they sold these products without properly checking customers’ investment preference and experience, or explaining the risks involved.  </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                        , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                      , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                     , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                 , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                       , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                       , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                               , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                    , China Mounts Six-Month Campaign to Get Car Sales Moving                                                                                                                                                                                                                                                                                        , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                               , Visa Nearing Deal for Brazil Payments Provider Pismo, Sources Say                                                                                                                                                                                                                                                                              , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                               , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                       , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                     , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                  , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                    , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                     , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                 , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                    , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                          , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                           , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                              , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                             , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                          , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                  , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                               , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                 , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                            , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                 , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                               , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                       , A New Crypto Banking System Arises Under the Shadow of a Regulatory Crackdown                                                                                                                                                                                                                                                                  , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                             , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                               , Fumio Kishida                                                                                                                                                                                                                                                                                                                                  , Photographer: Kimimasa Mayama/EPA/Bloomberg                                                                                                                                                                                                                                                                                                    , Takashi Nakamichi                                                                                                                                                                                                                                                                                                                              , Subscriber Benefit                                                                                                                                                                                                                                                                                                                             , Subscribe                                                                                                                                                                                                                                                                                                                                      , Japan’s securities watchdog is seeking penalties on two regional banks for improperly selling structured bonds, a rare move that could send a signal to the broader industry about its sales practices.                                                                                                                                        , The Securities and Exchange Surveillance Commission on Friday asked the Financial Services Agency to punish Chiba Bank Ltd. and its brokerage subsidiary, as well as Musashino Bank Ltd. The agency said they sold these products without properly checking customers’ investment preference and experience, or explaining the risks involved.  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/hsbc-among-uk-banks-pulling-mortgage-deals-from-the-market-again </td>
    <td style="text-align:left;"> 2023-06-09 17:57:04 </td>
    <td style="text-align:left;"> HSBC Among UK Banks Pulling Mortgage Deals From the Market Again </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                       , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                     , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                    , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                      , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                      , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                              , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                   , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                           , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                                                                                                                                   , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                              , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                      , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                              , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                    , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                 , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                   , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                    , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                   , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                         , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                          , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                             , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                            , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                         , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                 , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                              , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                               , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                           , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                              , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                      , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                            , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                              , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                               , Estate agents boards outside a block of flats in the Slade Green district of Greater London.                                                                                                                                                                                                                                                  , Damian Shepherd and                                                                                                                                                                                                                                                                                                                           , William Shaw                                                                                                                                                                                                                                                                                                                                  , Subscriber Benefit                                                                                                                                                                                                                                                                                                                            , Subscribe                                                                                                                                                                                                                                                                                                                                     , UK lenders, led by HSBC Holdings Plc, are removing mortgage deals from the market again as they prepare to reprice home loans to account for inflation.                                                                                                                                                                                       , Giving only hours’ notice, HSBC said on Thursday that it would remove all its current new business residential and buy-to-let products via broker services the same evening. It said the offerings will be back Monday at increased rates. That triggered a surge in demand, prompting the lender to withdraw them before the scheduled time.  </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                       , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                     , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                    , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                      , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                      , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                              , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                   , China Mounts Six-Month Campaign to Get Car Sales Moving                                                                                                                                                                                                                                                                                       , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                              , Visa Nearing Deal for Brazil Payments Provider Pismo, Sources Say                                                                                                                                                                                                                                                                             , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                              , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                      , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                    , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                 , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                   , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                    , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                   , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                         , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                          , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                             , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                            , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                         , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                 , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                              , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                               , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                           , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                              , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                      , A New Crypto Banking System Arises Under the Shadow of a Regulatory Crackdown                                                                                                                                                                                                                                                                 , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                            , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                              , Estate agents boards outside a block of flats in the Slade Green district of Greater London.                                                                                                                                                                                                                                                  , Damian Shepherd and                                                                                                                                                                                                                                                                                                                           , William Shaw                                                                                                                                                                                                                                                                                                                                  , Subscriber Benefit                                                                                                                                                                                                                                                                                                                            , Subscribe                                                                                                                                                                                                                                                                                                                                     , UK lenders, led by HSBC Holdings Plc, are removing mortgage deals from the market again as they prepare to reprice home loans to account for inflation.                                                                                                                                                                                       , Giving only hours’ notice, HSBC said on Thursday that it would remove all its current new business residential and buy-to-let products via broker services the same evening. It said the offerings will be back Monday at increased rates. That triggered a surge in demand, prompting the lender to withdraw them before the scheduled time.  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/greece/inflation-cpi </td>
    <td style="text-align:left;"> 2023-06-09 17:44:52 </td>
    <td style="text-align:left;"> Greece Inflation Continues Downward Trend </td>
    <td style="text-align:left;"> Greece annual consumer inflation eased for an eighth straight month to 2.8% in May 2023 from 3% in April, marking the lowest reading since September 2021. The cost rose softer for hotels, cafés &amp; restaurants (7.4% vs 8.5% in the previous period) and household equipment (9.9% vs 10.9%). It also declined for housing (-12.9% vs -13.4%), transport (-3.1% vs 1.4%), and communication (-2.3% vs -1.8%). On the other hand, inflation accelerated for food &amp; non-alcoholic beverages (11.6% vs 11.4%); health (7.8% vs 6.5%); miscellaneous goods &amp; services (6.8% vs 6.4%); and clothing &amp; footwear (11.8% vs 5.6%). On a monthly basis, consumer prices grew by 0.4%, slowing from a 0.6% gain in April. Additionally, harmonized inflation rate decelerated to a 1-1/2 year low of 4.1%. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/amd-gets-chance-to-show-ai-roadmap-after-87-rally-tech-watch </td>
-   <td style="text-align:left;"> 2023-06-09 17:39:32 </td>
-   <td style="text-align:left;"> AMD Tracks Nvidia Gains in Wall Street’s AI Frenzy </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                                                                    , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                                                                  , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                                                                 , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                                                             , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                                                                   , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                                                                   , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                                                                           , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                                                                , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                                                                        , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                                                                                                                                                                                , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                                                                           , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                                                                   , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                                                                           , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                                                                 , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                                                              , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                                                                , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                                                                 , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                                                             , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                                                                , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                                                                      , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                                                                       , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                                                                          , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                                                                         , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                                                                      , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                                                              , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                                                                           , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                                                            , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                                                             , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                                                                        , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                                                             , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                                                                           , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                                                                   , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                                                                         , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                                                                           , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                                                                            , AMD will introduce new data center chips next week.                                                                                                                                                                                                                                                                                                                                        , Ian King and                                                                                                                                                                                                                                                                                                                                                                               , Subrat Patnaik                                                                                                                                                                                                                                                                                                                                                                             , Subscriber Benefit                                                                                                                                                                                                                                                                                                                                                                         , Subscribe                                                                                                                                                                                                                                                                                                                                                                                  , Advanced Micro Devices Inc.’s stellar share-price performance this year reflects its place in the eyes of investors looking to make an artificial intelligence trade: the best backup plan.                                                                                                                                                                                                , The stock’s 87% surge would make it the top performer on the Philadelphia Stock Exchange Semiconductor Index if it wasn’t for the stratospheric gain of rival Nvidia Corp. Nvidia briefly became the first chipmaker to have a trillion-dollar market value after delivering concrete evidence that the rush to develop new AI services is translating into a surge in orders for hardware. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/japan-sushi-chain-sues-teen-480-000-for-soy-sauce-licking-prank </td>
-   <td style="text-align:left;"> 2023-06-09 17:37:18 </td>
-   <td style="text-align:left;"> Japan Sushi Chain Sues Teen $480,000 For Soy-Sauce Licking Prank </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                    , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                  , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                 , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                             , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                   , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                   , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                           , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                        , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                                                , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                           , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                   , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                           , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                 , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                              , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                 , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                             , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                      , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                       , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                          , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                         , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                      , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                              , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                           , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                            , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                             , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                        , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                             , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                           , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                   , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                         , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                           , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                            , Grace Huang                                                                                                                                                                                                                                                , Subscriber Benefit                                                                                                                                                                                                                                         , Subscribe                                                                                                                                                                                                                                                  , A sushi restaurant chain is suing a customer for ¥67 million ($480,000), saying that a viral online video of the teen licking communal bottles and plates caused a drop in sales, foot traffic and the company’s shares, according to Japanese media.      , Food &amp; Life Cos., which owns Akindo Sushiro, the outlet where the incident occurred, had filed a police report and received an apology from the perpetrator. In the clip, he also touched the sushi as it rolled past with fingers he had put in his mouth. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/malta/balance-of-trade </td>
@@ -380,12 +392,6 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
    <td style="text-align:left;"> 2023-06-09 16:38:00 </td>
    <td style="text-align:left;"> Hang Seng Books 2.3% Gains Weekly </td>
    <td style="text-align:left;"> Equities in Hong Kong rose 90.77 points or 0.47% to end at two-week peaks of 19,389.95 on Friday, shifting from losses in morning trade, lifted by strong wins from tech and consumers. The Hang Seng also advanced for the third day and posted a 2.3% jump weekly, with investors being upbeat amid growing calls for China's central bank to cut interest rates as a recovery in the economy weakened. May's inflation data showed that the Chinese economy cooled further, while recent reports indicated that factory activity shrank, exports plunged, and a rebound in the housing market faded. A drop in US stock futures limited the gains, however, as worries mounted that the Federal Reserve could stay hawkish in its monetary policy meeting next week following tightening moves from several central banks this week. Among top performers were ESR Group (5.9%), Chow Tai Fook Jewellery (3.9%), H World Group (3.5%),  Wuxi Biologics (3.1%), Meituan (2.8%), and Innovent Biologics (2.7%). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://foxbusiness.com/lifestyle/tampa-florida-residents-may-need-least-85k-afford-rent-study-finds </td>
-   <td style="text-align:left;"> 2023-06-09 16:37:34 </td>
-   <td style="text-align:left;"> Tampa, Florida residents may need at least $85K to afford rent, study finds </td>
-   <td style="text-align:left;"> Real estate insiders Dolly and Jenny Lenz analyze the New York and Florida real estate markets on 'The Claman Countdown.'                                                                                                                                                                                                                               , A new study found that people living or wanting to move to one of the Sunshine's state fastest growing cities need to make at least $85,000 annually to afford the skyrocketing housing costs in Florida. Throughout the pandemic, Americans flocked to Florida causing rent to soar.                                                                   , An April study conducted by Florida Atlantic University (FAU), Florida Gulf Coast University (FGCU) and the University of Alabama found that rent in Tampa, Florida is 5.04% higher than last year. According to FAU and FGCU’s report, the average rent in Tampa is $2,118.75, which ranks 18th highest among the nation’s largest metropolitan areas. , A downtown sign and city skyline are viewed on February 14, 2011 in Tampa, Florida.  (George Rose/Getty Images / Getty Images)                                                                                                                                                                                                                          , According to the U.S. Department of Housing and Urban Development (HUD), residents are considered "rent burdened" if they spend more than 30% of their annual income toward rent and "severely rent burdened" if they spend more than 50%.                                                                                                              , WATCH OUT, SILICON VALLEY: MIAMI IS VYING TO BECOME AMERICA'S AI HUB                                                                                                                                                                                                                                                                                    , With the average rent and the HUD's definition of "rent burdened," individuals would need to make $84,750.12 to avoid being "rent burdened."                                                                                                                                                                                                            , Aerial drone View of sprawling Tampa Bay Skyline, Florida. (Joe Sohm/Visions of America/Universal Images Group via Getty Images / Getty Images)                                                                                                                                                                                                         , In 2022, during the COVID-19 pandemic, Florida saw about 319,000 Americans relocating as people sought more relaxed coronavirus rules, sunnier weather and no state income tax.                                                                                                                                                                         , FED PAUSING RATE INCREASES IN JUNE MAKES IT HARDER TO HIKE LATER: KATHRYN ROONEY VERA                                                                                                                                                                                                                                                                   , Florida saw a populating increase of nearly 2% – well above the 0.4% national growth rate recorded in the U.S. between July 2021 and July 2022.                                                                                                                                                                                                         , From 2020 to 2023, Tampa saw its population grow by a little less than 1% in 2023, compared with a more than 2% increase the previous two years. Orlando, Florida, matched Tampa with similar growth rates.                                                                                                                                             , Aerial View of road to Sunshine Skyway Bridge to Tampa Bay Florida and St. Petersburg.   | Getty Images                                                                                                                                                                                                                                                 , The Exodus to Florida was marked by Americans migrating away from blue states with steep taxes like California and New York to red states with lower taxes like Florida and Texas, according to a Bank of America analyst note that is based on aggregated and anonymous internal customer data.                                                        , CLICK HERE TO READ MORE ON FOX BUSINESS                                                                                                                                                                                                                                                                                                                 , Other red states saw substantial population growth include Texas, North Carolina, South Carolina, Tennessee, Georgia, Arizona and Idaho. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/south-africa/stock-market </td>
@@ -604,12 +610,6 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
    <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                        , Supported by                                                                                                                                                                                                                                                                                                                                                                                                         , Banks have signaled that they will stop working with the company’s American branch, it said, after the Securities and Exchange Commission sued it this week.                                                                                                                                                                                                                                                         , By David Yaffe-Bellany                                                                                                                                                                                                                                                                                                                                                                                               , Reporting from San Francisco                                                                                                                                                                                                                                                                                                                                                                                         , The American branch of Binance, the giant cryptocurrency exchange, said late on Thursday that it would no longer allow customers to trade on its platform using U.S. dollars, after its banking partners cut the firm off in response to a crackdown by federal regulators.                                                                                                                                          , The move is a major blow to Binance.US, the American arm of the world’s largest crypto exchange. One of the main functions of an exchange is allowing users to convert their traditional money into digital currencies like Bitcoin or Ether. Binance will no longer be able to offer that service in the United States.                                                                                             , In a message to customers, Binance.US said it was “taking necessary actions as we transition to a crypto-only exchange.” In recent days, the company said, its banking partners have signaled that they will no longer facilitate the movement of dollars on and off Binance.US’s platform.                                                                                                                          , The announcement comes after the Securities and Exchange Commission sued Binance on Monday, accusing the firm and its chief executive, Changpeng Zhao, of mishandling customer funds and lying to regulators. In a separate filing, the S.E.C. asked a federal judge in Washington to freeze assets related to U.S.-based customers of Binance, citing “the defendants’ years of violative conduct.”                 , Representatives for Binance did not immediately respond to a request for comment.                                                                                                                                                                                                                                                                                                                                    , The crypto industry has been under intense pressure from federal regulators since November, when the collapse of the FTX exchange set off an industrywide crisis. The day after it sued Binance, the S.E.C. filed a separate case against Coinbase, the largest American crypto exchange. Some crypto companies have vowed to fight the crackdown, while others are making plans to leave the United States entirely., In its message to customers on Thursday, Binance.US said it was facing “extremely aggressive and intimidating tactics” from the S.E.C. The company said it was suspending deposits of U.S. dollars and urged users to withdraw any dollars they have been storing on the exchange by June 13.                                                                                                                        , At the same time, the company tried to assure its customers that their savings were backed up by money it holds in reserve.                                                                                                                                                                                                                                                                                          , “To be clear, we maintain 1:1 reserves for all customer assets,” the message said. “Customer funds are always safe, secure, and available.”                                                                                                                                                                                                                                                                          , David Yaffe-Bellany covers cryptocurrencies and financial technology. He graduated from Yale University and previously reported in Texas, Ohio, Connecticut and Washington, D.C.  @yaffebellany                                                                                                                                                                                                                      , Advertisement </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> https://foxbusiness.com/markets/amazon-target-modify-deliveries-areas-poor-air-quality </td>
-   <td style="text-align:left;"> 2023-06-09 13:34:26 </td>
-   <td style="text-align:left;"> Amazon, Target modify deliveries in areas with poor air quality </td>
-   <td style="text-align:left;"> FOX Weather’s Katie Byrne provides an update on air quality conditions in the Northeast stemming from Canadian wildfires on ‘The Big Money Show.’                                                                                 , The wildfires burning in Canada creating dangerous smoke conditions in the eastern part of the United States, have disrupted life in many ways.                                                                                   , You can add to the list package deliveries.                                                                                                                                                                                       , Amazon.com said on Thursday that it was cutting delivery routes short for drivers in places affected by poor air quality.                                                                                                         , Target has said its contactless order pickup service may not operate in the most affected areas.                                                                                                                                  , AIR QUALITY IMPROVES FOR CITIES ALONG I-95 CORRIDOR                                                                                                                                                                               , Amazon packages are pictured on a delivery cart in the Manhattan borough of New York City. ( REUTERS/Carlo Allegri / Reuters Photos)                                                                                              , Canada is suffering the worst start to fire season that the country has ever seen, with hundreds of blazes across much of Canada.                                                                                                 , The smoke from the fires have made its way to the United States in the form of a thick yellow haze.                                                                                                                               , On Wednesday, New York City's air quality was considered the worst in the world.                                                                                                                                                  , FLIGHTS DELAYED AT MAJOR US AIRPORTS AS WILDFIRE SMOKE SPREADS ACROSS STATES                                                                                                                                                      , People ride bicycles on 6th Avenue as haze and smoke caused by wildfires in Canada blanket New York City, June 7, 2023. (REUTERS/Andrew Kelly / Reuters Photos)                                                                   , The company was cutting routes short where air quality is hazardous, and providing N-95 masks to delivery workers, according to an Amazon spokesman. Drivers were also encouraged to return to delivery stations if they felt ill., Target said its "Drive Up" order pick-up service may be turned off at locations with poor air quality. Customers can check their Target mobile application to confirm if the services were available at their local store.        , US CARRIER ALLOWS REBOOKING WITHOUT FEES AS WILDFIRE SMOKE SPREADS                                                                                                                                                                , A Southwest Airlines plane approaches LaGuardia Airport in New York on Wednesday, June 7. (AP/David R. Martin / AP Images)                                                                                                        , GET FOX BUSINESS ON THE GO BY CLICKING HERE                                                                                                                                                                                       , Schools across the region canceled outdoor activities and companies told employees to work from home, while health officials in more than a dozen states have urged millions of residents to stay indoors.                        , Reuters contributed to this report. </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/finland/industrial-production </td>
    <td style="text-align:left;"> 2023-06-09 13:16:23 </td>
    <td style="text-align:left;"> Finish Industrial Output Shrinks 2.4% in April </td>
@@ -638,12 +638,6 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
    <td style="text-align:left;"> 2023-06-09 12:31:00 </td>
    <td style="text-align:left;"> Malaysia Industrial Output Unexpectedly Drops </td>
    <td style="text-align:left;"> Industrial production in Malaysia unexpectedly fell by 3.3% year-on-year in April 2023, missing market forecasts of 2% gain, and shifting from a 3.2% growth in the previous month. It was also the first month of decline in industrial output since August 2021, dragged down by all of the sub-sectors, namely; manufacturing (-3% vs 4.1% in March), mining &amp; quarrying (-4.9% vs 0.8%), and electricity (-2% vs -0.3%). On a seasonally adjusted monthly basis, industrial output tumbled 5.6% in April, shifting from a downwardly revised 0.01% rise in the previous month. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://foxbusiness.com/markets/binance-us-suspends-usd-deposits-after-regulators-crackdown </td>
-   <td style="text-align:left;"> 2023-06-09 12:28:17 </td>
-   <td style="text-align:left;"> Binance.US suspends USD deposits after regulators crackdown </td>
-   <td style="text-align:left;"> O'Leary Ventures Chairman Kevin O'Leary discusses his plans to build an oil refinery and reacts to the SEC's lawsuits against crypto exchanges Binance and Coinbase on 'The Claman Countdown.'                                    , The U.S. arm of the world's largest crypto exchange is suspending U.S. dollar deposits.                                                                                                                                           , Binance.US says its banking partners are preparing to pause fiat dollar withdrawal channels as early as June 13,                                                                                                                  , The announcement comes just days after U.S. regulators sued Binance and its CEO Changpeng Zhao.                                                                                                                                   , The firm made the announcement in a tweet on Thursday night.                                                                                                                                                                      , CRYPTO EXCHANGE BINANCE, CEO HIT WITH CHARGES IN SEC LAWSUIT                                                                                                                                                                      , Binance logo displayed on a phone screen and representation of cryptocurrencies are seen in this illustration. ((Photo by Jakub Porzycki/NurPhoto via Getty Images) / Getty Images)                                               , The company says it is taking "proactive steps" in its transition to a crypto-only exchange for the time being.                                                                                                                   , Trading, staking, deposits and withdrawals in crypto would remain fully operational, the exchange said in a notice to its customers.                                                                                              , In a 136-page complaint filed in federal court, the SEC accused Binance and the company’s CEO of operating a "web of deception."                                                                                                  , BINANCE, COINBASE CEOS' FORTUNES TAKE HIT AFTER SEC CRYPTO LAWSUITS                                                                                                                                                               , Changpeng Zhao, founder and chief executive officer of Binance. (REUTERS/Benoit Tessier/File Photo / Reuters Photos)                                                                                                              , With its 13 total charges, the SEC complaint accused Binance Holdings, Zhao, BAM Trading and BAM Management US Holdings of committing breaches of the Securities Act and the Exchange Act, two U.S. laws pertaining to securities., A day later, Coinbase, the largest U.S. cryptocurrency platform, was also sued.                                                                                                                                                   , .On Thursday, U.S. financial regulators said they supported a freeze on Binance's assets, according to a U.S. SEC filing.                                                                                                         , A representation of the cryptocurrency is seen in front of Coinbase logo. (Reuters/Dado Ruvic/Illustration/File Photo / Reuters Photos)                                                                                           , CLICK HERE FOR FOX BUSINESS' REAL-TIME CRYPTOCURRENCY PRICING DATA                                                                                                                                                                , Binance.US said in its tweet that the SEC's take on cryptocurrency is "extremely aggressive and intimidating," adding that it has created challenges between the exchange and its banking partners.                               , FOX Business' Joe Toppe and Reuters contributed to this report. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.cnbc.com/2023/06/08/banks-to-cut-off-binance-access-to-us-banking-system-exchange-says.html </td>
@@ -723,6 +717,12 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
    <td style="text-align:left;"> China Inflation Rate Below Forecasts </td>
    <td style="text-align:left;"> China's annual inflation rate edged up to 0.2% in May 2023 from April's 26-month low of 0.1% but below market estimates of 0.3%. Food inflation picked up from a 13-month low in the prior month (1.0% vs 0.4%) on the back of further rises in prices of both fruit and cooking oil and a softer fall in cost of fresh vegetables. Meanwhile, non-food inflation was flat (at 0.1%), as further falls in prices of both transport (-3.9% vs -3.3%) and housing (-0.2% vs -0.3%) offset rises in cost of health (1.1% vs 1.0%) and education (1.7% vs 1.9%). Core consumer prices, excluding the volatile prices of food and energy, went up 0.6% yoy, after a 0.7% gain in April.  On a monthly basis, consumer prices dropped by 0.2%, the fourth straight month of fall, compared with estimates of a 0.1% decline. </td>
   </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/china/producer-prices-change </td>
+   <td style="text-align:left;"> 2023-06-09 09:35:00 </td>
+   <td style="text-align:left;"> China Producer Prices Drop the Most Since 2016 </td>
+   <td style="text-align:left;"> China's producer prices fell 4.6% yoy in May 2023, faster than a 3.6% drop in April and worse than market forecasts of a 4.3% drop. It was the eighth straight month of producer deflation and the steepest fall since February 2016 amid weakening demand and moderating commodity prices. A decline in production materials quickened (-5.9% vs -4.7%) due to a faster fall in processing prices (-4.6% vs -3.6%), raw materials (-7.7% vs -6.3%), and extractions (-11.5% vs -8.5%). Also, consumer goods prices edged down (-0.1% vs 0.4%) amid softer rises in prices of food (0.2% vs 1.0%), daily use goods (0.3% vs 0.4%), and clothing (1.4% vs 2.0%). At the same time, the cost of durable goods shrank by 1.1%, following a 0.6% fall in April. On a monthly basis, producer prices decreased by 2.6%, the second straight month of decline, after a 0.5 drop in the previous month. </td>
+  </tr>
 </tbody>
 </table></div>
 
@@ -737,7 +737,7 @@ Last Updated: 2023-06-09 21:01:16 UTC +8
 
 
 
-Last Updated: 2023-06-09 21:01:40 UTC +8
+Last Updated: 2023-06-09 21:11:30 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -748,6 +748,394 @@ Last Updated: 2023-06-09 21:01:40 UTC +8
   </tr>
  </thead>
 <tbody>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:11:08 </td>
+   <td style="text-align:left;"> $qqq $spy not call of duty going after your kids too.. 😭😭😭 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:11:05 </td>
+   <td style="text-align:left;"> $SPY they are moving it AH and pre market, that is where the moves are happening. They are hiding it. Look at the extended hours chart. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:11:01 </td>
+   <td style="text-align:left;"> $SPY  Before these taps to 430 I truly thought from my charts and lack of tute money flow we would see 422 ... my spidey senses are tingling and have to go with my gut. Trading futes the ole fashioned way today. Liquidity zones and VWAP 
+No bias ~ OPEX today 
+Next week have FED followed by Quad Witching to note.  
+GL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:35 </td>
+   <td style="text-align:left;"> $AMC price manipulation here waiting for a fake buy out because they can’t close billions of counterfeit shares 🍿 #checkmate $SPY $BBBYQ $GME </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:35 </td>
+   <td style="text-align:left;"> $SPY target is 423-424 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:23 </td>
+   <td style="text-align:left;"> $SPY BUY EVERY DIP 
+ 
+All year, every dip has been a buying opportunity. You Bears are just giving Put Sellers FREE money. Stop It! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:09 </td>
+   <td style="text-align:left;"> $SPY Still wouldn&amp;#39;t be surprised to see $436. When we hit it I&amp;#39;m loading heavy in puts. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:05 </td>
+   <td style="text-align:left;"> $SPY Baggies unaware of what’s approaching from behind! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:54 </td>
+   <td style="text-align:left;"> $SPY where’s first level of support downside? Wanna buy calls there🤑 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:54 </td>
+   <td style="text-align:left;"> $TSLA $SPY 
+
+💪💪👇👇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:52 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:52 </td>
+   <td style="text-align:left;"> $SPY so I was wondering average people&amp;#39;s debt to  what they make is usually 2x (i.em mortgage) so why can&amp;#39;t the US have debt at 50 trillion and gdp at 25 trillion. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:38 </td>
+   <td style="text-align:left;"> $SPY too much rejection sorry </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:29 </td>
+   <td style="text-align:left;"> $SPY Prob get a fake out above resistance of 429.70 and then head below to set up for an ascending wedge to ath </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:27 </td>
+   <td style="text-align:left;"> $SPY landslide at open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:24 </td>
+   <td style="text-align:left;"> $SPY grabbing calls at open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:18 </td>
+   <td style="text-align:left;"> $SPY $QQQ $IWM this market is headed way higher I keep seeing great news </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:05 </td>
+   <td style="text-align:left;"> $SPY t-0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:03 </td>
+   <td style="text-align:left;"> $SPY 436 or higher close 
+
+Epic grind ahead </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:55 </td>
+   <td style="text-align:left;"> $SPY $QQQ TOO strong V and $IWM About to breakout hard soon...easy LONG </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:25 </td>
+   <td style="text-align:left;"> $SPY let’s go higher!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:17 </td>
+   <td style="text-align:left;"> $SNAX retail sleeping on this one. They won&amp;#39;t be when it&amp;#39;s in the $1s range. 
+
+$SPY $QQQ $TSLA $NVDA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:11 </td>
+   <td style="text-align:left;"> $SPY BRING THIS BLOATED PIG DOWN WHERE IT BELONGS ALREADY! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:01 </td>
+   <td style="text-align:left;"> $TSLA $SPY you can’t go wrong with Tesla best company </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:53 </td>
+   <td style="text-align:left;"> $SPY Hope everyone has a great day and makes money with whatever strategy they use... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:51 </td>
+   <td style="text-align:left;"> $SPY Bear market? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:49 </td>
+   <td style="text-align:left;"> Is this chart bullish or bearish? 
+ 
+The Vanguard Total World ETF $VT isn&amp;#39;t a chart the perma-bears are going to want to see following through to the upside.  
+$SPY $SPX </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:48 </td>
+   <td style="text-align:left;"> $SPY $TSLA ez work </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:45 </td>
+   <td style="text-align:left;"> $SPY some calls at open for fun. Been a good week! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:24 </td>
+   <td style="text-align:left;"> $SPY 4297 wow almost there </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:23 </td>
+   <td style="text-align:left;"> $SPY so easy!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:20 </td>
+   <td style="text-align:left;"> STUPID FED GOONS IN 🇨🇦 RAISING INTEREST RATES .25% THIS WEEK POST TODAY&amp;#39;S EMPLOYMENT REPORT RELEASED MOMENTS AGO @ https://global-premium.econoday.com/byshoweventfull.aspx?fid=570778&amp;amp;cust=global-premium&amp;amp;year=2023&amp;amp;lid=0&amp;amp;prev=/byweek.asp#top #TRUDEAUSUCKS $DIA $SPY $QQQ $AAPL $MSFT </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:13 </td>
+   <td style="text-align:left;"> $spy $450 ez work </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:11 </td>
+   <td style="text-align:left;"> $SPY I can literally smell the V at open. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:09 </td>
+   <td style="text-align:left;"> Morning News:
+
+📈~ The S&amp;amp;P 500 is now up 20% from the October 12, 2022 low.
+This means the $SPY &amp;amp; markets are now officially in a new bull market.
+
+📉~ PacWest, $PACW, last month sold $2.6 billion of construction loans at a loss.
+
+🇺🇸~ Donald Trump has become the first U.S. president, former or otherwise, to be indicted on federal criminal charges. $QQQ
+
+🔥~ Wedbush adds $TSLA stock to it’s best ideas list. Raises PT to $300 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:01 </td>
+   <td style="text-align:left;"> $SPY Old Farce Guy swarm posting indicator.....always fantastic for shorts... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:59 </td>
+   <td style="text-align:left;"> $SPY That green open to a nice dive $426 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:52 </td>
+   <td style="text-align:left;"> $RGTI something brewing boys $SPY $QBTS </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:44 </td>
+   <td style="text-align:left;"> $SPY $QQQ Bloomberg noting 5 biggest tech stocks now an all-time record 24% of SPX. Binky Chadha, Deustche Bank, calling for SPX 4500, Mike Wilson again saying we&amp;#39;re in the earnings bust period. Mohamed El-Erian saying next TUE-WED will the most interesting period for markets in mos. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:33 </td>
+   <td style="text-align:left;"> $SPY Low IQers acting like the manipulated market hasn’t been pumped post-COVID. NeW bUlL mArKeT </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:26 </td>
+   <td style="text-align:left;"> Thanks a lot you lazy Bears 🐻 $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:58 </td>
+   <td style="text-align:left;"> $SPY -1.2% today seems more than fair </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:43 </td>
+   <td style="text-align:left;"> $SPY This might go dip to 4280 again at opening before rallying to 4310 today. 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:33 </td>
+   <td style="text-align:left;"> $SPY party over for bears. Welcome to the bull market. New ATH this year. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:33 </td>
+   <td style="text-align:left;"> $SPY no position but I’m short term bullish on this </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:31 </td>
+   <td style="text-align:left;"> $SPY FUTES DIPPIN </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:11 </td>
+   <td style="text-align:left;"> $CRSP THEY STUCK IT TO BEARS AT 7:45 PM yesterday (FDA ACCELERATED REVIEW), and again today at 7:15 AM (DATA FROM EUROPE CONFERENCE).   It is gonna get nasty if you wait to cover.   I am buying the open and calls.  $TSLA $spy $AMZN </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:57 </td>
+   <td style="text-align:left;"> @MLinv @fvbusiness and Wychoff is still 100% useless when trading/investing in $SPY $QQQ  
+ 
+I said this in 1990, 2000, 2010, 2020.....there will always random black swans and 100% of the time BTD will work. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:28 </td>
+   <td style="text-align:left;"> $SPY Bring this baggy bluster down. Make the baggies cry! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:28 </td>
+   <td style="text-align:left;"> $SPY Jim creamer bashing </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:26 </td>
+   <td style="text-align:left;"> $SPY Dow looking weak…. Should drag SPY down with it soon. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:21 </td>
+   <td style="text-align:left;"> $SPY this market puts the F U in fun </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:15 </td>
+   <td style="text-align:left;"> $SPY LMFAO PACK UP BULLS PARTY IS OVER </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:00 </td>
+   <td style="text-align:left;"> $SPY nah mane </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:33 </td>
+   <td style="text-align:left;"> $SPY can we just destroy some more broke failed opinionated RETAIL traders today  
+ 
+$TSLA $AMC $GME $NVDA  
+ 
+there is only one purpose of short term markets, WIPE OUT BROKE humans who never belonged!!!  
+ 
+🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:25 </td>
+   <td style="text-align:left;"> $SPY REJECTED!!!! 😂😂😂😂😂😂😂💀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:16 </td>
+   <td style="text-align:left;"> $CVNA  .. $gme  . . $AMC .. .. many made easy money or broke ... left the movement ...but me .. made sure institutional  shorts ,.... go rekt $spy .. lmao </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:16 </td>
+   <td style="text-align:left;"> $SPY Max pain just revised to 425 trade accordingly kids! I like that level very much myself 😈 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:15 </td>
+   <td style="text-align:left;"> $SPY I feel like bears should just buy calls too ... follow the money right 🤷‍♂️ everyone load up we all win </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:10 </td>
+   <td style="text-align:left;"> $WLDS It&amp;#39;s happening..Broke 2.40 and she&amp;#39;s going hard..815% ctb with 10k shares.
+Shorts are trapped..Lets GO.
+$AAPL $MSFT $MULN $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:02 </td>
+   <td style="text-align:left;"> $SPY Do your job dementia Jerome and increase the bullsh*t interest rate by 10% already you worthless joke </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:59 </td>
+   <td style="text-align:left;"> $SPY over $430 SETS OFF FIREWORKS! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:49 </td>
+   <td style="text-align:left;"> $SPY $META $AAPL this looks like something that astronauts would wear, lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:40 </td>
+   <td style="text-align:left;"> $SPY 430 calls going to hit on the swing </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:32 </td>
+   <td style="text-align:left;"> $SPY $qqq $aapl $tsla read @pnvoss recent posts. Relax, trust the process, give your self time to make your money back. Relax </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:26 </td>
+   <td style="text-align:left;"> $SPY It&amp;#39;s going to go up today just to burn all the puts. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:21 </td>
+   <td style="text-align:left;"> $SPY 1% day coming in hot </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:37 </td>
+   <td style="text-align:left;"> $SPY Lots of FOMO energy now that we&amp;#39;re in a &amp;quot;bull market&amp;quot; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:35 </td>
+   <td style="text-align:left;"> $SPY covid support line in coming, wave C will happen. 265 area is coming. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:30 </td>
+   <td style="text-align:left;"> $SPY POP and then DROP? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:27 </td>
+   <td style="text-align:left;"> $SPY free money fridays are back $TSLA </td>
+  </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
    <td style="text-align:left;"> 2023-06-09 21:01:16 </td>
@@ -2095,380 +2483,97 @@ $SPY </td>
 Meanwhile $RSP is rippin </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:18:38 </td>
-   <td style="text-align:left;"> $SPY TSLA will sell off at open </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:11:08 </td>
+   <td style="text-align:left;"> $qqq $spy not call of duty going after your kids too.. 😭😭😭 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:18:21 </td>
-   <td style="text-align:left;"> $SPY  Let&amp;#39;s pretend we are on financial position pumper TV (anyone who understands economics asking a legit question to pumper) &amp;quot;So why would anyone want to buy at these levels given the current state of the world and our economy?&amp;quot;. (Pumper). &amp;quot;because brah because&amp;quot;.   Then pumper gets cheers and applause as more sheep race to buy! </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:20 </td>
+   <td style="text-align:left;"> $IWM this is about to breakout hard at open 190 in first 30 mins $QQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:18:14 </td>
-   <td style="text-align:left;"> $SPY it is approaching that 429.63 resistance again. 😂 </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:18 </td>
+   <td style="text-align:left;"> $SPY $QQQ $IWM this market is headed way higher I keep seeing great news </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:18:00 </td>
-   <td style="text-align:left;"> $SPY I’m almost positive you should be using the extended hours chart right now, there is for sure some fuckery going on between the two charts. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:55 </td>
+   <td style="text-align:left;"> $SPY $QQQ TOO strong V and $IWM About to breakout hard soon...easy LONG </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:17:54 </td>
-   <td style="text-align:left;"> $SPY 5% up day for NVDA </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:17 </td>
+   <td style="text-align:left;"> $SNAX retail sleeping on this one. They won&amp;#39;t be when it&amp;#39;s in the $1s range. 
+
+$SPY $QQQ $TSLA $NVDA </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:17:43 </td>
-   <td style="text-align:left;"> $SPY happy Friday kids!!!! Looking like an inside/green day let’s get it!!!!!! :) </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:20 </td>
+   <td style="text-align:left;"> STUPID FED GOONS IN 🇨🇦 RAISING INTEREST RATES .25% THIS WEEK POST TODAY&amp;#39;S EMPLOYMENT REPORT RELEASED MOMENTS AGO @ https://global-premium.econoday.com/byshoweventfull.aspx?fid=570778&amp;amp;cust=global-premium&amp;amp;year=2023&amp;amp;lid=0&amp;amp;prev=/byweek.asp#top #TRUDEAUSUCKS $DIA $SPY $QQQ $AAPL $MSFT </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:17:42 </td>
-   <td style="text-align:left;"> $SPY I heard SPY is getting into AI.  SPY 600 coming soon! </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:09 </td>
+   <td style="text-align:left;"> Morning News:
+
+📈~ The S&amp;amp;P 500 is now up 20% from the October 12, 2022 low.
+This means the $SPY &amp;amp; markets are now officially in a new bull market.
+
+📉~ PacWest, $PACW, last month sold $2.6 billion of construction loans at a loss.
+
+🇺🇸~ Donald Trump has become the first U.S. president, former or otherwise, to be indicted on federal criminal charges. $QQQ
+
+🔥~ Wedbush adds $TSLA stock to it’s best ideas list. Raises PT to $300 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:17:28 </td>
-   <td style="text-align:left;"> $SPY all credit due to Joe .. trumptards </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:44 </td>
+   <td style="text-align:left;"> $SPY $QQQ Bloomberg noting 5 biggest tech stocks now an all-time record 24% of SPX. Binky Chadha, Deustche Bank, calling for SPX 4500, Mike Wilson again saying we&amp;#39;re in the earnings bust period. Mohamed El-Erian saying next TUE-WED will the most interesting period for markets in mos. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:17:25 </td>
-   <td style="text-align:left;"> $SPY send spy up 1%  and I won’t say anything bad about Biden for the weekend pls </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:26 </td>
+   <td style="text-align:left;"> Thanks a lot you lazy Bears 🐻 $SPY $QQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:17:16 </td>
-   <td style="text-align:left;"> $SPY there won’t be much movement until 0DTE gamblers jump in. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:01 </td>
+   <td style="text-align:left;"> $QQQ Absurd, it wants to fill the gap at $360 i guess. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:17:13 </td>
-   <td style="text-align:left;"> $SPY prepping for higher while the  turncoat Red Elephants begin to crush their fearless leader behind closed doors with words that dig a grave. 
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:35 </td>
+   <td style="text-align:left;"> Squeezing the Market: Riding the Rollercoaster of Short Squeeze Mania. $GME $QQQ $CVNA $BYND $SPCE https://www.zacks.com/commentary/2106141/squeezing-the-market-riding-the-rollercoaster-of-short-squeeze-mania </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:57 </td>
+   <td style="text-align:left;"> @MLinv @fvbusiness and Wychoff is still 100% useless when trading/investing in $SPY $QQQ  
  
-It is all coming to fruition and it isn&amp;#39;t a political ploy by the asses as some sadly believe. 
- 
-When most act in a criminal manner, there is usually a price to pay. Let&amp;#39;s see how long the Teflon coating lasts. 
- 
-Markets will dismiss the news and go on tracking North due to factors beyond its control. 
- 
-Enjoy! We are witnessing a historical event. An ex- prez with more than 100 indictments coming his way! </td>
+I said this in 1990, 2000, 2010, 2020.....there will always random black swans and 100% of the time BTD will work. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:17:08 </td>
-   <td style="text-align:left;"> $SPY $ES_F Overnight, $SPX has defended 4286 and broken 4295.  Now a retest of 4295, hold and that sets us up beautifully to target 4302/4306 and new YTD highs. Fail and we fall to 86/80. Trust last night&amp;#39;s levels! </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:45 </td>
+   <td style="text-align:left;"> What are the most profitable stocks right now? Pick the best $QQQ vs. $XLE vs. $XOM. https://srnk.us/go/4714137 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:16:59 </td>
-   <td style="text-align:left;"> $SPY how tho </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:18 </td>
+   <td style="text-align:left;"> $QQQ so how far into extreme greed do stocks get before going down to levels that make any sense lol are we headed back to dot-com territory here or what </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:16:31 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TSLA $AAPL  market is going to go parabolic, scary but deserved by the world&amp;#39;s tried and hardened bulls of the globe. Take a bow. You are believers in America. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:42 </td>
+   <td style="text-align:left;"> $QQQ so MAGA&amp;#39;s still complaining about Biden markets? just curious </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:16:29 </td>
-   <td style="text-align:left;"> $SPY will those $430 calls pay? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:16:26 </td>
-   <td style="text-align:left;"> $SPY Black Friday </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:16:14 </td>
-   <td style="text-align:left;"> $SPY I don&amp;#39;t even look at the chart anymore. I just buy calls esp on red days. 👍 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:16:12 </td>
-   <td style="text-align:left;"> $TSLA $GMC $SPY 
-
-Meanwhile chargepoint….. i can see chevron or exxon adding tesla chargers to their gas stations if they want to stay relevant. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:16:08 </td>
-   <td style="text-align:left;"> $SPY forreal havnt seen a red open in a long time and if it is lately it’s like -.001% red </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:15:48 </td>
-   <td style="text-align:left;"> $SPY $QQQ never been more bullish </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:15:48 </td>
-   <td style="text-align:left;"> $SPY $QQQ are they planning to dump the markets today? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:15:46 </td>
-   <td style="text-align:left;"> $BBAI $SPY  as I said before.  MiP is a rain cloud.   He is nothing but bad luck when it comes to individual stocks (not SPY options). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:15:45 </td>
-   <td style="text-align:left;"> $SPY shorted 4300 plz squeeze me </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:15:17 </td>
-   <td style="text-align:left;"> $SPY 429.62 is the wall to break </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:15:17 </td>
-   <td style="text-align:left;"> $SPY never think these thoughts “they cant bring it down any lower” or “they cant push this up any higher”.. because they can and they will 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:15:04 </td>
-   <td style="text-align:left;"> $SPY 0dte puts at open </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:15:01 </td>
-   <td style="text-align:left;"> $ES_F hit 4300 $SPY into Bull Market. It needs to stay above 4300 for a week. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:15:00 </td>
-   <td style="text-align:left;"> $SPY same thing every morning with this stupid ass market </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:14:49 </td>
-   <td style="text-align:left;"> $SPY alright screw It ima chase 0DTE calls because it has been pumping every day and I guarantee u today is the day it tanks 2 $ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:14:45 </td>
-   <td style="text-align:left;"> $SPY you know what to do, the same 7 stocks! spin that shit </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:14:45 </td>
-   <td style="text-align:left;"> $SPCE after successful flights , $SPY flying , $TSLA flying , commercial flights coming and yet this is at $4 ?.Use your common sense. At a minimum weak day on the market this will sink. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:14:42 </td>
-   <td style="text-align:left;"> $SPY My July $425 Puts will be ok. Even better next week when the fed raises rates. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:14:38 </td>
-   <td style="text-align:left;"> $SPY bullish on Ukraine war, higher yields, higher fed fund rates, higher rental cost, higher mortgage, inverted yield curve, higher CPI, bad PPI, unemployment, deficit increase, and money printer.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:14:38 </td>
-   <td style="text-align:left;"> $SPY Bears r fuk </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:14:19 </td>
-   <td style="text-align:left;"> $SPY futes ripping higher again this morning… massive short squeeze today just like last several Fridays </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:52 </td>
-   <td style="text-align:left;"> 7 Great Dividend Stocks Under $25 for 2023 https://investorplace.com/market360/2023/06/7-great-dividend-stocks-under-25-for-2023/ $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:51 </td>
-   <td style="text-align:left;"> $SPY Strongest economy I’ve ever seen. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:48 </td>
-   <td style="text-align:left;"> $SPY Powell continues to be the world chump babying the market </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:24 </td>
-   <td style="text-align:left;"> $SPY in the best case scenario will go to 435 in the worst to at lest 380. You can decide how to position yourself. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:23 </td>
-   <td style="text-align:left;"> ETF Sentiment: $SPY is the #1 ETF that institutions are trading with 1.1M options contracts.
-
-Market analysis included in screenshot of dashboard from 🔥 INSIDERFINANCE.IO 🔥 (Link in profile - @InsiderFinance) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:21 </td>
-   <td style="text-align:left;"> $TSLA $SPY $QQQ $ARKK $META . </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:13 </td>
-   <td style="text-align:left;"> $SPY gonna happen again </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:04 </td>
-   <td style="text-align:left;"> $NFLX $SPY  🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:12:46 </td>
-   <td style="text-align:left;"> $SPY $ES_F we&amp;#39;ve minted 4300 short for 7 different scalps for thousands of dollars. Do we believe the short is there again? Well the level is, but eventually they bang the door long enough it gets opened. If it opens, it really opens. I&amp;#39;ll wait and see if number 8 is the opening first. A Rational Thought~ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:12:30 </td>
-   <td style="text-align:left;"> $SPY puts at open </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:12:21 </td>
-   <td style="text-align:left;"> $SPY Bulls think ATHs are deserved when the world is the worst it&amp;#39;s been since the geopolitical and economic tensions of the 1970s 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:12:18 </td>
-   <td style="text-align:left;"> $SPY shorts ⬇️ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:12:04 </td>
-   <td style="text-align:left;"> $spy 4310 and crash </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:55 </td>
-   <td style="text-align:left;"> $JPM vs. $SPY vs. $TLT: what will be the best investment? #JPMorganChaseCo https://srnk.us/go/4713903 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:54 </td>
-   <td style="text-align:left;"> $SPY Appreciate the cheaper puts at open bulls. Take it up higher and higher </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:16 </td>
-   <td style="text-align:left;"> $SPY No pullback expected- blue sky to 435 today, trapping bear after bear above 430 fueling our 0dtes. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:11 </td>
-   <td style="text-align:left;"> $SPY $VIX I think J-Pow might need to raise rates another 3% or 4% </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:10:41 </td>
-   <td style="text-align:left;"> $SPY every week the markets pump non stop or float at resistance .. wtf happen to red days ? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:10:35 </td>
-   <td style="text-align:left;"> $QQQ $SPY free money day is here!! No downside risk. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:10:25 </td>
-   <td style="text-align:left;"> $NVDA $SPY $QQQ $TSLA  do all  nvidia bulls feel safe relying on TSMC? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:10:06 </td>
-   <td style="text-align:left;"> $SPY Dancing man keeps dancing boys...you know what that means....no one can stop the dancing man.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:55 </td>
-   <td style="text-align:left;"> $SPY not a matter of if but when and how much </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:28 </td>
-   <td style="text-align:left;"> $SPY Yeah, pull back to 4280 in the morning to make the fake fakeout and then run to 4325 today. 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:26 </td>
-   <td style="text-align:left;"> $SPY can anything stop this insane melt up </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:20 </td>
-   <td style="text-align:left;"> $SPY Time to panic bears. You know the drill. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:10 </td>
-   <td style="text-align:left;"> $SPY Weekly chart with machine learning ma&amp;#39;s. Looking interesting $GOLD $SLV </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:03 </td>
-   <td style="text-align:left;"> $TSLA $SPY 
-
-They wanted him out of twitter and now they created a monster. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:08:43 </td>
-   <td style="text-align:left;"> $SPY if u think this going up I’m sorry </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:08:22 </td>
-   <td style="text-align:left;"> $NIO $QQQ $SPX $SPY 
-
-And shorts already blasted. They don’t learn 🙂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:08:03 </td>
-   <td style="text-align:left;"> $SPX $SPY $QQQ lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:37 </td>
-   <td style="text-align:left;"> Feels like there’s a hedge fund going broke today on a massive short squeeze break out $SPY $QQQ $SPX </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:23 </td>
-   <td style="text-align:left;"> $SPY these guys reading the last 24-hour headlines “new Bull Market”.  let’s see what they do… 🤔
-
-https://www.cnbc.com/2023/06/07/millionaires-hoarding-cash-betting-on-higher-rates-cnbc-survey-says.html </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:07 </td>
-   <td style="text-align:left;"> $SPY TRUMP 2024 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:06:29 </td>
-   <td style="text-align:left;"> $SPY   Only up, up, up!!!
-S&amp;amp;P is in a New Bull Run!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:06:13 </td>
-   <td style="text-align:left;"> $SPY SoFi has been killing it 🔥 come join the fun 
-
-https://www.sofi.com/invite/invest?gcp=6a8612e3-a8ae-40a0-a482-279de12ecefa&amp;amp;isAliasGcp=false </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:06:01 </td>
-   <td style="text-align:left;"> $SPY bulls are delusional..the top is in </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:32 </td>
+   <td style="text-align:left;"> $SPY $qqq $aapl $tsla read @pnvoss recent posts. Relax, trust the process, give your self time to make your money back. Relax </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
@@ -4214,92 +4319,31 @@ $SPY $TSLA $AAPL $MSFT $QQQ </td>
    <td style="text-align:left;"> $QQQ is currently trading near its 52 week high, which is a good sign. https://www.chartmill.com/stock/analyzer/stock/QQQ?key=d8dac8fb-a874-4422-96db-185a5752c108&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=QQQ&amp;amp;utm_campaign=social_tracking </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:52:33 </td>
-   <td style="text-align:left;"> $QQQ futes up bigly </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:20 </td>
+   <td style="text-align:left;"> STUPID FED GOONS IN 🇨🇦 RAISING INTEREST RATES .25% THIS WEEK POST TODAY&amp;#39;S EMPLOYMENT REPORT RELEASED MOMENTS AGO @ https://global-premium.econoday.com/byshoweventfull.aspx?fid=570778&amp;amp;cust=global-premium&amp;amp;year=2023&amp;amp;lid=0&amp;amp;prev=/byweek.asp#top #TRUDEAUSUCKS $DIA $SPY $QQQ $AAPL $MSFT </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:51:53 </td>
-   <td style="text-align:left;"> $QQQ yes futes green! Nothing to see here. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:24 </td>
+   <td style="text-align:left;"> $AAPL VR head set is going to be a nice $3000 stocking stuffer this Christmas.  Credit Card debt is surging, Visa and Mastercard report that people aren&amp;#39;t paying them off. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:47:02 </td>
-   <td style="text-align:left;"> $SPY Losten, I just need the $QQQ to hit 359, which is six more than we have now. And if it doesn&amp;#39;t, there&amp;#39;s nothing wrong with recalculating it. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:10 </td>
+   <td style="text-align:left;"> $WLDS It&amp;#39;s happening..Broke 2.40 and she&amp;#39;s going hard..815% ctb with 10k shares.
+Shorts are trapped..Lets GO.
+$AAPL $MSFT $MULN $SPY </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:44:40 </td>
-   <td style="text-align:left;"> $QQQ There&amp;#39;s still one more leg higher. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:49 </td>
+   <td style="text-align:left;"> $SPY $META $AAPL this looks like something that astronauts would wear, lol </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:44:18 </td>
-   <td style="text-align:left;"> $BTC.X WE ARE ENTERING AN UNPRECEDENTED DEBT CRISIS! | RAY DALIO
-https://youtube.com/shorts/L2aHgyw5q78?feature=share
-$SPY $QQQ $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:42:43 </td>
-   <td style="text-align:left;"> $QQQ 359 tomorrow. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:32:17 </td>
-   <td style="text-align:left;"> @mikesmic @sizzlemytits @HugZnotDrugZz not sure about that kind of gorilla math, but $TQQQ puts are going to light up like the 4th. I’m in for Sept and will load on Dec if $QQQ moves up in July. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:27:27 </td>
-   <td style="text-align:left;"> $SPY $qqq  coffee means nothing oil and copper say it all </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:25:09 </td>
-   <td style="text-align:left;"> $SPY  $qqq you would think CNN would try to lie better than calling the start of a new bull market the day before a recession collapse happens .. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:20:22 </td>
-   <td style="text-align:left;"> $DWAC $QQQ $SPY $TSLA Whoa good one I&amp;#39;m laughing so hard </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:17:54 </td>
-   <td style="text-align:left;"> $DWAC Obese Orange needs to inquire about toupees available in the slammer $SPY $TSLA $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:17:42 </td>
-   <td style="text-align:left;"> $SPY  $QQQ   happy YahWeh Month . </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:17:00 </td>
-   <td style="text-align:left;"> $SPY next week is going to be something else. With a Market overvalued on Hype &amp;amp; now at the top we have the Fed, Treasury &amp;amp; now a bunch of poorly educated cult members looking to act up so,.. Where was the VIX? where was the hedges?,... they&amp;#39;re coming! :o) 
- 
-$aapl $qqq $tsla $nvda </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:16:25 </td>
-   <td style="text-align:left;"> Looks like we want to further squeeze shorts and reach all time highs. We are not out of the woods yet tho! $SPY $QQQ $AAPL  https://www.youtube.com/watch?v=P5mgvlo_Xdc </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:15:18 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TSLA 
-
-What the frack, there’s an actual ticker called $MOON 🤣🤣🤣 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:13:52 </td>
-   <td style="text-align:left;"> $SPY $QQQ
-
-change the ticker $TSLA to $MOON </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:32 </td>
+   <td style="text-align:left;"> $SPY $qqq $aapl $tsla read @pnvoss recent posts. Relax, trust the process, give your self time to make your money back. Relax </td>
   </tr>
   <tr>
    <td style="text-align:left;"> AAPL </td>
@@ -6231,33 +6275,437 @@ Gap up tomorrow… sleep well shorties 😬 </td>
    <td style="text-align:left;"> $AAPL Who’s selling the $182.5 call for tomorrow? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:50:42 </td>
-   <td style="text-align:left;"> Dumbonomists don&amp;#39;t think ... they jawbone  ... https://www.marketwatch.com/story/fed-might-hike-interest-rates-again-in-june-instead-of-a-skip-some-economists-think-a3c230bd  ... rest assured higher interest rates incoming  ... enjoy the Autogeddon Armageddon Recession long lasting  ... $aapl $msft $amzn $meta $dis and more 🐻❤😈🤑💲💰✔ </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:40 </td>
+   <td style="text-align:left;"> $TSLA investing just became fun again </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:50:25 </td>
-   <td style="text-align:left;"> $AAPL A welcome relief after yesterday&amp;#39;s nonsense. </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:37 </td>
+   <td style="text-align:left;"> $TSLA go dancing man go </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:48:34 </td>
-   <td style="text-align:left;"> $AAPL NEW ARTICLE : Run away from AAPL, NVDA and the entire tech sector as fast as you can and start buying gold - The High-Tech Strategist&amp;#39;s Fred Hickey https://www.stck.pro/news/AAPL/52518652/ </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:37 </td>
+   <td style="text-align:left;"> $TSLA as far as the recent news with GM and Ford Toyota and the rest of the boys coming in, be aware of that contract package that&amp;#39;s going to be coming with that build out when you have the other car companies acknowledging that&amp;#39;s when you know it&amp;#39;s game over and all the pundits have been wrong.. Tesla bulls have already known this </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:47:42 </td>
-   <td style="text-align:left;"> $AAPL $SPY $TSLA $QQQ lets </td>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:33 </td>
+   <td style="text-align:left;"> $XTRAF Earnings call SHOULD be enough to get and hold us over $1 barring market conditions. $TSLA formal confirmation would have been nice even though it has been mentioned publicly by the CEO. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:47:32 </td>
-   <td style="text-align:left;"> $SPY Trudeau still president ? 
-Biden? 
-Oh, wait, let me ask the latter after Tuesday Core CPI.
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:23 </td>
+   <td style="text-align:left;"> $TSLA 
 
-$QQQ $AMD $AAPL </td>
+Here comes the dark pool action !! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:15 </td>
+   <td style="text-align:left;"> $TSLA 
+First $F , then $GM  
+VW Is the next?
+Tesla long 🚀🚀🚀🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:10:10 </td>
+   <td style="text-align:left;"> $TSLA I&amp;#39;m an absolute tesla bull but when my non tech friends start talking about tesla stock, I think a pullback to add more shares is likely </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:54 </td>
+   <td style="text-align:left;"> $TSLA $SPY 
+
+💪💪👇👇 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:49 </td>
+   <td style="text-align:left;"> $TSLA dude on reddit yoloed like 20k yesterday at close on 250c expiring today at close, holy shit he’s gonna make a ton. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:47 </td>
+   <td style="text-align:left;"> $TSLA $CVNA whose gamma is gonna squeeze harder?? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:37 </td>
+   <td style="text-align:left;"> $MDGS great news. Just 1.6M OS. Nano float. The float is almost locked. This one is HUUUUGE. Next TOP or HKD. $TSLA $AMZN $MSFT </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:33 </td>
+   <td style="text-align:left;"> $TSLA “This is the top” “Whales getting out soon” “Puts at open” “Tesla is just a car company” “Competition is coming” “Tesla is behind on autonomy” “rug pull” “timberrr” </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:19 </td>
+   <td style="text-align:left;"> $TSLA Do you want to know why it&amp;#39;s up over 100? Because it never should have dropped over 300. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:02 </td>
+   <td style="text-align:left;"> $TSLA blOODY HELL! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:09:01 </td>
+   <td style="text-align:left;"> $TSLA I think from here it will follow the market, nasdaq up , it will follow and vice versa </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:48 </td>
+   <td style="text-align:left;"> $TSLA wait for the pump when a major legacy auto licenses FSD. It’s been the plan all along. Elon the ‘nice guy’ with the master plan for the planet. He’s a total business SHARK, need anymore proof? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:42 </td>
+   <td style="text-align:left;"> $TSLA what if it goes down to 245? Panic or buying ? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:41 </td>
+   <td style="text-align:left;"> Largest PUT OI increases $NKLA $TSLA $BVN $HZNP $ENVX 
+ 
+http://staygreen.blackboxstocks.com/SH4G🎉 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:38 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:35 </td>
+   <td style="text-align:left;"> $TSLA not smart people sell Tesla </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:21 </td>
+   <td style="text-align:left;"> $TSLA I think we need to refresh on some concepts. There are only so many shares. Shares need to be re purchased to sell to buyers. Those purchasers are in the business of not over paying based on having a great deal of control in terms of capital and order execution. Meaning a liquidity provider does not like or want a parabolic move layered on already high share and contract prices. Granted they are also long, but a limit exists in terms of their ability to balance their book and fulfill orders. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:17 </td>
+   <td style="text-align:left;"> $SNAX retail sleeping on this one. They won&amp;#39;t be when it&amp;#39;s in the $1s range. 
+
+$SPY $QQQ $TSLA $NVDA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:11 </td>
+   <td style="text-align:left;"> $TSLA holding through weekend </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:08:01 </td>
+   <td style="text-align:left;"> $TSLA $SPY you can’t go wrong with Tesla best company </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:52 </td>
+   <td style="text-align:left;"> $TSLA everyone here is predicting 275? Everyone is right ? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:48 </td>
+   <td style="text-align:left;"> $SPY $TSLA ez work </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:44 </td>
+   <td style="text-align:left;"> $TSLA only idiots sell this stock </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:39 </td>
+   <td style="text-align:left;"> $TSLA TIME FOR ELONA TO START SELLING AGAIN LOL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:31 </td>
+   <td style="text-align:left;"> $TSLA standing pat 👍 
+#ITMfridays 
+#tothemoon 
+#dontpanic </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:23 </td>
+   <td style="text-align:left;"> $TSLA could go either way at open , but will be volatile </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:07:09 </td>
+   <td style="text-align:left;"> Morning News:
+
+📈~ The S&amp;amp;P 500 is now up 20% from the October 12, 2022 low.
+This means the $SPY &amp;amp; markets are now officially in a new bull market.
+
+📉~ PacWest, $PACW, last month sold $2.6 billion of construction loans at a loss.
+
+🇺🇸~ Donald Trump has become the first U.S. president, former or otherwise, to be indicted on federal criminal charges. $QQQ
+
+🔥~ Wedbush adds $TSLA stock to it’s best ideas list. Raises PT to $300 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:44 </td>
+   <td style="text-align:left;"> $TSLA Nice </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:42 </td>
+   <td style="text-align:left;"> $TSLA and it&amp;#39;s Friday. Keep an eye out for some extra news from the big guy this weekend the rollout has started. Stay focused </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:41 </td>
+   <td style="text-align:left;"> $TSLA lol who’s short? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:35 </td>
+   <td style="text-align:left;"> $TSLA NEW ARTICLE : Tesla Is &amp;#39;Playing Chess&amp;#39; While Other Play Checkers. The Stock Keeps Rising. https://www.stck.pro/news/TSLA/52586613/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:32 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:31 </td>
+   <td style="text-align:left;"> $TSLA lol. Major dump? no not fake news </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:29 </td>
+   <td style="text-align:left;"> $TSLA sitting pretty
+💎👐🍆🍆🍆 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:13 </td>
+   <td style="text-align:left;"> $TSLA my charger is erect </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:12 </td>
+   <td style="text-align:left;"> $TSLA this looks like it about to get real vertical. What goes up must come down. Except my D*** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:06:04 </td>
+   <td style="text-align:left;"> $TSLA I will add more today! I believe it will pass 300 soon. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:37 </td>
+   <td style="text-align:left;"> $TSLA you got 27 min left before the major dump by Institutions running for the exit and the average joe will be left holding the empty </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:29 </td>
+   <td style="text-align:left;"> $TSLA I Cashed Out Yesterday AH @ the Moon ATM Machine while watching the One Way Ticket Line to Mars 
+getting SqueeZzzyy. 
+It will be a Frenzy and Little Fortune  ATM$ Friday for the Martians and Moonrakers. 
+ 
+WB Golden Trading Rule... is Great!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:24 </td>
+   <td style="text-align:left;"> $RGTI quantum computing is a necessity for Artificial Intelligence!!!
+$AI $TSLA $NVDA 
+
+The company operates a rapid prototyping fabrication (&amp;quot;fab&amp;quot;) lab called Fab-1, designed to quickly create integrated circuits. Lab engineers design and generate experimental designs for 3D-integrated quantum circuits for qubit-based quantum hardware </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:22 </td>
+   <td style="text-align:left;"> $TSLA 300 then can all go get more Cybertruck orders </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:14 </td>
+   <td style="text-align:left;"> $TSLA I bet a lot of people will try to close out before open. I wouldn&amp;#39;t be long at open.  If anything, wait for the dip and buy back in. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:11 </td>
+   <td style="text-align:left;"> $CRSP THEY STUCK IT TO BEARS AT 7:45 PM yesterday (FDA ACCELERATED REVIEW), and again today at 7:15 AM (DATA FROM EUROPE CONFERENCE).   It is gonna get nasty if you wait to cover.   I am buying the open and calls.  $TSLA $spy $AMZN </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:05:10 </td>
+   <td style="text-align:left;"> $TSLA this is a bot. Don’t let them scare you out your position. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:53 </td>
+   <td style="text-align:left;"> $TSLA hold every share .. Tesla is on the cusp to completely takeover </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:50 </td>
+   <td style="text-align:left;"> $TSLA Bears think this is the top.  We are very far below the all time high. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:40 </td>
+   <td style="text-align:left;"> $TSLA Looks like the hole to 300 is going to fill up quickly. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:31 </td>
+   <td style="text-align:left;"> $TSLA you think shorts are stupeed?
+smart money with deep pockets can end the insane run faster than u blink your I </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:29 </td>
+   <td style="text-align:left;"> $TSLA WHO CHASED OVER $250?? LOL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:26 </td>
+   <td style="text-align:left;"> $TSLA any guesses on what 6/16 235 calls are opening up at? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:04:10 </td>
+   <td style="text-align:left;"> $TSLA I can’t wait for bears to eat again. All time lows didn’t last 😋 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:54 </td>
+   <td style="text-align:left;"> $TSLA cash makes more returns than tsla.. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:51 </td>
+   <td style="text-align:left;"> $TSLA halt and opens at 220s 🤞🏼 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:43 </td>
+   <td style="text-align:left;"> $TSLA Good morning bulls! ☀️ It looks like we are hitting $250 per share today. That means we are only $150 away from our $400 price target now! Woohoo 🥳 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:33 </td>
+   <td style="text-align:left;"> $SPY can we just destroy some more broke failed opinionated RETAIL traders today  
+ 
+$TSLA $AMC $GME $NVDA  
+ 
+there is only one purpose of short term markets, WIPE OUT BROKE humans who never belonged!!!  
+ 
+🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:27 </td>
+   <td style="text-align:left;"> $TSLA it sucks to be short at 160$ like 4 days ago. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:17 </td>
+   <td style="text-align:left;"> $TSLA will add 1 to 3b in 2025 out of this propaganda news added close to 70B dollars market cap between yesterday and today.This is insane! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:16 </td>
+   <td style="text-align:left;"> $TSLA 270 EOD this is going up 15% </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:03:12 </td>
+   <td style="text-align:left;"> $TSLA what price target to shirt this overpriced stock </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:46 </td>
+   <td style="text-align:left;"> $TSLA  ur moms house </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:41 </td>
+   <td style="text-align:left;"> $TSLA bears absolutely surrender, hand over your shares at mega losses. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:40 </td>
+   <td style="text-align:left;"> $TSLA nobody knows what will happen. It will go up, down, or sideways. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:40 </td>
+   <td style="text-align:left;"> $CHPT $EVGO  $TSLA  the third party charger companies are so bad at what they do they forced a EV checkmate and probably will make Elon the first  trillionaires. 
+
+https://www.smartcitiesdive.com/news/ev-charging-infrastructure-inadequate-non-functioning-stations/643148/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:32 </td>
+   <td style="text-align:left;"> $SPY $qqq $aapl $tsla read @pnvoss recent posts. Relax, trust the process, give your self time to make your money back. Relax </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:29 </td>
+   <td style="text-align:left;"> $TSLA where we at bitches ? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:19 </td>
+   <td style="text-align:left;"> Shares of Tesla ($TSLA) are climbing in pre-market on deal to provide Tesla Supercharger to General Motors 
+ 
+Read more about it. 
+https://www.rttnews.com/3369309/tesla-up-6-in-pre-market-on-deal-to-provide-supercharger-network-to-gm.aspx </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:04 </td>
+   <td style="text-align:left;"> $TSLA 
+
+I got to say this stock is Insane 
+Wasn’t it at 100 like 5 weeks or 2 months ago ?
+Crazy! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:02:03 </td>
+   <td style="text-align:left;"> $TSLA bailing some shares at $250.   Leaving rest for long/run.    Will jump back in when then pullback to refuel.  Careful people.  Currently at overbrought zone </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:59 </td>
+   <td style="text-align:left;"> $TSLA $250 lottos were. 01? Yesterday? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:38 </td>
+   <td style="text-align:left;"> $TSLA I’ve had a tough first couple years in the market (admittedly lost a lot on penny stocks). BUT, TSLA has been my best trade so far.  I bought at $110 and IM VERY THANKFUL.  Holding for more </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:30 </td>
+   <td style="text-align:left;"> $TSLA My PT for today was
+242.01. They said to hell with that 1.618 &amp;amp; melted up through it like butter. Wild moves! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:29 </td>
+   <td style="text-align:left;"> $TSLA can someone remind me of the name of the app that simulate option pricing? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:27 </td>
+   <td style="text-align:left;"> $SPY free money fridays are back $TSLA </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
@@ -7520,453 +7968,6 @@ https://apextraderfunding.com/member/aff/go/danny715
    <td style="text-align:left;"> TSLA </td>
    <td style="text-align:left;"> 2023-06-09 20:37:26 </td>
    <td style="text-align:left;"> $tsla Kathie Woods just gave Tesla the kiss of death 💋💀 $COIN $ARKK $qqq </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:37:16 </td>
-   <td style="text-align:left;"> $TSLA Damn 🙄 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:37:16 </td>
-   <td style="text-align:left;"> $TSLA pouring one for the bears. My 230c and 235c will be paid. Attacking 275c fir next week… even though it might tag it today. It’s a celebration betches!!! Thanks for the fuel bears </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:37:00 </td>
-   <td style="text-align:left;"> $TSLA Elon right now. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:36:56 </td>
-   <td style="text-align:left;"> $TSLA $300 PT !  
-https://www.investing.com/news/stock-market-news/tesla-now-owns-the-charging-ecosystem-domestically--wedbush-bumps-target-on-gm-deal-432SI-3101946 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:36:25 </td>
-   <td style="text-align:left;"> $TSLA Happy for everyone making money. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:36:20 </td>
-   <td style="text-align:left;"> $TSLA greatest pump of all time is tesla. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:36:19 </td>
-   <td style="text-align:left;"> $TSLA 270ish Y not at this rate.....50pointer for EOW F U candle </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:36:12 </td>
-   <td style="text-align:left;"> $TSLA crud…looked back at my last Tesla sell and it was $196. Missed this run majorly. 😳😳 congrats y’all </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:36:08 </td>
-   <td style="text-align:left;"> $TSLA two easy questions for any real tesla bull. Being asked honestly. What is the max AC charging speed at home and what are DC superchargers maxing out at for the newest models? Im guessing 11kwh for AC and 200kwh for DC. Is that accurate? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:36:03 </td>
-   <td style="text-align:left;"> $SPY Morgan Stanly being the biggest joke of them all $QQQ $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:36:00 </td>
-   <td style="text-align:left;"> $TSLA going for 314 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:57 </td>
-   <td style="text-align:left;"> $TSLA what is there left to pump? We already up 7% on no volume. Watch market take this to 260 today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:56 </td>
-   <td style="text-align:left;"> $TSLA there&amp;#39;s a guy on Wallstreet bets who bought 1000 250 calls expiring tomorrow as a mistake. He might make a million if tsla hits 260 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:54 </td>
-   <td style="text-align:left;"> $TSLA pump to 300 with your fake upgrade so massive dump happens. The wait for many shareholders tired of Felon Muskarat, thanks to GM and Ford takeover, is over! $SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:52 </td>
-   <td style="text-align:left;"> $TSLA I still have 217.5 weekly calls. I think I’ll get out at open. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:50 </td>
-   <td style="text-align:left;"> $TSLA $SPY EZ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:49 </td>
-   <td style="text-align:left;"> $TSLA Will watch now </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:46 </td>
-   <td style="text-align:left;"> $TSLA wonder how much Elon made the past 2 days ? 🧐 theoretically, I know he’d have to sell </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:41 </td>
-   <td style="text-align:left;"> $TSLA 110% YTD, load puts like no brainer. Another reason is $WISH pumpers are pumping this. I just need to do the opposite. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:40 </td>
-   <td style="text-align:left;"> $TSLA damn I said open at 250… could be more than that 🤧🤧🤧 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:31 </td>
-   <td style="text-align:left;"> In Group 3 Live Session today, we will also explain that the #Dollar has ended the bounce and will get sideways to lower in a Negative USD Dynamic. #Equities and #commodities should rally.  #Elliottwave #Stocks #Trading $SPY $SPX $AAPL $TSLA $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:31 </td>
-   <td style="text-align:left;"> $TSLA So you mean TSLA basically owns the only place to charge an EV in the US?   Hahaha I’m in! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:21 </td>
-   <td style="text-align:left;"> $TSLA Acquired $250 Pt. On watch now </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:20 </td>
-   <td style="text-align:left;"> Disgrace to the Stock Race  the bears 🐻 
-$SPY $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:18 </td>
-   <td style="text-align:left;"> $TSLA I think I made have made 20k profit on my calls.... 🤤 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:17 </td>
-   <td style="text-align:left;"> $SPY the local $TSLA charging station is already packed. Need more stations. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:12 </td>
-   <td style="text-align:left;"> $NFLX BOOM 💥 Told you all yesterday 📈
-
-$SPY $TSLA $NVDA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:10 </td>
-   <td style="text-align:left;"> $TSLA $269.69 baby! For 6/9!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:01 </td>
-   <td style="text-align:left;"> $TSLA I think I’ll sell a little here but hold the rest for $300 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:35:00 </td>
-   <td style="text-align:left;"> $TSLA 250 ;-) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:58 </td>
-   <td style="text-align:left;"> $TSLA we may fill that 280 gap in the next week or two. Load your 300c, boys. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:48 </td>
-   <td style="text-align:left;"> $TSLA this isn’t a penny stock… gaps don’t have to fill lmao. I can think of 100 examples right now with companies like apple and Amazon. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:44 </td>
-   <td style="text-align:left;"> $TSLA not even sure what we’re pumping about anymore but I’ll like it. A LOT! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:41 </td>
-   <td style="text-align:left;"> $TSLA
-Bears “$260? it’s not possible.”
-Bulls “No. it’s necessary.” </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:23 </td>
-   <td style="text-align:left;"> $TSLA TESLA WILL BE THE GAS STATIONS OF THE FUTURE..IT WILL BE THE FIRST $10 TRILLION COMPANY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:17 </td>
-   <td style="text-align:left;"> $TSLA what will hod be? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:16 </td>
-   <td style="text-align:left;"> $TSLA bears grab your balls and whatever money you have left and drop the price so I can buy more </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:11 </td>
-   <td style="text-align:left;"> $CVNA $TSLA $PLTR  it another wonderful day with you three. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:09 </td>
-   <td style="text-align:left;"> $TSLA to the moon!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:09 </td>
-   <td style="text-align:left;"> $TSLA shorts if your still shorting since 200 you have only lost half your investment </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:07 </td>
-   <td style="text-align:left;"> $TSLA holy F </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:06 </td>
-   <td style="text-align:left;"> $TSLA 3x the normal PM volume.  Pain n more pain for the shorts like Craig and G Johnson. How on earth these 2 still have a job </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:05 </td>
-   <td style="text-align:left;"> The cash train continues..... $CVNA $TSLA $AFRM $UPST </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:34:05 </td>
-   <td style="text-align:left;"> $TSLA Bears are mad in the comment section I wonder why lol 
-
-They must of thought today was going to be a bearish day or was hoping for it to go back to $215 lol
-
-They really about to be mad once opening bell hit and they see a negative balance lol 
-
-$280 by earnings </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:33:51 </td>
-   <td style="text-align:left;"> $TSLA no one told me RSI goes plaid at 110? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:33:43 </td>
-   <td style="text-align:left;"> $TSLA straight lotto 🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:33:43 </td>
-   <td style="text-align:left;"> Damn $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:33:33 </td>
-   <td style="text-align:left;"> $TSLA 😆 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:33:23 </td>
-   <td style="text-align:left;"> $SPY Who bought POS $MSFT instead of pumping $TSLA $CVNA ? 🤣 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:33:18 </td>
-   <td style="text-align:left;"> $TSLA my 250 contract wow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:33:10 </td>
-   <td style="text-align:left;"> $TSLA someone said short at open you still wanna short at open 🤡😂😂😂😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:32:40 </td>
-   <td style="text-align:left;"> $TSLA yassssssss!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:32:39 </td>
-   <td style="text-align:left;"> $TSLA bears I don’t hear or see you what happened? 😂😂😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:32:34 </td>
-   <td style="text-align:left;"> $TSLA Who wants to see my </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:32:22 </td>
-   <td style="text-align:left;"> $TSLA get use to these $10 to $15 pops!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:32:20 </td>
-   <td style="text-align:left;"> $TSLA  you will sell house ? 
-
-Ok. Go ahead </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:32:08 </td>
-   <td style="text-align:left;"> $TSLA holy fucking shit dude I think Tesla is going through price discovery for their charging business </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:32:07 </td>
-   <td style="text-align:left;"> $TSLA  
-Almost there $$$$$$ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:32:01 </td>
-   <td style="text-align:left;"> $TSLA  going to open new position @ 10.30 AM today 👋👋..
-
-Scalpers get lost </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:57 </td>
-   <td style="text-align:left;"> $TSLA $225 puts July 28 or Aug 18? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:46 </td>
-   <td style="text-align:left;"> $TSLA clearly &amp;quot;never bet against Tesla&amp;quot; </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:34 </td>
-   <td style="text-align:left;"> $SPCE 
-
-🔥40 REASONS TO BUY VIRGIN GALACTIC (SPCE) STOCK🔥
-
-1. First Commercial Flight in June
-2. Successful Last Test Flight
-3. Huge Revenue Coming
-4. Celebrity Passengers Media Exposure
-5. Potential SpaceX Deal
-6. Branson owns 46M Shares
-7. Musk &amp;amp; Branson Friendship
-8. 800+ Reservations
-9. $450k each flight
-10. FAA Approved
-11. Hype Building
-12. Delta Spaceships
-13. U.S./Italy Contract
-14. NASA Partnership
-15. Under Armour deal
-16. Excellent Patents
-17. SuperSonic Air Travel
-18. 1st to Spaceflights
-19. Microsoft deal
-20. $1B Cash
-21. Undervalued
-22. Experienced Flight Team
-23. Boeing deal
-24. Will Explore Space
-25. Rolls Royce deal
-26. 400 flights yearly
-27. Oversold
-28. Superior Tech
-29. Qarbon Aerospace
-30. Successful Test Flights
-31. Lead by Branson
-32. Spaceport America Lease
-33. Land Rover Deal
-34. Ahead of Competition
-35. Potential 30x+ Long Term
-36. Space Era Coming
-37. Research Flight for Italy
-38. Gov’t Contracts
-39. Virtuoso deal
-40. Great Management
-
-$TSLA $TQQQ $SPYD </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:34 </td>
-   <td style="text-align:left;"> $TSLA there&amp;#39;s  my 250! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:28 </td>
-   <td style="text-align:left;"> $TSLA food stamp office opens at 8am . The bears are nowhere to be found here 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:24 </td>
-   <td style="text-align:left;"> Group 3 Live Session will start at 9AM. Tune in @ https://elliottwave-forecast.com/amember/go.php?r=34991&amp;amp;i=l1 where we will explain all the instruments and what should be happening next. #Elliottwave #Stocks #Trading $SPY $QQQ $TSLA $AAPL $SPX </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:19 </td>
-   <td style="text-align:left;"> $TSLA Will this drop hard at the bell from people taking profits? I hope so, to buy calls lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:19 </td>
-   <td style="text-align:left;"> $TSLA cmon knock down that 250 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:12 </td>
-   <td style="text-align:left;"> $TSLA what i learned holding my 16 month 75k Amazon bag is you either lock profit or someone else locks your profit. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:12 </td>
-   <td style="text-align:left;"> $TSLA $1T MC coming soon… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:10 </td>
-   <td style="text-align:left;"> $TSLA Raise your hands if you bought puts yesterday? 😜 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:06 </td>
-   <td style="text-align:left;"> $TSLA anyone think I should buy some $300 strike exp in 2 weeks </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:02 </td>
-   <td style="text-align:left;"> $TSLA [15s. delayed]: Issued Press Release on June 09, 08:30:00: Home Advantage: How Domestic REE Supply Is Supercharging North American C https://s.flashalert.me/IozAX </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:31:00 </td>
-   <td style="text-align:left;"> $TSLA but spy is sus atm </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:30:54 </td>
-   <td style="text-align:left;"> $TSLA boom that’s the milestone …. Next one 300 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:30:30 </td>
-   <td style="text-align:left;"> $TSLA $250 🚀🚀🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:30:24 </td>
-   <td style="text-align:left;"> $TSLA 300 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:30:10 </td>
-   <td style="text-align:left;"> $TSLA How High will it go today you asked? The stock will see 153.50&amp;#39;s to 155&amp;#39;s once it gets going after the Bell a roonski. </td>
   </tr>
 </tbody>
 </table></div>
