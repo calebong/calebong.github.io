@@ -4,11 +4,13 @@ output:
     keep_md: true
 ---
 
-# Investment Analytics Portfoliosss
+# Financial Data Analytics Portfolio
 
-My portfolio exhibits various examples of the data analytics and financial modelling that I conduct in my daily workflows.
+This section highlights my experience in workflow conceptualization, idea implementation, and deployment of financial and risk management analytical tools, which are used in everyday work.
 
 * Forecasting Models
+  * Monthly Country Industry Performance and Risk Forecast Model
+  * Daily Country Industry Risk Monitoring and Forecast Model
   * Target Stock Price Setting for US Listed Equities
   * Economic Forecasting
   * Currency Forecasting
@@ -22,6 +24,23 @@ My portfolio exhibits various examples of the data analytics and financial model
 ## Forecasting Models
 
 ---
+
+### Monthly Country Industry Performance and Risk Forecast Model
+
+#### Gradient boosting frameworks for probabilistic assessments of market sectors performance and risk expectations. Implementable and scalable across industries and sub sectors of many countries. The preview document highlights the workflow and analysis, as applied to the 11 main USA GIC sectors.
+
+[Preview Document](/pdf/Preview-Monthly-Country-Industry-Forecast-Model.pdf)
+
+<img src="images/demoRmdUsa.png?raw=true"/>
+
+### Daily Country Industry Risk Monitoring and Forecast Model
+
+#### Markov-switching GARCH models for market sectors risk monitoring and risk expectations assessment. Implementable and scalable across industries and sub sectors of many countries. The preview document highlights the workflow and analysis, as applied to the 11 main USA GIC sectors.
+
+
+[Preview Document](/pdf/Preview-Daily-Country-Industry-Risk-Forecast-Model.pdf)
+
+<img src="images/demoRmdUsaGarch.png?raw=true"/>
 
 ### Target Stock Price Setting for US Listed Equities
 
@@ -92,7 +111,7 @@ At present, sources of news include:
 
 
 
-Last Updated: 2023-06-09 20:13:30 UTC +8
+Last Updated: 2023-06-09 21:01:16 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -105,16 +124,52 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/canada/capacity-utilization </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:00 </td>
+   <td style="text-align:left;"> Canada Capacity Utilization Rate Ticks Up to 81.9% in Q1 </td>
+   <td style="text-align:left;"> Canadian industries operated at 81.9% of their production capacity in the first quarter of 2023, slightly higher than the upwardly revised 81.8% in the fourth quarter of 2022, largely attributed to an uptick in the manufacturing capacity utilization rate (78.1% vs 77.1% in Q4). Capacity utilization increased in 13 of the 21 major manufacturing industry groups, representing approximately 75% of the gross domestic product in the manufacturing sector, notably the manufacture of transportation equipment (80.7% vs 77%), petroleum and coal products (86.8% vs 83.8%) and fabricated metal products (78.3% vs 76.3%).  Meanwhile, capacity utilization fell in the mining, quarrying, and oil and gas extraction sector (79.5% from 80.4%) and construction (90.2% vs 90.5%). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/canada/unemployment-rate </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:00 </td>
+   <td style="text-align:left;"> Canadian Unemployment Rises More than Expected </td>
+   <td style="text-align:left;"> The unemployment rate in Canada rose to 5.2% in May of 2023 after remaining at 5% for the five previous months, above market estimates of 5.1% to mark the first monthly increase in the unemployment rate since August 2022. The data suggested that the Canadian labor market is starting to give in to higher interest rate from the BoC after remaining stubbornly tight for a long period, as unemployment rose by 34,800 individuals to 1,058,200. Joblessness was notably higher among people aged 55 and older (+0.2pp to 4.1%), while unemployment for the core-aged working force was broadly unchanged (at 4.3%). Consequently, 17,300 jobs were removed from the Canadian economy, sharply missing market expectations of a 23,200 gain. In the meantime, the labor force participation rate fell by 0.1 percentage point to 65.5% in the period. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/canada/employment-change </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:00 </td>
+   <td style="text-align:left;"> Canadian Economy Sheds Jobs for 1st Time in 9 Months </td>
+   <td style="text-align:left;"> The Canadian economy shed 17.3K jobs in May of 2023, the first decline in nine months, and compared to forecasts of a 23.2K rise. The number of employees held steady in the private and public sector, while there was a decline in the number of self-employed workers (-40K). Employment fell by 77K for youth aged 15 to 24, offsetting a 63K increase among people aged 25 to 54. There were fewer people employed in business, building and other support services (-31K), as well in professional, scientific and technical services (-13K) while increases were seen in manufacturing (13K) and utilities (4.2K). Employment growth has moderated in recent months and monthly increases averaged 33K from February to April, after strong gains totalling 326K from September 2022 to January 2023. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://tradingeconomics.com/russia/government-bond-yield </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:50 </td>
+   <td style="text-align:left;"> Russian Bond Yields Extend Rise After CBR </td>
+   <td style="text-align:left;"> The yield on the Russian 10-year OFZ jumped to 10.85% in June, adding 60bps since the start of the second quarter amid a hawkish central bank and persistent concerns over the government’s fiscal stability. The Central Bank of Russia paved the way for rate hikes in upcoming meetings as inflationary risks are higher and consumer demand is rising, trimming demand for government bonds. In the meantime, new data from the Ministry of Finance showed that the Federal government posted a budget deficit of RUB 3.4 trillion in the first five months of the year, a record-high for the period, as war spending continued to soar and low energy prices dented the state’s essential revenue streams. The developments force the government to depend on bond issuance to finance its budget deficit, lifting yields. Additionally, the Kremlin continued to deplete its foreign currency holdings and its National Welfare Fund. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/citi-to-cut-50-london-jobs-in-investment-and-corporate-banking </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:28 </td>
+   <td style="text-align:left;"> Citi to Cut 50 London Jobs in Investment and Corporate Banking </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                      , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                    , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                   , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                               , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                     , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                     , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                             , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                  , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                          , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                  , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                             , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                     , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                             , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                   , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                  , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                   , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                               , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                  , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                        , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                         , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                            , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                           , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                        , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                             , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                              , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                               , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                          , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                               , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                             , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                     , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                           , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                             , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                              , Citigroup’s offices in Canary Wharf, London.                                                                                                                                                                                 , William Shaw                                                                                                                                                                                                                 , Subscriber Benefit                                                                                                                                                                                                           , Subscribe                                                                                                                                                                                                                    , Citigroup Inc. is planning to cut 30 investment banking jobs and 20 more in its corporate banking unit in London in its latest wave of redundancies.                                                                         , The cuts are necessary for the bank to reduce its cost base because of adverse market conditions, according to a person within the bank, who isn’t authorized to speak publicly. Financial News reported the layoffs earlier. </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/mexico/industrial-production </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:10 </td>
-   <td style="text-align:left;"> Mexico Industrial Output Continues to Slow </td>
-   <td style="text-align:left;"> Mexico’s industrial production went up by 0.7% from a year earlier in April 2023, following a downwardly revised 1.5% increase in the prior month and below market forecasts of a 1.3% rise. It marks the 18th consecutive month of growth in industrial activity, albeit the weakest since October 2021, supported by mining &amp; quarrying (1.9% vs 2.2%); manufacturing (1.4% vs 1.1%), and, to a lesser extent, utilities (0.6% vs 3.8%). Meanwhile, output contracted for construction (-2% vs 1.7%). On a seasonally adjusted monthly basis, industrial output rose by 0.4% in April, after a 0.9% fall in March, in line with market estimates. </td>
+   <td style="text-align:left;"> 2023-06-09 20:13:00 </td>
+   <td style="text-align:left;"> Mexico Industrial Output Growth Continues to Slow </td>
+   <td style="text-align:left;"> Mexico’s industrial production went up by 0.7% from a year earlier in April 2023, following a downwardly revised 1.5% increase in the prior month and below market forecasts of a 1.3% rise. It marks the 18th consecutive month of growth in industrial activity, albeit the weakest since October 2021. Output increased for mining &amp; quarrying (1.9% vs 2.2%); manufacturing (1.4% vs 1.1%) and utilities (0.6% vs 3.8%), but it contracted for construction (-2% vs 1.7%). On a seasonally adjusted monthly basis, industrial output rose by 0.4% in April, after a 0.9% fall in March, in line with market estimates. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/russia/stock-market </td>
    <td style="text-align:left;"> 2023-06-09 20:00:47 </td>
    <td style="text-align:left;"> MOEX Holds Gains Despite Hawkish CBR </td>
    <td style="text-align:left;"> The ruble-based MOEX Russia index held slight gains and hovered close to the 2,715 mark, extending the advance from the previous session with support from banks and oil companies, while investors digested the Central Bank of Russia’s interest rate decision. The CBR held borrowing costs unchanged for the sixth consecutive decision but paved the way for rate hikes in the incoming meetings as inflationary risks are higher than before. Banking giant Sberbank hovered flat after its May results were broadly in line with market expectations, while shares in the rest of the sector booked sharp gains on the back of solid results from VTB posted earlier in the week. In the meantime, gains for oil companies were led by a 5% surge for preferred Surgut shares following the announcement of strong 2022 results. Also, Transneft added 1.6% as its board will announce dividends on Tuesday. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/inflation-s-big-stock-winner-insurance-broker-arthur-j-gallagher-outperforms </td>
+   <td style="text-align:left;"> 2023-06-09 20:00:00 </td>
+   <td style="text-align:left;"> The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                     , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                   , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.  , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                              , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                    , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                    , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                            , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                 , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                         , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                 , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                            , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                    , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                            , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                  , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                               , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                 , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                  , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                              , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                 , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                       , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                        , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                           , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                          , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                       , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                               , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                            , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                             , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                              , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                         , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                              , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                            , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                    , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                          , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                            , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                             , Arthur J. Gallagher &amp; Co. CEO J. Patrick Gallagher Jr.                                                                                                                                                      , Source: PRNewswire                                                                                                                                                                                          , Breanna Bradham                                                                                                                                                                                             , Subscriber Benefit                                                                                                                                                                                          , Subscribe                                                                                                                                                                                                   , It’s enemy No. 1 inside the halls of the Federal Reserve, dreaded in cash-strapped households across America and a headache for CFOs at countless companies, big and small.                                 , But bring up inflation with executives at Arthur J. Gallagher &amp; Co., an insurance broker outside Chicago, and you’ll get a very different reaction. “We win,” says J. Patrick Gallagher Jr., the firm’s CEO. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.nytimes.com/2023/06/09/business/dealbook/trump-indictment-2024.html </td>
@@ -145,6 +200,12 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
    <td style="text-align:left;"> 2023-06-09 19:36:29 </td>
    <td style="text-align:left;"> Macedonia Jobless Rate Hits New Record Low </td>
    <td style="text-align:left;"> The unemployment Rate in North Macedonia fell further to 13.4 percent in the first quarter of 2023, down from 14 percent in the previous period. This was the lowest jobless rate since comparable records began in 1993, as the number of unemployed declined by 8 thousand to 104.4 thousand and the number of employed was also down by 13 thousand to 683 thousand. Meanwhile, the employment rate edged down to 45.1 percent from 47.2 percent, while the activity rate fell to 52 percent from 54.9 percent. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/teachers-strike-in-romania-as-union-sees-little-scope-for-deal </td>
+   <td style="text-align:left;"> 2023-06-09 19:28:13 </td>
+   <td style="text-align:left;"> Teachers Strike in Romania as Union Sees Little Scope for Deal </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                         , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                       , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                      , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                  , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                        , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                        , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                     , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                             , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                     , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                        , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                      , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                   , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                     , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                      , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                  , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                     , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                           , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                            , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                               , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                              , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                           , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                   , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                 , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                  , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                             , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                  , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                        , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                              , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                 , Romanian teachers protest in front of the Romanian Government headquarters in Bucharest, on May 25                                                                                                                              , Photographer: Daniel Michaelscu/AFP/Getty Images                                                                                                                                                                                , Andra Timu and                                                                                                                                                                                                                  , Irina Vilcu                                                                                                                                                                                                                     , Subscriber Benefit                                                                                                                                                                                                              , Subscribe                                                                                                                                                                                                                       , Thousands of teachers took to the streets of Romania’s capital as the biggest education strike in almost two decades approached its third week and the government struggled to reach a deal with union negotiators.             , Some 10,000 people joined the demonstration in central Bucharest Friday to demand a pay hike and better working conditions, according to local media. It was the third such gathering since the teachers’ strike began May 22.   </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/commodity/cocoa </td>
@@ -198,13 +259,13 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/malaysia-names-abdul-rasheed-ghaffour-as-central-bank-governor </td>
    <td style="text-align:left;"> 2023-06-09 18:36:21 </td>
    <td style="text-align:left;"> Malaysia Names Abdul Rasheed Ghaffour as Central Bank Governor </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                               , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                             , Bloomberg Quicktake explores the world of technology and the people who power it. From innovative gadgets to ground-breaking science, dive into the advancements changing our daily lives and the business that drives it.            , UBS Chief Ermotti Sees ‘Bumpy’ Months Ahead as Deal Close Nears                                                                                                                                                                       , Ex-Barclays CEO Jes Staley Set to Appear for Epstein Deposition                                                                                                                                                                       , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                      , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                           , Ex-PBOC Deputy Governor Accused of Bribery, Abuse of Power                                                                                                                                                                            , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                        , Japan Sushi Chain Sues Teen $480,000 For Soy-Sauce Licking Prank                                                                                                                                                                      , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                              , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                      , Mark Zuckerberg Shares AI Products to Reassure Workers of Strategy                                                                                                                                                                    , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                         , Italy Will Keep Blocking EU Bailout Fund Approval, Meloni Says                                                                                                                                                                        , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                           , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                            , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                           , How to Re-Create European Styles of Grilling                                                                                                                                                                                          , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                  , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                     , The Consumer Spending Mystery Is Really No Mystery                                                                                                                                                                                    , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                    , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                 , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                         , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                      , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                       , NY Skies Start Clearing as Rain in Sight: Smoky Air Latest                                                                                                                                                                            , Climate Change and Homeowners’ Insurance Are on a Collision Course                                                                                                                                                                    , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                        , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                      , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                              , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                    , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                      , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                       , Shaik Abdul Rasheed Abdul Ghaffour                                                                                                                                                                                                    , Anisah Shukry                                                                                                                                                                                                                         , Subscriber Benefit                                                                                                                                                                                                                    , Subscribe                                                                                                                                                                                                                             , Malaysia named Shaik Abdul Rasheed Abdul Ghaffour as its new central bank governor, tasked with fostering stability and confidence in an economy under pressure from slowing global demand, volatile inflation and a weakened ringgit., Malaysia’s king approved Abdul Rasheed as the governor from July 1 for a period of five years, Bank Negara Malaysia said Friday. He will replace Nor Shamsiah Mohd Yunus, whose term ends June 30, according to the statement. </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                               , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                             , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                            , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                        , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                              , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                              , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                      , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                           , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                   , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                           , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                      , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                              , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                      , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                            , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                         , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                           , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                            , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                        , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                           , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                 , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                  , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                     , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                    , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                 , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                         , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                      , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                       , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                        , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                   , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                        , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                      , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                              , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                    , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                      , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                       , Shaik Abdul Rasheed Abdul Ghaffour                                                                                                                                                                                                    , Anisah Shukry                                                                                                                                                                                                                         , Subscriber Benefit                                                                                                                                                                                                                    , Subscribe                                                                                                                                                                                                                             , Malaysia named Shaik Abdul Rasheed Abdul Ghaffour as its new central bank governor, tasked with fostering stability and confidence in an economy under pressure from slowing global demand, volatile inflation and a weakened ringgit., Malaysia’s king approved Abdul Rasheed as the governor from July 1 for a period of five years, Bank Negara Malaysia said Friday. He will replace Nor Shamsiah Mohd Yunus, whose term ends June 30, according to the statement. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/zimbabwe-share-prices-daily-limit-raised-after-760-jump </td>
    <td style="text-align:left;"> 2023-06-09 18:27:11 </td>
    <td style="text-align:left;"> Zimbabwe Lifts Daily Share-Move Limit to Cope With Price Surges </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                               , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                             , Bloomberg Quicktake explores the world of technology and the people who power it. From innovative gadgets to ground-breaking science, dive into the advancements changing our daily lives and the business that drives it.                                                                                                                            , UBS Chief Ermotti Sees ‘Bumpy’ Months Ahead as Deal Close Nears                                                                                                                                                                                                                                                                                       , Ex-Barclays CEO Jes Staley Set to Appear for Epstein Deposition                                                                                                                                                                                                                                                                                       , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                                      , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                           , Ex-PBOC Deputy Governor Accused of Bribery, Abuse of Power                                                                                                                                                                                                                                                                                            , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                        , Japan Sushi Chain Sues Teen $480,000 For Soy-Sauce Licking Prank                                                                                                                                                                                                                                                                                      , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                              , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                                      , Mark Zuckerberg Shares AI Products to Reassure Workers of Strategy                                                                                                                                                                                                                                                                                    , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                         , Italy Will Keep Blocking EU Bailout Fund Approval, Meloni Says                                                                                                                                                                                                                                                                                        , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                           , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                            , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                           , How to Re-Create European Styles of Grilling                                                                                                                                                                                                                                                                                                          , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                                  , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                                     , The Consumer Spending Mystery Is Really No Mystery                                                                                                                                                                                                                                                                                                    , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                                    , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                                 , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                         , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                                      , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                       , NY Skies Start Clearing as Rain in Sight: Smoky Air Latest                                                                                                                                                                                                                                                                                            , Climate Change and Homeowners’ Insurance Are on a Collision Course                                                                                                                                                                                                                                                                                    , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                        , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                                      , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                              , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                                    , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                                      , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                                       , Ray Ndlovu                                                                                                                                                                                                                                                                                                                                            , Subscriber Benefit                                                                                                                                                                                                                                                                                                                                    , Subscribe                                                                                                                                                                                                                                                                                                                                             , Share prices are rising so rapidly on Zimbabwe’s main stock exchange that the bourse is increasing the maximum move allowed in a single day.                                                                                                                                                                                                          , A new daily limit of a 15% move in the all-share index — up from 10% — will be implemented from Monday, Justin Bgoni, chief executive officer of the Zimbabwe Stock Exchange in Harare, said by phone Friday. Circuit breakers halted trading on the bourse on three consecutive days this week. “It’s in response to the recent activity,” he said.   </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                               , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                             , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                            , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                        , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                              , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                              , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                                      , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                           , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                                   , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                                                                                                                                           , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                                      , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                              , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                                      , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                            , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                         , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                           , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                            , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                        , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                           , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                                 , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                                  , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                                     , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                                    , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                                 , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                         , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                                      , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                       , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                        , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                                   , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                        , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                                      , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                              , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                                    , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                                      , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                                       , Ray Ndlovu                                                                                                                                                                                                                                                                                                                                            , Subscriber Benefit                                                                                                                                                                                                                                                                                                                                    , Subscribe                                                                                                                                                                                                                                                                                                                                             , Share prices are rising so rapidly on Zimbabwe’s main stock exchange that the bourse is increasing the maximum move allowed in a single day.                                                                                                                                                                                                          , A new daily limit of a 15% move in the all-share index — up from 10% — will be implemented from Monday, Justin Bgoni, chief executive officer of the Zimbabwe Stock Exchange in Harare, said by phone Friday. Circuit breakers halted trading on the bourse on three consecutive days this week. “It’s in response to the recent activity,” he said.   </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/india/stock-market </td>
@@ -234,13 +295,13 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/japan-watchdog-seeks-penalty-on-regional-banks-over-bond-sales </td>
    <td style="text-align:left;"> 2023-06-09 18:00:21 </td>
    <td style="text-align:left;"> Japan Watchdog Seeks Penalty On Regional Banks Over Bond Sales </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                        , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                      , Bloomberg Quicktake explores the world of technology and the people who power it. From innovative gadgets to ground-breaking science, dive into the advancements changing our daily lives and the business that drives it.                                                                                                                     , UBS Chief Ermotti Sees ‘Bumpy’ Months Ahead as Deal Close Nears                                                                                                                                                                                                                                                                                , Ex-Barclays CEO Jes Staley Set to Appear for Epstein Deposition                                                                                                                                                                                                                                                                                , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                               , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                    , Ex-PBOC Deputy Governor Accused of Bribery, Abuse of Power                                                                                                                                                                                                                                                                                     , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                 , Japan Sushi Chain Sues Teen $480,000 For Soy-Sauce Licking Prank                                                                                                                                                                                                                                                                               , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                       , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                               , Mark Zuckerberg Shares AI Products to Reassure Workers of Strategy                                                                                                                                                                                                                                                                             , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                  , Italy Will Keep Blocking EU Bailout Fund Approval, Meloni Says                                                                                                                                                                                                                                                                                 , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                    , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                     , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                    , How to Re-Create European Styles of Grilling                                                                                                                                                                                                                                                                                                   , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                           , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                              , The Consumer Spending Mystery Is Really No Mystery                                                                                                                                                                                                                                                                                             , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                             , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                          , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                  , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                               , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                , NY Skies Start Clearing as Rain in Sight: Smoky Air Latest                                                                                                                                                                                                                                                                                     , Climate Change and Homeowners’ Insurance Are on a Collision Course                                                                                                                                                                                                                                                                             , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                 , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                               , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                       , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                             , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                               , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                                , Fumio Kishida                                                                                                                                                                                                                                                                                                                                  , Photographer: Kimimasa Mayama/EPA/Bloomberg                                                                                                                                                                                                                                                                                                    , Takashi Nakamichi                                                                                                                                                                                                                                                                                                                              , Subscriber Benefit                                                                                                                                                                                                                                                                                                                             , Subscribe                                                                                                                                                                                                                                                                                                                                      , Japan’s securities watchdog is seeking penalties on two regional banks for improperly selling structured bonds, a rare move that could send a signal to the broader industry about its sales practices.                                                                                                                                        , The Securities and Exchange Surveillance Commission on Friday asked the Financial Services Agency to punish Chiba Bank Ltd. and its brokerage subsidiary, as well as Musashino Bank Ltd. The agency said they sold these products without properly checking customers’ investment preference and experience, or explaining the risks involved.  </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                        , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                      , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                     , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                 , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                       , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                       , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                               , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                    , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                            , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                                                                                                                                    , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                               , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                       , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                               , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                     , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                  , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                    , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                     , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                 , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                    , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                          , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                           , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                              , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                             , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                          , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                  , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                               , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                 , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                            , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                 , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                               , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                       , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                             , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                               , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                                , Fumio Kishida                                                                                                                                                                                                                                                                                                                                  , Photographer: Kimimasa Mayama/EPA/Bloomberg                                                                                                                                                                                                                                                                                                    , Takashi Nakamichi                                                                                                                                                                                                                                                                                                                              , Subscriber Benefit                                                                                                                                                                                                                                                                                                                             , Subscribe                                                                                                                                                                                                                                                                                                                                      , Japan’s securities watchdog is seeking penalties on two regional banks for improperly selling structured bonds, a rare move that could send a signal to the broader industry about its sales practices.                                                                                                                                        , The Securities and Exchange Surveillance Commission on Friday asked the Financial Services Agency to punish Chiba Bank Ltd. and its brokerage subsidiary, as well as Musashino Bank Ltd. The agency said they sold these products without properly checking customers’ investment preference and experience, or explaining the risks involved.  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/hsbc-among-uk-banks-pulling-mortgage-deals-from-the-market-again </td>
    <td style="text-align:left;"> 2023-06-09 17:57:04 </td>
    <td style="text-align:left;"> HSBC Among UK Banks Pulling Mortgage Deals From the Market Again </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                           , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                         , Bloomberg Quicktake explores the world of technology and the people who power it. From innovative gadgets to ground-breaking science, dive into the advancements changing our daily lives and the business that drives it.                                                                                                        , UBS Chief Ermotti Sees ‘Bumpy’ Months Ahead as Deal Close Nears                                                                                                                                                                                                                                                                   , Ex-Barclays CEO Jes Staley Set to Appear for Epstein Deposition                                                                                                                                                                                                                                                                   , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                  , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                       , Ex-PBOC Deputy Governor Accused of Bribery, Abuse of Power                                                                                                                                                                                                                                                                        , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                    , Japan Sushi Chain Sues Teen $480,000 For Soy-Sauce Licking Prank                                                                                                                                                                                                                                                                  , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                          , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                  , Mark Zuckerberg Shares AI Products to Reassure Workers of Strategy                                                                                                                                                                                                                                                                , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                     , Italy Will Keep Blocking EU Bailout Fund Approval, Meloni Says                                                                                                                                                                                                                                                                    , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                       , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                        , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                       , How to Re-Create European Styles of Grilling                                                                                                                                                                                                                                                                                      , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                              , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                 , The Consumer Spending Mystery Is Really No Mystery                                                                                                                                                                                                                                                                                , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                             , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                     , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                  , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                   , NY Skies Start Clearing as Rain in Sight: Smoky Air Latest                                                                                                                                                                                                                                                                        , Climate Change and Homeowners’ Insurance Are on a Collision Course                                                                                                                                                                                                                                                                , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                    , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                  , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                          , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                  , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                   , Estate agents boards outside a block of flats in the Slade Green district of Greater London.                                                                                                                                                                                                                                      , Damian Shepherd and                                                                                                                                                                                                                                                                                                               , William Shaw                                                                                                                                                                                                                                                                                                                      , Subscriber Benefit                                                                                                                                                                                                                                                                                                                , Subscribe                                                                                                                                                                                                                                                                                                                         , UK lenders, led by HSBC Holdings Plc, are removing mortgage deals from the market again as they prepare to reprice home loans to account for inflation.                                                                                                                                                                           , Giving only hours’ notice, HSBC told brokers on Thursday that it would remove all its current new business residential and buy-to-let products the same evening. It said the offerings will be back Monday at increased rates. That triggered a surge in demand, prompting the lender to withdraw them before the scheduled time.  </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                       , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                     , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                    , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                      , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                      , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                              , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                   , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                           , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                                                                                                                                   , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                              , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                      , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                              , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                    , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                 , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                   , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                    , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                   , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                         , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                          , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                             , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                            , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                         , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                 , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                              , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                               , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                           , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                              , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                      , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                            , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                              , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                               , Estate agents boards outside a block of flats in the Slade Green district of Greater London.                                                                                                                                                                                                                                                  , Damian Shepherd and                                                                                                                                                                                                                                                                                                                           , William Shaw                                                                                                                                                                                                                                                                                                                                  , Subscriber Benefit                                                                                                                                                                                                                                                                                                                            , Subscribe                                                                                                                                                                                                                                                                                                                                     , UK lenders, led by HSBC Holdings Plc, are removing mortgage deals from the market again as they prepare to reprice home loans to account for inflation.                                                                                                                                                                                       , Giving only hours’ notice, HSBC said on Thursday that it would remove all its current new business residential and buy-to-let products via broker services the same evening. It said the offerings will be back Monday at increased rates. That triggered a surge in demand, prompting the lender to withdraw them before the scheduled time.  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/greece/inflation-cpi </td>
@@ -252,19 +313,13 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/amd-gets-chance-to-show-ai-roadmap-after-87-rally-tech-watch </td>
    <td style="text-align:left;"> 2023-06-09 17:39:32 </td>
    <td style="text-align:left;"> AMD Tracks Nvidia Gains in Wall Street’s AI Frenzy </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                                                                    , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                                                                  , Bloomberg Quicktake explores the world of technology and the people who power it. From innovative gadgets to ground-breaking science, dive into the advancements changing our daily lives and the business that drives it.                                                                                                                                                                 , UBS Chief Ermotti Sees ‘Bumpy’ Months Ahead as Deal Close Nears                                                                                                                                                                                                                                                                                                                            , Ex-Barclays CEO Jes Staley Set to Appear for Epstein Deposition                                                                                                                                                                                                                                                                                                                            , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                                                                           , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                                                                , Ex-PBOC Deputy Governor Accused of Bribery, Abuse of Power                                                                                                                                                                                                                                                                                                                                 , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                                                             , Japan Sushi Chain Sues Teen $480,000 For Soy-Sauce Licking Prank                                                                                                                                                                                                                                                                                                                           , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                                                                   , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                                                                           , Mark Zuckerberg Shares AI Products to Reassure Workers of Strategy                                                                                                                                                                                                                                                                                                                         , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                                                              , Italy Will Keep Blocking EU Bailout Fund Approval, Meloni Says                                                                                                                                                                                                                                                                                                                             , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                                                                , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                                                                 , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                                                                , How to Re-Create European Styles of Grilling                                                                                                                                                                                                                                                                                                                                               , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                                                                       , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                                                                          , The Consumer Spending Mystery Is Really No Mystery                                                                                                                                                                                                                                                                                                                                         , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                                                                         , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                                                                      , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                                                              , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                                                                           , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                                                            , NY Skies Start Clearing as Rain in Sight: Smoky Air Latest                                                                                                                                                                                                                                                                                                                                 , Climate Change and Homeowners’ Insurance Are on a Collision Course                                                                                                                                                                                                                                                                                                                         , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                                                             , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                                                                           , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                                                                   , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                                                                         , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                                                                           , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                                                                            , AMD will introduce new data center chips next week.                                                                                                                                                                                                                                                                                                                                        , Ian King and                                                                                                                                                                                                                                                                                                                                                                               , Subrat Patnaik                                                                                                                                                                                                                                                                                                                                                                             , Subscriber Benefit                                                                                                                                                                                                                                                                                                                                                                         , Subscribe                                                                                                                                                                                                                                                                                                                                                                                  , Advanced Micro Devices Inc.’s stellar share-price performance this year reflects its place in the eyes of investors looking to make an artificial intelligence trade: the best backup plan.                                                                                                                                                                                                , The stock’s 87% surge would make it the top performer on the Philadelphia Stock Exchange Semiconductor Index if it wasn’t for the stratospheric gain of rival Nvidia Corp. Nvidia briefly became the first chipmaker to have a trillion-dollar market value after delivering concrete evidence that the rush to develop new AI services is translating into a surge in orders for hardware. </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                                                                                    , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                                                                                  , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                                                                                 , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                                                                                                                                                             , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                                                                                                                                                   , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                                                                                                                                                   , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                                                                           , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                                                                                , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                                                                        , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                                                                                                                                                                                , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                                                                                                                                                           , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                                                                                   , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                                                                           , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                                                                                                                                                 , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                                                                              , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                                                                                , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                                                                                 , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                                                                             , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                                                                                , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                                                                                      , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                                                                       , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                                                                          , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                                                                         , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                                                                      , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                                                                              , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                                                                           , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                                                                            , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                                                                                                                                                             , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                                                                                        , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                                                                             , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                                                                           , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                                                                                   , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                                                                         , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                                                                           , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                                                                            , AMD will introduce new data center chips next week.                                                                                                                                                                                                                                                                                                                                        , Ian King and                                                                                                                                                                                                                                                                                                                                                                               , Subrat Patnaik                                                                                                                                                                                                                                                                                                                                                                             , Subscriber Benefit                                                                                                                                                                                                                                                                                                                                                                         , Subscribe                                                                                                                                                                                                                                                                                                                                                                                  , Advanced Micro Devices Inc.’s stellar share-price performance this year reflects its place in the eyes of investors looking to make an artificial intelligence trade: the best backup plan.                                                                                                                                                                                                , The stock’s 87% surge would make it the top performer on the Philadelphia Stock Exchange Semiconductor Index if it wasn’t for the stratospheric gain of rival Nvidia Corp. Nvidia briefly became the first chipmaker to have a trillion-dollar market value after delivering concrete evidence that the rush to develop new AI services is translating into a surge in orders for hardware. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/japan-sushi-chain-sues-teen-480-000-for-soy-sauce-licking-prank </td>
    <td style="text-align:left;"> 2023-06-09 17:37:18 </td>
    <td style="text-align:left;"> Japan Sushi Chain Sues Teen $480,000 For Soy-Sauce Licking Prank </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                    , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                  , Bloomberg Quicktake explores the world of technology and the people who power it. From innovative gadgets to ground-breaking science, dive into the advancements changing our daily lives and the business that drives it.                                 , UBS Chief Ermotti Sees ‘Bumpy’ Months Ahead as Deal Close Nears                                                                                                                                                                                            , Ex-Barclays CEO Jes Staley Set to Appear for Epstein Deposition                                                                                                                                                                                            , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                           , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                , Ex-PBOC Deputy Governor Accused of Bribery, Abuse of Power                                                                                                                                                                                                 , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                             , Japan Sushi Chain Sues Teen $480,000 For Soy-Sauce Licking Prank                                                                                                                                                                                           , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                   , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                           , Mark Zuckerberg Shares AI Products to Reassure Workers of Strategy                                                                                                                                                                                         , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                              , Italy Will Keep Blocking EU Bailout Fund Approval, Meloni Says                                                                                                                                                                                             , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                 , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                , How to Re-Create European Styles of Grilling                                                                                                                                                                                                               , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                       , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                          , The Consumer Spending Mystery Is Really No Mystery                                                                                                                                                                                                         , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                         , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                      , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                              , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                           , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                            , NY Skies Start Clearing as Rain in Sight: Smoky Air Latest                                                                                                                                                                                                 , Climate Change and Homeowners’ Insurance Are on a Collision Course                                                                                                                                                                                         , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                             , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                           , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                   , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                         , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                           , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                            , Grace Huang                                                                                                                                                                                                                                                , Subscriber Benefit                                                                                                                                                                                                                                         , Subscribe                                                                                                                                                                                                                                                  , A sushi restaurant chain is suing a customer for ¥67 million ($480,000), saying that a viral online video of the teen licking communal bottles and plates caused a drop in sales, foot traffic and the company’s shares, according to Japanese media.      , Food &amp; Life Cos., which owns Akindo Sushiro, the outlet where the incident occurred, had filed a police report and received an apology from the perpetrator. In the clip, he also touched the sushi as it rolled past with fingers he had put in his mouth. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/uk-shares-a-bargain-especially-value-stocks-says-rob-arnott-transcript </td>
-   <td style="text-align:left;"> 2023-06-09 17:34:04 </td>
-   <td style="text-align:left;"> Transcript: Why UK Value Stocks Are Still the Trade of the Decade </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                              , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                            , Bloomberg Quicktake explores the world of technology and the people who power it. From innovative gadgets to ground-breaking science, dive into the advancements changing our daily lives and the business that drives it.                                                                                                           , UBS Chief Ermotti Sees ‘Bumpy’ Months Ahead as Deal Close Nears                                                                                                                                                                                                                                                                      , Ex-Barclays CEO Jes Staley Set to Appear for Epstein Deposition                                                                                                                                                                                                                                                                      , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                                     , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                          , Ex-PBOC Deputy Governor Accused of Bribery, Abuse of Power                                                                                                                                                                                                                                                                           , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                       , Japan Sushi Chain Sues Teen $480,000 For Soy-Sauce Licking Prank                                                                                                                                                                                                                                                                     , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                             , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                                     , Mark Zuckerberg Shares AI Products to Reassure Workers of Strategy                                                                                                                                                                                                                                                                   , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                        , Italy Will Keep Blocking EU Bailout Fund Approval, Meloni Says                                                                                                                                                                                                                                                                       , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                          , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                           , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                          , How to Re-Create European Styles of Grilling                                                                                                                                                                                                                                                                                         , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                                 , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                                    , The Consumer Spending Mystery Is Really No Mystery                                                                                                                                                                                                                                                                                   , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                                   , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                                , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                        , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                                     , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                                      , NY Skies Start Clearing as Rain in Sight: Smoky Air Latest                                                                                                                                                                                                                                                                           , Climate Change and Homeowners’ Insurance Are on a Collision Course                                                                                                                                                                                                                                                                   , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                       , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                                     , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                             , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                                   , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                                     , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                                      , Read the conversation between Research Affiliates founder Rob Arnott and Merryn Talks Money host Merryn Somerset Webb.                                                                                                                                                                                                               , Rob Arnott                                                                                                                                                                                                                                                                                                                           , Sommer Saadi and                                                                                                                                                                                                                                                                                                                     , Merryn Somerset Webb                                                                                                                                                                                                                                                                                                                 , Subscriber Benefit                                                                                                                                                                                                                                                                                                                   , Subscribe                                                                                                                                                                                                                                                                                                                            , In this week’s episode of  Merryn Talks Money, Bloomberg Opinion writer Merryn Somerset Webb interviews famed contrarian investor Rob Arnott, co-founder of Research Affiliates. He has said since the autumn of 2020 that UK shares are a great bargain — in particular so-called value stocks.  He contends that’s still the case. , Here is a lightly edited transcript of the conversation. Listen in full below, learn more about the podcast here, and subscribe on Apple and  Spotify to stay on top of new episodes. </td>
+   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                    , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                  , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                 , Citi to Cut 50 London Jobs in Investment and Corporate Banking                                                                                                                                                                                             , The More Inflation the Better: This Little-Discussed Insurance Broker Is Having a Moment                                                                                                                                                                   , Canada Sheds 17,300 Jobs in First Decline in Nine Months                                                                                                                                                                                                   , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                           , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                        , Rowdy Tourists Spark Partial Airbnb Ban on Malaysian Island                                                                                                                                                                                                , A Cheat Sheet to AI Buzzwords and Their Meanings                                                                                                                                                                                                           , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                   , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                           , Spanish Left Unites to Face Conservatives in Snap Election                                                                                                                                                                                                 , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                              , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                 , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                             , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                      , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                       , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                          , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                         , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                      , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                              , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                           , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                            , What America Learned From the Demise of its EV Battery Pioneer                                                                                                                                                                                             , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                        , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                             , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                           , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                   , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                         , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                           , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                            , Grace Huang                                                                                                                                                                                                                                                , Subscriber Benefit                                                                                                                                                                                                                                         , Subscribe                                                                                                                                                                                                                                                  , A sushi restaurant chain is suing a customer for ¥67 million ($480,000), saying that a viral online video of the teen licking communal bottles and plates caused a drop in sales, foot traffic and the company’s shares, according to Japanese media.      , Food &amp; Life Cos., which owns Akindo Sushiro, the outlet where the incident occurred, had filed a police report and received an apology from the perpetrator. In the clip, he also touched the sushi as it rolled past with fingers he had put in his mouth. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/malta/balance-of-trade </td>
@@ -297,16 +352,10 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
    <td style="text-align:left;"> The IBEX 35 stayed muted at 9,350 on Friday amid prevailing cautiousness ahead of next week's central banks meetings. The top performers in the index were Laboratorios Farma (1.1%) and Melia Hotels (1%). Additionally, traders kept an eye on Inditex (0.8%), which announced joining forces with Jeanologia to recover microfibers in the production of textile garments, and Iberdrola (0.2%) after the company sealed the largest green ammonia framework contract in Europe with Trammo. On the side of losses, Ferrovial dropped the most (-1%). Grifols also surprised with a fall of 0.5% despite signing an agreement with Canadian Plasma Resources to obtain their donated plasma. The index was on track to end week 0.5% higher. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/china-s-central-bank-governor-reiterates-stable-policy-stance </td>
-   <td style="text-align:left;"> 2023-06-09 17:02:56 </td>
-   <td style="text-align:left;"> China’s Central Bank Governor Reiterates Stable Policy Stance </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                                                                                                                       , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                                                                                                                     , If a green pivot is to happen, power grids must become “supergrids,” continent-spanning networks that can move green energy thousands of miles. The technology is here, but politics may stand in the way.                                                                                                                    , UBS Chief Ermotti Sees ‘Bumpy’ Months Ahead as Deal Close Nears                                                                                                                                                                                                                                                               , Ex-Barclays CEO Jes Staley Set to Appear for Epstein Deposition                                                                                                                                                                                                                                                               , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                                                                                                                              , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                                                                                                                                   , Ex-PBOC Deputy Governor Accused of Bribery, Abuse of Power                                                                                                                                                                                                                                                                    , Rising UK Rates Open £9 Billion Hole in Tory and Labour Plans                                                                                                                                                                                                                                                                 , Elliott-Backed Lender Bantry Bay Dares to Take on Distressed UK Retailers                                                                                                                                                                                                                                                     , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                                                                                                                      , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                                                                                                                              , Mark Zuckerberg Shares AI Products to Reassure Workers of Strategy                                                                                                                                                                                                                                                            , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                                                                                                                                 , Italy Will Keep Blocking EU Bailout Fund Approval, Meloni Says                                                                                                                                                                                                                                                                , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                                                                                                                                   , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                                                                                                                    , Craft Beer’s Hottest Trend Is a Style That’s as Mass as Can Be                                                                                                                                                                                                                                                                , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                                                                                                                                   , This Week’s Wildfire Smoke Disaster Won’t Be the Last                                                                                                                                                                                                                                                                         , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                                                                                                                          , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                                                                                                                             , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                                                                                                                            , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                                                                                                                         , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                                                                                                                                 , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                                                                                                                              , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                                                                                                                               , Transcript: How Wildfire Smoke and Air Pollution Affect Your Health                                                                                                                                                                                                                                                           , NY Skies Start Clearing as Rain in Sight: Smoky Air Latest                                                                                                                                                                                                                                                                    , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                                                                                                                                , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                                                                                                                              , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                                                                                                                      , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                                                                                                                            , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                                                                                                                              , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                                                                                                                               , Yi Gang on June 8.                                                                                                                                                                                                                                                                                                            , Subscriber Benefit                                                                                                                                                                                                                                                                                                            , Subscribe                                                                                                                                                                                                                                                                                                                     , China’s central bank will keep monetary policy targeted and ensure credit growth is stable, Governor Yi Gang said, keeping the policy stance largely unchanged despite rising calls for more stimulus.                                                                                                                        , Speaking to businesses and banks in Shanghai, Yi said he has confidence the official growth target of around 5% can be achieved this year. Inflation is expected to gradually rebound in the second half of the year, he added. The speech was earlier this week and posted on the People’s Bank of China’s website on Friday. </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> https://www.nytimes.com/2023/06/09/business/economy/wedding-engagement-rings-economy.html </td>
    <td style="text-align:left;"> 2023-06-09 17:00:25 </td>
    <td style="text-align:left;"> How Engagement Rings Explain What’s Happening in the Economy - The New York Times </td>
-   <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          , Supported by                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           , A major jeweler claims the pandemic may have prevented people from meeting their future fiancés, cutting demand for engagement rings. Inflation and anxiety among shoppers haven’t helped.                                                                                                                                                                                                                                                                                                                             , By Jeanna Smialek and Jason Karaian                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , Aftershocks from the coronavirus pandemic continue to rumble across the U.S. economy, and Signet Jewelers shared a surprising one this week: The company is selling fewer engagement rings this year because, it says, singles who were stuck at home during lockdowns failed to meet their would-be fiancés in 2020.                                                                                                                                                                                                  , “As we predicted, there were fewer engagements in the quarter resulting from Covid’s disruption of dating three years ago,” Virginia C. Drosos, the chief executive at Signet, which owns Kay Jewelers and Zales, told investors on Thursday. Shares of Signet, the largest jewelry retailer in the United States, tumbled after the company cut its forecasts for sales and profit for the rest of the year.                                                                                                          , In a way, the engagement ring has become a sparkly microcosm of the American economy. The bridal jewelry business is being buffeted by the delayed effects of the pandemic, rapid inflation that is squeezing consumers and a growing sense of nervousness among shoppers.                                                                                                                                                                                                                                             , Some of the volatility is owed purely to the pandemic. Weddings were canceled in droves during 2020 lockdowns, but bounced back starting in late 2021 and throughout 2022, and were expected to level off over the coming years as more typical patterns returned. Wedding-related activity does appear to show some early signs of slowing in 2023, but it is unclear whether that’s the result of a 2020 dating dry spell, per Signet, or simply a return to the longstanding shift toward later and fewer marriages., What is clear? Wedding trends are also tied to broader, and potentially longer-lasting, economic forces. Signet may be selling less because fewer people are getting down on one knee, but also because ring shoppers are becoming more cautious and spending less amid rapid inflation and rising uncertainty about the direction of the economy. Both the volume and value of jewelry sold by Signet last quarter declined.                                                                                          , Ms. Drosos said that the company had “expected the low-double-digit decline in engagements that we saw this quarter,” but that other factors were also at play. “Recent consumer confidence, lower tax refunds, economic concerns triggered by regional bank failures and continued inflation led to a weakening trend in spending across the jewelry industry,” she added.                                                                                                                                            , Consumers are contending with big challenges this year. Prices have climbed about 15 percent cumulatively over the past three years, as measured by the Personal Consumption Expenditures index. Inflation has slowed in recent months, but many workers are finding that their wages are falling behind.                                                                                                                                                                                                              , The Federal Reserve has been raising interest rates to try to cool the economy and fight the stubborn price increases. Besides making it more expensive for consumers to shop on credit or take out loans, the rate moves have increased the chance that the economy might tip into a recession. That uncertainty has been compounded by recent turmoil in the banking industry.                                                                                                                                       , As many households watch their savings dwindle and worry about their job security in a weakening economy, they may be less willing to spend a lot on big-ticket items like fancy diamond rings and bespoke wedding dresses.                                                                                                                                                                                                                                                                                            , David’s Bridal, the wedding dress retailer, suggested in a bankruptcy filing this year that some brides had become increasingly budget-conscious.                                                                                                                                                                                                                                                                                                                                                                      , An “increasing number of brides are opting for less-traditional wedding attire, including thrift wedding dresses,” James Marcum, the company’s chief executive, said in a court filing.                                                                                                                                                                                                                                                                                                                                , Like much of the economy, the wedding industry has shown signs of a split, as higher earners find that they are able to reach into their savings and keep spending, and lower-income families that spend a bigger share of their earnings on necessities like food begin to crack under the weight of inflation.                                                                                                                                                                                                       , LVMH, the luxury retail group that owns jewelers including Tiffany, reported continued growth in early 2023, including solid growth in jewelry.                                                                                                                                                                                                                                                                                                                                                                        , “Everybody was expecting 2023 to be a horrendous year for luxury in the U.S.,” Jean-Jacques Guiony, LVMH’s chief financial officer, told investors in April, explaining that a collapse had not materialized. “It’s normalizing, but it’s not bad, either.”                                                                                                                                                                                                                                                            , But at more mass-market brands like Kay Jewelers and Zales, shoppers may be starting to pull back.                                                                                                                                                                                                                                                                                                                                                                                                                     , “We began to see softening at higher price points, which previously had been relatively insulated, and lower price points remained under pressure,” Joan Hilson, Signet’s finance chief, said during Thursday’s call.                                                                                                                                                                                                                                                                                                  , Signet is hoping wedding-ring demand will bounce back: It is predicting 500,000 more engagements in the United States from 2024 to 2026 than the prepandemic trend would suggest, as dating delayed by the lockdowns leads to matches.                                                                                                                                                                                                                                                                                 , But Shane McMurray, founder of the Wedding Report, is skeptical of a big gap year in engagements. He expects weddings to fall 20 percent in 2023 from 2022 levels as trends return to normal. And Lyman Stone, director of research at the consulting firm Demographic Intelligence, agreed that the current slowdown in weddings might reflect a return to previous trends rather than a one-off weakening.                                                                                                           , “It does look like 2023 is going to be a low year,” he said. “I do think that placing the blame for that on lockdowns in 2020 is a little bit strained.”                                                                                                                                                                                                                                                                                                                                                               , Jeanna Smialek writes about the Federal Reserve and the economy for The Times. She previously covered economics at Bloomberg News.   @jeannasmialek                                                                                                                                                                                                                                                                                                                                                                    , Jason Karaian is the business news director, based in London. He was previously the editor of DealBook.  @jkaraian                                                                                                                                                                                                                                                                                                                                                                                                     , Advertisement </td>
+   <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          , Supported by                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           , A major jeweler claims the pandemic may have prevented people from meeting their future fiancés, cutting demand for engagement rings. Inflation and anxiety among shoppers haven’t helped.                                                                                                                                                                                                                                                                                                                             , By Jeanna Smialek and Jason Karaian                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    , Aftershocks from the coronavirus pandemic continue to rumble across the U.S. economy, and Signet Jewelers shared a surprising one this week: The company is selling fewer engagement rings this year because, it says, singles who were stuck at home during lockdowns failed to meet their would-be fiancés in 2020.                                                                                                                                                                                                  , “As we predicted, there were fewer engagements in the quarter resulting from Covid’s disruption of dating three years ago,” Virginia C. Drosos, the chief executive at Signet, which owns Kay Jewelers and Zales, told investors on Thursday. Shares of Signet, the largest jewelry retailer in the United States, tumbled after the company cut its forecasts for sales and profit for the rest of the year.                                                                                                          , In a way, the engagement ring has become a sparkly microcosm of the American economy. The bridal jewelry business is being buffeted by the delayed effects of the pandemic, rapid inflation that is squeezing consumers and a growing sense of nervousness among shoppers.                                                                                                                                                                                                                                             , Some of the volatility is owed purely to the pandemic. Weddings were canceled in droves during 2020 lockdowns, but bounced back starting in late 2021 and throughout 2022, and were expected to level off over the coming years as more typical patterns returned. Wedding-related activity does appear to show some early signs of slowing in 2023, but it is unclear whether that’s the result of a 2020 dating dry spell, per Signet, or simply a return to the longstanding shift toward later and fewer marriages., What is clear? Wedding trends are also tied to broader, and potentially longer-lasting, economic forces. Signet may be selling less because fewer people are getting down on one knee, but also because ring shoppers are becoming more cautious and spending less amid rapid inflation and rising uncertainty about the direction of the economy. Both the volume and value of jewelry sold by Signet last quarter declined.                                                                                          , Ms. Drosos said that the company had “expected the low-double-digit decline in engagements that we saw this quarter,” but that other factors were also at play. “Recent consumer confidence, lower tax refunds, economic concerns triggered by regional bank failures and continued inflation led to a weakening trend in spending across the jewelry industry,” she added.                                                                                                                                            , Consumers are contending with big challenges this year. Prices have climbed about 15 percent cumulatively over the past three years, as measured by the Personal Consumption Expenditures index. Inflation has slowed in recent months, but many workers are finding that their wages are falling behind.                                                                                                                                                                                                              , The Federal Reserve has been raising interest rates to try to cool the economy and fight the stubborn price increases. Besides making it more expensive for consumers to shop on credit or take out loans, the rate moves have increased the chance that the economy might tip into a recession.                                                                                                                                                                                                                       , As many households watch their savings dwindle and worry about their job security, they may be less willing to spend on big-ticket items like fancy diamond rings and bespoke wedding dresses.                                                                                                                                                                                                                                                                                                                         , David’s Bridal, the wedding dress retailer, suggested in a bankruptcy filing this year that some brides had become increasingly budget-conscious.                                                                                                                                                                                                                                                                                                                                                                      , An “increasing number of brides are opting for less-traditional wedding attire, including thrift wedding dresses,” James Marcum, the company’s chief executive, said in a court filing.                                                                                                                                                                                                                                                                                                                                , Like much of the economy, the wedding industry has shown signs of a split, as higher earners find that they are able to reach into their savings and keep spending, and lower-income families that spend a bigger share of their earnings on necessities like food begin to crack under the weight of inflation.                                                                                                                                                                                                       , LVMH, the luxury retail group that owns jewelers including Tiffany, reported continued growth in early 2023, including solid sales of jewelry.                                                                                                                                                                                                                                                                                                                                                                         , “Everybody was expecting 2023 to be a horrendous year for luxury in the U.S.,” Jean-Jacques Guiony, LVMH’s chief financial officer, told investors in April, explaining that a collapse had not materialized. “It’s normalizing, but it’s not bad, either.”                                                                                                                                                                                                                                                            , But at more mass-market brands like Kay and Zales, shoppers may be starting to pull back.                                                                                                                                                                                                                                                                                                                                                                                                                              , “We began to see softening at higher price points, which previously had been relatively insulated, and lower price points remained under pressure,” Joan Hilson, Signet’s finance chief, said during Thursday’s call.                                                                                                                                                                                                                                                                                                  , Signet is hoping wedding-ring demand will bounce back: It is predicting 500,000 more engagements from 2024 to 2026 than the prepandemic trend would suggest, as dating delayed by the lockdowns leads to matches. But analysts at Bank of America “worry that some of that rebound will be offset” by a “pinched consumer” spending less on jewelry, they wrote.                                                                                                                                                       , Shane McMurray, founder of the Wedding Report, is skeptical of a big gap year in engagements. He expects weddings to fall 20 percent in 2023 from 2022 levels as trends return to normal. And Lyman Stone, director of research at the consulting firm Demographic Intelligence, agreed that the current slowdown in weddings might reflect a return to previous trends rather than a one-off weakening.                                                                                                               , “It does look like 2023 is going to be a low year,” he said. “I do think that placing the blame for that on lockdowns in 2020 is a little bit strained.”                                                                                                                                                                                                                                                                                                                                                               , Jeanna Smialek writes about the Federal Reserve and the economy for The Times. She previously covered economics at Bloomberg News.   @jeannasmialek                                                                                                                                                                                                                                                                                                                                                                    , Jason Karaian is the business news director, based in London. He was previously the editor of DealBook.  @jkaraian                                                                                                                                                                                                                                                                                                                                                                                                     , Advertisement </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.nytimes.com/2023/06/09/business/china-bank-deposit-rate-cuts.html </td>
@@ -327,16 +376,16 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
    <td style="text-align:left;"> Industrial production in Slovenia declined 8.8 percent year-on-year in April of 2023, following an upwardly revised 4.8 percent decrease in the previous month. It was the lowest reading since December 2022, as output dropped further for manufacturing (-7.3 percent vs -1.1 percent in March). Meanwhile, production fell at a slower pace for electricity, gas, steam &amp; air conditioning supply (-20.6 percent vs -37.9 percent) and mining and quarrying (-29.5 percent vs -34 percent). On a seasonally adjusted monthly basis, industrial output shrank 7.9 percent, reversing an upwardly revised 2.5 percent growth in March. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> https://www.bloomberg.com/news/articles/2023-06-09/tech-stocks-see-outflows-for-first-time-in-8-weeks-bofa-says </td>
-   <td style="text-align:left;"> 2023-06-09 16:49:04 </td>
-   <td style="text-align:left;"> Tech Stocks See Outflows for First Time in 8 Weeks, BofA Says </td>
-   <td style="text-align:left;"> Bloomberg Surveillance with Tom Keene, Jonathan Ferro &amp; Lisa Abramowicz live from New York, bringing insight on global markets and the top business stories of the day.                                                   , The economy and markets are "under surveillance". Bloomberg Surveillance, covering the latest news in finance, economics and investments.                                                                                 , Bloomberg Quicktake explores the world of technology and the people who power it. From innovative gadgets to ground-breaking science, dive into the advancements changing our daily lives and the business that drives it., UBS Chief Ermotti Sees ‘Bumpy’ Months Ahead as Deal Close Nears                                                                                                                                                           , Ex-Barclays CEO Jes Staley Set to Appear for Epstein Deposition                                                                                                                                                           , Fed Seen Ending Its 15-Month Hiking Campaign in Economist Survey                                                                                                                                                          , China Central Bank Governor Reiterates Stable Policy Stance                                                                                                                                                               , Ex-PBOC Deputy Governor Accused of Bribery, Abuse of Power                                                                                                                                                                , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                            , Japan Sushi Chain Sues Teen $480,000 For Soy-Sauce Licking Prank                                                                                                                                                          , UAE Fintech Optasia Hires Moelis for Potential Sale, IPO                                                                                                                                                                  , TikTok-Owner Tests ChatGPT-Style Bot After Joining China AI Race                                                                                                                                                          , Mark Zuckerberg Shares AI Products to Reassure Workers of Strategy                                                                                                                                                        , Labour Caves on £140 Billion Green Energy Plan Over Cost Fear                                                                                                                                                             , Italy Will Keep Blocking EU Bailout Fund Approval, Meloni Says                                                                                                                                                            , Tiger Global Among Hedge Funds Riding AI Mania to May Gains                                                                                                                                                               , Bank of America Reworks Leadership in Investment Bank Unit                                                                                                                                                                , The Best Luxury Father’s Day Gifts for Dads Who Love Design                                                                                                                                                               , How to Re-Create European Styles of Grilling                                                                                                                                                                              , What’s the Best Use for Crypto? Let AI Figure It Out                                                                                                                                                                      , Musk Promised Transparency, Then Hid Twitter Data                                                                                                                                                                         , The Consumer Spending Mystery Is Really No Mystery                                                                                                                                                                        , The Netflix Effect Chills Foreign Content Creators                                                                                                                                                                        , Payrolls, Prices, Productivity and Profits Hold the Answer to the Puzzling US Economy                                                                                                                                     , Will Argentina Ditch the Peso for the Dollar?                                                                                                                                                                             , Support for ESG Shareholder Proposals Plummets Amid GOP Backlash                                                                                                                                                          , Deutsche Bank Gender Gap Shows Europe Is Failing Diversity Test                                                                                                                                                           , NY Skies Start Clearing as Rain in Sight: Smoky Air Latest                                                                                                                                                                , Climate Change and Homeowners’ Insurance Are on a Collision Course                                                                                                                                                        , NYC Pays Over $300 a Night for Budget Hotel Rooms for Migrants                                                                                                                                                            , Connecticut May Ban Collection Tactic Used in Cash-Advance Loans                                                                                                                                                          , Deep Drought Punishes Latin American Clean Water Pioneer                                                                                                                                                                  , Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit                                                                                                                                                        , FTX’s US Judge Vows to Keep Control of Crypto in Blow to Bahamas                                                                                                                                                          , SEC Seeks ‘Alternative Means’ to Serve Papers to Binance’s Zhao                                                                                                                                                           , Michael Msika                                                                                                                                                                                                             , Subscriber Benefit                                                                                                                                                                                                        , Subscribe                                                                                                                                                                                                                 , The AI frenzy that has driven massive inflows into tech stocks is marking a pause, Bank of America Corp. says.                                                                                                            , Tech funds sustained $1.2 billion of outflows in the week through June 7, their first in eight weeks, according to the bank, citing EPFR Global data. The move occurred after the group had record inflows last week. </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/hong-kong/stock-market </td>
    <td style="text-align:left;"> 2023-06-09 16:38:00 </td>
    <td style="text-align:left;"> Hang Seng Books 2.3% Gains Weekly </td>
    <td style="text-align:left;"> Equities in Hong Kong rose 90.77 points or 0.47% to end at two-week peaks of 19,389.95 on Friday, shifting from losses in morning trade, lifted by strong wins from tech and consumers. The Hang Seng also advanced for the third day and posted a 2.3% jump weekly, with investors being upbeat amid growing calls for China's central bank to cut interest rates as a recovery in the economy weakened. May's inflation data showed that the Chinese economy cooled further, while recent reports indicated that factory activity shrank, exports plunged, and a rebound in the housing market faded. A drop in US stock futures limited the gains, however, as worries mounted that the Federal Reserve could stay hawkish in its monetary policy meeting next week following tightening moves from several central banks this week. Among top performers were ESR Group (5.9%), Chow Tai Fook Jewellery (3.9%), H World Group (3.5%),  Wuxi Biologics (3.1%), Meituan (2.8%), and Innovent Biologics (2.7%). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://foxbusiness.com/lifestyle/tampa-florida-residents-may-need-least-85k-afford-rent-study-finds </td>
+   <td style="text-align:left;"> 2023-06-09 16:37:34 </td>
+   <td style="text-align:left;"> Tampa, Florida residents may need at least $85K to afford rent, study finds </td>
+   <td style="text-align:left;"> Real estate insiders Dolly and Jenny Lenz analyze the New York and Florida real estate markets on 'The Claman Countdown.'                                                                                                                                                                                                                               , A new study found that people living or wanting to move to one of the Sunshine's state fastest growing cities need to make at least $85,000 annually to afford the skyrocketing housing costs in Florida. Throughout the pandemic, Americans flocked to Florida causing rent to soar.                                                                   , An April study conducted by Florida Atlantic University (FAU), Florida Gulf Coast University (FGCU) and the University of Alabama found that rent in Tampa, Florida is 5.04% higher than last year. According to FAU and FGCU’s report, the average rent in Tampa is $2,118.75, which ranks 18th highest among the nation’s largest metropolitan areas. , A downtown sign and city skyline are viewed on February 14, 2011 in Tampa, Florida.  (George Rose/Getty Images / Getty Images)                                                                                                                                                                                                                          , According to the U.S. Department of Housing and Urban Development (HUD), residents are considered "rent burdened" if they spend more than 30% of their annual income toward rent and "severely rent burdened" if they spend more than 50%.                                                                                                              , WATCH OUT, SILICON VALLEY: MIAMI IS VYING TO BECOME AMERICA'S AI HUB                                                                                                                                                                                                                                                                                    , With the average rent and the HUD's definition of "rent burdened," individuals would need to make $84,750.12 to avoid being "rent burdened."                                                                                                                                                                                                            , Aerial drone View of sprawling Tampa Bay Skyline, Florida. (Joe Sohm/Visions of America/Universal Images Group via Getty Images / Getty Images)                                                                                                                                                                                                         , In 2022, during the COVID-19 pandemic, Florida saw about 319,000 Americans relocating as people sought more relaxed coronavirus rules, sunnier weather and no state income tax.                                                                                                                                                                         , FED PAUSING RATE INCREASES IN JUNE MAKES IT HARDER TO HIKE LATER: KATHRYN ROONEY VERA                                                                                                                                                                                                                                                                   , Florida saw a populating increase of nearly 2% – well above the 0.4% national growth rate recorded in the U.S. between July 2021 and July 2022.                                                                                                                                                                                                         , From 2020 to 2023, Tampa saw its population grow by a little less than 1% in 2023, compared with a more than 2% increase the previous two years. Orlando, Florida, matched Tampa with similar growth rates.                                                                                                                                             , Aerial View of road to Sunshine Skyway Bridge to Tampa Bay Florida and St. Petersburg.   | Getty Images                                                                                                                                                                                                                                                 , The Exodus to Florida was marked by Americans migrating away from blue states with steep taxes like California and New York to red states with lower taxes like Florida and Texas, according to a Bank of America analyst note that is based on aggregated and anonymous internal customer data.                                                        , CLICK HERE TO READ MORE ON FOX BUSINESS                                                                                                                                                                                                                                                                                                                 , Other red states saw substantial population growth include Texas, North Carolina, South Carolina, Tennessee, Georgia, Arizona and Idaho. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/south-africa/stock-market </td>
@@ -555,6 +604,12 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
    <td style="text-align:left;"> Advertisement                                                                                                                                                                                                                                                                                                                                                                                                        , Supported by                                                                                                                                                                                                                                                                                                                                                                                                         , Banks have signaled that they will stop working with the company’s American branch, it said, after the Securities and Exchange Commission sued it this week.                                                                                                                                                                                                                                                         , By David Yaffe-Bellany                                                                                                                                                                                                                                                                                                                                                                                               , Reporting from San Francisco                                                                                                                                                                                                                                                                                                                                                                                         , The American branch of Binance, the giant cryptocurrency exchange, said late on Thursday that it would no longer allow customers to trade on its platform using U.S. dollars, after its banking partners cut the firm off in response to a crackdown by federal regulators.                                                                                                                                          , The move is a major blow to Binance.US, the American arm of the world’s largest crypto exchange. One of the main functions of an exchange is allowing users to convert their traditional money into digital currencies like Bitcoin or Ether. Binance will no longer be able to offer that service in the United States.                                                                                             , In a message to customers, Binance.US said it was “taking necessary actions as we transition to a crypto-only exchange.” In recent days, the company said, its banking partners have signaled that they will no longer facilitate the movement of dollars on and off Binance.US’s platform.                                                                                                                          , The announcement comes after the Securities and Exchange Commission sued Binance on Monday, accusing the firm and its chief executive, Changpeng Zhao, of mishandling customer funds and lying to regulators. In a separate filing, the S.E.C. asked a federal judge in Washington to freeze assets related to U.S.-based customers of Binance, citing “the defendants’ years of violative conduct.”                 , Representatives for Binance did not immediately respond to a request for comment.                                                                                                                                                                                                                                                                                                                                    , The crypto industry has been under intense pressure from federal regulators since November, when the collapse of the FTX exchange set off an industrywide crisis. The day after it sued Binance, the S.E.C. filed a separate case against Coinbase, the largest American crypto exchange. Some crypto companies have vowed to fight the crackdown, while others are making plans to leave the United States entirely., In its message to customers on Thursday, Binance.US said it was facing “extremely aggressive and intimidating tactics” from the S.E.C. The company said it was suspending deposits of U.S. dollars and urged users to withdraw any dollars they have been storing on the exchange by June 13.                                                                                                                        , At the same time, the company tried to assure its customers that their savings were backed up by money it holds in reserve.                                                                                                                                                                                                                                                                                          , “To be clear, we maintain 1:1 reserves for all customer assets,” the message said. “Customer funds are always safe, secure, and available.”                                                                                                                                                                                                                                                                          , David Yaffe-Bellany covers cryptocurrencies and financial technology. He graduated from Yale University and previously reported in Texas, Ohio, Connecticut and Washington, D.C.  @yaffebellany                                                                                                                                                                                                                      , Advertisement </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> https://foxbusiness.com/markets/amazon-target-modify-deliveries-areas-poor-air-quality </td>
+   <td style="text-align:left;"> 2023-06-09 13:34:26 </td>
+   <td style="text-align:left;"> Amazon, Target modify deliveries in areas with poor air quality </td>
+   <td style="text-align:left;"> FOX Weather’s Katie Byrne provides an update on air quality conditions in the Northeast stemming from Canadian wildfires on ‘The Big Money Show.’                                                                                 , The wildfires burning in Canada creating dangerous smoke conditions in the eastern part of the United States, have disrupted life in many ways.                                                                                   , You can add to the list package deliveries.                                                                                                                                                                                       , Amazon.com said on Thursday that it was cutting delivery routes short for drivers in places affected by poor air quality.                                                                                                         , Target has said its contactless order pickup service may not operate in the most affected areas.                                                                                                                                  , AIR QUALITY IMPROVES FOR CITIES ALONG I-95 CORRIDOR                                                                                                                                                                               , Amazon packages are pictured on a delivery cart in the Manhattan borough of New York City. ( REUTERS/Carlo Allegri / Reuters Photos)                                                                                              , Canada is suffering the worst start to fire season that the country has ever seen, with hundreds of blazes across much of Canada.                                                                                                 , The smoke from the fires have made its way to the United States in the form of a thick yellow haze.                                                                                                                               , On Wednesday, New York City's air quality was considered the worst in the world.                                                                                                                                                  , FLIGHTS DELAYED AT MAJOR US AIRPORTS AS WILDFIRE SMOKE SPREADS ACROSS STATES                                                                                                                                                      , People ride bicycles on 6th Avenue as haze and smoke caused by wildfires in Canada blanket New York City, June 7, 2023. (REUTERS/Andrew Kelly / Reuters Photos)                                                                   , The company was cutting routes short where air quality is hazardous, and providing N-95 masks to delivery workers, according to an Amazon spokesman. Drivers were also encouraged to return to delivery stations if they felt ill., Target said its "Drive Up" order pick-up service may be turned off at locations with poor air quality. Customers can check their Target mobile application to confirm if the services were available at their local store.        , US CARRIER ALLOWS REBOOKING WITHOUT FEES AS WILDFIRE SMOKE SPREADS                                                                                                                                                                , A Southwest Airlines plane approaches LaGuardia Airport in New York on Wednesday, June 7. (AP/David R. Martin / AP Images)                                                                                                        , GET FOX BUSINESS ON THE GO BY CLICKING HERE                                                                                                                                                                                       , Schools across the region canceled outdoor activities and companies told employees to work from home, while health officials in more than a dozen states have urged millions of residents to stay indoors.                        , Reuters contributed to this report. </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/finland/industrial-production </td>
    <td style="text-align:left;"> 2023-06-09 13:16:23 </td>
    <td style="text-align:left;"> Finish Industrial Output Shrinks 2.4% in April </td>
@@ -583,6 +638,12 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
    <td style="text-align:left;"> 2023-06-09 12:31:00 </td>
    <td style="text-align:left;"> Malaysia Industrial Output Unexpectedly Drops </td>
    <td style="text-align:left;"> Industrial production in Malaysia unexpectedly fell by 3.3% year-on-year in April 2023, missing market forecasts of 2% gain, and shifting from a 3.2% growth in the previous month. It was also the first month of decline in industrial output since August 2021, dragged down by all of the sub-sectors, namely; manufacturing (-3% vs 4.1% in March), mining &amp; quarrying (-4.9% vs 0.8%), and electricity (-2% vs -0.3%). On a seasonally adjusted monthly basis, industrial output tumbled 5.6% in April, shifting from a downwardly revised 0.01% rise in the previous month. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> https://foxbusiness.com/markets/binance-us-suspends-usd-deposits-after-regulators-crackdown </td>
+   <td style="text-align:left;"> 2023-06-09 12:28:17 </td>
+   <td style="text-align:left;"> Binance.US suspends USD deposits after regulators crackdown </td>
+   <td style="text-align:left;"> O'Leary Ventures Chairman Kevin O'Leary discusses his plans to build an oil refinery and reacts to the SEC's lawsuits against crypto exchanges Binance and Coinbase on 'The Claman Countdown.'                                    , The U.S. arm of the world's largest crypto exchange is suspending U.S. dollar deposits.                                                                                                                                           , Binance.US says its banking partners are preparing to pause fiat dollar withdrawal channels as early as June 13,                                                                                                                  , The announcement comes just days after U.S. regulators sued Binance and its CEO Changpeng Zhao.                                                                                                                                   , The firm made the announcement in a tweet on Thursday night.                                                                                                                                                                      , CRYPTO EXCHANGE BINANCE, CEO HIT WITH CHARGES IN SEC LAWSUIT                                                                                                                                                                      , Binance logo displayed on a phone screen and representation of cryptocurrencies are seen in this illustration. ((Photo by Jakub Porzycki/NurPhoto via Getty Images) / Getty Images)                                               , The company says it is taking "proactive steps" in its transition to a crypto-only exchange for the time being.                                                                                                                   , Trading, staking, deposits and withdrawals in crypto would remain fully operational, the exchange said in a notice to its customers.                                                                                              , In a 136-page complaint filed in federal court, the SEC accused Binance and the company’s CEO of operating a "web of deception."                                                                                                  , BINANCE, COINBASE CEOS' FORTUNES TAKE HIT AFTER SEC CRYPTO LAWSUITS                                                                                                                                                               , Changpeng Zhao, founder and chief executive officer of Binance. (REUTERS/Benoit Tessier/File Photo / Reuters Photos)                                                                                                              , With its 13 total charges, the SEC complaint accused Binance Holdings, Zhao, BAM Trading and BAM Management US Holdings of committing breaches of the Securities Act and the Exchange Act, two U.S. laws pertaining to securities., A day later, Coinbase, the largest U.S. cryptocurrency platform, was also sued.                                                                                                                                                   , .On Thursday, U.S. financial regulators said they supported a freeze on Binance's assets, according to a U.S. SEC filing.                                                                                                         , A representation of the cryptocurrency is seen in front of Coinbase logo. (Reuters/Dado Ruvic/Illustration/File Photo / Reuters Photos)                                                                                           , CLICK HERE FOR FOX BUSINESS' REAL-TIME CRYPTOCURRENCY PRICING DATA                                                                                                                                                                , Binance.US said in its tweet that the SEC's take on cryptocurrency is "extremely aggressive and intimidating," adding that it has created challenges between the exchange and its banking partners.                               , FOX Business' Joe Toppe and Reuters contributed to this report. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://www.cnbc.com/2023/06/08/banks-to-cut-off-binance-access-to-us-banking-system-exchange-says.html </td>
@@ -648,7 +709,7 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
    <td style="text-align:left;"> https://tradingeconomics.com/commodity/crude-oil </td>
    <td style="text-align:left;"> 2023-06-09 10:00:00 </td>
    <td style="text-align:left;"> Oil Heads for Second Weekly Decline </td>
-   <td style="text-align:left;"> WTI crude futures traded around $71 per barrel on Friday and were on track to decline for the second straight week, as economic fears and the prospect of higher global supply outweighed Saudi Arabia’s announcement of another output cut in July. Investors continued to grapple with the prospect of further interest rate hikes from major central banks that could negatively impact overall demand, as well as heightened economic uncertainties in top crude importer China. The US oil benchmark also tumbled as much as 4.8% on Thursday following news that the US and Iran reached a temporary nuclear agreement that would allow Iran to resume oil exports of around 1 million barrels per day. However, both countries denied the report, causing oil prices to recoup most of Thursday's losses. Meanwhile, Saudi Arabia announced over the weekend its intention to reduce output by 1 million barrels per day to 9 million bpd in July, the lowest level in years amid an effort to support crude prices. </td>
+   <td style="text-align:left;"> WTI crude futures traded around $71 per barrel on Friday and were on track to decline for the second straight week, as investors remained concerned about demand. The prospect of further interest rate hikes from major central banks and economic uncertainties in top crude importer China could negatively impact overall demand. The US oil benchmark tumbled as much as 4.8% on Thursday following news that the US and Iran reached a temporary nuclear agreement that would allow Iran to resume oil exports of around 1 million barrels per day. However, both countries denied the report, causing oil prices to recoup most of Thursday's losses. Meanwhile, Saudi Arabia announced over the weekend its intention to reduce output by 1 million barrels per day to 9 million bpd in July, the lowest level in years amid an effort to support crude prices. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> https://tradingeconomics.com/china/food-inflation </td>
@@ -661,48 +722,6 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
    <td style="text-align:left;"> 2023-06-09 09:35:00 </td>
    <td style="text-align:left;"> China Inflation Rate Below Forecasts </td>
    <td style="text-align:left;"> China's annual inflation rate edged up to 0.2% in May 2023 from April's 26-month low of 0.1% but below market estimates of 0.3%. Food inflation picked up from a 13-month low in the prior month (1.0% vs 0.4%) on the back of further rises in prices of both fruit and cooking oil and a softer fall in cost of fresh vegetables. Meanwhile, non-food inflation was flat (at 0.1%), as further falls in prices of both transport (-3.9% vs -3.3%) and housing (-0.2% vs -0.3%) offset rises in cost of health (1.1% vs 1.0%) and education (1.7% vs 1.9%). Core consumer prices, excluding the volatile prices of food and energy, went up 0.6% yoy, after a 0.7% gain in April.  On a monthly basis, consumer prices dropped by 0.2%, the fourth straight month of fall, compared with estimates of a 0.1% decline. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/china/producer-prices-change </td>
-   <td style="text-align:left;"> 2023-06-09 09:35:00 </td>
-   <td style="text-align:left;"> China Producer Prices Drop the Most Since 2016 </td>
-   <td style="text-align:left;"> China's producer prices fell 4.6% yoy in May 2023, faster than a 3.6% drop in April and worse than market forecasts of a 4.3% drop. It was the eighth straight month of producer deflation and the steepest fall since February 2016 amid weakening demand and moderating commodity prices. A decline in production materials quickened (-5.9% vs -4.7%) due to a faster fall in processing prices (-4.6% vs -3.6%), raw materials (-7.7% vs -6.3%), and extractions (-11.5% vs -8.5%). Also, consumer goods prices edged down (-0.1% vs 0.4%) amid softer rises in prices of food (0.2% vs 1.0%), daily use goods (0.3% vs 0.4%), and clothing (1.4% vs 2.0%). At the same time, the cost of durable goods shrank by 1.1%, following a 0.6% fall in April. On a monthly basis, producer prices decreased by 2.6%, the second straight month of decline, after a 0.5 drop in the previous month. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/philippines/unemployment-rate </td>
-   <td style="text-align:left;"> 2023-06-09 09:17:00 </td>
-   <td style="text-align:left;"> Philippines Jobless Rate Falls to 4-Month Low </td>
-   <td style="text-align:left;"> The unemployment rate in the Philippines declined to a four-month low of 4.5 percent in April 2023 from 5.7 percent in the same month a year earlier, as the economy recovered further from pandemic disruptions. The number of unemployed persons was 2.26 million, down 0.51 million from 2.76 million in April 2022. Meanwhile, the number of employed climbed by 2.43 million to 48.06 million compared to the same period last year. The services sector accounted for the largest share of employment (61.1 percent), followed by the agriculture sector (21.9 percent) and the industry sector (17.0 percent). Meanwhile, labor force participation increased to 65.1 percent from 63.4 percent in April 2022. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/philippines/imports-yoy </td>
-   <td style="text-align:left;"> 2023-06-09 09:10:00 </td>
-   <td style="text-align:left;"> Philippines Imports Drop the Most in Near 3 Years </td>
-   <td style="text-align:left;"> Imports to the Philippines slumped by 17.7% yoy to USD 9.43 billion in April 2023, after a downwardly revised 1.2% fall a month earlier. This was the third straight month of decline in purchases and the steepest fall since July 2020 due to weakening domestic demand amid further cost pressures. Imports dropped for electronic products (-17.9%), mineral fuels, lubricants (-42.6%), transport equipment (-25.5%), iron and steel (-16.6%), industrial machinery &amp; equipment (-0.5%), other food and animal (-7.0%). By contrast, purchases grew for cereals &amp; cereal preparations (17.7%), miscellaneous manufacture preparations (25.3%), telecommunication equipment and electrical machinery, and metalliferous ores &amp; metal scrap (281.0%). Purchases were lower from Japan (-14.2%), South Korea (-40.6%), the US (-1.6%), Malaysia (-19.5%), Taiwan (-27.7%), China (-5.9%), Indonesia (-22.0%), the ASEAN (-19.8%), and the EU (-15.9%). By contrast, imports rose from Thailand (7.5%), and Vietnam (18.3%). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/philippines/exports-yoy </td>
-   <td style="text-align:left;"> 2023-06-09 09:06:00 </td>
-   <td style="text-align:left;"> Philippines Exports Fall the Most in 35 Months </td>
-   <td style="text-align:left;"> Exports from the Philippines tumbled 20.2% year-on-year in April  2023, deepening from a 9.1% drop in the prior month. It was the fifth straight month of fall in shipments and the steepest pace since May 2020, due to further deterioration in foreign demand as the risks of global economic slowdown persisted. Sales fell for electronic products (-17.9%), other mineral products (-5.8%), cathodes, of refined copper (-37.5%), machinery &amp; transport equipment (-10.3%), chemicals (-31.8%), and metal components (-6.2%).  In contrast, exports increased for ignition wiring sets and other wiring sets used in vehicles, aircraft, ships (24.9%), gold (25.2%), and banana (8.0%). By destination, sales shrank to China (-20.7%), the US (-25.3%), Japan (-21.8%), Hong Kong (-18.4%), Singapore (-34.9%), Taiwan (-28.4%), Germany (-0.6%), Netherlands (-25.8%), the ASEAN countries (-30.4%) and the EU (-14.9%). Conversely, they grew to South Korea (18.9%), India (22.2%), and Switzerland (66.8%). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/philippines/balance-of-trade </td>
-   <td style="text-align:left;"> 2023-06-09 09:03:00 </td>
-   <td style="text-align:left;"> Philippines Trade Gap Narrows in April </td>
-   <td style="text-align:left;"> The trade deficit in the Philippines decreased to USD 4.53 billion in April 2023 from USD 5.32 billion in the same month a year earlier, as exports dropped more than imports. Shipments tumbled 20.2% from a year earlier to USD 4.90 billion, the fifth straight month of fall, amid weak overseas demand and lingering global headwinds. Meanwhile, purchases fell at a softer 17.7% to USD 9.43 billion, the fourth fall so far this year, as cost pressures continued to rattle domestic demand while commodity prices eased further. Considering the first four months of the year, the trade deficit was at USD 19.28 billion, widening from the USD 18.40 billion shortfall in the same period of 2022. Last year, the trade shortfall increased to USD 58.32 billion from USD 42.23 billion in 2021. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/japan/stock-market </td>
-   <td style="text-align:left;"> 2023-06-09 09:01:00 </td>
-   <td style="text-align:left;"> Japanese Shares Track Wall Street Higher </td>
-   <td style="text-align:left;"> The Nikkei 225 Index rallied 1.97% to close at 32,265 while the broader Topix Index jumped 1.5% to 2,224 on Friday, rising for the first time in three sessions and taking cues from a strong lead on Wall Street as a sharp fall in Treasury yields boosted technology and other growth stocks. Those moves came as latest data showed that new unemployment claims in the US surged to an over 1-1/2 -year high last week, bolstering the case for a pause in the Federal Reserve’s interest rate hikes this month. Nearly all sectors participated in the rebound, with strong gains from index heavyweights such as Fast Retailing (4.6%), Advantest (2.9%), Keyence (2.1%), Toyota Motor (1.4%) and Sony Group (2.1%). The Nikkei 225 Index gained 2.5% this week, extending its winning streak to nine consecutive weeks. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> https://tradingeconomics.com/australia/stock-market </td>
-   <td style="text-align:left;"> 2023-06-09 08:52:00 </td>
-   <td style="text-align:left;"> Australian Shares Rise on Mining Boost </td>
-   <td style="text-align:left;"> The S&amp;P/ASX 200 Index rose 0.32% to close at 7,123 on Friday, snapping a three-day decline, with mining stocks leading the advance amid firmer metals prices. Australian shares also tracked gains on Wall Street overnight as a sharp fall in Treasury yields boosted technology and other growth stocks. Iron ore, lithium and gold miners led the charge, with gains from BHP Group (1.2%), Rio Tinto (0.4%), Fortescue Metals (1.4%), Pilbara Minerals (0.5%) and Northern Star Resources (2%). Other index heavyweights also advanced, including ANZ Group (0.9%), Macquarie Group (0.9%) and Goodman Group (1.2%). Meanwhile, energy stocks declined after oil prices tumbled overnight, with sector leaders Woodside Energy and Santos losing 0.3% and 0.7%, respectively. Still, the benchmark index lost 0.32% this week, posting its third straight weekly decline. </td>
   </tr>
 </tbody>
 </table></div>
@@ -718,7 +737,7 @@ Last Updated: 2023-06-09 20:13:30 UTC +8
 
 
 
-Last Updated: 2023-06-09 20:13:53 UTC +8
+Last Updated: 2023-06-09 21:01:40 UTC +8
 
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:900px; overflow-x: scroll; width:100%; "><table style="width:30%; width: auto !important; margin-left: auto; margin-right: auto;" class="table table-striped">
  <thead>
@@ -729,6 +748,1552 @@ Last Updated: 2023-06-09 20:13:53 UTC +8
   </tr>
  </thead>
 <tbody>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:16 </td>
+   <td style="text-align:left;"> $SPY . </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:04 </td>
+   <td style="text-align:left;"> $SPY futes ripping $QQQ $IWM </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:58 </td>
+   <td style="text-align:left;"> $DJIA $QQQ $SPY $TSLA who&amp;#39;s ready for another day of crooked Wall Street trading? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:44 </td>
+   <td style="text-align:left;"> $SPY same play every Friday </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:43 </td>
+   <td style="text-align:left;"> $SPY shit is so god damn rigged ffs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:21 </td>
+   <td style="text-align:left;"> $QQQ $SPY $TSLA has joined the fun… now every Nasdaq stock has a parabolic chart. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:20 </td>
+   <td style="text-align:left;"> $SPY $QQQ The communist traitor is indicted, time to rally! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:50 </td>
+   <td style="text-align:left;"> $QQQ $SPY Bears your time is approaching shortly. Since last week Calls are about 2/3 over Puts day traders it may be time to just sit out at these levels until we see a confirmation esp in AI/Tech/Growth give it a few days </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:49 </td>
+   <td style="text-align:left;"> $SPY joke market
+
+Tesla soaring. Doge soaring. Carvana soaring </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:45 </td>
+   <td style="text-align:left;"> latexf1a6ced35f45f9fb6bc1fa1e7277a115TSLA - 6/16 on watch for a roll up
+$NVDA - 6/16 400c over 395 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:25 </td>
+   <td style="text-align:left;"> $SPY it’s that time of month for my account to bleed a little red - catch me at the expiry ;)
+
+Play smart my Gs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:09 </td>
+   <td style="text-align:left;"> @KnightKing they just cornered the charging market.  That’s like someone cornering the gas station market 50  years ago.  Insane! $tsla $spy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:02 </td>
+   <td style="text-align:left;"> $SPY looks like it wants to blast off. I think there’s probably too much buying pressure to keep it down. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:42 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ $VOO $VTI Bye-bye bear... New S&amp;amp;P 500 bull market has legs - BofA
+
+https://www.investing.com/news/stock-market-news/byebye-bear-new-sp-500-bull-market-has-legs--bofa-432SI-3102066 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:35 </td>
+   <td style="text-align:left;"> $SPY definitely Red day. Cool off then march forward 😉🍷 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:33 </td>
+   <td style="text-align:left;"> $SPY we all know this is moving above JPM ‘s collar at 430. These guys want their bonuses ! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:31 </td>
+   <td style="text-align:left;"> $SPY Wild game last night. 🪓Braves with the sweep! 🧹 
+ 
+Markets to new highs... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:40 </td>
+   <td style="text-align:left;"> $SPY $QQQ 
+CNBC has former Fed equating getting vaccines to raising rates </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:33 </td>
+   <td style="text-align:left;"> $SPY this is way to easy for bulls.. yet another bull Friday🤬 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:32 </td>
+   <td style="text-align:left;"> $SNDL &amp;lt;3 SNDL &amp;gt; A BULLS DREAM ENTRY POINT RSI AT 50 4 HR &amp;amp; DAILY. &amp;gt; SPY 4 HOUR RSI. &amp;lt;3 
+ 
+Today, a Possible Major Break Out to the upside and another break out Monday &amp;amp; Tuesday Next Week! 
+ 
+If you HAVEN&amp;#39;T listened to yesterday&amp;#39;s Cannabis Conference with Zach George, I highly recommend you do ASAP!! 
+ 
+Big Things are happening. Just Saying! 
+ 
+Squeezy! Squeezy!! &amp;lt;3 GL 
+ 
+$SPY $NASDAQ $DJIA All Markets Trending Bullish! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:14 </td>
+   <td style="text-align:left;"> $SPY HOW MANY TIMES WE GOING TO REJECT THIS AREA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:13 </td>
+   <td style="text-align:left;"> $SPY $430 coming </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:11 </td>
+   <td style="text-align:left;"> $SPY Bear market over? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:07 </td>
+   <td style="text-align:left;"> HAMMMMMEEER GOLD 💰❗❗❗
+CANADA LOSES 17.3K JOBS IN MAY; UNEMPLOYMENT RISES TO 5.2% FROM 5.0%
+$QQQ $SPY $DJIA $ARKK $NASDAQ  jdjs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:42 </td>
+   <td style="text-align:left;"> $SPY does this idiot know that MLinv is a bogus trader selling trading shit like wychoff??? In fact that moron is spreading negative shit about SPY every day. 
+ 
+HINT: those who are patting you on the back while they sell you fear are not your friends. 
+ 
+The BRUTAL TRUTH is fun </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:38 </td>
+   <td style="text-align:left;"> $SPY $ES_F you can&amp;#39;t make that up, well you can. Short 4300 quick scalp. Long 4296 again looking for 4301. Ding ding ding. Another 5 PT locked. And we are done with this area until we see 4310 and retrace to 4300 for potential long entry. Or over 4305, reject to 4290, climb back 4300 one last time and short entry there. Thoughts to think, always always ALWAYS, money to be made. No need to stress. A Rational Thought~ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:36 </td>
+   <td style="text-align:left;"> $SPY $QQQ im I the only one thinking this is a fake out? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:23 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA 
+
+Too many calls - OI at the close yesterday </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:21 </td>
+   <td style="text-align:left;"> $SPY real hero are bulletproof/laserproof and it just a movie </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:09 </td>
+   <td style="text-align:left;"> $SPY wall of fury! Denied! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:01 </td>
+   <td style="text-align:left;"> $RGTI 300k pre market volume. Looking good to breakout over 1.50.
+AI needs Quantum computing!!
+
+ $TSLA $NVDA $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:40 </td>
+   <td style="text-align:left;"> $SPY $QQQ $ADBE Will be at least a 500% winner. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:24 </td>
+   <td style="text-align:left;"> $MSFT $QQQ $SPY Time to go up! 🚀🚀🚀🚀 
+
+Microsoft : BMO raises target price to $385 from $347 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:17 </td>
+   <td style="text-align:left;"> @PELK @Bears_Stuckinthewasher VIX collapse is simply due to 0DTE taking over. 
+ 
+option hedging $ moved from 30 DTE and greater days out too 0 DTE. This means there is far less $$$ hedging/fear 30 days out and 100x more $$ fear hedging in 0 DTE. 
+ 
+VIX has to collapse because its not measuring the fear in SPX any more. 
+ 
+$SPY $SPX $UVXY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:15 </td>
+   <td style="text-align:left;"> $SPY Breaking news: Trump on audio talks about not declassifying information - https://abcnews.go.com/Politics/live-updates/trump-indictment/?id=99913217 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:01 </td>
+   <td style="text-align:left;"> $SIEN chk this fda clearance 
+$QQQ $SPY $UDOW $KOLD </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:59 </td>
+   <td style="text-align:left;"> $SPY yall really wanna pretend covid was our all time low and nothing previously mattered....morons </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:56 </td>
+   <td style="text-align:left;"> $QQQ $SPY $VIX at $13.6 😳😳 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:47 </td>
+   <td style="text-align:left;"> $SPY some resistance around 430.55 ...we shall see from there </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:43 </td>
+   <td style="text-align:left;"> $SPY Nobody wants to short when central banks are injecting liquidity. You&amp;#39;d be crazy to do so unless it&amp;#39;s a small hedge position. Bull market returns until Fed stops injecting. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:23 </td>
+   <td style="text-align:left;"> DIA $F $SPY $TSLA $GM $QQQ  #todamoon  #carsonmars </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:00 </td>
+   <td style="text-align:left;"> $SPY break 430 or back to 422? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:00 </td>
+   <td style="text-align:left;"> $SPY 845 pop that is a new one $BTC.X </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:52:35 </td>
+   <td style="text-align:left;"> $SPY I know y’all see that flag on the daily frame. 431/433 targets if we hold above 429.60s 👀 hmmmm </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:52:34 </td>
+   <td style="text-align:left;"> $SPY will end red/green = ? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:52:29 </td>
+   <td style="text-align:left;"> $APE day 60 the market is obviously fake and manipulated 🍿 naked shorts $AMC $SPY $JPM price doesn’t reflect fundamentals </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:52:08 </td>
+   <td style="text-align:left;"> $SPY &amp;quot;The charges also include willfully retaining documents in violation of the Espionage Act, he said.&amp;quot; hmmm.... what about all those documents they found at Biden&amp;#39;s summer home or wherever he keeps that sweet corvette.  
+ 
+Timing is sus. Seems like preparation, we&amp;#39;re going to hit Trump with this indictment, but let&amp;#39;s first check if we have... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:59 </td>
+   <td style="text-align:left;"> $SPY SELL THE TOP! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:57 </td>
+   <td style="text-align:left;"> $QQQ $SPY $DIA The market looks like it&amp;#39;s going up 2.75% across the board today. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:20 </td>
+   <td style="text-align:left;"> $CVNA was beautiful yesterday but it looks like it still has legs left. Shirts be careful, this can go pretty good for you or really bad. $SPY still having a battle under that $430. If it breaks it has to hold. Nothing is given. $TSLA has been wild for the past month leading up to this deal with $GM. Definitely some insider trading. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:07 </td>
+   <td style="text-align:left;"> $CVNA  $SPY $QQQ $GME $SOFI .... also rolling 2-month t-bills.  weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:46 </td>
+   <td style="text-align:left;"> $SPY so many flipped bullish, at just the right time 🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:40 </td>
+   <td style="text-align:left;"> $SPY this is shitting the bed st openm so obvious </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:32 </td>
+   <td style="text-align:left;"> $SPY break the pivot high and measured move takes you to 433 and some change. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:18 </td>
+   <td style="text-align:left;"> $SPY hell they won’t let it do anything else </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:04 </td>
+   <td style="text-align:left;"> $SPY Pump it up!! I want to see a super bubble in tech!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:44 </td>
+   <td style="text-align:left;"> The FBI has a server. Somewhere. Set up in a room running futures $SPY $QQQ 🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:33 </td>
+   <td style="text-align:left;"> $SPY sell! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:32 </td>
+   <td style="text-align:left;"> $SPY market has given easy path to Fed to hike one more time. Economy is booming and it can absorb high interest rates very well </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:23 </td>
+   <td style="text-align:left;"> $SPY R3ddit is down so I have no choice but to read you stupid fucks comments </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:01 </td>
+   <td style="text-align:left;"> $SPY bull market baby $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:36 </td>
+   <td style="text-align:left;"> $SPY alot of rebuilding U.S. taxpayers have to pay in Ukraine 🇺🇦 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:35 </td>
+   <td style="text-align:left;"> $TSLA $spy $qqq $lcid go
+
+https://www.twitch.tv/tramplewun/v/1841749838?sr=a&amp;amp;t=2s </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:20 </td>
+   <td style="text-align:left;"> $SPY They’re going after Trump because he took those classified documents that proves the deep state alphabet gang have been reverse engineering alien spacecraft and have been in contact with non-human intelligence. Democrats are probably smelly alien mutant shapeshifters. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:17 </td>
+   <td style="text-align:left;"> $SPY what entities are sophisticated enough to manipulate Futures? $QQQ  CIA, FBI maybe DOJ? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:13 </td>
+   <td style="text-align:left;"> $SPY $QQQ $NASDAQ $RUT $DJIA 
+
+I&amp;#39;m stunned at how meny people are oblivious of the rise in BRICS economy.
+
+Be educated people.  This will affect the USD.
+
+https://www.newsweek.com/how-brics-evolving-china-russia-dream-us-defying-reality-1804844 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:50 </td>
+   <td style="text-align:left;"> $TSLA Joe&amp;#39;s at the Helm.... Oops and you&amp;#39;re buying Calls? $spy This idiot thinks it&amp;#39;s his birthday this morning  GL $KRE $KSS </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:43 </td>
+   <td style="text-align:left;"> $SPY All Time Highs, Coming to a wallet near you </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:37 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:24 </td>
+   <td style="text-align:left;"> $SPY retail is still shorting, silly bears </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:18 </td>
+   <td style="text-align:left;"> $SPY $QQQ $SOFI Remember when people said inflation would be at 2% by summer 2023, and that the fed would be preparing for cuts. 
+ 
+Lol. Most over-front runned pivot in history. So crowded. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:58 </td>
+   <td style="text-align:left;"> $SPY Next week we fly </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:54 </td>
+   <td style="text-align:left;"> $SPY Energy is finished.. LO L </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:48 </td>
+   <td style="text-align:left;"> $SPY Can we break 430-432 today o_O? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:43 </td>
+   <td style="text-align:left;"> $SPY that all time chart though. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:25 </td>
+   <td style="text-align:left;"> $SOFI we know CPI will be down. Fed pause oe no pause dpnt care we still doing very well $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:23 </td>
+   <td style="text-align:left;"> $SPY   sell the open??? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:23 </td>
+   <td style="text-align:left;"> $SPY think you short this mkt. Way too many bulls </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:18 </td>
+   <td style="text-align:left;"> $spy $qqq $ndx $NQ_F $nasdaq AI breached </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:15 </td>
+   <td style="text-align:left;"> $SPY I cant believe that students actually voted for this guy whom only looks out for the rich ppl.... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:07 </td>
+   <td style="text-align:left;"> $SPY    
+Calls:   
+📈  1st at $428.22 - $427.70 
+📈  2nd at $426.70 - $426 
+Puts:   
+📉 below $425.99  
+   
+Let the setup come to you!  
+Manage risk properly! cut losses quickly! And always take profits. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:57 </td>
+   <td style="text-align:left;"> Or maybe it’s the CIA manipulating the futures $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:49 </td>
+   <td style="text-align:left;"> $CVNA $TSLA $ADBE $SPY $QQQ my bags pre market 😎 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:43 </td>
+   <td style="text-align:left;"> $DOCU $SPY $SOFI $COST </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:31 </td>
+   <td style="text-align:left;"> $WLDS  $AAPL $MSFT $SPY 
+It&amp;#39;s getting hot..jump in before it&amp;#39;s to late </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:30 </td>
+   <td style="text-align:left;"> $SPY Biden is having fun destroying the country. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:26 </td>
+   <td style="text-align:left;"> $SPY 
+
+This loser on CNBC saying Fed should keep raising.  
+
+Inflation takes time to drop, dummies!   Let it be and watch for a while. Geez. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:13 </td>
+   <td style="text-align:left;"> $JNJ vs. $SPY vs. $XLP: what is the best stock to add to your portfolio? #JohnsonJohnson https://srnk.us/go/4714048 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:44 </td>
+   <td style="text-align:left;"> $SPY nothing like waking up in the morning and the market is already getting a head start on a beautifully green day! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:39 </td>
+   <td style="text-align:left;"> $SPY $TSLA $AAPL $QQQ $META the result of April? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:24 </td>
+   <td style="text-align:left;"> The FBI probably manipulating futures too $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:19 </td>
+   <td style="text-align:left;"> $SPY nyc is boarded up and is losing storefronts like Russia is losing young men.  Yet, mega monopolies continue to thrive. Welcome to the new age. It’s more dystopian than we realize. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:39 </td>
+   <td style="text-align:left;"> My Option Watchlist For 06/09/2023   
+  
+$AAPL    
+Calls:     
+📈  at $179.70 - $179 
+📈 above $181 
+Puts:    
+📉  at $184 - $184.95 if we get rejected  
+  
+$SPY    
+Calls:   
+📈  1st at $428.22 - $427.70 
+📈  2nd at $426.70 - $426 
+Puts:   
+📉 below $425.99  
+ 
+  
+$TSLA    
+ Calls:    
+📈 at $245 - $243  
+Puts:   
+📉  below $241 
+   
+Let the setup come to you!  
+Manage risk properly! cut losses quickly! And always take profits. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:38 </td>
+   <td style="text-align:left;"> $SPY if your CHILD as in 17 or younger is trans gender you failed </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:31 </td>
+   <td style="text-align:left;"> $COIN DOWNGRADED to NEGATIVE by Moody&amp;#39;s might have an impact to bring it to the DOWNSIDE.  What is interesting that $SPY $QQQ $BTC.X DIA are all over the place in the last few hours. Let&amp;#39;s see the direction after the open as it could go either way. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:19 </td>
+   <td style="text-align:left;"> $SPY 🤣🤡🧂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:47 </td>
+   <td style="text-align:left;"> $SPY fun fact old fucking guy is a 40 yr old dude that lives in his moms basement </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:41 </td>
+   <td style="text-align:left;"> Let&amp;#39;s play a game. Guess which ticker this is.
+
+This is the play from yesterday. Alerted the near perfect level for a reversal trade. Just $0.03c from its absolute bottom of the day.
+All possible from ONLY buying when H% is low. Look at the each steps shown.
+
+$SPY $TSLA $AAPL $MSFT $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:31 </td>
+   <td style="text-align:left;"> $SPY apparently trump must be back in office with all this bull pumping? Jk cold reality is we have morons at the helm. Can’t wait for the 🩸 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:29 </td>
+   <td style="text-align:left;"> $SPY 
+
+Geez. Biden is making normal people sound evil.  Strange 🤔
+
+&amp;quot;Biden went on to say that &amp;quot;extreme officials are pushing hateful bills targeting transgender children, terrifying families and criminalizing doctors.&amp;quot; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:27 </td>
+   <td style="text-align:left;"> $SPY happy money Friday!!! 💰 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:21 </td>
+   <td style="text-align:left;"> $SPY S&amp;amp;P futures rollover from June contract to September in effect.   June expires in 7 days, things get choppy during the transition as traders sell June and buy September. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:13 </td>
+   <td style="text-align:left;"> $SPY we need $META, $MSFT and $AMZN to get with the program lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:11 </td>
+   <td style="text-align:left;"> $SPY in the last month the top 30 stocks in the SP500 have moved 20% or more up
+
+So how in the hell you still say the word bearish or anything even related with bearish 
+
+Is  FUCKING BULL RUN  stop watching whatever you watching and fallowing whatever you fallow 
+Erase everything in you fucking head and start from scratch because you definitely way off </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:48 </td>
+   <td style="text-align:left;"> $SPY  $QQQ  -   Remember Kids, we don&amp;#39;t talk to strangers or get in vans with people who claim &amp;quot;we&amp;#39;re in a new bull market&amp;quot; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:41 </td>
+   <td style="text-align:left;"> $SPY Low income bears very angry this morning. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:11 </td>
+   <td style="text-align:left;"> $SPY nothing can stop the dancing man....not even the quantum world.... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:10 </td>
+   <td style="text-align:left;"> DIA $F $SPY $TSLA $GM $QQQ   CARS ON MARS ... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:09 </td>
+   <td style="text-align:left;"> $SPY Baggy pumpers. Keep pumping money but never sell. It only goes up if you don’t sell. maintain the broke-rage account like a trophy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:40:42 </td>
+   <td style="text-align:left;"> $SPY  Poke yourself in the eye you lazy bears </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:40:41 </td>
+   <td style="text-align:left;"> $SPY This person gets it! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:40:34 </td>
+   <td style="text-align:left;"> $spy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:41 </td>
+   <td style="text-align:left;"> $SPY I DONT KNOW WHAT IM DOING BUT I WANT THE MONIES!🤠☘️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:06 </td>
+   <td style="text-align:left;"> $SPY  $QQQ   Happy Proud of Yahweh Month ! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:59 </td>
+   <td style="text-align:left;"> $SPY futures choppy but so many things getting massive pumps pre market $TSLA $ADBE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:24 </td>
+   <td style="text-align:left;"> $SPY PAMP DAT </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:08 </td>
+   <td style="text-align:left;"> $SPY looks weak bulls can&amp;#39;t crack it </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:54 </td>
+   <td style="text-align:left;"> $TSLA back to 1k end of year $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:48 </td>
+   <td style="text-align:left;"> $SPY i am seeing quadriple tops at 430 lmao </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:37 </td>
+   <td style="text-align:left;"> $QQQ $SPY isn’t this what the Fed (central banks) want in their fight against inflation?  🤦‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:20 </td>
+   <td style="text-align:left;"> Bye bye bear... New S&amp;amp;P 500 bull market has legs - BofA $SPY $SPX 
+ 
+https://www.streetinsider.com/Analyst+Comments/Bye+bye+bear...New+S%26P+500+bull+market+has+legs+-+BofA/21781706.html </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:18 </td>
+   <td style="text-align:left;"> $SPY finally switching to bullish on this for the first time officially! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:11 </td>
+   <td style="text-align:left;"> $SPY so how is the majority bearish when the fear and greed index is at 77? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:01 </td>
+   <td style="text-align:left;"> $SPY $GLD negative correlation yet both going up. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:00 </td>
+   <td style="text-align:left;"> $SPY Start using AI now while others panic https://youtu.be/9wFufMFG5fE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:56 </td>
+   <td style="text-align:left;"> $SPY soooooooooooo............ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:51 </td>
+   <td style="text-align:left;"> Give it to Mike z Wilson today $450 $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:44 </td>
+   <td style="text-align:left;"> Which stock is the best to invest? Compare $GDX vs. $SPY vs. $VTI. https://srnk.us/go/4714010 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:41 </td>
+   <td style="text-align:left;"> $SPY if fed wants to really control the inflation, they need to go .50 .75 this time </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:30 </td>
+   <td style="text-align:left;"> $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:14 </td>
+   <td style="text-align:left;"> $SPY Jimmy Carter 2.0 ✔️✔️✔️✔️⤵️⤵️🤫🤫🤫🤫🤫🤫 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:14 </td>
+   <td style="text-align:left;"> $SPY Only up forever. Unlimited money supply. Election cycle 401 pump </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:03 </td>
+   <td style="text-align:left;"> $SPY Morgan Stanly being the biggest joke of them all $QQQ $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:02 </td>
+   <td style="text-align:left;"> $SPY $ES_F gorgeous. The amount of free money they are printing to the unbias traders right now between 4270 and 4300 is outrageous. GET YOURS!!!! A Rational Thought~ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:55 </td>
+   <td style="text-align:left;"> $SPY One line to rule them all! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:54 </td>
+   <td style="text-align:left;"> $TSLA pump to 300 with your fake upgrade so massive dump happens. The wait for many shareholders tired of Felon Muskarat, thanks to GM and Ford takeover, is over! $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:50 </td>
+   <td style="text-align:left;"> $TSLA $SPY EZ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:42 </td>
+   <td style="text-align:left;"> $SPY CNBC drunk or something why is NIO a popular quote ahahaha </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:41 </td>
+   <td style="text-align:left;"> $SPY its canadian recession. NOT U.S .buy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:31 </td>
+   <td style="text-align:left;"> In Group 3 Live Session today, we will also explain that the #Dollar has ended the bounce and will get sideways to lower in a Negative USD Dynamic. #Equities and #commodities should rally.  #Elliottwave #Stocks #Trading $SPY $SPX $AAPL $TSLA $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:20 </td>
+   <td style="text-align:left;"> Disgrace to the Stock Race  the bears 🐻 
+$SPY $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:17 </td>
+   <td style="text-align:left;"> $SPY the local $TSLA charging station is already packed. Need more stations. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:13 </td>
+   <td style="text-align:left;"> $SPY Most retarted market I have ever seen. Embrace being retarted and its easy money tbh. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:12 </td>
+   <td style="text-align:left;"> $NFLX BOOM 💥 Told you all yesterday 📈
+
+$SPY $TSLA $NVDA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:09 </td>
+   <td style="text-align:left;"> $SPY 
+
+&amp;quot;EXCLUSIVE: Former President Trump said his federal indictment is &amp;quot;election interference at the highest level,&amp;quot; telling Fox News Digital that the Biden administration is &amp;quot;the most corrupt&amp;quot; in history.&amp;quot;
+
+Ok I agree Biden is totally corrupt.
+
+BUT, is Trump saying that this indictment will cause a voter who WAS going to vote for him to NOT vote for him ?   🤔 Hmmm 
+
+I doubt it. I think folks have made up their mind on Trump. I&amp;#39;d be curious to hear from a voter who was leaning Trump and now won&amp;#39;t just because of this. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:51 </td>
+   <td style="text-align:left;"> $SPY $QQQ  
+ 
+LMAO 
+Meme stocks are back! I guess Fed&amp;#39;s rate hikes did shit for anything. Inflation is naturally subsiding. However, it will spike back with vengeance, if Fed keeps adding secret liquidity because it is scared shitless with banking crisis. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:48 </td>
+   <td style="text-align:left;"> $SPY when break 430 bulls </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:38 </td>
+   <td style="text-align:left;"> $SPY nothing crazy, just MAs…new quarter rollover and running into 200 MA rejection…pretty clear where we go for the summer </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:12 </td>
+   <td style="text-align:left;"> $SPY oops fake news lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:07 </td>
+   <td style="text-align:left;"> Big Bears 🐻 are a disgrace to Humanity $SPY $QQQ $SPX </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:05 </td>
+   <td style="text-align:left;"> $SPY $QQQ  with dxy about to tumble, the market is about to take off </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:02 </td>
+   <td style="text-align:left;"> $SPY $QQQ a preview of what’s coming globally. RISING UNEMPLOYMENT. ☠️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:53 </td>
+   <td style="text-align:left;"> $QQQ $SPY one more hour until bulls get rugged </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:23 </td>
+   <td style="text-align:left;"> $SPY Who bought POS $MSFT instead of pumping $TSLA $CVNA ? 🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:58 </td>
+   <td style="text-align:left;"> $SPY $QQQ zero sells, only buys since Oct-Dec 2022... 
+ 
+- Hedged when things looked rough. 
+- Cashed those in when things looked better. 
+- Trolled the dooomers on ST. 
+ 
+That was the way. 
+ 
+No need to change it, *even* if we get further pullbacks/consolidations... even corrections. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:54 </td>
+   <td style="text-align:left;"> $SPY evere day for last 3 month I was reading &amp;quot;tomorrow blood bath&amp;quot;, so when? 🤔 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:52 </td>
+   <td style="text-align:left;"> You Bears 🐻 are a disgrace to the Stock Race $SPY $QQQ $NDX   a disgrace! Flat out </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:45 </td>
+   <td style="text-align:left;"> $SPY $QQQ WSJ - The S&amp;amp;P 500 starts a new bull market. Outsize gains from a handful of companies, including Amazon, Tesla and Nvidia, helped power the S&amp;amp;P 500 higher over the past few months. Many of those same stocks led Thursday’s market advance, propelling the broad index up 0.6% and ending its longest bear market since the 1940s. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:19 </td>
+   <td style="text-align:left;"> $SPY As this US moves further towards a liberal dictatorship what will the effects be on the markets? Tough one to figure out. I think it will be very negative looking at other countries under one government. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:18 </td>
+   <td style="text-align:left;"> $SPY this market is a joke. Can&amp;#39;t wait for jpow to slap us down next week. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:24 </td>
+   <td style="text-align:left;"> Group 3 Live Session will start at 9AM. Tune in @ https://elliottwave-forecast.com/amember/go.php?r=34991&amp;amp;i=l1 where we will explain all the instruments and what should be happening next. #Elliottwave #Stocks #Trading $SPY $QQQ $TSLA $AAPL $SPX </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:18 </td>
+   <td style="text-align:left;"> $SPY Higher for longer✔️⤵️🩸 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:08 </td>
+   <td style="text-align:left;"> $SPY Strongest economy in recorded history.  Everyone I know is still spending like normal, but I don’t hang out with broke people so not sure what broke people are doing. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:04 </td>
+   <td style="text-align:left;"> $DIA $QQQ $SPY is now 429.3s. it so strong. AI Tech Rally and Banks Come Back help it a lot. SPY will drop 2-4 $ After the Open. $SOXL is now 22.75. I Shorts it for 22.5s avg and I have take +0.5 +1.2 in two days. I will have another +0.5-1. 1-2 Trading days. I had +0.4 yesterday and I did not Take  it bc I want at least +0.5. 
+ 
+$SPY was 373.s 13 July at CPI I have Calls for 410+ for FOMC ER rally. SPY 410 FOMC and 431 at ER mid August. I calls later 400 in 1-3 weeks. 1st week 410 2nd week 400 3rd week 390. 13 oct 350 -1.5%. at 10h19 am I calls for a Close Green and 410+ in 4-6 weeks. SPY Close 365 +2.6% 13 dec CPI SPY 411.s. Icalls for Taxes Losses Selling 390-380. a week later 378 and I Calls for FOMC 400-405 etc.. Msgs Posted and Saves. 
+ 
+Soon or Later SPY will Crash FED Rates  5.25%+  Always make market  Crash. AI Stocks have drop as I Predicted and Banks will be next aGain as I Predicted. 13 march Banks Crash and SPY 380. GLTA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:58 </td>
+   <td style="text-align:left;"> $SPY no one is blaming Biden now. All time high soon. No recession </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:56 </td>
+   <td style="text-align:left;"> $SPY I believe the worst is over, but a pullback to 417-420 is necessary. Markets are churning and need a small 2-5 day organized pull back. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:42 </td>
+   <td style="text-align:left;"> $RIVN 
+
+🔥40 REASONS TO BUY RIVIAN STOCK🔥
+
+1. Amazon owns 20% of Rivian
+2. Amazon Partnership
+3. 100,000 Amazon Van Orders
+4. R2 Vehicles
+5. Amazon Buyout target
+6. Already producing EV Truck &amp;amp; SUV
+7. $12 Billion Cash
+8. Motortrend Truck of the Year
+9. Huge Growth Strategy
+10. 100k+ R1 Orders
+11. IL Factory=200K Vehicles
+12. New Georgia Factory
+13. New Factory=400K Vehicles
+14. 50k Vehicles 2023
+15. Improved Gross Profit
+16. Enough Cash to 2026
+17. 2024 Positive Gross Profit
+18. Huge Backlog
+19. Targets 25% GP
+20. L3 Autonomy
+21. EV Rebate
+22. Executives from Tesla, Nissan etc.
+23. EV Incentives
+24. Undervalued
+25. 10K+ Employees
+26. Level 2 Autonomy standard
+27. Manufactures Battery Pack
+28. Delivery Subscription
+29. Experienced Executives
+30. Ford owns 1%
+31. 1M EV’s by 2030
+32. Blackrock Invested
+33. Fidelity invested
+34. Own Charging Infrastructure
+35. Oversold
+36. Fleet OS
+37. R1T=Best Seller
+38. Skateboard Chassis
+39. 800HP Vehicles
+40. Untapped EV Market
+
+$SPY $QQQ $DIA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:40 </td>
+   <td style="text-align:left;"> $SPY for those who weren’t old enough to see how people lost everything during the dot-com bubble, now you know </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:38 </td>
+   <td style="text-align:left;"> $SPY omg bears are raped again </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:31 </td>
+   <td style="text-align:left;"> $SPY sup lil bro? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:30 </td>
+   <td style="text-align:left;"> $SPY too is in ? They’re are hiking next week so next week will be red </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:17 </td>
+   <td style="text-align:left;"> $SPY tiktok on the count. guess who won? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:12 </td>
+   <td style="text-align:left;"> $SPY Calls be preenteng </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:29:58 </td>
+   <td style="text-align:left;"> These bears turned into complete losers $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:29:02 </td>
+   <td style="text-align:left;"> I didn’t sell only added when it dipped to the 100s and Bears think i’ll sell now 😂😂😂😂
+
+$TSLA $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:28:56 </td>
+   <td style="text-align:left;"> $SPY this is what i can’t understand!! Strong economy? Really lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:28:23 </td>
+   <td style="text-align:left;"> $GM the stock has done basically nothing for the last 10 years with the same person in charge.. that you “trust” 🤣🤣 $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:28:22 </td>
+   <td style="text-align:left;"> $SPY I want that mythical 2% day lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:28:18 </td>
+   <td style="text-align:left;"> $SPY Bears rn </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:28:18 </td>
+   <td style="text-align:left;"> $BTC.X $ETH.X $SPY I mean who won? mask singer. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:27:54 </td>
+   <td style="text-align:left;"> $ES_F $SPY we lied. Took it short 8 for 8 shorting 4300. Only 2 point 2 ES a piece. Simple morning. While retailers blab about bulls and bears. The smart ones just take the low hanging fruit and enjoy our day. A Rational Thought~ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:27:40 </td>
+   <td style="text-align:left;"> $SHOP $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:27:33 </td>
+   <td style="text-align:left;"> $SPY $QQQ smart money is going to cash out soon. Today could be a good day to do so before next weeks Fed meeting and CPI.  They used 7 big companies to take the markets out of the bear market.  Is it sustainable?. We will see.  See you at open. GLTA. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:27:08 </td>
+   <td style="text-align:left;"> $SPY $430 breaks the run begins </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:59 </td>
+   <td style="text-align:left;"> $SPY Same low volume, pre-market prop job. lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:45 </td>
+   <td style="text-align:left;"> $SPY 🐸 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:36 </td>
+   <td style="text-align:left;"> latexb3c6b8ea8c852354aad7a34c125cf8b9SPY ...$IWM next let&amp;#39;s go </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:21 </td>
+   <td style="text-align:left;"> $SPY it’s a scam fed ponzi </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:14 </td>
+   <td style="text-align:left;"> $SPY We rally on Trump indictment, 435+ possible today </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:12 </td>
+   <td style="text-align:left;"> $SPY Bears are low testosterone individuals. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:11 </td>
+   <td style="text-align:left;"> $TSLA $QQQ $SPY $NVDA 
+
+I am posting less on Stocktwits! 
+
+If u want to follow me I’m on Twitter @Banana3Stocks </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:25:56 </td>
+   <td style="text-align:left;"> $SPY will open red! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:25:31 </td>
+   <td style="text-align:left;"> $SPY went up on strong payrolls, went up on bad jobless claims. WTF </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:25:16 </td>
+   <td style="text-align:left;"> $SPY sometimes it feels like all the leverage is in downside protection so every move lower means that protection gets monetized and the market stays up. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:25:04 </td>
+   <td style="text-align:left;"> $SPY $SPX play for today is buy the ATM 0dte straddle, scalp the quick move on open, if we don&amp;#39;t move hard within like 30 minutes, just sell it back. worth the risk when we&amp;#39;re around yearly highs and there&amp;#39;s gonna be a fight on open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:25:04 </td>
+   <td style="text-align:left;"> $SPY not looking good </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:24:25 </td>
+   <td style="text-align:left;"> $SPY same bogus daily lol ofc this is green. Can’t make this up.. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:24:21 </td>
+   <td style="text-align:left;"> $SPY $DWAC
+
+THE OLD BURISMA BOYS!
+
+IMPEACHMENT THEN INDICTMENT!
+
+NO MALARKEY! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:24:18 </td>
+   <td style="text-align:left;"> $SPY VIX penny stock soon.... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:24:13 </td>
+   <td style="text-align:left;"> $SPY pumping it up for Bidens election. Lmao </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:24:11 </td>
+   <td style="text-align:left;"> What is the difference between $ETN and $SPY? Learn it. #Eaton https://srnk.us/go/4713956 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:22:57 </td>
+   <td style="text-align:left;"> $SPY wen CP-Lie </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:22:44 </td>
+   <td style="text-align:left;"> $VOR LFGO NOW!!!!
+
+OVERLOOKED BIOTECH BEAUTY 
+
+THE CURED CANCER!!!!!
+
+Wowowowowowowo
+
+ $CYCC does cancer $MOBQ nice moves $SPY bullish $TSLA wow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:22:26 </td>
+   <td style="text-align:left;"> $SPY pretty much Bears summed up $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:22:21 </td>
+   <td style="text-align:left;"> $SPY just liquidated my 401k into money market. Don’t care if I miss another 5% rally when the downside is 40%+ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:22:19 </td>
+   <td style="text-align:left;"> $SPY assets soaring. Jpow gonna look like an idiot for the 2nd time when inflation  comes back </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:22:13 </td>
+   <td style="text-align:left;"> $SQQQ You know we are gonna nuke your rotation to safety right! $XLY $SPY $XLU $XLF </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:22:06 </td>
+   <td style="text-align:left;"> $SPY Market will stay irrational longer than you can stay solvent. 
+
+Practically this in play now. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:21:50 </td>
+   <td style="text-align:left;"> $DIA $SPY $IWM Macro focus next week will be on the US CPI (Tues morning), the FOMC decision (Wed afternoon), China’s May economic data (Wed night), the ECB decision (Thurs morning), and the BOJ decision (Fri morning). Regarding earnings, the big names to watch include: Mon night (ORCL), Wed night (LEN), Thurs morning (JBL, KR), and Thurs night (ABDE). There are a few analyst meetings that will be in focus, including: Mon (CRM, ILMN); Tues (HD); and Wed (BLK). It will also be another busy week of sell-side conferences, but investors will pay particular attention to the Morgan Stanley financials event (if the pro-cyclical/small-cap rotation is going to continue, it will require participation from the financials). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:21:47 </td>
+   <td style="text-align:left;"> $SPY very rare meme template hunted down in clown museum in Nebraska. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:21:34 </td>
+   <td style="text-align:left;"> $SPY 
+
+Just went short, let’s see how much more they pump it. Maybe a couple more weeks but if it is gonna go higher we have to reset some rsi burn. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:21:28 </td>
+   <td style="text-align:left;"> $SPY if you lotto played $NQ_F you already banking on calls </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:21:21 </td>
+   <td style="text-align:left;"> Game Plan, Levels and Chart: 
+(Note that I will trade the June contract today and I will switch to the September contract on Monday) 
+ 
+https://palmafutures.substack.com/p/s-and-p500-e-mini-levels-for-692023 
+ 
+$SPX $ES_F $SPY $VIX  
+#DayTrading #investing #StockMarket #FuturesTrading </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:21:01 </td>
+   <td style="text-align:left;"> $SOXL vs. $SPY vs. $VBR: what is the best stock to add to your portfolio? https://srnk.us/go/4713943 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:59 </td>
+   <td style="text-align:left;"> $SPY C&amp;#39;mon, 10 year about 165 bps lower than 6 month bill, the hikes aren&amp;#39;t doing anything...Rent still going up, food still going up, car prices still going up.... Fed still printing money so stocks still going up </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:57 </td>
+   <td style="text-align:left;"> $SPY Anyone know what the criminal MMs have planned for us today? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:57 </td>
+   <td style="text-align:left;"> $SPY gdp growth thanks to inflation 👍 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:37 </td>
+   <td style="text-align:left;"> $SPY wow getting closer to 429.62 😳 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:35 </td>
+   <td style="text-align:left;"> $SPY 430 call at open? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:18 </td>
+   <td style="text-align:left;"> $QQQ greatest ponzi schemes.  The greater fool is always there to keep buying , nothing will ever be corrected.  $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:18 </td>
+   <td style="text-align:left;"> The Nasdaq $QQQ broke out several weeks ago. The S&amp;amp;P 500 $SPY broke out two weeks ago. Now it looks like the DJIA $DIA is headed in that direction. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:07 </td>
+   <td style="text-align:left;"> Could CRISPR Therapeutics Become the Next Vertex Pharmaceuticals? | The Motley Fool 
+
+$spy $xbi $mrk $vrtx  https://www.fool.com/investing/2023/06/08/could-crispr-therapeutics-become-the-next-vertex/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:19:51 </td>
+   <td style="text-align:left;"> $SPY pump NVDA , so we can rip </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:19:46 </td>
+   <td style="text-align:left;"> $SPY $NVDA LOTTO 395C </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:19:24 </td>
+   <td style="text-align:left;"> $GM $F $TSLA  Looking Juicy AF
+$SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:19:00 </td>
+   <td style="text-align:left;"> $SPY my hedge is doing so badly its going green on the upside. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:18:44 </td>
+   <td style="text-align:left;"> $SPY 
+
+Meanwhile $RSP is rippin </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:18:38 </td>
+   <td style="text-align:left;"> $SPY TSLA will sell off at open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:18:21 </td>
+   <td style="text-align:left;"> $SPY  Let&amp;#39;s pretend we are on financial position pumper TV (anyone who understands economics asking a legit question to pumper) &amp;quot;So why would anyone want to buy at these levels given the current state of the world and our economy?&amp;quot;. (Pumper). &amp;quot;because brah because&amp;quot;.   Then pumper gets cheers and applause as more sheep race to buy! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:18:14 </td>
+   <td style="text-align:left;"> $SPY it is approaching that 429.63 resistance again. 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:18:00 </td>
+   <td style="text-align:left;"> $SPY I’m almost positive you should be using the extended hours chart right now, there is for sure some fuckery going on between the two charts. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:17:54 </td>
+   <td style="text-align:left;"> $SPY 5% up day for NVDA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:17:43 </td>
+   <td style="text-align:left;"> $SPY happy Friday kids!!!! Looking like an inside/green day let’s get it!!!!!! :) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:17:42 </td>
+   <td style="text-align:left;"> $SPY I heard SPY is getting into AI.  SPY 600 coming soon! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:17:28 </td>
+   <td style="text-align:left;"> $SPY all credit due to Joe .. trumptards </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:17:25 </td>
+   <td style="text-align:left;"> $SPY send spy up 1%  and I won’t say anything bad about Biden for the weekend pls </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:17:16 </td>
+   <td style="text-align:left;"> $SPY there won’t be much movement until 0DTE gamblers jump in. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:17:13 </td>
+   <td style="text-align:left;"> $SPY prepping for higher while the  turncoat Red Elephants begin to crush their fearless leader behind closed doors with words that dig a grave. 
+ 
+It is all coming to fruition and it isn&amp;#39;t a political ploy by the asses as some sadly believe. 
+ 
+When most act in a criminal manner, there is usually a price to pay. Let&amp;#39;s see how long the Teflon coating lasts. 
+ 
+Markets will dismiss the news and go on tracking North due to factors beyond its control. 
+ 
+Enjoy! We are witnessing a historical event. An ex- prez with more than 100 indictments coming his way! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:17:08 </td>
+   <td style="text-align:left;"> $SPY $ES_F Overnight, $SPX has defended 4286 and broken 4295.  Now a retest of 4295, hold and that sets us up beautifully to target 4302/4306 and new YTD highs. Fail and we fall to 86/80. Trust last night&amp;#39;s levels! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:59 </td>
+   <td style="text-align:left;"> $SPY how tho </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:31 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA $AAPL  market is going to go parabolic, scary but deserved by the world&amp;#39;s tried and hardened bulls of the globe. Take a bow. You are believers in America. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:29 </td>
+   <td style="text-align:left;"> $SPY will those $430 calls pay? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:26 </td>
+   <td style="text-align:left;"> $SPY Black Friday </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:14 </td>
+   <td style="text-align:left;"> $SPY I don&amp;#39;t even look at the chart anymore. I just buy calls esp on red days. 👍 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:12 </td>
+   <td style="text-align:left;"> $TSLA $GMC $SPY 
+
+Meanwhile chargepoint….. i can see chevron or exxon adding tesla chargers to their gas stations if they want to stay relevant. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:08 </td>
+   <td style="text-align:left;"> $SPY forreal havnt seen a red open in a long time and if it is lately it’s like -.001% red </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:48 </td>
+   <td style="text-align:left;"> $SPY $QQQ never been more bullish </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:48 </td>
+   <td style="text-align:left;"> $SPY $QQQ are they planning to dump the markets today? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:46 </td>
+   <td style="text-align:left;"> $BBAI $SPY  as I said before.  MiP is a rain cloud.   He is nothing but bad luck when it comes to individual stocks (not SPY options). </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:45 </td>
+   <td style="text-align:left;"> $SPY shorted 4300 plz squeeze me </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:17 </td>
+   <td style="text-align:left;"> $SPY 429.62 is the wall to break </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:17 </td>
+   <td style="text-align:left;"> $SPY never think these thoughts “they cant bring it down any lower” or “they cant push this up any higher”.. because they can and they will 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:04 </td>
+   <td style="text-align:left;"> $SPY 0dte puts at open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:01 </td>
+   <td style="text-align:left;"> $ES_F hit 4300 $SPY into Bull Market. It needs to stay above 4300 for a week. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:00 </td>
+   <td style="text-align:left;"> $SPY same thing every morning with this stupid ass market </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:14:49 </td>
+   <td style="text-align:left;"> $SPY alright screw It ima chase 0DTE calls because it has been pumping every day and I guarantee u today is the day it tanks 2 $ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:14:45 </td>
+   <td style="text-align:left;"> $SPY you know what to do, the same 7 stocks! spin that shit </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:14:45 </td>
+   <td style="text-align:left;"> $SPCE after successful flights , $SPY flying , $TSLA flying , commercial flights coming and yet this is at $4 ?.Use your common sense. At a minimum weak day on the market this will sink. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:14:42 </td>
+   <td style="text-align:left;"> $SPY My July $425 Puts will be ok. Even better next week when the fed raises rates. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:14:38 </td>
+   <td style="text-align:left;"> $SPY bullish on Ukraine war, higher yields, higher fed fund rates, higher rental cost, higher mortgage, inverted yield curve, higher CPI, bad PPI, unemployment, deficit increase, and money printer.... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:14:38 </td>
+   <td style="text-align:left;"> $SPY Bears r fuk </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:14:19 </td>
+   <td style="text-align:left;"> $SPY futes ripping higher again this morning… massive short squeeze today just like last several Fridays </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:13:52 </td>
+   <td style="text-align:left;"> 7 Great Dividend Stocks Under $25 for 2023 https://investorplace.com/market360/2023/06/7-great-dividend-stocks-under-25-for-2023/ $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:13:51 </td>
+   <td style="text-align:left;"> $SPY Strongest economy I’ve ever seen. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SPY </td>
+   <td style="text-align:left;"> 2023-06-09 20:13:48 </td>
+   <td style="text-align:left;"> $SPY Powell continues to be the world chump babying the market </td>
+  </tr>
   <tr>
    <td style="text-align:left;"> SPY </td>
    <td style="text-align:left;"> 2023-06-09 20:13:24 </td>
@@ -906,1576 +2471,560 @@ https://www.sofi.com/invite/invest?gcp=6a8612e3-a8ae-40a0-a482-279de12ecefa&amp;
    <td style="text-align:left;"> $SPY bulls are delusional..the top is in </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:05:58 </td>
-   <td style="text-align:left;"> $4750  $SPY $SPX $QQQ </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:04 </td>
+   <td style="text-align:left;"> $SPY futes ripping $QQQ $IWM </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:05:18 </td>
-   <td style="text-align:left;"> $SPY top at 430 end at,425? </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:58 </td>
+   <td style="text-align:left;"> $DJIA $QQQ $SPY $TSLA who&amp;#39;s ready for another day of crooked Wall Street trading? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:05:17 </td>
-   <td style="text-align:left;"> 6/9/2023 
- 
-I&amp;#39;ve been posting ongoing that we are in a bull market but NOW IT&amp;#39;S OFFICIAL 
- 
-The benchmark S&amp;amp;P 500 is now UP 20% off it&amp;#39;s October lows. 
- 
-Market winners, market pros have always said the best time to get into the market is at the beginning of a bull market.   
- 
-6/9/2023  
- 
-$spy $spx $study $dia $qqq </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:21 </td>
+   <td style="text-align:left;"> $QQQ $SPY $TSLA has joined the fun… now every Nasdaq stock has a parabolic chart. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:04:21 </td>
-   <td style="text-align:left;"> $BTC.X $ARKK $SPY  apple has a market cap several multiples of what btc would be at 100k. Apple is traded in the US. Btc is a global asset and is increasingly being adopted. I&amp;#39;m not sire about 1m but a few hundred thousand is certainly a very strong possibility </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:20 </td>
+   <td style="text-align:left;"> $SPY $QQQ The communist traitor is indicted, time to rally! </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:04:00 </td>
-   <td style="text-align:left;"> $SPY has an average volume of 77863700. This is a good sign as it is always nice to have a liquid stock. https://www.chartmill.com/stock/quote/SPY/technical-analysis?key=84303b30-e7bc-44d7-b0b1-1493858db9a2&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=SPY&amp;amp;utm_campaign=social_tracking </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:50 </td>
+   <td style="text-align:left;"> $QQQ $SPY Bears your time is approaching shortly. Since last week Calls are about 2/3 over Puts day traders it may be time to just sit out at these levels until we see a confirmation esp in AI/Tech/Growth give it a few days </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:03:44 </td>
-   <td style="text-align:left;"> $SPY oh shit green already </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:45 </td>
+   <td style="text-align:left;"> $QQQ $SPY lmao look at the bulls. Looks like they’re trying to push up a boulder lmaoo. Going to roll back on their faces shortly </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:03:42 </td>
-   <td style="text-align:left;"> $SPY hit 430 for God&amp;#39;s sake </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:03:11 </td>
-   <td style="text-align:left;"> Can test $440 enough hedge funds short get caught up on low volume liquidity. More of them then people paying attention to the market daily bases $SPY $QQQ $SPX </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:03:08 </td>
-   <td style="text-align:left;"> $SPY 600 by year end! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:38 </td>
-   <td style="text-align:left;"> $SPY you know what  to do, hide in apple and NVDA! spin that shit hahaha 🤣 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:16 </td>
-   <td style="text-align:left;"> $SPY team, it appears we are among another Free Money Friday and citygirl will endure more losses as they plow the $vix down to sh*t, but all is not lost as we still are all in $UVIX and one catapult to 100 on the vix will get CG outta the hole.  Love to the fans!  Kiss kiss 💋 MUAH!  $UVXY hi gecko❣️ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:13 </td>
-   <td style="text-align:left;"> $SPY Joe bidens market is clearly strong and better than trump . We will see the biggest run and new ATH .. it will be YUGE, the greatest president in awhile </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:01 </td>
-   <td style="text-align:left;"> $SPY would like to see another rejection or 2 of 430 to load up on puts </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:24 </td>
-   <td style="text-align:left;"> $SPY SPY&amp;#39;s 1-hour chart shows a triple top formation, with 429.6 tested and established as a strong resistance level. Due to the upcoming FOMC meeting next week, the volatility in the recent trading days is expected to be limited. Today, pay attention to the oscillation between 426 and 429.6. Consider selling around 429 and buying around 426, with a stop loss of $0.5. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:12 </td>
-   <td style="text-align:left;"> $SPY 😬 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:52 </td>
-   <td style="text-align:left;"> 🛑*PUTIN: RUSSIA TO PLACE NUKE WEAPONS IN BELARUS AFTER JULY 7-8❗
-https://twitter.com/PaulVikingGlob1/status/1667135168002260992?t=e3fQ2lRL9nuqVgfvBAAb2A&amp;amp;s=19
-$QQQ $SPY $DJIA $ARKK $NASDAQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:47 </td>
-   <td style="text-align:left;"> $SPY lol works like a clock… the whole week was green damn </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:46 </td>
-   <td style="text-align:left;"> $SPY biggest racket on the planet </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:44 </td>
-   <td style="text-align:left;"> $SPY $QQQ $BTC.X $NVDA $MSTR </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:08 </td>
-   <td style="text-align:left;"> $TSLA $SPY $QQQ ok bulls.
-Y’all just need to hold it here for another hour and a half. Hoping to be able to buy puts at this level before the call strikes are printed for today’s expiration. Once that happens  this booger is gonna dip. Just a little longer. Surprise me and run it to $260 so I can add even more. Please.. pretty please. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:01 </td>
-   <td style="text-align:left;"> $SPY $META $SQ $QQQ $SOFI Literal complacency. There is no way to fail. 
- 
-In game theory, when enough people believe this, is exactly when it cant be true -- otherwise everyone who simply receive free money. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:59:34 </td>
-   <td style="text-align:left;"> $SPY Cant you pussy bulls get this over 430? I mean my money is sitting on the other side just waiting for you to come get it. Get your bitch ass moving. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:59:26 </td>
-   <td style="text-align:left;"> $SPY so there is no news today?? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:59:10 </td>
-   <td style="text-align:left;"> $SPY  Wen that Lambo?     $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:50 </td>
-   <td style="text-align:left;"> $MVIS $SPY let her eat!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:47 </td>
-   <td style="text-align:left;"> $SPY $QQQ  Short squeeze to a record high today? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:42 </td>
-   <td style="text-align:left;"> $SPY are we going to ATH without filings the gaps at $407 and $422? Hmmm </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:18 </td>
-   <td style="text-align:left;"> $SPY all new 52 week high today, mark this. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:01 </td>
-   <td style="text-align:left;"> $BTC.X Cathie Woods is seriously the most deluded nut job out here. For this to even hit 100k a coin would be some kind of extreme miracle. But 1 million a coin? LMFAO. $ARKK $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:43 </td>
-   <td style="text-align:left;"> $SPY decent pull back and then we gap up over this area. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:38 </td>
-   <td style="text-align:left;"> $SPY tesla calls and bitcoin&amp;gt; </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:11 </td>
-   <td style="text-align:left;"> $SPY moon market says adct ok </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:56:43 </td>
-   <td style="text-align:left;"> $SPY When do those T-notes hit the street? Asking for a distracted trader... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:55:36 </td>
-   <td style="text-align:left;"> $BAOS $MDGS  $SPY $CFRX  $MCOM  Everyone should be following this guy. Insane gains. 🍻 👏🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:51 </td>
-   <td style="text-align:left;"> $SPY Staying out of this for a few days , just don&amp;#39;t trust it up hear , way to extended with news on the horizon, not to mention there are tons of ,430 calls expiring today I&amp;#39;m sure they might not want in the money. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:49 </td>
-   <td style="text-align:left;"> $tsla with cpi on Tuesday… markets may not rush $spy $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:32 </td>
-   <td style="text-align:left;"> $SPY can’t get over 430 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:53:49 </td>
-   <td style="text-align:left;"> $SPY IM READY😁🍭 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:53:13 </td>
-   <td style="text-align:left;"> $SPY First move is usually the wrong move </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:53:05 </td>
-   <td style="text-align:left;"> $PLTR $17 then $10-$7 for gap fill
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:42 </td>
+   <td style="text-align:left;"> $SPY $DJIA $QQQ $VOO $VTI Bye-bye bear... New S&amp;amp;P 500 bull market has legs - BofA
 
-$SPY $SPX $QQQ </td>
+https://www.investing.com/news/stock-market-news/byebye-bear-new-sp-500-bull-market-has-legs--bofa-432SI-3102066 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:53:03 </td>
-   <td style="text-align:left;"> $SPY The most profitable trade is to… just stop kidding yourself!
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:09 </td>
+   <td style="text-align:left;"> $QQQ only down for a couple minutes, it’ll shoot right back up don’t worry. I’m giving free advice here lol 100% guarantee 🤡 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:57 </td>
+   <td style="text-align:left;"> $QQQ man getting the pump early today huh </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:40 </td>
+   <td style="text-align:left;"> $SPY $QQQ 
+CNBC has former Fed equating getting vaccines to raising rates </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:07 </td>
+   <td style="text-align:left;"> HAMMMMMEEER GOLD 💰❗❗❗
+CANADA LOSES 17.3K JOBS IN MAY; UNEMPLOYMENT RISES TO 5.2% FROM 5.0%
+$QQQ $SPY $DJIA $ARKK $NASDAQ  jdjs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:36 </td>
+   <td style="text-align:left;"> $SPY $QQQ im I the only one thinking this is a fake out? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:23 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA 
 
-Either DCA and hedge, or put a serious effort into a trading education. BTW, Seeking Alpha on ZeroEdge is not education. </td>
+Too many calls - OI at the close yesterday </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:55 </td>
-   <td style="text-align:left;"> $SPY have a great weekend yall </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:19 </td>
+   <td style="text-align:left;"> $QQQ Back heavy short /NQ. Let&amp;#39;s ride. Not a hedge </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:54 </td>
-   <td style="text-align:left;"> $SPY FOMO will grind this higher. Too much scared money sold in 2022 and is now missing the run. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:56 </td>
+   <td style="text-align:left;"> $BBBYQ + 20% premarket $QQQ $MULN $TSLA </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:39 </td>
-   <td style="text-align:left;"> $SPY can we break this $429?? </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:40 </td>
+   <td style="text-align:left;"> $SPY $QQQ $ADBE Will be at least a 500% winner. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:34 </td>
-   <td style="text-align:left;"> $SPY https://www.stockilluminati.com/spy/news.php - &amp;#39;Rich Dad&amp;#39; Predicts Crash Worse Than 2008 - Buy Gold And Bitcoin: Our Approach </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:24 </td>
-   <td style="text-align:left;"> $SPY guess it looks like calks today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:12 </td>
-   <td style="text-align:left;"> $NA lads AGBA 433 percent revenue increase in one quarter after COVID restrictions lifted....8 million free float, company insiders just bought back 800k shares,
-160 million revenue expected per year...undervalued.
-Hong Kong play...
-Income Statement
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:24 </td>
+   <td style="text-align:left;"> $MSFT $QQQ $SPY Time to go up! 🚀🚀🚀🚀 
 
-$SPY $CARV $BAOS </td>
+Microsoft : BMO raises target price to $385 from $347 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:50 </td>
-   <td style="text-align:left;"> $SPY any bear complaining has never traded before. When doesn’t the market run into CPI and the FED? Next week could be totally different </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:01 </td>
+   <td style="text-align:left;"> $SIEN chk this fda clearance 
+$QQQ $SPY $UDOW $KOLD </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:17 </td>
-   <td style="text-align:left;"> @MLinv Wycoff is 100% useless in terms of applying it too $SPY  
- 
-A better chart is the FU Bears chart.....the ONLY TRUTH about the future. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:56 </td>
+   <td style="text-align:left;"> $QQQ $SPY $VIX at $13.6 😳😳 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:08 </td>
-   <td style="text-align:left;"> $SPY </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:23 </td>
+   <td style="text-align:left;"> DIA $F $SPY $TSLA $GM $QQQ  #todamoon  #carsonmars </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:04 </td>
-   <td style="text-align:left;"> $SPY how I feel knowing bears are probably gonna get divorced and destory their lives trying to short $TSLA </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:57 </td>
+   <td style="text-align:left;"> $QQQ $SPY $DIA The market looks like it&amp;#39;s going up 2.75% across the board today. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:52 </td>
-   <td style="text-align:left;"> $SPY $QQQ san other suspicious pump in PM. Let’s see what WS has in agenda for today. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:07 </td>
+   <td style="text-align:left;"> $CVNA  $SPY $QQQ $GME $SOFI .... also rolling 2-month t-bills.  weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:45 </td>
-   <td style="text-align:left;"> $NIO 😉
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:04 </td>
+   <td style="text-align:left;"> Top Watches today: Lots of movers today large caps small caps med caps, everything is flying, IMPORTANT to MANAGE RISK well though on a Friday after a long week... Looking for a nice bounce back day.** $MDGS $NFLX $TSLA $QQQ #PLTR #AFRM $WLDS **. Good luck out there! 🙏🍺❤️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:45 </td>
+   <td style="text-align:left;"> $QQQ more pumps to the upside, neverending story </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:44 </td>
+   <td style="text-align:left;"> The FBI has a server. Somewhere. Set up in a room running futures $SPY $QQQ 🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:35 </td>
+   <td style="text-align:left;"> $TSLA $spy $qqq $lcid go
 
-$SPY $SPX $QQQ </td>
+https://www.twitch.tv/tramplewun/v/1841749838?sr=a&amp;amp;t=2s </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:11 </td>
-   <td style="text-align:left;"> $SPY wtf is going on with this shit </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:17 </td>
+   <td style="text-align:left;"> $SPY what entities are sophisticated enough to manipulate Futures? $QQQ  CIA, FBI maybe DOJ? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:57 </td>
-   <td style="text-align:left;"> $SPY green 433 gap up 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:09 </td>
-   <td style="text-align:left;"> $SPY Breaking News: Stocks making the biggest moves premarket: Target, Tesla, General Motors, DocuSign and more </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:42 </td>
-   <td style="text-align:left;"> $SPY VIX is now $13.67 and we still haven’t got a new 52 wk high? 
-  LFG </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:41 </td>
-   <td style="text-align:left;"> $SPY Wow, turns green. TSLA saved the market. 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:38 </td>
-   <td style="text-align:left;"> $SPY shorts will have trouble here because atleast 90 of the 500 hit 52 week highs, n word on the street is that they wont stop the run until 250 of the 500 hit 52 weeks highs wow. so tsla going to 320 n all these companies until end of july or something. depression delayed </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:37 </td>
-   <td style="text-align:left;"> $SPY Will add to puts. This can’t last much longer. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:22 </td>
-   <td style="text-align:left;"> $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:47:52 </td>
-   <td style="text-align:left;"> $SPY lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:47:19 </td>
-   <td style="text-align:left;"> $SPY Latest 1hr view from the Post-Market update. Showing a reaction higher taking place as expected. Longs should be risk free by now #Elliottwave #Trading </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:46:58 </td>
-   <td style="text-align:left;"> $SPY just like that magical </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:46:26 </td>
-   <td style="text-align:left;"> $SPY stock markets move like we are ruled by a Queen or something </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:45:19 </td>
-   <td style="text-align:left;"> @Lettingitride $SPY nope 
- 
-$UVXY reverse split (thanks to someone giving me the link) 
- 
-https://www.businesswire.com/news/home/20230607005632/en/ProShares-Announces-ETF-Share-Splits </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:45:09 </td>
-   <td style="text-align:left;"> $SOFI call activity will be interesting as this comes up on a 52 week high bearish to bullish reversal. Could blow through 8.52 to the 9s $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:51 </td>
-   <td style="text-align:left;"> $CVNA Strap in for the $29 test 🚀🧨 
- 
-over that, $34--&amp;gt;$39–&amp;gt;$46 
- 
-$TSLA $SPY $GME </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:14 </td>
-   <td style="text-align:left;"> $spy levels ♥️ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:43:53 </td>
-   <td style="text-align:left;"> @Montybonjangles @Learningtoretire $SPY hey if you want a short that makes 10% a month for life just learn how to short $UVXY with puts forever!!! 
- 
-No spike matters. It will drop 50% or more a year for life. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:43:39 </td>
-   <td style="text-align:left;"> $SPY I&amp;#39;m worried about Tech stocks. They did a bit of rebalancing the other day, dropped the nasdaq by almost 400pts from the days high. It&amp;#39;s likely that was a tranche of movement, and there&amp;#39;ll be another round of it given the recovery of prices </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:43:05 </td>
-   <td style="text-align:left;"> $SPY sooooo guys if market is still pricing in a cut this year and we don&amp;#39;t get a cut we still go up? Is the bull market truly even though as of now extreme greed is upon this market? Ppl don&amp;#39;t believe we are going to have a recession and if we are not going to have a recession what will be the reason feds cutting rates? Oil been up even though oil stocks are down, wages have been going up even tho unemployment went up I&amp;#39;m sure rents still going up. Some countries took ab early pause and came back hiking again. This is confusing 😕 back to sport betting </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:42:45 </td>
-   <td style="text-align:left;"> $SOXS loading with both hands. This Friday feels different from recent past Fridays where $VIX crush program was much stronger. Could indices reverse? $SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:42:29 </td>
-   <td style="text-align:left;"> $QQQ $SPY  
- 
-Europe is in STAGFLATION 
-US is in STAGFLATION whether you believe or not....once market realise this, its going to rock and roll for everybody.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:42:17 </td>
-   <td style="text-align:left;"> @Montybonjangles @Learningtoretire $SPY I even post how to short BETTER Than any bear. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:42:17 </td>
-   <td style="text-align:left;"> $SPY things are looking great!! We can’t lose! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:41:51 </td>
-   <td style="text-align:left;"> @Montybonjangles @Learningtoretire $SPY now you can cry 24/7 about your failed lives, cry about the market or you can make $$ 
- 
-I post how to trade it every second of the day, every week, every month. 
- 
-I post the trades that have 100% success rate LONG TERM. 
- 
-There is NO loss in my strategies. 
- 
-your choice if you are tired of being losers in life. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:41:15 </td>
-   <td style="text-align:left;"> $SPY Fighting inflation printing more money. Let’s see how this ends. I’m sidelined </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:38 </td>
-   <td style="text-align:left;"> $SPY back in 2018, nobody saw this bullish long uptrend. Wonder if it will be the same hmm </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:33 </td>
-   <td style="text-align:left;"> @Montybonjangles @Learningtoretire $SPY here is the simple truth. 
- 
-We have record cash, record bond $$ making 4+ trillion a year. We have a lowest allocation of $$ to the stock market EVER. Its hated, its feared and we have RECORD $$ hedging it every second of the day. 
- 
-That is not remotely bearish. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:31 </td>
-   <td style="text-align:left;"> $SOFI hitting a 52 week high ere the. 10.25 on deck. This stock will see 15-20$ in the next 12 months as financials are revised to reflect student loans. Noto has been clear that the resumption of student loans is not in their guidance $SPY $QQQ $KRE </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:17 </td>
-   <td style="text-align:left;"> $SPY $440 on deck! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:13 </td>
-   <td style="text-align:left;"> $SPY tanking at bell 👀💀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:02 </td>
-   <td style="text-align:left;"> $SPY $QQQ $DWAC Time to rally 5%! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:39:41 </td>
-   <td style="text-align:left;"> $SPY this looks like it goes down today and tomorrow then goes nuts Tuesday after cpi </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:39:18 </td>
-   <td style="text-align:left;"> $SPY latex75db7e92a77b8a174d1b50c98561cc71SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:38:45 </td>
-   <td style="text-align:left;"> My alerts for LARGE caps.This shows the result of ONLY buying when H% is low.
-I have timestamps + buy fills for everything
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:13 </td>
+   <td style="text-align:left;"> $SPY $QQQ $NASDAQ $RUT $DJIA 
 
-$TSLA + $AAPL + $NKE are just few of many I&amp;#39;ve traded. $SPY 
-I don&amp;#39;t make 100s of trades. I only buy when I get a confirmation. Ask me for the receipts. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:52 </td>
-   <td style="text-align:left;"> $QQQ $SPY $TSLA let it be </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:37 </td>
-   <td style="text-align:left;"> @MLinv that shit is STUPID. can I just bet your life into the ground for fun?  
- 
-Wycoff is a moron and that shit only applies to random failed companies. NOT INDEXES like $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:29 </td>
-   <td style="text-align:left;"> $SPY $TSLA #PAMPHERTFUP🐂🐂💵💵 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:13 </td>
-   <td style="text-align:left;"> $SPY big red at open today. Bulls got too greedy. It&amp;#39;s done.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:50 </td>
-   <td style="text-align:left;"> $SPY I do enjoy that all the broke morons posting negative bear shit in $TLSA got SMOKED, I can only hope it chokes them into silence. 
- 
-Meanwhile FAILED idiots long in $GME and $AMC getting what they deserved. 
- 
-The market is doing what it should....beating failed humans into the ground CONSTANTLY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:49 </td>
-   <td style="text-align:left;"> $DIA $SPY $IWM Weak China inflation data fuels rate cut speculation. 
- 
-China&amp;#39;s inflation rate nudged fractionally higher, but at 0.2% remained close to zero and at the same time, PPI inflation dropped to -4.6% from -3.6% y/y. A weaker than expected result and while much of it is due to lower commodity prices, the numbers added to concern that the economy continues to struggle, and that the recovery will be weaker than anticipated. Pressure on the PBOC to cut rates is mounting and a prominent economist and government adviser today called for lower rates to ease the financing burdens on private businesses and support the recovery. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:31 </td>
-   <td style="text-align:left;"> $WLGS $SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:19 </td>
-   <td style="text-align:left;"> $SPY https://www.stockilluminati.com/spy/news.php - May CPI Report Preview: Inflation Is Settling At 5% </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:47 </td>
-   <td style="text-align:left;"> $SPY Tesla is all that is holding this index up lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:38 </td>
-   <td style="text-align:left;"> $SPY they are gonna push this to a new yearly high. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:29 </td>
-   <td style="text-align:left;"> $SPY The next phase of the bear market will be the most dangerous as everyone is now going long here thinking its over
+I&amp;#39;m stunned at how meny people are oblivious of the rise in BRICS economy.
 
-So many will be trapped for a while </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:27 </td>
-   <td style="text-align:left;"> $SPY $QQQ We&amp;#39;re at extreme greed levels (esp. put/call ratio 5 day avg.), but several pundits noting if next week&amp;#39;s CPI has a 3 handle SPX breakout above 4300 likely. Will have the popcorn ready next week CPI, JayDay (78% no hike), PPI on deck. OPEX thereafter and JUL earnings season a month away. 
- 
-https://www.cnn.com/markets/fear-and-greed </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:05 </td>
-   <td style="text-align:left;"> SEC Filing | CRISPR Therapeutics
+Be educated people.  This will affect the USD.
 
-$Crsp $spy $gm $vrtx http://ir.crisprtx.com/node/12771/html </td>
+https://www.newsweek.com/how-brics-evolving-china-russia-dream-us-defying-reality-1804844 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:34:53 </td>
-   <td style="text-align:left;"> $SPY 1hr view from the yesterday&amp;#39;s Pre-Market update. Called for a pullback towards another blue box area where buyers were expected to appear #Elliottwave #Trading </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:08 </td>
+   <td style="text-align:left;"> $QQQ next target = top of MM octave @ 355.5 ... = decision for next move...IF higher ~&amp;gt; shift of Murrey Math to a higher octave... </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:34:52 </td>
-   <td style="text-align:left;"> $DIA latexcc90a8dae2ca432e1c0ae2b33d9fd808META 
-$SPY 
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:18 </td>
+   <td style="text-align:left;"> $SPY $QQQ $SOFI Remember when people said inflation would be at 2% by summer 2023, and that the fed would be preparing for cuts. 
  
-🔥We Trade LIVE daily for FREE🔥 
-📈FOLLOW for Trade-Ideas+📉 
-And BE READY!💰 </td>
+Lol. Most over-front runned pivot in history. So crowded. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:33:44 </td>
-   <td style="text-align:left;"> $SPY $QQQ $META $SQ $SOFI money printing machine all warmed up and ready today. We can’t lose in this market. I foresee algos and feds pumping this for months. Makes a bad administration look good. If you’re a bear right now I feel sorry for you. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:25 </td>
+   <td style="text-align:left;"> $SOFI we know CPI will be down. Fed pause oe no pause dpnt care we still doing very well $SPY $QQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:33:38 </td>
-   <td style="text-align:left;"> $DIA $SPY $IWM $OIL Oil Action as of 07:05am: 
- 
-Oil prices are heading for a weekly loss, despite the unexpected announcement of a further output cut from Saudia Arabia at least through July. China&amp;#39;s sluggish recovery and the prospect of higher for longer scenarios on official rates in many countries have kept a lid on oil prices. Russian oil is also still reaching world markets. Against that background prices have remained capped and the front end WTI contract is currently trading at USD 71.311 per barrel, and is down -0.8% over the week and -1.9% over the month. Brent has fared slightly better, but not much. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:18 </td>
+   <td style="text-align:left;"> $spy $qqq $ndx $NQ_F $nasdaq AI breached </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:42 </td>
-   <td style="text-align:left;"> This may be more bearish than any day in history $SPY $QQQ </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:57 </td>
+   <td style="text-align:left;"> Or maybe it’s the CIA manipulating the futures $SPY $QQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:32 </td>
-   <td style="text-align:left;"> $SPY  ———&amp;gt; if you like making insane money go to $NA same underwriter $AMTD and $HKD.... just saying, can go blue skies meme of the month
-1 m float.... if just even a little volume from HKD or AMTD comes this goes berserk.
- They will find it
-$NA is at same price as $HKD before it went over $1100... just saying I think that’s Bullish
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:49 </td>
+   <td style="text-align:left;"> $CVNA $TSLA $ADBE $SPY $QQQ my bags pre market 😎 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:39 </td>
+   <td style="text-align:left;"> $SPY $TSLA $AAPL $QQQ $META the result of April? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:31 </td>
+   <td style="text-align:left;"> Mixed Performance In US Futures As Investors Await Key Economic Reports $QQQ $DIA $SPX https://talkmarkets.com/content/us-markets/mixed-performance-in-us-futures-as-investors-await-key-economic-reports?post=398982 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:24 </td>
+   <td style="text-align:left;"> The FBI probably manipulating futures too $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:40 </td>
+   <td style="text-align:left;"> $QQQ CNBC calling it a mixed open. Its a downopen... except they are doing non-stop TSLA schilling lol dragging Qs irrationally 0.5% higher than the other indexes. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:31 </td>
+   <td style="text-align:left;"> $COIN DOWNGRADED to NEGATIVE by Moody&amp;#39;s might have an impact to bring it to the DOWNSIDE.  What is interesting that $SPY $QQQ $BTC.X DIA are all over the place in the last few hours. Let&amp;#39;s see the direction after the open as it could go either way. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:41 </td>
+   <td style="text-align:left;"> Let&amp;#39;s play a game. Guess which ticker this is.
 
- $UCAR </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:28 </td>
-   <td style="text-align:left;"> $SPY suppose to be around 426 to be honest, can’t wait </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:26 </td>
-   <td style="text-align:left;"> $SPY $195BN Time to hedge now that its cheap </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:25 </td>
-   <td style="text-align:left;"> $SPY $ETH.X $UVXY having too many tickers on your watchlist can be a distraction </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:22 </td>
-   <td style="text-align:left;"> $SPY Rocking my SPY 500 hat around town. Dapping it up with bulls, and watching bears scurry away as their bear wives  ask for my number. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:31:22 </td>
-   <td style="text-align:left;"> @MLinv $SPY $QQQ meanwhile we have million+ puts shorting the market every day. 
- 
-Complacency??? lmao......why is there so much ignorance. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:31:09 </td>
-   <td style="text-align:left;"> $SPY $QQQ $ARKK $TLT $GOLD 
+This is the play from yesterday. Alerted the near perfect level for a reversal trade. Just $0.03c from its absolute bottom of the day.
+All possible from ONLY buying when H% is low. Look at the each steps shown.
 
-Well, $460 here we come. 
-What’s that sideline money going to do now?
-Have all the shorts covered yet?
-I know bull margin has been steadily increasing each month since January. 
-October 2022 was our low. 
-It’s time to move and shake again!
+$SPY $TSLA $AAPL $MSFT $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:48 </td>
+   <td style="text-align:left;"> $SPY  $QQQ  -   Remember Kids, we don&amp;#39;t talk to strangers or get in vans with people who claim &amp;quot;we&amp;#39;re in a new bull market&amp;quot; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:10 </td>
+   <td style="text-align:left;"> DIA $F $SPY $TSLA $GM $QQQ   CARS ON MARS ... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:06 </td>
+   <td style="text-align:left;"> $SPY  $QQQ   Happy Proud of Yahweh Month ! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:08 </td>
+   <td style="text-align:left;"> $QQQ lol now they have deepwater schill on to pump tsla even more. Just a constant pump, without any discussion of how this changes any dynamics regarding making money. 
+ 
+The stock market is about companies making money. This does not change any underlying earnings or revenue. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:37 </td>
+   <td style="text-align:left;"> $QQQ $SPY isn’t this what the Fed (central banks) want in their fight against inflation?  🤦‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:26 </td>
+   <td style="text-align:left;"> $tsla Kathie Woods just gave Tesla the kiss of death 💋💀 $COIN $ARKK $qqq </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:51 </td>
+   <td style="text-align:left;"> Give it to Mike z Wilson today $450 $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:03 </td>
+   <td style="text-align:left;"> $SPY Morgan Stanly being the biggest joke of them all $QQQ $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:00 </td>
+   <td style="text-align:left;"> $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:54 </td>
+   <td style="text-align:left;"> $TSLA pump to 300 with your fake upgrade so massive dump happens. The wait for many shareholders tired of Felon Muskarat, thanks to GM and Ford takeover, is over! $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:31 </td>
+   <td style="text-align:left;"> In Group 3 Live Session today, we will also explain that the #Dollar has ended the bounce and will get sideways to lower in a Negative USD Dynamic. #Equities and #commodities should rally.  #Elliottwave #Stocks #Trading $SPY $SPX $AAPL $TSLA $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:51 </td>
+   <td style="text-align:left;"> $SPY $QQQ  
+ 
+LMAO 
+Meme stocks are back! I guess Fed&amp;#39;s rate hikes did shit for anything. Inflation is naturally subsiding. However, it will spike back with vengeance, if Fed keeps adding secret liquidity because it is scared shitless with banking crisis. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:07 </td>
+   <td style="text-align:left;"> Big Bears 🐻 are a disgrace to Humanity $SPY $QQQ $SPX </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:05 </td>
+   <td style="text-align:left;"> $SPY $QQQ  with dxy about to tumble, the market is about to take off </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:02 </td>
+   <td style="text-align:left;"> $SPY $QQQ a preview of what’s coming globally. RISING UNEMPLOYMENT. ☠️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:53 </td>
+   <td style="text-align:left;"> $QQQ $SPY one more hour until bulls get rugged </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:58 </td>
+   <td style="text-align:left;"> $SPY $QQQ zero sells, only buys since Oct-Dec 2022... 
+ 
+- Hedged when things looked rough. 
+- Cashed those in when things looked better. 
+- Trolled the dooomers on ST. 
+ 
+That was the way. 
+ 
+No need to change it, *even* if we get further pullbacks/consolidations... even corrections. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:52 </td>
+   <td style="text-align:left;"> You Bears 🐻 are a disgrace to the Stock Race $SPY $QQQ $NDX   a disgrace! Flat out </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:45 </td>
+   <td style="text-align:left;"> $SPY $QQQ WSJ - The S&amp;amp;P 500 starts a new bull market. Outsize gains from a handful of companies, including Amazon, Tesla and Nvidia, helped power the S&amp;amp;P 500 higher over the past few months. Many of those same stocks led Thursday’s market advance, propelling the broad index up 0.6% and ending its longest bear market since the 1940s. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:35 </td>
+   <td style="text-align:left;"> What stocks might make more money? Pick the best $QQQ vs. $VCR vs. $VXUS. https://srnk.us/go/4713993 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:04 </td>
+   <td style="text-align:left;"> $QQQ did you get a treat? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:00 </td>
+   <td style="text-align:left;"> $QQQ option holders are insufferable </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:24 </td>
+   <td style="text-align:left;"> Group 3 Live Session will start at 9AM. Tune in @ https://elliottwave-forecast.com/amember/go.php?r=34991&amp;amp;i=l1 where we will explain all the instruments and what should be happening next. #Elliottwave #Stocks #Trading $SPY $QQQ $TSLA $AAPL $SPX </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:16 </td>
+   <td style="text-align:left;"> $QQQ I want to die </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:15 </td>
+   <td style="text-align:left;"> $QQQ pumped out more gains on a garage sale  LOL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:04 </td>
+   <td style="text-align:left;"> $DIA $QQQ $SPY is now 429.3s. it so strong. AI Tech Rally and Banks Come Back help it a lot. SPY will drop 2-4 $ After the Open. $SOXL is now 22.75. I Shorts it for 22.5s avg and I have take +0.5 +1.2 in two days. I will have another +0.5-1. 1-2 Trading days. I had +0.4 yesterday and I did not Take  it bc I want at least +0.5. 
+ 
+$SPY was 373.s 13 July at CPI I have Calls for 410+ for FOMC ER rally. SPY 410 FOMC and 431 at ER mid August. I calls later 400 in 1-3 weeks. 1st week 410 2nd week 400 3rd week 390. 13 oct 350 -1.5%. at 10h19 am I calls for a Close Green and 410+ in 4-6 weeks. SPY Close 365 +2.6% 13 dec CPI SPY 411.s. Icalls for Taxes Losses Selling 390-380. a week later 378 and I Calls for FOMC 400-405 etc.. Msgs Posted and Saves. 
+ 
+Soon or Later SPY will Crash FED Rates  5.25%+  Always make market  Crash. AI Stocks have drop as I Predicted and Banks will be next aGain as I Predicted. 13 march Banks Crash and SPY 380. GLTA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:42 </td>
+   <td style="text-align:left;"> $RIVN 
 
-https://www.marketwatch.com/story/s-p-500-exits-longest-bear-market-since-1948-what-stock-market-history-says-about-what-happens-next-a336a139 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:31:08 </td>
-   <td style="text-align:left;"> $SPY https://www.stockilluminati.com/spy/news.php - You May All Be Wrong About Liquidity </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:31:04 </td>
-   <td style="text-align:left;"> $SPY 1hr view from the Weekend update. Managed to extend higher as expected. Don&amp;#39;t like selling it #Elliottwave #Trading </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:31:02 </td>
-   <td style="text-align:left;"> $SPY https://www.stockilluminati.com/spy/news.php - Big Tech Strikes Back </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:30:28 </td>
-   <td style="text-align:left;"> $SPY lets see 435 today! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:30:25 </td>
-   <td style="text-align:left;"> $SPY NEW ARTICLE : You May All Be Wrong About Liquidity https://www.stck.pro/news/SPY/52580035/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:30:06 </td>
-   <td style="text-align:left;"> $spy Complacency is the greatest enemy of excellence….just wait for it…. if you look closely you can see it coming.. don’t let it happen to you 🆘🚨
+🔥40 REASONS TO BUY RIVIAN STOCK🔥
 
-$QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:29:56 </td>
-   <td style="text-align:left;"> When that trap door is unleashed it’s going to be hell to pay $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:29:56 </td>
-   <td style="text-align:left;"> $TSLA $CVNA $SPY $NVDA $AI 
+1. Amazon owns 20% of Rivian
+2. Amazon Partnership
+3. 100,000 Amazon Van Orders
+4. R2 Vehicles
+5. Amazon Buyout target
+6. Already producing EV Truck &amp;amp; SUV
+7. $12 Billion Cash
+8. Motortrend Truck of the Year
+9. Huge Growth Strategy
+10. 100k+ R1 Orders
+11. IL Factory=200K Vehicles
+12. New Georgia Factory
+13. New Factory=400K Vehicles
+14. 50k Vehicles 2023
+15. Improved Gross Profit
+16. Enough Cash to 2026
+17. 2024 Positive Gross Profit
+18. Huge Backlog
+19. Targets 25% GP
+20. L3 Autonomy
+21. EV Rebate
+22. Executives from Tesla, Nissan etc.
+23. EV Incentives
+24. Undervalued
+25. 10K+ Employees
+26. Level 2 Autonomy standard
+27. Manufactures Battery Pack
+28. Delivery Subscription
+29. Experienced Executives
+30. Ford owns 1%
+31. 1M EV’s by 2030
+32. Blackrock Invested
+33. Fidelity invested
+34. Own Charging Infrastructure
+35. Oversold
+36. Fleet OS
+37. R1T=Best Seller
+38. Skateboard Chassis
+39. 800HP Vehicles
+40. Untapped EV Market
 
-Tesla hitting $250 pm 🤣😂😂😂🤣
+$SPY $QQQ $DIA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:29:58 </td>
+   <td style="text-align:left;"> These bears turned into complete losers $SPY $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:27:40 </td>
+   <td style="text-align:left;"> $QQQ if the current pricing holds at the open the SOXX will have 3 gaps ..all decent size. There is no way that one down at 433 stays open.. so we have an idea of the target.. the million $$ question is when </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:27:33 </td>
+   <td style="text-align:left;"> $SPY $QQQ smart money is going to cash out soon. Today could be a good day to do so before next weeks Fed meeting and CPI.  They used 7 big companies to take the markets out of the bear market.  Is it sustainable?. We will see.  See you at open. GLTA. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:50 </td>
+   <td style="text-align:left;"> $QQQ this small little pullback that just happened is about to go right back up </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:36 </td>
+   <td style="text-align:left;"> latexb3c6b8ea8c852354aad7a34c125cf8b9SPY ...$IWM next let&amp;#39;s go </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:26:11 </td>
+   <td style="text-align:left;"> $TSLA $QQQ $SPY $NVDA 
 
-Bears: </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:29:41 </td>
-   <td style="text-align:left;"> $SPY hey bears I got the chart you’ve been waiting for. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:29:40 </td>
-   <td style="text-align:left;"> @Gamblingwith529 $SPY we have a decade of record incomes to buy the market non-stop 
- 
-How can you not be bullish long term?? what kind of failed life do you have ? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:29:36 </td>
-   <td style="text-align:left;"> $TSLA for planning purposes. 🫦 
- 
-[weekly candles, MAs]. 
- 
-🎩 
-🙌🏻 
- 
-$SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:29:29 </td>
-   <td style="text-align:left;"> $SPY 1hr view from the 6.01.2023 Midday update. Showing initial reaction higher taking place from the blue box area. Allowed longs to get into a risk-free position #Elliottwave #Trading </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:29:22 </td>
-   <td style="text-align:left;"> $SPY red to green here soon .. just more bear traps </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:29:09 </td>
-   <td style="text-align:left;"> $SPY https://www.stockilluminati.com/spy/news.php - Bull Market Or Bull Trap? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:29:03 </td>
-   <td style="text-align:left;"> $SPY $QQQ $DIA $DJIA S&amp;amp;P 500 notches highest close for 2023 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:28:43 </td>
-   <td style="text-align:left;"> $SPY $QQQ $DIA What a corrupt, POS country this has become at the hands of scumbag Democrats, liberals, Deep State rats, and D.C. careerists.  Selective application of the &amp;quot;law&amp;quot; and &amp;quot;unequitable&amp;quot; investigations.  Need a loose cannon of justice. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:28:37 </td>
-   <td style="text-align:left;"> $SPY Man, if we have another 11 year bull market, I swear to god </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:28:33 </td>
-   <td style="text-align:left;"> $TSLA boys ———&amp;gt; go to $NA same underwriter $AMTD and $HKD.... just saying, can go blue skies meme of the month
-1 m float.... if just even a little volume from HKD or AMTD comes this goes berserk.
- They will find it
-$NA is at same price as $HKD before it went over $1100... just saying I think that’s Bullish
+I am posting less on Stocktwits! 
 
- $SPY </td>
+If u want to follow me I’m on Twitter @Banana3Stocks </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:28:31 </td>
-   <td style="text-align:left;"> $SPY i don’t trade on Fridays. If I was $430 calls would be my play. </td>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:25:11 </td>
+   <td style="text-align:left;"> $QQQ CNBC had cathie wood on to help pump nonsense --- now they cant stop showing the &amp;quot;highlights&amp;quot;. 
+ 
+This is a person who took billions of dollars and made them burn and disappear. -300% returns in 24 months. Flat returns over 4 years. 
+ 
+One trick pony who got lucky with free money era, and we still put her on tv lol. 
+ 
+How will the charging stations increase margins for Tsla? If anything TSLA is making it more viable to lose more market share domestically. 
+ 
+Some people are so bad at understanding underlying fundamentals. But I am very happy for your pumps, they dont last, enjoy while they do. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:28:19 </td>
-   <td style="text-align:left;"> $SPY 
-Next week
-Monday 
-123BN Bills
-40BN 3&amp;#39;s 
-32BN 10&amp;#39;s on one day
-That&amp;#39;s $195BN total and duration heavy. Reserves will be drained
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:24:06 </td>
+   <td style="text-align:left;"> $TSLA widespread use of EVs causes a phenomenon known as ion pollution leading to a shift in the electrical polarity of the earth. This shift in polarity can cause drastic changes in weather patterns and temperatures across the globe!  
+$RIVN $NIO $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:21:34 </td>
+   <td style="text-align:left;"> $QQQ tired of trading SPY it’s so lame, took a nice position here for more $$ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:18 </td>
+   <td style="text-align:left;"> $QQQ greatest ponzi schemes.  The greater fool is always there to keep buying , nothing will ever be corrected.  $SPY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:20:18 </td>
+   <td style="text-align:left;"> The Nasdaq $QQQ broke out several weeks ago. The S&amp;amp;P 500 $SPY broke out two weeks ago. Now it looks like the DJIA $DIA is headed in that direction. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:19:34 </td>
+   <td style="text-align:left;"> Watchlist 6/9
 
-Tuesday
-CPI
-83BN bills
-18BN 30&amp;#39;s
-101 BN,Reserves will be drained 
+$AAPL, $NVDA, $TSLA, $ADBE, SPX, $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:17:29 </td>
+   <td style="text-align:left;"> $QQQ so we just go up everyday forever? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:55 </td>
+   <td style="text-align:left;"> $QQQ looks very good. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:31 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA $AAPL  market is going to go parabolic, scary but deserved by the world&amp;#39;s tried and hardened bulls of the globe. Take a bow. You are believers in America. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:26 </td>
+   <td style="text-align:left;"> $QQQ makes total sense, ticking up premarket nonstop until .50% gap open </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:23 </td>
+   <td style="text-align:left;"> $QQQ why god fucking dammit why 😭 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:48 </td>
+   <td style="text-align:left;"> $SPY $QQQ never been more bullish </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:48 </td>
+   <td style="text-align:left;"> $SPY $QQQ are they planning to dump the markets today? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:15:10 </td>
+   <td style="text-align:left;"> ETF Sentiment: $QQQ is the #2 ETF that institutions are trading with 282.9K options contracts.
 
-Wednesday 
-FOMC
-PPI </td>
+Market analysis included in screenshot of dashboard from 🔥 INSIDERFINANCE.IO 🔥 (Link in profile - @InsiderFinance) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:28:13 </td>
-   <td style="text-align:left;"> $NA  $CVNA ———&amp;gt; lads go to $NA same underwriter $AMTD and $HKD.... just saying, can go blue skies meme of the month
-1 m float.... if just even a little volume from HKD or AMTD comes this goes berserk.
- They will find it
-$NA is at same price as $HKD before it went over $1100... just saying I think that’s Bullish
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:14:10 </td>
+   <td style="text-align:left;"> $QQQ Imagine buying TSLA up 150% with margins collapsing every quarter, revenues dying, expansions in china going horribly. 
+ 
+Sure it has some FCF, but with a PE in nosebleeds, we like to call that dead money. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> QQQ </td>
+   <td style="text-align:left;"> 2023-06-09 20:13:55 </td>
+   <td style="text-align:left;"> How #Buybacks Came to Drive the Stock Market
 
-$SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:27:21 </td>
-   <td style="text-align:left;"> if you took this week’s PUTS you should prob just quit tradin 🤣🤡 $spy </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:27:16 </td>
-   <td style="text-align:left;"> $SPY Sure is a  lot of bearish on here for the market to be basically flat in premarket hours. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:27:06 </td>
-   <td style="text-align:left;"> $SPY remember to pay the victims </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:27:05 </td>
-   <td style="text-align:left;"> @Cad_Bane $SPY The more important fact here is that the endless crazy tiny $$ drama world never stop creating fear bias which makes it easy to wipe more weak $$ out. 
- 
-Wall St wants this crazy $$ world to never stop, Wall St wants them all to be negative 24/7, wants them all to think they can time their way into wealth WHILE WALL ST beats them into the ground constantly. 
- 
-Ironic that I post the brutal truth instead of stroking their broke $$ egos and Im the MEAN person that is wrong. 
- 
-if they listen they make insane $$$ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:26:52 </td>
-   <td style="text-align:left;"> $SPY Calendar - 06.09.2023 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:26:16 </td>
-   <td style="text-align:left;"> $SPY huge sell-off at open. Don&amp;#39;t get caught holding the bag bulls </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:26:13 </td>
-   <td style="text-align:left;"> $SPY The 2000 bear market at this exact same point rallied 25% from the initial bottom over 6 months, then the next phase began
+https://www.bloomberg.com/news/articles/2023-06-08/how-stock-buybacks-came-to-drive-the-stock-market-quicktake?srnd=markets-vp
+#ceo #compensation #governance #investments $qqq $spx $
 
-Thats where we are </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:26:02 </td>
-   <td style="text-align:left;"> $MVIS $NVDA $SPY $MMAT valuations are astronomical... where is this new bull market going?  
-all while T bills are at 5% yield 🤣😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:25:43 </td>
-   <td style="text-align:left;"> $SPY if you think we are going to stay red today must’ve been hit in the head as baby. Tesla alone push everything green. Momentum is bullish ride it or die going against it </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:25:16 </td>
-   <td style="text-align:left;"> $AAPL $SPY $QQQ $SOXS &amp;quot;JP Morgan&amp;quot; is talking down markets, just as &amp;quot;Morgan Stanley&amp;quot; is. All about the disconnect beween the Bond&amp;amp; Equities. &amp;quot;If stock markets trade, as bond markets, the result will be -20%&amp;quot;. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:25:08 </td>
-   <td style="text-align:left;"> $SPY 1hr view from the 5/31/2023 Pre-Market update. The pullback managed to reach the blue box area where buyers were expected to appear #Elliottwave #Trading </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:25:06 </td>
-   <td style="text-align:left;"> $SPY algos are forward looking, 2:10 is 100 periods on the 5m prior to cpi 
- 
-10:00 is 50p prior on the 15m 
- 
-Etc. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:25:06 </td>
-   <td style="text-align:left;"> @GraffGripANW @Rangebound500 $SPY  
- 
-&amp;quot;Better buy opp is guaranteed, market always corrects&amp;quot; 
- 
- it sounds like you missed the correction less than 12 months ago. 
- 
-Also its been proven that TIMING is what failed $$ does and FAILED $$ = FAILED $$$ period. 
- 
-The more you think you can time the more you fall behind. 
- 
-Markets can correct but no one in the history of markets has been able to time those corrections. The idiots telling you to short, the Burry &amp;quot;Big SHORT&amp;quot; idiots all collect fees from you. 
- 
-Ironically Burry was a one hit wonder and never made $$$ after 2009. 
- 
-TIMING and DRAMA chasing = failed $$$ including BURRY vs those who just buy &amp;quot;BUFFETT&amp;quot; </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:25:04 </td>
-   <td style="text-align:left;"> $SPY  What’s the source of this manipulation? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:25:00 </td>
-   <td style="text-align:left;"> $SPY i think today we breakout higher </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:24:36 </td>
-   <td style="text-align:left;"> This shows the monthly results from only making a trade when H% is low.
-Whats the Win/Lose ratio? The result speaks for itself.
-
-May (&amp;#39;23) = 0 loss
-April (&amp;#39;23) = 0 loss
-March (&amp;#39;23) = 1 loss
-February (&amp;#39;23) = 0 loss
-January (&amp;#39;23) = 0 loss
-December (&amp;#39;22) = 2 losses
-November (&amp;#39;22) = 0 loss
-October (&amp;#39;22) = 2 losses
-
-Got timestamps for the skeptics
-$SPY $QQQ $COST $TGT </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:24:33 </td>
-   <td style="text-align:left;"> $SPY Wow, bears didn’t do the job last night. It’s not down $10 pre market.  That’s a real bad sign to come. Pure manipulation by ? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:24:15 </td>
-   <td style="text-align:left;"> $SPY Can we see a breakout today? We have been struggling to break 429.60 area. If we can get a break above this level 431.76 is on table (further continuation is possible).  
- 
-Love how we bounced off the demand area yesterday around that 425-426 zone. If we get another strong rejection back into demand we go on with continued consolidation. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:23:58 </td>
-   <td style="text-align:left;"> $SPY is going to be a long Friday today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:23:58 </td>
-   <td style="text-align:left;"> Who’s more salty Nvidia or Tesla people that missed the run.
-
-$TSLA $NVDA $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:22:22 </td>
-   <td style="text-align:left;"> @Montybonjangles @Learningtoretire here is a simple question. 
- 
-if you are broke and uneducated why the hell are you fighting the TRILLION $$ $SPY machine world ??? why are you shorting an index designed to go higher?? 
- 
-1000 of better shorts in the market EVERY WEEK 
- 
-$UVXY is a better short FOREVER </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:22:16 </td>
-   <td style="text-align:left;"> $SPY be green by open $430 1st hour then fireworks potential $435 today and bears signing over deed to their trailers </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:21:25 </td>
-   <td style="text-align:left;"> $BENF Who’s your daddy?🥳 Ya’ll nailed that 13 entry short from my alert?
-$SPY $CVNA $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:20:43 </td>
-   <td style="text-align:left;"> $SPY if this breaks upward today there will be a wild technical rally imo </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:20:28 </td>
-   <td style="text-align:left;"> $SPY volume dry as a  👵 where’s this bull market </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:20:04 </td>
-   <td style="text-align:left;"> $SPY what are you listening to?! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:19:03 </td>
-   <td style="text-align:left;"> $SPY MMs playing musical pumps to keep this high.. I will never not have puts loaded here. Ever. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:18:42 </td>
-   <td style="text-align:left;"> $SPY you know what happens to the little piggy’s that didn’t fly straight? They all got shot down. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:18:42 </td>
-   <td style="text-align:left;"> $SPY vs small caps. Long term winner will be _____? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:18:12 </td>
-   <td style="text-align:left;"> $SPY  any data this morning that would move the price much in either direction? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:18:01 </td>
-   <td style="text-align:left;"> $TSLA $SPY 
-
-I can find hundreds of other companies to short but you aim for tesla. You must like pain. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:17:19 </td>
-   <td style="text-align:left;"> $SPY $QQQ also low volume Friday.  I guess  it will depend if Tesla keeps pumping or dumps at open. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:17:03 </td>
-   <td style="text-align:left;"> $SPY another big win yesterday using a proven strategy. That group rocks.
-Spy options picks day trading... Meta group </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:17:00 </td>
-   <td style="text-align:left;"> Officially in a bull market🐮 $SPY $NVDA $MVIS $MMAT </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:16:47 </td>
-   <td style="text-align:left;"> $SPY Tesla save the MK today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:16:12 </td>
-   <td style="text-align:left;"> $SPY 🧐 I guess none of these holdings move us up. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:15:49 </td>
-   <td style="text-align:left;"> $SPY Same old same old! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:15:48 </td>
-   <td style="text-align:left;"> $SPY 430 almost a guarantee for today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:14:09 </td>
-   <td style="text-align:left;"> $SPY back in July last summer the S&amp;amp;P
-Officially touched the $380ish price and it was called “the bear market”. Then the markets reversed right after. Let’s see what happens in the next few days </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:13:10 </td>
-   <td style="text-align:left;"> $SPY sell off starting at open </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:12:20 </td>
-   <td style="text-align:left;"> $TSLA $SPY it’s 6/9 today. It’s time to get some y’all!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:10:50 </td>
-   <td style="text-align:left;"> $SPY how long do you believe our civilization lasts for? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:10:45 </td>
-   <td style="text-align:left;"> This shows VISUALLY how I get a reversal trade 95%+ of the times while many traders lose. 
-$LCID vs $SPY is one example of many.
-
-This visually shows why I ONLY buy when H% is low instead of buying random levels.
-Algos are very complex, learn to buy when H% is low.
-
-$TSLA $AAPL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:10:05 </td>
-   <td style="text-align:left;"> $SPY  What kind of dinosaur can help you find a handy synonym? A thesaurus. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:09:51 </td>
-   <td style="text-align:left;"> $SPY what the Frick not 500 yet </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:09:40 </td>
-   <td style="text-align:left;"> What are the hottest stocks right now? Pick the best $SPY vs. $UNH vs. $UNIT. https://srnk.us/go/4713728 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:09:04 </td>
-   <td style="text-align:left;"> I have a scary joke about math, but I&amp;#39;m 2² to say it...
-
-$spy $qqq $uvxy </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:07:07 </td>
-   <td style="text-align:left;"> $TRIN vs S&amp;amp;P500 $SPX $SPY $VIX 0.36 Current 0.5 TLOW 1.68 THIGH 0.86 RATIO1 2.38 RATIO2 #stocks #trading #markets #finance </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:07:06 </td>
-   <td style="text-align:left;"> $SPY omg omg omg omg omg for FUCK SAKES can this really be? Is THIS really possible there’s no Way this is happing OMg omg 😳 
-
-Bi Bitching Hour is happening. I can’t believe it 😱 OMG 
-
-There is NO WAY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:07:04 </td>
-   <td style="text-align:left;"> $SPY ascending triangle from yest session into today.
-
-The squeeze continues </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:07:02 </td>
-   <td style="text-align:left;"> $SPY   It’s official…S&amp;amp;P enters a Bull Market.  It’s off to the Races!  Bid high, bid fast!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:06:29 </td>
-   <td style="text-align:left;"> $SPY $QQQ $AAPL $MSFT 
- 
-Nasdaq GRINDS HIGHER after HIGHER than expected JOBLESS CLAIMS 
-https://youtu.be/AJOkNnfNl-4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:05:56 </td>
-   <td style="text-align:left;"> $TSLA Winners trade the technicals while LOSERS complain and spit BS into the void $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:05:22 </td>
-   <td style="text-align:left;"> @ChartMill $spy $SEV 
-🔥🔥🔥🔥💰 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:04:59 </td>
-   <td style="text-align:left;"> $SPY just like yesterdday i will sell puts short again silly silly bear lossing more $$ todays 🤣 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:04:24 </td>
-   <td style="text-align:left;"> $SEV $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:03:49 </td>
-   <td style="text-align:left;"> @GraffGripANW @Rangebound500 at some point you might want to stop losing $$ and learning the truth. Most of that historical PE shit is zero math stupidity pushed from a world that is outdated. 
- 
-if you think about compounded assets being exponential why the hell are you using a random linear useless number that doesn&amp;#39;t even reflect cash or asset ratios. 
- 
-If you use 16 PE then at some point the stock market will be 10% of assets while cash/bonds are 90%. 
- 
-That statement is something no one wants to explain to you. The stupid world of finance uses outdated text books and still draws linear straight lines which is annoying/stupid to the mathematics world. 
- 
-simple truth, those who wait for 16 PE fail to compound any wealth, live in a broke world and celebrate market proving them right ONCE every 10 years over all. 
- 
- 
-$SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:03:48 </td>
-   <td style="text-align:left;"> $SPY No drop today. GLTA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:03:47 </td>
-   <td style="text-align:left;"> * SwX is green and getting stronger (expanding &amp;quot;body&amp;quot;) 
-* Daily MoM at 6.8 and climbing. Highest since last August. 
-* A 10 month high close and the resistance level at 4325 is still one to watch. 
-* Nearly everyone who went Long SPX since May 2022 is now showing a profit.  
-$SPY /4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:03:41 </td>
-   <td style="text-align:left;"> $SPY seems to get unlimited tries to break resistance and two tries at most to break support. They&amp;#39;ll be chasing a number which is getting above $430. They&amp;#39;ll likely get it. My suspicions are that we&amp;#39;ll probably see $431 - $432, although higher is possible. 
- 
-When was the last time we closed red on a Friday? May 12th and May 19th closed red. April 14th (slightly red) and 21st (green by one cent) were both a pretty flat close. We were green Mar 31st, April 6th, April 28th, May 5th, May 19th, May 26th, and June 2nd. That makes 70% green and 30% red for the past 10 Fridays. May 12th was the most red at -$1.83. Most of the green closes were up latexa60c24791f38920378f5c03acf1eba49SPY /2 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:02:48 </td>
-   <td style="text-align:left;"> * 335 SPX stocks in bullish mode = flat. 
-* BullsPower keeps the upper hand at 32. 
-* The Watershed Envelope is going up at a solid pace, but a touch of the upper bound (currently at 4357) has not been seen in quite a while. 
-$SPY /1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:02:00 </td>
-   <td style="text-align:left;"> $SPY $SPX $QQQ  
- 
-Only one door to escape out of when the alarm goes off. Hope you make it out. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:00:33 </td>
-   <td style="text-align:left;"> $SPY I have a werid feeling we&amp;#39;re going to get a &amp;#39;friday sell off&amp;#39;  
-special.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:00:13 </td>
-   <td style="text-align:left;"> $SPY BEAR TRAP again..LOL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:00:10 </td>
-   <td style="text-align:left;"> $SPY 265$ coming. Wave C </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:00:09 </td>
-   <td style="text-align:left;"> $SPY ok, I’m lost. I’m showing futures at $433.60. Why is this trading $5 lower? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 19:00:00 </td>
-   <td style="text-align:left;"> $SPY someone did win...but did any1 listen? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:59:30 </td>
-   <td style="text-align:left;"> $SPY  $3999 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:58:24 </td>
-   <td style="text-align:left;"> $SPY ahhh the vast emptinesss </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:57:35 </td>
-   <td style="text-align:left;"> $SPY this is why 95% of middle class failures STAY MIDDLE CLASS FAILURES </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:55:47 </td>
-   <td style="text-align:left;"> $SPY The only FOMO here is when baggies don’t sell for a profit and end up losing it all </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:54:02 </td>
-   <td style="text-align:left;"> $SPY Someone tell me the game plan for today....anyone here know if it&amp;#39;s going to be a free money friday? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:53:50 </td>
-   <td style="text-align:left;"> Here are today&amp;#39;s $SPY projections. Note Index trend range indicators are getting a false read on uptrend and confirmed down trend read which is a sign markets are overbought. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:53:24 </td>
-   <td style="text-align:left;"> $SPY Bear clubs your fearless BEAR leader flipped to bulls side and now FOMOING LOL </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:52:05 </td>
-   <td style="text-align:left;"> $AMC  $GME  $SPY  $MULN
- Bears working hard today : </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:50:27 </td>
-   <td style="text-align:left;"> $AMZN MMs crunched the data and found retail holding too many naked calls above 120 $QQQ $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:49:25 </td>
-   <td style="text-align:left;"> $SPY time to flip the dead bear carcass over and fuck the other hole for a while. Lol shorts are still getting roasted </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:48:49 </td>
-   <td style="text-align:left;"> $SPY $QQQ no relevant catalyst this morning. It seems that the indexes will be move by Tesla and other tech pumping.  Let’s see what WS has in agenda for today.  Good morning </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:48:12 </td>
-   <td style="text-align:left;"> $SPY NEW ARTICLE : Bull Market Or Bull Trap? https://www.stck.pro/news/SPY/52576808/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:47:05 </td>
-   <td style="text-align:left;"> $SPY any data 2 day pm? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:46:41 </td>
-   <td style="text-align:left;"> $SPY bears getting excited too early. Dip and rip might be in play. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:44:34 </td>
-   <td style="text-align:left;"> $AMZN amazon news? $spy $qqq </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:42:23 </td>
-   <td style="text-align:left;"> $SPY same story every time “liquidity crisis shes going down”. Market rips 🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:41:45 </td>
-   <td style="text-align:left;"> $SPY Imagine questioning the intelligence of people that are actually making money and patting yourself on the back for being smart enough to bet against the market and consistently losing money. 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:41:45 </td>
-   <td style="text-align:left;"> $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:40:32 </td>
-   <td style="text-align:left;"> $SPY bitcoin&amp;gt;puts </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:39:20 </td>
-   <td style="text-align:left;"> $QBTS man I am too bored staying on the sidelines that I ended up buying penny stocks for little excitement. 
-Lets go!! Give me some dopamine. 
-
-$SPY break out or drop. Do something interesting. People getting bored to death with sidelines price action. If there is an oscar for your sidelines performance, you will be nominated for a Razzie award for that worst performance. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:39:15 </td>
-   <td style="text-align:left;"> $SPY $QQQ not too shabby, son. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:38:43 </td>
-   <td style="text-align:left;"> $SPY -15 Today is a Must! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:37:50 </td>
-   <td style="text-align:left;"> $SPY There’s always something to rally about when your IQ is 70. Everyday locked in a fishbowl seems new. Let’s burn our Wendy’s paychecks to pump this up some </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:36:56 </td>
-   <td style="text-align:left;"> $SPY This doesn’t look good </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:36:36 </td>
-   <td style="text-align:left;"> $SPY TSLA is keeping this up </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:36:36 </td>
-   <td style="text-align:left;"> $SPY bears are in denial </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:36:07 </td>
-   <td style="text-align:left;"> $SPY 420$ today! Heavy sell alert, scam gay alert </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:35:49 </td>
-   <td style="text-align:left;"> $SPY watch it rally even today lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:35:46 </td>
-   <td style="text-align:left;"> $SPY it’s dropping 😬 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:35:06 </td>
-   <td style="text-align:left;"> $SPY  Drops more than $15 dollars today a must </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:34:31 </td>
-   <td style="text-align:left;"> $SPY  -$35 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:33:37 </td>
-   <td style="text-align:left;"> $SPY dumps or pumps? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:32:50 </td>
-   <td style="text-align:left;"> $SPY should drop but will it? Bought some 433 calls for lube in case it tries to rip my face off again </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:32:30 </td>
-   <td style="text-align:left;"> If this is the new norm $SPY study this. China got rid of pollution with this technology. You may want to look at companies that are involved. They can make clouds, rain and get rid of fire. https://e360.yale.edu/features/can-cloud-seeding-help-quench-the-thirst-of-the-u.s.-west </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:32:24 </td>
-   <td style="text-align:left;"> $SPY max pain is 415 this morning just sayin…. They might update at the open but still that’s a BIG DROP if it happens. Ouch wouldn’t want to be holding calls overnight hehe 😜 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:31:08 </td>
-   <td style="text-align:left;"> $SPY $NFLX 
-Everything $420 today 💨💨💨
-
-SPY pull back and NFLX cup and handle pump to 420 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:30:47 </td>
-   <td style="text-align:left;"> $SPY caution! Scam alert!! Heavy sell alert!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:30:41 </td>
-   <td style="text-align:left;"> $NIO $TSLA $QQQ $SPY  today , my cat Will most likley give birth to small ragdolls. 👍👍 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:30:19 </td>
-   <td style="text-align:left;"> $SPY Trump most likely will go to the can. I hope they have a large enough orange suit. Keep tuned. Will or maybe affect markets. I told you it was a political year. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:29:50 </td>
-   <td style="text-align:left;"> @BBWs_Fast_Food_Fund $SPY When boomers send their TRILLIONS down to the next generation there is going to be a massive rush into higher risk assets. 
- 
-RECORD $$ in cash, RECORD $$ in bonds and an extremely under allocated stock market means one thing in the future. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:29:49 </td>
-   <td style="text-align:left;"> $SPY Today is already tomorrow in the mind of Kamala </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:29:22 </td>
-   <td style="text-align:left;"> $IDEX .12 is the next ceiling! 🔥🔥🚀
-
-Contract announcement last week.
-ER expected next week. 
-
-IDEX is getting their sht together! 🤑
-
-$TSLA $RIVN $GM $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:28:45 </td>
-   <td style="text-align:left;"> $SPY $527 PUTs </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:28:42 </td>
-   <td style="text-align:left;"> @BBWs_Fast_Food_Fund $SPY ironically boomers have 4x more $$ in cash/bonds and the stock market is their HEDGE </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:27:43 </td>
-   <td style="text-align:left;"> @GraffGripANW @Rangebound500 $SPY I would also explain that the following math matters. 
- 
-480 is 100% fact in the future 
-385 is a random stupid guess with lower odds. 
- 
-I will take the 100% odds trade. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:26:43 </td>
-   <td style="text-align:left;"> @GraffGripANW @Rangebound500 my point remains, NOTHING is happening by mid summer for this random 385 shit. 
- 
-If you said 385 can happen within 12 months then I would say SURE...there is a 5% chance that it happens.  
- 
-and I would tell you that its practically RISK FREE To hedge for it at the same time. 
- 
-Im not sure either of you understand the massive TRILLION $$ hedging world that drives $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:25:50 </td>
-   <td style="text-align:left;"> $SPY $430 calls </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:24:39 </td>
-   <td style="text-align:left;"> $AAPL $META  $SPY  It is time to prepare so we can be ready for the opportunities that will arise today for traders.  Trade what you see and trade the market we have, not the dream market you fantasize about.  Be prepared to act--we get paid for acting, not watching.  Follow the money with @Vegas1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:24:04 </td>
-   <td style="text-align:left;"> $SPY Overpumped for the boomer’s retirement accounts? When the boomers pull out their funds, who will capture the sell orders? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:23:05 </td>
-   <td style="text-align:left;"> $SPY lmao hunter biden not indicted.  Lmao Hillary not indicted.  Lmao the most corrupt president Biden not indicted. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:20:31 </td>
-   <td style="text-align:left;"> $SPY sub 425 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:19:46 </td>
-   <td style="text-align:left;"> Consumer confidence just tanks’ $QQQ $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:19:45 </td>
-   <td style="text-align:left;"> $SPY What a country.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:19:36 </td>
-   <td style="text-align:left;"> $SPY way overpumped. Bring it down </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:18:35 </td>
-   <td style="text-align:left;"> $SPY 385?? Just how many times did your mother drop you on your head when you were little? 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:14:50 </td>
-   <td style="text-align:left;"> @OldFngGuy $SPY 385 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:14:46 </td>
-   <td style="text-align:left;"> Sunday night Futures $3980’ $SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:14:12 </td>
-   <td style="text-align:left;"> Trade idea --&amp;gt; $LABD 
- 
-Multiple bottom setup, recently hitting $14+ and then retraced back down to the $12s. 
- 
-Two levels to watch for buyers to step back in are $12 &amp;amp; $11.60s, ideally, we take a position into the momentum (reversal) 
-🎯 - $13+ once in position. 
- 
-🛑 Stop loss recommendation 5% max  
-$SPY $QQQ $TSLA $AI </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:13:14 </td>
-   <td style="text-align:left;"> $SPY WRONG </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:13:02 </td>
-   <td style="text-align:left;"> @Rangebound500 $SPY you just need to post the bet...you are going to lose and its fun doing this. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> SPY </td>
-   <td style="text-align:left;"> 2023-06-09 18:12:25 </td>
-   <td style="text-align:left;"> $SPY  $399 Monday </td>
+https://twitter.com/mohossain/status/1667141906512457728?s=46&amp;amp;t=GtuOmoaTjOwevz2JidiiDQ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> QQQ </td>
@@ -3753,548 +4302,204 @@ What the frack, there’s an actual ticker called $MOON 🤣🤣🤣 </td>
 change the ticker $TSLA to $MOON </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:13:50 </td>
-   <td style="text-align:left;"> $SPY  The Futures officially broken  $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:11:33 </td>
-   <td style="text-align:left;"> $QQQ WS knows everything is so fked up. Yet they purposely prop up the market. Pretty sure they will reverse this really hard but it’s hard to catch the top. Musical chair. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:09:07 </td>
-   <td style="text-align:left;"> $SPY $QQQ almost nothing to like about the USA right now...every day seems worse than the last </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:08:07 </td>
-   <td style="text-align:left;"> $SPY  $QQQ  My friend, the communist 
-Holds meetings in his RV 
-I can&amp;#39;t afford his gas 
-So I&amp;#39;m stuck here watching TV !! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:07:42 </td>
-   <td style="text-align:left;"> $SPY $QQQ The key takeaway from the Initial jobless claims  report is the bump seen in initial claims indicates some softening in the labor market, although claims levels continue to run well below levels seen in past recessions </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:07:12 </td>
-   <td style="text-align:left;"> $AAPL $LCID $QQQ $RIVN $TSLA who the duck cares.  This is AAPL board </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:06:53 </td>
-   <td style="text-align:left;"> $QQQ debt crisis: check  
-wealth gap: check  
-Populism taking over this country: check 
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:37 </td>
+   <td style="text-align:left;"> $AAPL $googl $amzn $tsla $bntx 
  
-Beautiful job J powell, nobody does it like you. </td>
+https://www.twitch.tv/videos/1841749838?t=00h00m05s </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:06:46 </td>
-   <td style="text-align:left;"> $TSLA $SPY $QQQ 
-
-$400+! Don’t bet against elon! </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:30 </td>
+   <td style="text-align:left;"> $AAPL TOI and AI teaming up to battle cancer 😎😎 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:05:15 </td>
-   <td style="text-align:left;"> $QQQ  $Spy $goof $appl
-
-I told everyone on here Wallstreet is the devil. They aren&amp;#39;t going to give retail 5% while waiting on a recession.  I knew the markets are going much higher. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:41 </td>
+   <td style="text-align:left;"> HAMMER GOLD ❗❗❗
+CANADA LOSES 17.3K JOBS IN MAY; UNEMPLOYMENT RISES TO 5.2% FROM 5.0%
+$TSLA $AAPL $AMZN $NVDA $AMD  dbbs </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:04:48 </td>
-   <td style="text-align:left;"> $QQQ $SPY All a bunch of horseshit selective prosecution of a political opponent.  Harbinger of bad things to come this is kicking a hornet&amp;#39;s nest.  Grandpa scared to death of actually having to run against the Don and form sentences and such. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:20 </td>
+   <td style="text-align:left;"> $AAPL is apple going to develop ai for there stuff? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 11:03:42 </td>
-   <td style="text-align:left;"> $QQQ $SPY $appl $goog ALL longterm indicators have reversed Bullish.Igf your short Good Luck! </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:40 </td>
+   <td style="text-align:left;"> $META $AAPL $TSLA $AMZN </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:59:16 </td>
-   <td style="text-align:left;"> Now clearly we all can see market is being manipulated pretty obvious 
-$QQQ $NDX $SPY $SPX </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:56 </td>
+   <td style="text-align:left;"> $SIEN check this fda clearance 
+$BOIL $AAPL $MSFT $NVDA </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:58:57 </td>
-   <td style="text-align:left;"> $SPY $QQQ safe to say interest rate increases haven’t done a single thing 🤡 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:23 </td>
+   <td style="text-align:left;"> $QCOM  Seems they “kitchen sinked” their earnings announcement last month.  The stock had already been beaten up, then was kicked while it was down.  Expectations were lowered.  I think there’s more risk in not owning it than there is in owning it.  I sold some $AAPL on May 5 and added to QCOM at $108.  QCOM has outperformed AAPL since then and I think it will continue to do so. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:58:15 </td>
-   <td style="text-align:left;"> $SPY BREAKING: Politico Reports That Biden A ’70% Favorite To Win’ 2024 Presidential Election Now That Main Political Opponent To Be Arrested. $QQQ </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:44 </td>
+   <td style="text-align:left;"> $AAPL $LCID $aapl $lcid a flashlight 🔦?  makes sense, since peter is in the dark about how to run a business… </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:57:53 </td>
-   <td style="text-align:left;"> $lcid Lucid Motors already have world class EV tech. They should really execute strategically to grow while controlling cost. China news is very big and promising. Apple and Tesla make most profit out of China production as labor and other cost is cheaper.  
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:30 </td>
+   <td style="text-align:left;"> $AAPL    
+Calls:     
+📈  at $179.70 - $179 
+📈 above $181 
+Puts:    
+📉  at $184 - $184.95 if we get rejected  
+  
+Let the setup come to you!  
+Manage risk properly! cut losses quickly! And always take profits. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:31 </td>
+   <td style="text-align:left;"> $WLDS  $AAPL $MSFT $SPY 
+It&amp;#39;s getting hot..jump in before it&amp;#39;s to late </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:39 </td>
+   <td style="text-align:left;"> $SPY $TSLA $AAPL $QQQ $META the result of April? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:07 </td>
+   <td style="text-align:left;"> $LCID What do you see on right side of Peter hand $AAPL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:02 </td>
+   <td style="text-align:left;"> $TSLA map update: we&amp;#39;re just shy 10 points of my ultimate target on news today.  Only I was way off on the timing.  Wow. 
  
-Lucid current market cap 13 BN can grow over 100 bn, if they execute well over next 3-5 years.  
+Underlining my thesis that Tesla is now THE market leader, replacing $AAPL. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:39 </td>
+   <td style="text-align:left;"> My Option Watchlist For 06/09/2023   
+  
+$AAPL    
+Calls:     
+📈  at $179.70 - $179 
+📈 above $181 
+Puts:    
+📉  at $184 - $184.95 if we get rejected  
+  
+$SPY    
+Calls:   
+📈  1st at $428.22 - $427.70 
+📈  2nd at $426.70 - $426 
+Puts:   
+📉 below $425.99  
  
-$tsla $rivn $qqq $aapl </td>
+  
+$TSLA    
+ Calls:    
+📈 at $245 - $243  
+Puts:   
+📉  below $241 
+   
+Let the setup come to you!  
+Manage risk properly! cut losses quickly! And always take profits. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:57:40 </td>
-   <td style="text-align:left;"> $GAN  Clear takeover target—matter of who/when—not if. $QQQ $RICK </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:57:00 </td>
-   <td style="text-align:left;"> $NVDA $QQQ $SPY what bull flag on the NVDA…would be shocked if we don’t see a breakout tomorrow. 💪
-
-This is what you write home to mom about.  🙏 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:56:52 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TNX $UUP $VIX what did people do with the forbearance savings. They piled on more credit card debt, mortgages, and auto loans. So not only are people not going to have the $398 (average debt payment) monthly stimulus. They are looking at further personal budget deficits because they piled on more debt over this time period. This is very material for the US consumer. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:55:15 </td>
-   <td style="text-align:left;"> $SPY $QQQ futures dumping faster than the Mar-a-Lago pool ahead of an FBI search warrant
-
-https://www.salon.com/2023/06/06/very-suspicious-experts-skeptical-after-employee-drains-pool-into-mar-a-lago-server-room/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:53:10 </td>
-   <td style="text-align:left;"> $DIS  We are up 4% already. 
-*I&amp;#39;m gonna add some swing plays on this ticker tomorrow if you guys are interested* 
-$SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:51:14 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TLT NBER created a research paper on the effects of the debt moratorium. Which concludes at the end of August. The excerpt is the summation for those who choose to get to the point. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:50:45 </td>
-   <td style="text-align:left;"> $SPY $QQQ $IWM how high will we gooo! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:50:19 </td>
-   <td style="text-align:left;"> $TOP volume on watch for tomorrow 🇨🇳📰💰
-
-$SPY $CJET $BOAS $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:49:16 </td>
-   <td style="text-align:left;"> $QQQ can bear market really end without a single  limit down days? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:48:08 </td>
-   <td style="text-align:left;"> $SPY $QQQ &amp;quot;It&amp;#39;s Really Unprecedented&amp;quot;: Solar Power Generation Cut In Half Due To Canada Smoke </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:48:08 </td>
-   <td style="text-align:left;"> $XBI $IBB $SPY $QQQ.  IBRX Three insiders bought the stock this week!  One was ex cia leader under Obama and BOD John Brennan 🤔🤔.  https://www.linkedin.com/posts/immunitybio_cancer-activity-7072242911928614913-VMV_?utm_source=share&amp;amp;utm_medium=member_ios </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:47:33 </td>
-   <td style="text-align:left;"> $SPY $qqq I THINK CNN IS THE SPAWN OF SATAN  . </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:47:09 </td>
-   <td style="text-align:left;"> $SPY https://www.multpl.com/s-p-500-pe-ratio $QQQ Good times... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:47:04 </td>
-   <td style="text-align:left;"> $QQQ markets crave stability, a political indictment of an ex president= instability. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:45:46 </td>
-   <td style="text-align:left;"> $SPY $QQQ https://www.zerohedge.com/political/trump-i-have-been-indicted </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:44:46 </td>
-   <td style="text-align:left;"> $spy $qqq  if you’re in real-state , appraiser, or loan originator you’ve already been in a severe recession for 9 months ! .. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:43:33 </td>
-   <td style="text-align:left;"> $QQQ mainstream media announcing new bull market. 🤣 They’re preparing for the dump. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:42:32 </td>
-   <td style="text-align:left;"> $SPY $QQQ BULLISH? 
-I wouldn’t think so … but Ai is retarded
-
-https://www.zerohedge.com/political/trump-i-have-been-indicted </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:42:03 </td>
-   <td style="text-align:left;"> $SPY $QQQ $RUM $DWAC I realize many will be hesitant to boycott the most popular tech giants.   
-But considering those who have fought and died worldwide for freedom,INCLUDING FREEDOM OF SPEECH, I don&amp;#39;t believe it is such a big sacrifice and these are immediate,peaceful actions anyone can take to counter censorship and corruption WITHOUT waiting for politicians to do something. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:42:03 </td>
-   <td style="text-align:left;"> $SPY  $QQQ  
- 
-Today&amp;#39;s Headlines&amp;gt;&amp;gt;&amp;gt; 
- 
-&amp;quot;Stocks rise, S&amp;amp;P 500 enters new bull market: Stock market news today&amp;quot; 
- 
-Carefull ..... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:39:51 </td>
-   <td style="text-align:left;"> $QQQ Guy updates on SPY chart https://youtu.be/VWYLOOYhUUw $GOOG $AAPL 👀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:38:45 </td>
-   <td style="text-align:left;"> $SPY $QQQ just remember the feeling of when you lost money and never forget it. If you&amp;#39;re up on positions don&amp;#39;t forget how much it sucks losing money. For me, I forget the emotional pain over time on winning streaks and start increasing risk profile without a plan before putting on a trade. Gotta know your weaknesses </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:33:54 </td>
-   <td style="text-align:left;"> $TSLA $QQQ 
- Mother of all melts up is coming very soon! 
-Very </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:29:35 </td>
-   <td style="text-align:left;"> $SPY $QQQ usually when u start screenshotimg your profits its about to turn for the worse. I see a lot of bullish screenshots </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:28:15 </td>
-   <td style="text-align:left;"> $spy $qqq ok one last pump 🥹🚀🚀🚀🚨 $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:27:37 </td>
-   <td style="text-align:left;"> $QQQ stay disciplined. 
-
-HOW TO BECOME SUPER DISCIPLINED - Jordan Peterson Motivational Speech 2023
-https://youtu.be/-a10xQRUL-E </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:26:02 </td>
-   <td style="text-align:left;"> TRUMP INDICTMENT
-
-1. Willful retention of NDI (Espionage Act)
-2. Conspiracy to obstruct justice
-3. Withholding a document or record
-4. Corruptly concealing a document or record
-5. Concealing a document in a federal investigation
-6. Scheme to conceal
-7. False statements and representations
-
-If found guilty:
-- Minimum sentence: None
-- Maximum sentence: 100 years in prison $SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:25:26 </td>
-   <td style="text-align:left;"> It’s won’t drop $100 tonight $SPX  because it’s going down $255 Friday    $QQQ $NDX $IWM </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:23:49 </td>
-   <td style="text-align:left;"> $SPY $QQQ futures red at this hour. Maybe it has to do with the worst than expected Chinese CPI.  We will see how things change overnight.  GN bulls and bears </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:20:50 </td>
-   <td style="text-align:left;"> $SPY $QQQ gen z . Please don&amp;#39;t normalize drinking like these boomers do. It&amp;#39;s absolutely poison </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:17:36 </td>
-   <td style="text-align:left;"> $QQQ this move today was on such light volume. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:17:24 </td>
-   <td style="text-align:left;"> $SPY $QQQ I&amp;#39;m not drinking tonight. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:17:14 </td>
-   <td style="text-align:left;"> $SPY $QQQ 🤡🤡🤡 did it again deleted all tweets for the second time in a month after calling tops and bear flags every day. Broke and depressed </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:16:12 </td>
-   <td style="text-align:left;"> $TSLA $DWAC $CVNA $SPY $QQQ  
-Trending... like a boss </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:16:09 </td>
-   <td style="text-align:left;"> $SPY $QQQ  trading advice
-Don&amp;#39;t listen 2 women 😤 💯💯💯 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:13:42 </td>
-   <td style="text-align:left;"> $SPY $QQQ just pull the damn rug already and chill with the microscopic pullbacks. $NVDA $META $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:13:37 </td>
-   <td style="text-align:left;"> $SPY  $QQQ  DON&amp;#39;T FORGET TO KEEP CELEBRATING YAHWEH MONTH </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:11:22 </td>
-   <td style="text-align:left;"> $SPY $QQQ can&amp;#39;t even imagine how many people have some insane gains not closed out. Protect yourself and screw what everyone else is doing. Congrats if you&amp;#39;ve banked but don&amp;#39;t overstay ur welcome. WS is savage </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:09:51 </td>
-   <td style="text-align:left;"> $CVNA You know it is time to go all in with short position when bulls come out with their outlandish price targets of $50, $100, $150 or $1000
-
-$SPY $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:08:38 </td>
-   <td style="text-align:left;"> $SPY $qqq $tsla $meta $aapl 
- 
-NEXT WEEK GOING to be volatile as FED MEETING on Thursday! 
- 
-Canada &amp;amp; Australia - Hike Rates.  US will HIKE TOO 
- 
-TAKE PROFIT and WAITING ON SIDELINE to see what feds decision!!! 
- 
-We might see MASSIVE PROFIT TAKING from TOMORROW Until Thursday! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:05:19 </td>
-   <td style="text-align:left;"> $SPY latex365c35417969a7170c75a931b84ba0e1TSLA 250c &amp;gt; 248.85 | 240p &amp;lt; 242.21
-
-$NVDA 390c &amp;gt; 388.50 | 380p &amp;lt; 383.65 
-
-If you want option trade alerts, with set ups like this check the l!nk out! 
-
-The team is banking on a daily basis 🥂✅ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:01:58 </td>
-   <td style="text-align:left;"> $SPY $QQQ so many insiders sell after the massive rise this year. They know what’s coming so they sell while retailers buy in. $NVDA $NFLX </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 10:01:03 </td>
-   <td style="text-align:left;"> $SPY the greatest trick the stock market has is lulling you into complacency $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:59:52 </td>
-   <td style="text-align:left;"> $SPY quite the volatility crush. Went on longer than I anticipated. Major reversal likely soon $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:58:25 </td>
-   <td style="text-align:left;"> $SPY since this is mainly multiple expansion... many new investors believe they now understand how to trade the equity markets. $QQQ I don&amp;#39;t think it&amp;#39;s going to be easy for much longer. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:57:03 </td>
-   <td style="text-align:left;"> $TSLA $QQQ $SPY </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:56:10 </td>
-   <td style="text-align:left;"> $TSLA $SPY $QQQ aint
-No recession. Too many folks spending money every where I go. Sunny DAYGO </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:54:55 </td>
-   <td style="text-align:left;"> $SPY one of the nastiest things they did (the fed) and funds complicit in 2021 when the market ran up 130% from the Covid low with only tiny pullbacks was they’d let the futures run red almost every night and it would get the hopes up of the shorts and by morning or shortly after open they’d run it up big daily. It’s knocked on 4300 multiple times now past week or so and relentlessly keeps coming back after any dip just like I said it would so barring a real drop like 1-2% tomorrow it likely does the ol vix crush Friday breaks 430-433 atleast briefly and continues Monday before any pullback Monday/Tuesday on fed uncertainty and data. If it opens red tomorrow I will take calls odte and scale in. These -.20 to -.60 down days mean nothing when the market just ran from 389 to 439 in such short time. It’s just games they play to reset rsi and bait in puts. God bless see u tomorrow ❤️🙏🏻🔥 $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:54:43 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:41 </td>
    <td style="text-align:left;"> Let&amp;#39;s play a game. Guess which ticker this is.
 
-This is the play from today. Alerted the near perfect buys for a reversal trade.
+This is the play from yesterday. Alerted the near perfect level for a reversal trade. Just $0.03c from its absolute bottom of the day.
 All possible from ONLY buying when H% is low. Look at the each steps shown.
 
 $SPY $TSLA $AAPL $MSFT $QQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:54:41 </td>
-   <td style="text-align:left;"> $CVNA $QQQ $SPY Pumping attempt by Carvana management to pump price so they can dilute and survive. Retail bulls will pay for it of course. Management understand their meme crowd and are playing it how they should. Money never sleeps 🛏️ </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:07 </td>
+   <td style="text-align:left;"> $nvda AI already breached and in trouble. $googl $aapl $tsla $nflx 🫧📌 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:54:30 </td>
-   <td style="text-align:left;"> $SPY $qqq All news is baked in!!!!!!!!!!!!!!!!!! </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:34 </td>
+   <td style="text-align:left;"> $TSLA $AAPL $GOOG Our Long Watchlist of plays we alerted 3/12 is KILLING IT…
+It’s what we do 🤷🏼‍♂️😎
+Ready for our release? </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:53:19 </td>
-   <td style="text-align:left;"> $SPY $QQQ this little piggy went to the market </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:08 </td>
+   <td style="text-align:left;"> IT IS OFFICIAL! The longest bear market since the 40&amp;#39;s has come to a conclusion for now. Most of the gains have been from big tech like $AAPL $NVDA and $TSLA. 
+ 
+Tesla is going crazy this morning after closing another charging station deal, this time with $GM.  
+ 
+META is trying to make a platform to compete with twitter, saying that creators have asked for a version of twitter that is &amp;quot;sanely run&amp;quot; which is a little ridiculous considering all the Meta employees probably drive teslas. They want to do the platform on instagram and make it just like twitter. I will not be particpating.  
+ 
+CVNA had a big day yesterday, rising 51% after their profit outlook improved. Pretty flat trading premarket, but that could be a fun one to trade today. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:52:00 </td>
-   <td style="text-align:left;"> $QQQ: Both the short term and long term trends are positive. This is a very positive sign. https://www.chartmill.com/stock/quote/QQQ/technical-analysis?key=d8dac8fb-a874-4422-96db-185a5752c108&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=TA&amp;amp;utm_content=QQQ&amp;amp;utm_campaign=social_tracking </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:31 </td>
+   <td style="text-align:left;"> $AAPL TOI going to use AI to go after cancer 😎 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:51:26 </td>
-   <td style="text-align:left;"> $SPY $qqq $iwm  Breakout Friday in one of these at least. </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:31 </td>
+   <td style="text-align:left;"> In Group 3 Live Session today, we will also explain that the #Dollar has ended the bounce and will get sideways to lower in a Negative USD Dynamic. #Equities and #commodities should rally.  #Elliottwave #Stocks #Trading $SPY $SPX $AAPL $TSLA $QQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:51:24 </td>
-   <td style="text-align:left;"> $CVNA Horrible interest rate environment with massive debt burden for Carvana. Their last desperate attempt to survive by falsely cooking their books and promising $50m dollars in profit for the second quarter. That doesn’t mean anything even if true. They are in deep trouble and will go bankrupt imminently unless they announce offering soon. A tiny $50m profit will not erase the billions of dollar debt.
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:11 </td>
+   <td style="text-align:left;"> $AAPL Use AI to increase your stock portfolio  https://youtu.be/9wFufMFG5fE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:24 </td>
+   <td style="text-align:left;"> Group 3 Live Session will start at 9AM. Tune in @ https://elliottwave-forecast.com/amember/go.php?r=34991&amp;amp;i=l1 where we will explain all the instruments and what should be happening next. #Elliottwave #Stocks #Trading $SPY $QQQ $TSLA $AAPL $SPX </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:36 </td>
+   <td style="text-align:left;"> $AAPL $185 today or $190 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:19:34 </td>
+   <td style="text-align:left;"> Watchlist 6/9
 
-$SPY $QQQ </td>
+$AAPL, $NVDA, $TSLA, $ADBE, SPX, $QQQ </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:51:24 </td>
-   <td style="text-align:left;"> $META $SPY $QQQ $AAPL $TSLA 
- 
-ZUCK IS PANICKING!!!  
- 
-BASHING APPLE VR 
- 
-WANT TO CREATE STANDALONE to FIGHT TWITTER because he knows he can&amp;#39;t compete with PAPA ELON!!!! 
- 
-INSTAGRAM PROMOTES PEDO NETWORK 
- 
-GET FINE 1.3 B in EURO 
- 
-https://www.wsj.com/articles/meta-reveals-twitter-competitor-it-plans-to-launch-as-stand-alone-app-4a9b7721 
- 
-SELL META, buy AAPLE, TSLA </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:53 </td>
+   <td style="text-align:left;"> $PLTR $AMZN $MSFT $AAPL $GOOG </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:49:55 </td>
-   <td style="text-align:left;"> $SPY $QQQ headlines when you Google bull market…these shorts don’t stand a chance.  😂 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:40 </td>
+   <td style="text-align:left;"> $PLTR @Pocoyo $f $tsla $aapl $docu over  $1 billion  in  sales  this  week!!! </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:49:25 </td>
-   <td style="text-align:left;"> $QQQ head and shoulders 300 PT </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:35 </td>
+   <td style="text-align:left;"> $AAPL wants 200 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:49:18 </td>
-   <td style="text-align:left;"> $QQQ Guy updates on SPY charts https://youtu.be/VWYLOOYhUUw $GOOG $AMZN 👀 </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:16:31 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA $AAPL  market is going to go parabolic, scary but deserved by the world&amp;#39;s tried and hardened bulls of the globe. Take a bow. You are believers in America. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:48:38 </td>
-   <td style="text-align:left;"> $SPY $QQQ this headline popping everywhere…and I mean everywhere.  Can you imagine sitting in cash and missing out on where this is headed…wait until fomo starts. 💪
-
-Just Google bull market and look at the headlines 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:48:19 </td>
-   <td style="text-align:left;"> $SPY $QQQ so how fat are they going to let big cap tech get? Getting out of control, no? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:42:06 </td>
-   <td style="text-align:left;"> $QQQ lol not even budging... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:41:39 </td>
-   <td style="text-align:left;"> How To Unlock The Power Of Japanese Candlesticks
-
-https://www.chartlearning.com/2021/04/top-5-bullish-candlestick-patterns.html
-
-$SPY $QQQ $IWM $ES_F $VIX </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:40:59 </td>
-   <td style="text-align:left;"> $SPY $QQQ $NDX </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:40:55 </td>
-   <td style="text-align:left;"> $QQQ when is the correction? I sold most today. I think the correlation is coming soon in days and even it still go up not too much tit could </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:40:04 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TLT  
- 
-The other area where banks are getting liquidity is from the Federal Home Loan Bank. Like the Fed&amp;#39;s BTFP, banks post collateral (like a pawn shop) to secure loans. 
- 
-Data is quarterly and Q1 2023 finally came out. Over $1 trillion now. Highest level since the GFC. Prior mini spike was during covid. 
- 
-Interesting times. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:39:57 </td>
-   <td style="text-align:left;"> $QQQ Got the cup and now building a handle. &amp;quot;A bullish pattern&amp;quot; </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:38:09 </td>
-   <td style="text-align:left;"> $QQQ Free money Friday </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:36:51 </td>
-   <td style="text-align:left;"> $QQQ calls above 353.62
-Posted by @macrozz </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:36:26 </td>
-   <td style="text-align:left;"> $SPY  $QQQ $DJIA $RUT $NASDAQ 
-
-Very much a possibility.  If J. Powell has been hiding the numbers and will only admit to a rate hike AT THE LAST MINUTE during the FOMC next week, we ride. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:35:20 </td>
-   <td style="text-align:left;"> $SPY  $QQQ  $IWM  $TSLA  $AMD 🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> QQQ </td>
-   <td style="text-align:left;"> 2023-06-09 09:35:15 </td>
-   <td style="text-align:left;"> $SINT American mask company selling high quality mask/N95
-Washington DC turn to suffer for once 😷! Be safe MASK UP! 
-6 mill mc with 16.5 mill of cash on hand! Recent RS stock too! 
-$APT $MMM $QQQ $SPY </td>
+   <td style="text-align:left;"> AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:14:12 </td>
+   <td style="text-align:left;"> $PLTR  &amp;lt;- this will be the runner of the day $TSLA $NIO $AAPL </td>
   </tr>
   <tr>
    <td style="text-align:left;"> AAPL </td>
@@ -6055,1791 +6260,1713 @@ Oh, wait, let me ask the latter after Tuesday Core CPI.
 $QQQ $AMD $AAPL </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:45:36 </td>
-   <td style="text-align:left;"> $SPY $QQQ $TSLA $AAPL 
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:13 </td>
+   <td style="text-align:left;"> $TSLA already reaching mars 🚀🚀🚀🚀. Time to take some off the table. Overbought.
 
-Let’s break that HOD 😤 </td>
+Tesla Inc : Wedbush adds stock to its best ideas list 
+Wedbush raises target price to $300 from $215 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:45:34 </td>
-   <td style="text-align:left;"> $SPY We&amp;#39;re going to have this odd EOM/EOQ price action as PMs have to chase to try &amp;amp; show they own the Mrkt while those who do will Sell &amp;amp; take profits. 
- 
-Today we have $aapl up but its on 37m shares at 3:45pm so, its just gaming. If you&amp;#39;re a Bear you should be excited, the bigger the balloon gets blown up the nicer the pop. 
- 
-Just let it run, you want to see this,.. unless youre too short right now :o) 
- 
-$qqq $nvda $tsla </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:45:09 </td>
-   <td style="text-align:left;"> $AAPL tomorrow open $185 will be great. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:44:52 </td>
-   <td style="text-align:left;"> $AAPL  OH BOY! I SMELL 181 ON DECK 🥵 SHOW ME THE MONEY! 9 AWAY FROM 190!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:42:54 </td>
-   <td style="text-align:left;"> $AAPL ITM ! Roll them </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:42:20 </td>
-   <td style="text-align:left;"> $AAPL God wrath already came to your parents, he gave them you :o) 
- 
-$qqq </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:42:19 </td>
-   <td style="text-align:left;"> $AAPL daily flag now, notable into tomorrow https://t.co/Dv2jSUDgRT </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:42:02 </td>
-   <td style="text-align:left;"> $AAPL stc Jun9 180c @ 1.32 (.64) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:42:00 </td>
-   <td style="text-align:left;"> $AAPL made it. WOW </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:41:59 </td>
-   <td style="text-align:left;"> $AAPL Loading PUTS for next week. This will tank! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:41:53 </td>
-   <td style="text-align:left;"> $SPX $AAPL $NVDA $SPY $QQQ I said this last month and I&amp;#39;ll say it again. 
-CPI is going to gap down again on Tuesday and shorts are on the wrong side here AGAIN!!! 
- 
-Listen to me or lose money. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:41:51 </td>
-   <td style="text-align:left;"> $AAPL Let’s stay above $180 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:41:46 </td>
-   <td style="text-align:left;"> $SPY $AAPL wow </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:41:27 </td>
-   <td style="text-align:left;"> $AAPL Biggest LGBTQ donor is Apple, Gods wrath is coming </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:41:19 </td>
-   <td style="text-align:left;"> $AAPL 190 try again </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:40:59 </td>
-   <td style="text-align:left;"> $AAPL Hello Bears! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:40:28 </td>
-   <td style="text-align:left;"> $SPY $AAPL i wont buy this till its $299. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:40:17 </td>
-   <td style="text-align:left;"> $SPY $QQQ $AAPL $MSFT 
- 
-08-June Stock Market Update: Nasdaq GRINDS HIGHER after HIGHER than expected JOBLESS CLAIMS 
-https://youtu.be/AJOkNnfNl-4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:40:15 </td>
-   <td style="text-align:left;"> $AAPL $200 tomorrow? Reason to get their Vision Pro </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:38:11 </td>
-   <td style="text-align:left;"> $AAPL 
-
-$200 a given… new revenue pouring in </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:37:08 </td>
-   <td style="text-align:left;"> $AAPL haha this is hilarious </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:34:42 </td>
-   <td style="text-align:left;"> $AAPL if this makes another .50 by EOD tomorrow between 185 and 190. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:33:55 </td>
-   <td style="text-align:left;"> $MSFT under daily EMA12 and acted as resistance. $AAPL did the opposite. Who wins over the $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:33:12 </td>
-   <td style="text-align:left;"> $AAPL close to last fridays high. wonder where it goes tomorrow. Better to highs. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:32:54 </td>
-   <td style="text-align:left;"> Same bullshit, different day of a #fraudstreetboilerroommarketmakersandcronies unregulated manipulated self serving rally in queue to implode  @ https://www.investing.com/indices/major-indices  ... blow me bulls @ $aapl $msft $amzn $meta $dis and more  ... thank dog that I am here to help @Profit_Maker https://stocktwits.com/Profit_Maker you&amp;#39;re welcome 🐻❤😈💲🤑💰✔ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:31:08 </td>
-   <td style="text-align:left;"> $AAPL still printing HOD.. This is not as bad as many people said..... I am buying their AR glasses.... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:26:58 </td>
-   <td style="text-align:left;"> $AAPL $2.3M OTM Put 
- 
-Strike: 180 
-Expiration: 6/30/23 
- 
-*At the Ask* </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:26:04 </td>
-   <td style="text-align:left;"> @VTOracle The $AAPL Vision Pro was not disappointing at all, it was only disappointing to idiots who have limiting beliefs!  Just watch as Apple stock goes to 200! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> AAPL </td>
-   <td style="text-align:left;"> 2023-06-09 03:24:56 </td>
-   <td style="text-align:left;"> $SPY shorting $AAPL vision is a bust </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:21 </td>
-   <td style="text-align:left;"> $TSLA gonna pull back on 250 resistance then back up imho </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:21 </td>
-   <td style="text-align:left;"> $TSLA $SPY $QQQ $ARKK $META . </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:13:19 </td>
-   <td style="text-align:left;"> @BulliverShagnasty hey there 🌈🐻… how’s your $TSLA  short working out? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:12:52 </td>
-   <td style="text-align:left;"> $TSLA Cathie pumping TSLA even more. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:12:22 </td>
-   <td style="text-align:left;"> $TSLA did bears figure out to just buy calls yet </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:12:19 </td>
-   <td style="text-align:left;"> $TSLA Cathie Wood simulations are accurate. $1,000 coming next month!!!!!!!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:12:10 </td>
-   <td style="text-align:left;"> $TSLA 275+ day? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:12:07 </td>
-   <td style="text-align:left;"> $CHPT @Chargepoint yeah this new $TSLA thing sucks for us but not as much I guess as the one (forgot name) that $GM originally put all its eggs into that basket. 
- 
-BUT in reality CHPT is more geared to big corps. what WE need is 1 contract with an $XOM $MPC etc to PUT US OUR charging stations at ALL THEIR GAS STATIONS </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:59 </td>
-   <td style="text-align:left;"> $TSLA will break records with the most consecutive days up </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:54 </td>
-   <td style="text-align:left;"> $TSLA investing in  popularity contest. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:46 </td>
-   <td style="text-align:left;"> $TSLA - No indication to sell, maintain position.. https://stocktwits.com/macd_trades/message/530154896 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:45 </td>
-   <td style="text-align:left;"> Around 80% of $TSLA gap up &amp;gt; 5% fill in 5 days or less. 
-Just saying... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:32 </td>
-   <td style="text-align:left;"> $TSLA Tesla will be feeding all the hungry EVs in the US and around the world at Tesla&amp;#39;s charging station network. Musk is looking far beyond the plans of mortal men and women. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:12 </td>
-   <td style="text-align:left;"> $TSLA this high!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:11:05 </td>
-   <td style="text-align:left;"> $TSLA 
-
-Price target $300
-We are serious investors loading up from Asia 
-
-https://www.morningstar.com/news/marketwatch/20230609340/teslas-stock-rises-toward-11th-straight-gain-as-company-seen-playing-chess-while-others-are-playing-checkers </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:10:58 </td>
-   <td style="text-align:left;"> $TSLA $QQQ $ARKK $FNGU $ARKF Cathie&amp;#39;s 24month performance on ARK is a tasty -300%. give her billions boys! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:10:36 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:10:25 </td>
-   <td style="text-align:left;"> $NVDA $SPY $QQQ $TSLA  do all  nvidia bulls feel safe relying on TSMC? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:10:18 </td>
-   <td style="text-align:left;"> $FNGU $TSLA Yes!!~🚀🚀🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:10:02 </td>
-   <td style="text-align:left;"> $TSLA 
-Not gonna short until 269 right stop.
-But I will short 293 full size no stop to 260s.
-
-Free $ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:10:00 </td>
-   <td style="text-align:left;"> $TSLA big big day today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:39 </td>
-   <td style="text-align:left;"> $TSLA man my IRA looking good </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:13 </td>
-   <td style="text-align:left;"> $TSLA $ARKK $ARKF $QQQ $FNGU Cathie Wood entered her office today 🤑💎😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:04 </td>
-   <td style="text-align:left;"> $TSLA  if its going to 270, then just say that then 🤷🏽‍♂️ LETS GET IT 💰 💰💰 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:03 </td>
-   <td style="text-align:left;"> $TSLA $SPY 
-
-They wanted him out of twitter and now they created a monster. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:09:02 </td>
-   <td style="text-align:left;"> $TSLA  and there is 250 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:08:53 </td>
-   <td style="text-align:left;"> $TSLA if they were not  selling at 210,220,230 they aren’t gonna sell at $300 either. PT 3,000 in a couple of years. Retirement is around the corner </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:08:40 </td>
-   <td style="text-align:left;"> $LVWR  $LVWRW warrants the EV motorcycle company backed by Harley Davidson can now use $TSLA chargers. 
- 
-Electric Motorcycle Tax Credits: Two Senators Try To Expand Program In US. The Electric Motorcycle Parity Act of 2023 would subject bikes to the same rules as the EV credits in the Inflation Reduction Act. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:08:37 </td>
-   <td style="text-align:left;"> $TSLA short squeeze </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:52 </td>
-   <td style="text-align:left;"> $PLTR quick  summary  of  over  $1 billion  in  sales  this  week!!!    $tsla battery  maker  $pc aka  Panasonic!!!   $msft $AAPL @Pocoyo </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:37 </td>
-   <td style="text-align:left;"> $TSLA 
-Before you know it Tesla pricing is going to surpass $META!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:31 </td>
-   <td style="text-align:left;"> $TSLA how high do you see this going today? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:22 </td>
-   <td style="text-align:left;"> $TSLA - up $33.00 from next suggested buy entry. Projected price target $268.00 area. Congrats! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:18 </td>
-   <td style="text-align:left;"> $TSLA meme mode again. It’s everyday!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:17 </td>
-   <td style="text-align:left;"> $TSLA EV news 
-Another EV: UCAR Tripled a week ago. TGT $75 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:10 </td>
-   <td style="text-align:left;"> $TSLA continuous innovation/invention in patented charging technologies, leveraged with the well-developed energy delivery/storage ecosystem, could create premium charging and related services; as well as points of differentiation for these services over standard charging/related services </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:07:08 </td>
-   <td style="text-align:left;"> $TSLA Tesla&amp;gt;Saudi Oil-----bye bye </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:06:59 </td>
-   <td style="text-align:left;"> $TSLA Damn! We are rollin! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:06:53 </td>
-   <td style="text-align:left;"> $TSLA hey bears.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:06:52 </td>
-   <td style="text-align:left;"> @OldFngGuy rode $tsla all up. And exit on was on the nose too. I can post endless charts and the gains I made out of it. Yet you reply to me I’m random? Check my profile for any credibility. People that post only opinions on StockTwits without showing their actions are random. I at least can show which action I took while others need to work in an office for a salary, I’m just enjoying freedom in my life and trade and invest both ways making money rather than using StockTwits to vent emotions. Have a nice day!
-
-https://stocktwits.com/MLinv/message/393652078 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:06:43 </td>
-   <td style="text-align:left;"> $TSLA Dan Ives and Wedbush </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:06:40 </td>
-   <td style="text-align:left;"> $TSLA 224 close , news gonna get sold and rug gonna get pulled </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:06:28 </td>
-   <td style="text-align:left;"> $TSLA To think this is just the start of the run…  $1000 is not farfetched.  Tesla Power - Tesla Solar, Tesla Storage, Tesla Charging, Tesla Battery Manufacturing, Tesla Mining…
-
-I mean HELLO
-
-OH YEAH, THEY MAKE CARS TOO </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:06:15 </td>
-   <td style="text-align:left;"> $TSLA how high we going today boys? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:05:45 </td>
-   <td style="text-align:left;"> $TSLA comic short squeeze to $300.00. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:04:51 </td>
-   <td style="text-align:left;"> $TSLA super charging short asses to moon. Close $275.00. New upgraded wet bush target is $300.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:04:47 </td>
-   <td style="text-align:left;"> $TSLA i go short today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:04:13 </td>
-   <td style="text-align:left;"> $TSLA BOOOM, im back in 248.56, looking for 249&amp;#39;s.. Scalp a roonster baby.... anyone anyone, bueller </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:04:02 </td>
-   <td style="text-align:left;"> $TSLA  option profit calculator </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:03:58 </td>
-   <td style="text-align:left;"> $TSLA decent news , Friday margin calls , oh this baby squeezing hard today on fomo 🚀💰🤑 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:03:45 </td>
-   <td style="text-align:left;"> $TSLA watch everyone sell at open then mms pump this to 300 lol </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:03:44 </td>
-   <td style="text-align:left;"> $TSLA i know a lot of people thought this bubble had popped at 100. that is why you cannot trust symmetry in trading. humans are drawn to patterns and as a result fall into like minded traps. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:03:40 </td>
-   <td style="text-align:left;"> $TSLA hahaha this is a true play! “Pump bulls pump!” All so the guy next to you can sell before you do, it’s good to be a massacre once the selling starts. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:03:39 </td>
-   <td style="text-align:left;"> $TSLA is now  249  180+ in few weeks as I predicted when it was 159 few weeks ago. I have Calls TSLA at 104 in 4 jan for PT 120-130+ 2 months later 216. Can some one msg for me. &amp;quot; @Gdwtvb $TSLA is now 249 as @Omegacy2 Predicted 180+ few Weeks ago. Clown !. &amp;quot;  
- 
-&amp;quot;When TSLA 180+ If I have Time I will Find Your Post. Clown LOL I have 90% of the Calls to make +5-20% in 1-5 days. Just Check one week only and You will see them easy. You Said TSLA not 180+ in 6 months. TSLA use to do one bad ER and the next one Good. Let see About That. Only a Fool Keep Shorts TSLA at 159.s. I only need one TSLA investors Day or some Some Cars Show and TSLA 180+. GLTA Bullish&amp;quot; 
- 
-Omegacy2 
-Apr 28, 2023 10:12 AM 
-$TSLA is now 159.s and will be 180+ in few weeks.  
-  
-@Gdwtvb Don&amp;#39;t me LOL. I have calls TSLA like 10 times with +5-20% Gains each since April 2022 only (bc I just Post since april). as low as in 104 in early Jan and PT 120+ and 130+.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:03:14 </td>
-   <td style="text-align:left;"> $TSLA I wonder how much 240 yolo calls exp today Worth </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:41 </td>
-   <td style="text-align:left;"> $TSLA no one seeing these trades ? 245? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:37 </td>
-   <td style="text-align:left;"> $TSLA someone trying to trigger a fall... I wonder who that could be </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:34 </td>
-   <td style="text-align:left;"> $TSLA 
-CNBC “Bulls back in charge”
-
-Yes we are!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:22 </td>
-   <td style="text-align:left;"> $TSLA hit 250 resist, RSI at MAX overbot, may hold this line a few days but will go lower from here </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:16 </td>
-   <td style="text-align:left;"> $TSLA back by Mongolian Mineral deal ! Once it done, problem solved ! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:12 </td>
-   <td style="text-align:left;"> $TSLA imagine dump on open... bull trap </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:02:02 </td>
-   <td style="text-align:left;"> $TSLA upgraded with price target $300.00. Today close $275.00 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:57 </td>
-   <td style="text-align:left;"> $TSLA there are no more bears alive. Can’t be. Might reverse next week </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:55 </td>
-   <td style="text-align:left;"> $TSLA party today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:48 </td>
-   <td style="text-align:left;"> $TSLA 
-
-One day i’ll own this made possible by my Tesla shares. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:45 </td>
-   <td style="text-align:left;"> $TSLA Elon 2024 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:44 </td>
-   <td style="text-align:left;"> $TSLA spasm? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:23 </td>
-   <td style="text-align:left;"> $TSLA finally $DIS is on the move! 🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:22 </td>
-   <td style="text-align:left;"> @OldFngGuy Then come April: I posted $tsla to accumulate in the 150s more as it was going higher. I just post all my actions backed up with charts and the gains that come with it, incl. Links to previous post. Rather than just posting opinions. Read April’s post 👇🏽 also on the nose after December’s entry. Time is money: I make it both ways. Not bagholding. 
-
-https://stocktwits.com/MLinv/message/524329258 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:22 </td>
-   <td style="text-align:left;"> $TSLA YO WTF!? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:17 </td>
-   <td style="text-align:left;"> $TSLA March to 300 continues </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:15 </td>
-   <td style="text-align:left;"> $TSLA looks like my bull army is still sleeping. Needs to wake up cuz it’s time to work here. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:01:12 </td>
-   <td style="text-align:left;"> 🛑*PUTIN: RUSSIA TO PLACE NUKE WEAPONS IN BELARUS AFTER JULY 7-8❗
-https://twitter.com/PaulVikingGlob1/status/1667135168002260992?t=e3fQ2lRL9nuqVgfvBAAb2A&amp;amp;s=19
-$TSLA $AAPL $AMZN $NVDA $AMD  VSVZV </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:52 </td>
-   <td style="text-align:left;"> $TSLA i deff won’t short it but i deff don’t want to buy </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:13 </td>
-   <td style="text-align:left;"> $TSLA just imagine when the fed actually pivots. 🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:11 </td>
-   <td style="text-align:left;"> $TSLA longest 1.5 hours of my life </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:08 </td>
-   <td style="text-align:left;"> $TSLA if I wasn’t holding Tesla long I’d be afraid to jump in for a day trade! And I definitely wouldn’t short it either! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:08 </td>
-   <td style="text-align:left;"> $TSLA $SPY $QQQ ok bulls.
-Y’all just need to hold it here for another hour and a half. Hoping to be able to buy puts at this level before the call strikes are printed for today’s expiration. Once that happens  this booger is gonna dip. Just a little longer. Surprise me and run it to $260 so I can add even more. Please.. pretty please. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:05 </td>
-   <td style="text-align:left;"> $TSLA when do we buy puts? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 20:00:00 </td>
-   <td style="text-align:left;"> $TSLA has a Return On Assets of 13.58%. This is amongst the best returns in the industry. https://www.chartmill.com/stock/quote/TSLA/fundamental-analysis?key=b3fb89e7-ce52-4df4-906a-b4ccaf80eec8&amp;amp;utm_source=stocktwits&amp;amp;utm_medium=FA&amp;amp;utm_content=TSLA&amp;amp;utm_campaign=social_tracking </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:59:43 </td>
-   <td style="text-align:left;"> $GM $TSLA $f  here is the irony:  open tsla charging system is a pre-arranged deal back in IRA negotiations with the Biden administration- to let Tesla qualify for $7,500 credit with their non unionized work force.  Now it is perceived as a business achievement and rewarding  $100 billion dollar market cap from the two news to Tesla is almost comic. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:59:35 </td>
-   <td style="text-align:left;"> @halba1  Elon is a Genius !!  He is now going to make money on Every EV sold ..  Not just $TSLA.  When a GM pulls up it is Tesla Brand Recognition. Free advertising along with income from charger 😊😊 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:59:23 </td>
-   <td style="text-align:left;"> $TSLA Will this pump the market today? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:59:18 </td>
-   <td style="text-align:left;"> $TSLA RSI kind of warm - </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:59:12 </td>
-   <td style="text-align:left;"> $TSLA this stock also has a habit of dumping when it’s open … </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:59:07 </td>
-   <td style="text-align:left;"> $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:53 </td>
-   <td style="text-align:left;"> $TSLA Where you going get back up there now so I can sale my calls at the open please Elon please Elon give me 260 at 930… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:52 </td>
-   <td style="text-align:left;"> SweepCast ⚡ Unusual Options Detected: $TSLA with Unusual Options Activity Alerted on $230 PUT Expiring: 06-09-2023 worth 46K🐻 |🥇 Start Using SweepCast! @SweepCast  🥇 | </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:28 </td>
-   <td style="text-align:left;"> $TSLA this is where&amp;#39;d it all ends </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:25 </td>
-   <td style="text-align:left;"> $TSLA $GM $F Morgan Stanley says GM pact may be &amp;#39;profoundly significant&amp;#39; to change narrative 
- 
-After General Motors announced last night that it is joining Tesla&amp;#39;s Supercharger Network following Ford&amp;#39;s decision two weeks ago to make its EVs compatible with Tesla&amp;#39;s &amp;quot;increasingly ubiquitous supercharging network,&amp;quot; Morgan Stanley analyst Adam Jonas called the news &amp;quot;good for consumers, good for Tesla and quite a good sign for GM in terms of moving the needle on capital discipline and collaboration.&amp;quot; Jonas, who thinks this development is &amp;quot;a significant and a welcomed sign for GM investors,&amp;quot; adds that the firm sees the agreement between GM and Tesla as &amp;quot;potentially profoundly significant in narrative change.&amp;quot; GM being willing to work with &amp;quot;the dominant player in EVs&amp;quot; can allow the company to focus investment in more value added areas, such as business model, brand, customer experience, and return of capital, says the analyst, who keeps an Overweight rating and $38 price target on GM shares. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:18 </td>
-   <td style="text-align:left;"> $TSLA its going up like it can&amp;#39;t fail. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:58:13 </td>
-   <td style="text-align:left;"> $TSLA almost 4 million shares traded already! Wtf </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:55 </td>
-   <td style="text-align:left;"> @DarkMatter1 you are in the good place imo. $TSLA is done at this point. No buyers, only short squeeze. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:55 </td>
-   <td style="text-align:left;"> $TSLA one heck of a pre market </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:52 </td>
-   <td style="text-align:left;"> $TSLA Calls 🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:49 </td>
-   <td style="text-align:left;"> $TSLA NEVER SELLING… </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:48 </td>
-   <td style="text-align:left;"> $TSLA sidelined </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:40 </td>
-   <td style="text-align:left;"> $TSLA - Just a daily reminder of how we are all being enslaved, extorted and robbed unlawfully by Govt. criminals (Federal, State, Local) in every aspect of our lives!! We are not their F ATM machine!! The enslavement of humanity must end, enough is enough!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:37 </td>
-   <td style="text-align:left;"> $TSLA i have no clue watch this deff drop </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:30 </td>
-   <td style="text-align:left;"> @OldFngGuy $tsla last December on the nose. Scaled out gains near the highs as posted at +1200 pres split. Shorted down, then entry long last December. How are you doing? 👇🏽
-
-https://stocktwits.com/MLinv/message/503490363 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:18 </td>
-   <td style="text-align:left;"> $TSLA Elon Musk regains title of richest person in the world. 
-$220.2 billion 🤯 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:14 </td>
-   <td style="text-align:left;"> $TSLA I need a 1000 shares before this hits 2000 a share 😜🤣 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:06 </td>
-   <td style="text-align:left;"> $TSLA open the casino. ready to take profits on calls and just chill for the weekend. 🍻🍻 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:57:04 </td>
-   <td style="text-align:left;"> $TSLA and if for some reason musk sells more shares here … </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:56:57 </td>
-   <td style="text-align:left;"> $TSLA moon market says adct👀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:56:53 </td>
-   <td style="text-align:left;"> $TSLA 142%+ profit!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:56:48 </td>
-   <td style="text-align:left;"> $TSLA the problem is chasing here… can cause a loss for now until pullback have to be carful </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:56:33 </td>
-   <td style="text-align:left;"> @ForeverFREE2024 $TSLA ? All in puts.
-Short squeeze at this point. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:56:09 </td>
-   <td style="text-align:left;"> $TSLA  Wait don&amp;#39;t sell until all time high. it is getting there  soon. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:55:58 </td>
-   <td style="text-align:left;"> $TSLA I want to get in need healthy pull back though, even NVDA had one </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:55:52 </td>
-   <td style="text-align:left;"> $TSLA got my orders in. Buying calls at open </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:55:35 </td>
-   <td style="text-align:left;"> $TSLA  we are now equal to haven all.the gasoline in America </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:55:30 </td>
-   <td style="text-align:left;"> $TSLA this might pullback to 9.99 then go to around 15-16 points and finish on around 250-252 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:55:19 </td>
-   <td style="text-align:left;"> $AAPL $AMZN $MSFT $GOOGL $TSLA watch this for motivation.
-
-WHY YOU SHOULD NEVER QUIT - Denzel Washington Motivational Speech 2023
-https://youtu.be/RBltxXaxgXI </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:55:12 </td>
-   <td style="text-align:left;"> @StockWizard99 me too, but unfortunately sold my $tsla calls prematurely, but this will be a better investment Imo </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:55:11 </td>
-   <td style="text-align:left;"> $TSLA love this squeeze 
-
-GIF isn’t relevant just nice to see early In The morning. Start your day off right </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:55:02 </td>
-   <td style="text-align:left;"> $TSLA 
-
-There&amp;#39;s got to be, a healthy pull back. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:59 </td>
-   <td style="text-align:left;"> @CP_T your entire wall is $TSLA. Must be wrong a lot. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:55 </td>
-   <td style="text-align:left;"> $TSLA 
-$300.00 PT BOOM! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:53 </td>
-   <td style="text-align:left;"> $TSLA still true </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:52 </td>
-   <td style="text-align:left;"> $TSLA 300$ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:49 </td>
-   <td style="text-align:left;"> $tsla with cpi on Tuesday… markets may not rush $spy $QQQ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:49 </td>
-   <td style="text-align:left;"> $TSLA $260 on deck today. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:48 </td>
-   <td style="text-align:left;"> $FNGD I bought 300 @ $10.21 -- just 300. I think $TSLA is great, but this is pure silliness, expecting another market rug pull... maybe. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:45 </td>
-   <td style="text-align:left;"> $TSLA Hey dipshits, there will be no pullback. Train has departed. Buy high. Tesla to 300 soon, and beyond. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:12 </td>
-   <td style="text-align:left;"> $TSLA got any 220? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:12 </td>
-   <td style="text-align:left;"> $TSLA As I previously mentioned 💎 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:54:03 </td>
-   <td style="text-align:left;"> $TSLA Just hard to believe in my view great for those making money 💰 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:53:37 </td>
-   <td style="text-align:left;"> $TSLA Fake news? A Leaked Tesla Report Shows the Cybertruck Had Basic Design Flaws.
-
-https://news.google.com/s/CBIwp7f0w7YB?sceid=US:en&amp;amp;sceid=US:en&amp;amp;r=0&amp;amp;oc=1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:53:19 </td>
-   <td style="text-align:left;"> $TSLA do we breach 250? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:53:13 </td>
-   <td style="text-align:left;"> $TSLA yay I have margin. Time to gamble.  $300 next week calls. 😀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:53:06 </td>
-   <td style="text-align:left;"> $TSLA I just tell it like it is. That’s all good or bad.  It’s showtime </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:53:05 </td>
-   <td style="text-align:left;"> $TSLA everyone is going yo probably sell on open... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:58 </td>
-   <td style="text-align:left;"> @SheldonB33 a lot of noob shorts here, just like $NVDA and $TSLA 😂 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:56 </td>
-   <td style="text-align:left;"> $NA 🇨🇳 play with AGBA 433 percent revenue increase in one quarter after COVID restrictions lifted....8 million free float, company insiders just bought back 800k shares,
-160 million revenue expected per year...undervalued.
-Hong Kong play...
-Income Statement
-They make microchips like $NVDA 
-
-$TSLA $CVNA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:47 </td>
-   <td style="text-align:left;"> $TSLA now we are crossing into the part of the program where the retail bull starts demonstrating a complete lack of market cap understanding. Maybe Tesla will be 1/4 of the GDP of the US soon! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:45 </td>
-   <td style="text-align:left;"> $TSLA 
-Large Monetization </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:25 </td>
-   <td style="text-align:left;"> $TSLA o Btw this is truth that’s all just the truth </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:23 </td>
-   <td style="text-align:left;"> $TSLA I hope we get a fucking short squeezeeee </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:52:16 </td>
-   <td style="text-align:left;"> $TSLA 285 before next Friday close and my calls are worth 1 mill. Can we do it?! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:52 </td>
-   <td style="text-align:left;"> $TSLA Stocks making the biggest moves premarket: Tesla, General Motors 
- 
- https://cnb.cx/3J6x0TI  
- 
-General Motors announced on Thursday plans to utilize Tesla’s electric vehicle charging network, and said its vehicles will also utilize Tesla’s North American Charging Standard port in its cars starting in 2025. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:51 </td>
-   <td style="text-align:left;"> $TSLA .40 to 10.40 overnight 
-👍 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:49 </td>
-   <td style="text-align:left;"> $TSLA I’m clearly Cathie Woods btw </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:40 </td>
-   <td style="text-align:left;"> $TSLA The deficit of the hedge funds shorting is climbing tremendously minute by minute its growing </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:38 </td>
-   <td style="text-align:left;"> $TSLA was not expecting this much in the AM, kinda scary </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:30 </td>
-   <td style="text-align:left;"> $TSLA This is going to be bloody.. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:14 </td>
-   <td style="text-align:left;"> $TSLA absolutely brilliant move by Musk to invest in the infrastructure than no other car or charging company can match.  This is on its way to ATH. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:51:04 </td>
-   <td style="text-align:left;"> $SPY how I feel knowing bears are probably gonna get divorced and destory their lives trying to short $TSLA </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:52 </td>
-   <td style="text-align:left;"> $TSLA this isn’t stopping til $300, it’s just the way it is, new trend
-, crazy price increases, like….nvda </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:43 </td>
-   <td style="text-align:left;"> $TSLA : $260 pls!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:34 </td>
-   <td style="text-align:left;"> $TSLA Elon is 20 steps ahead. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:29 </td>
-   <td style="text-align:left;"> $TSLA short memory remember was $400 then $108 13 months later </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:23 </td>
-   <td style="text-align:left;"> $TSLA crazy overbought... </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:21 </td>
-   <td style="text-align:left;"> $TSLA I AM SO FUCK RICH </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:19 </td>
-   <td style="text-align:left;"> $TSLA trump indictment pump! Also glen greenwald tweeted about a Ukrainian woman in Germany expressing pro Russian disinformation who faced charges based on a German propaganda law which clearly Elon is not aware of. Elon retweeted it! They ended up letting her go as well. Guy is like a sponge for conspiracy. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:13 </td>
-   <td style="text-align:left;"> $TSLA $GM plans to utilize Tesla’s electric vehicle charging network, and said its vehicles will also utilize Tesla’s North American Charging Standard port in its cars starting in 2025. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:11 </td>
-   <td style="text-align:left;"> $TSLA  This is the type of stuff that bankrupts hedge companies this right now right here today bros </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:06 </td>
-   <td style="text-align:left;"> $TSLA will sell with profit taking today but impressive move </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:50:03 </td>
-   <td style="text-align:left;"> $NIO flat while $TSLA ripping </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:58 </td>
-   <td style="text-align:left;"> $TSLA wen 275? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:58 </td>
-   <td style="text-align:left;"> $TSLA 
-
-By eoy, we should easily go over the 300 imo. That means even if you bought in at 200  last week, you would be up more than 50 percent within 6 months 😁 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:55 </td>
-   <td style="text-align:left;"> $TSLA WOW IM RICH </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:46 </td>
-   <td style="text-align:left;"> $TSLA Tesla will be the gas’s station for all EV essentially, watch. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:39 </td>
-   <td style="text-align:left;"> $TSLA Easy $260 today.  ;-) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:26 </td>
-   <td style="text-align:left;"> $TSLA not a great time to buy it&amp;#39;s very over brought, I&amp;#39;m bullish and bulls can say what they want because they want this run to carry on forever but the rsi never lies it&amp;#39;s dues a pull back. Most likely later today or tomorrow, great time to sell and buy back in a few days </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:22 </td>
-   <td style="text-align:left;"> $TSLA pov: Bears watching us go on a record high 11 day green streak </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:16 </td>
-   <td style="text-align:left;"> $TSLA clearing all for now </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:15 </td>
-   <td style="text-align:left;"> $TSLA and $TSLL who need an alternative to tesla shares </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:49:11 </td>
-   <td style="text-align:left;"> $TSLA does this keep going up today 👀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:56 </td>
-   <td style="text-align:left;"> $TSLA There’s too much of a deficit now for anyone one big shot to try to come in and short it back down now for today atleast </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:42 </td>
-   <td style="text-align:left;"> $TSLA is going to dominate the charging stations !! That’s huge!! Hang on to your cajones guys!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:34 </td>
-   <td style="text-align:left;"> $TSLA Gary Black?????? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:33 </td>
-   <td style="text-align:left;"> $TSLA Tesla profits coming to $AI 4 sure </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:21 </td>
-   <td style="text-align:left;"> $TSLA off we go🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:16 </td>
-   <td style="text-align:left;"> $TSLA Predictions for close? 🤔 
-
-$260 is my guess </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:14 </td>
-   <td style="text-align:left;"> $TSLA 300 today? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:48:13 </td>
-   <td style="text-align:left;"> $TSLA shorties getting crapped on </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:47:53 </td>
-   <td style="text-align:left;"> $TSLA There’s soo much big money short than even people who pay attention to stocks this could go to $550 today. On the real </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:47:32 </td>
-   <td style="text-align:left;"> $CVNA  &amp;amp; $TSLA are the main shows to watch. Short coverings will come in bunches. 🧨🚀💥💥💥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:47:25 </td>
-   <td style="text-align:left;"> $TSLA bears in tears </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:47:23 </td>
-   <td style="text-align:left;"> $TSLA  how come my options still didn’t show today gain </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:47:05 </td>
-   <td style="text-align:left;"> $TSLA damn it feels good to be a bull </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:46:59 </td>
-   <td style="text-align:left;"> $TSLA (+6.2% pre) $GM (+4.3% pre)  GM to use Tesla charging network, joining Ford in leveraging the EV leader’s tech - CNBC
-
-https://openoutcrier.com/l/1686311196376133 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:46:59 </td>
-   <td style="text-align:left;"> $TSLA There’s more big money short than people who even watch stocks daily </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:46:49 </td>
-   <td style="text-align:left;"> $EVGO Assume this is down cause of the $TSLA and $GM deal.  Typical shoot first reaction.  
-
-From The NY Times 
-
-“Tesla sells cars with a plug known as the North American Charging Standard. Ford, G.M. and most other carmakers have sold cars with plugs using the Combined Charging System plug. The two are not compatible.”
-
-“Fast chargers offered by companies like EVgo or Electrify America typically have both plugs and can charge Teslas as well as cars from manufacturers that use C.C.S., including Mercedes-Benz, Volkswagen and Volvo.” </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:46:34 </td>
-   <td style="text-align:left;"> $TSLA FSD Beta is billions of miles ahead of any other driving software. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:46:20 </td>
-   <td style="text-align:left;"> $TSLA Don’t be scared big money is short </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:46:19 </td>
-   <td style="text-align:left;"> $TSLA looks like we may finally get our 12% run day or more </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:46:06 </td>
-   <td style="text-align:left;"> $TSLA flag 250+ soon </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:45:51 </td>
-   <td style="text-align:left;"> $TSLA Pop it real quick to $275 then $325 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:45:43 </td>
-   <td style="text-align:left;"> $TSLA 🚀 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:45:33 </td>
-   <td style="text-align:left;"> $TSLA why are calls so cheap? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:45:30 </td>
-   <td style="text-align:left;"> $TSLA  what is margin on selling usage of charging station?  Bang!!!! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:45:07 </td>
-   <td style="text-align:left;"> $TSLA SHARES EXTEND GAINS PREMARKET, LAST UP 6.2%; WEDBUSH RAISES PT TO STREET HIGH OF $300
- $TSLA http://dlvr.it/SqQ29h #NEWS </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:45:05 </td>
-   <td style="text-align:left;"> $TSLA  This is just </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:57 </td>
-   <td style="text-align:left;"> $TSLA This is great </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:57 </td>
-   <td style="text-align:left;"> $TSLA no one cares that it could be their payday today 🤣 Tesla making them more money </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:51 </td>
-   <td style="text-align:left;"> $CVNA Strap in for the $29 test 🚀🧨 
- 
-over that, $34--&amp;gt;$39–&amp;gt;$46 
- 
-$TSLA $SPY $GME </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:49 </td>
-   <td style="text-align:left;"> $TSLA Aaron is giving softball bitcoin questions for any maxi and she looks north with her eyes. I mean come on. &amp;quot;But you did think bitcoin would be higher today&amp;quot;? Yes. Yes we did. You cannot get a square answer out of that person. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:49 </td>
-   <td style="text-align:left;"> My Game Plan: $TSLA Shorts at the bell, but I am out on any quick pop. $CVNA Short at the bell and out with any pop above $26! I will look for two drops, but I will keep the stops very very very close! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:34 </td>
-   <td style="text-align:left;"> $TSLA $GM $F 
-250 PreMarket on news   
-eh uhhhhhh 
-🐉🐉🐉🐉🐉 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:30 </td>
-   <td style="text-align:left;"> $TSLA  yea things are getting aggressive now. There will be opportunities on both sides of the market today for scalpers. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:13 </td>
-   <td style="text-align:left;"> $TSLA buy any share available to double it </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:08 </td>
-   <td style="text-align:left;"> $TSLA why would anyone short this stock.  This is really laughable and sad that people think that Tesla would significantly drop in price.   
- 
-Delusional or just plain lack of intelligence? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:44:04 </td>
-   <td style="text-align:left;"> $TSLA I’m glad I kept holding ! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:43:56 </td>
-   <td style="text-align:left;"> $TSLA unbelievable for real…sold too early </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:43:53 </td>
-   <td style="text-align:left;"> $TSLA beast mode…while I wouldn’t enter a new long position here atm, I wouldn’t short it either. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:43:42 </td>
-   <td style="text-align:left;"> $TSLA all this garbage noise will add 1 to 2 % in tsla revenue at the most according to goldman sachs analysts based on this morning comments.He also said it won&amp;quot;t move the needle in terms of total revenue from $1B to $3B added revenue.TSLA stock already up over $66B in market cap.That&amp;#39;s absurd! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:43:29 </td>
-   <td style="text-align:left;"> $TSLA Double the price today </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:43:28 </td>
-   <td style="text-align:left;"> $TSLA is it really good news for Tesla ? If anything , this would drive adoption of GM vehicles… what y’all think ? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:43:16 </td>
-   <td style="text-align:left;"> $TSLA 
-Shorts will continue to be burned today!!  
-
-SQUEEZE ‘EM HARD </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:42:52 </td>
-   <td style="text-align:left;"> $TSLA Come on 5.50% is that all you’ve got tesla 🙄 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:42:49 </td>
-   <td style="text-align:left;"> $PYPL $TSLA going off the chart 
- 
-Shitty Pal going below 63 today 
- 
-Hey bulls when does the market come to realize the true value of this great cash generating machine and begin to buy? I was told that bedtime story when it was 190 140 90 75 and yesterday </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:42:46 </td>
-   <td style="text-align:left;"> $TSLA  I&amp;#39;ll short your mom </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:42:11 </td>
-   <td style="text-align:left;"> $TSLA is this similar to $VINU.X </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:41:48 </td>
-   <td style="text-align:left;"> $TSLA I’m shorting this at 252.24 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:41:45 </td>
-   <td style="text-align:left;"> $TSLA u don’t short Tesla lesson learned. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:41:38 </td>
-   <td style="text-align:left;"> $TSLA  260 opening bell </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:41:31 </td>
-   <td style="text-align:left;"> $TSLA 
-
-Cathy for queen </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:41:20 </td>
-   <td style="text-align:left;"> $TSLA Look what I got just in time for the short squeeze </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:41:16 </td>
-   <td style="text-align:left;"> $TSLA saving the whole market again 🥩🥵🔥 </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:41:05 </td>
-   <td style="text-align:left;"> Going into this morning you are either trading $TSLA or $CVNA, this is where all the volume will be! </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:12 </td>
+   <td style="text-align:left;"> $TSLA there cud be an insane gamma squeeze.  Call sellers r screwed up every week. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:52 </td>
-   <td style="text-align:left;"> $TSLA long live Reeve ❤️🚀🚀🚀 </td>
+   <td style="text-align:left;"> 2023-06-09 21:01:07 </td>
+   <td style="text-align:left;"> $TSLA SOLID </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:47 </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:59 </td>
    <td style="text-align:left;"> $TSLA wow </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:27 </td>
-   <td style="text-align:left;"> $TSLA doing Ellon Musk job on cnbc.... </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:58 </td>
+   <td style="text-align:left;"> $TSLA Bears waking up to the premarket pump </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:11 </td>
-   <td style="text-align:left;"> $TSLA  wait until the upgrades &amp;amp;PT’s come in .. shits gonna get real 💵💵💵💵💵💵🤑🤑🤑 </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:58 </td>
+   <td style="text-align:left;"> $DJIA $QQQ $SPY $TSLA who&amp;#39;s ready for another day of crooked Wall Street trading? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:40:06 </td>
-   <td style="text-align:left;"> $TSLA https://www.stockilluminati.com/tsla/news.php - Today’s Biggest Pre-Market Stock Movers: 10 Top Gainers and Losers on Friday </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:48 </td>
+   <td style="text-align:left;"> $HOOD $TGT $BUD $DIS $TSLA 😂 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:39:49 </td>
-   <td style="text-align:left;"> $CJET EVs
-Strong $TSLA $NIO </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:45 </td>
+   <td style="text-align:left;"> Home Advantage: How Domestic REE Supply Is Supercharging North American Companies $UCU.V $UURAF $TSLA $GE $GM $F https://ibn.fm/vgnBq </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:39:46 </td>
-   <td style="text-align:left;"> $TSLA From a bullish side, 250 is the big one, if that breaks it&amp;#39;ll be another run, if it fails and also break 248.80 support, it&amp;#39;ll come down heavy, atleast for short term/scalps! </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:41 </td>
+   <td style="text-align:left;"> $BB $BB.CA : Good morning gang. What if Cathie Wood is right about $TSLA ? And what if JC is right about BB teaming up with Elon? JC has surrounded Tesla with QNX in Elon&amp;#39;s supply chains and IVY could be icing on the cake? Just my morning dream. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:39:42 </td>
-   <td style="text-align:left;"> $TSLA $233 EOD </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:39 </td>
+   <td style="text-align:left;"> $TSLA LOD is $224 today </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:39:20 </td>
-   <td style="text-align:left;"> $TSLA Cathie Wood saying good things about TSLA… $250 and up we goooo. Happy hunting Bulls. </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:37 </td>
+   <td style="text-align:left;"> $AAPL $googl $amzn $tsla $bntx 
+ 
+https://www.twitch.tv/videos/1841749838?t=00h00m05s </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:39:17 </td>
-   <td style="text-align:left;"> $TSLA screw it let’s do $420!!!! </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:37 </td>
+   <td style="text-align:left;"> @comrade44 @aikitran shorts claimed feverishly $TSLA was heading to $70 not to long ago when it was trading in the lower 100’s. Why should we doubt them when they say $AI is going to $27 and $15? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:39:07 </td>
-   <td style="text-align:left;"> $TSLA just to make sure I have this right, they are sharing their chargers with ford and gm in 2025?  That’s why this is pumping now? </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:28 </td>
+   <td style="text-align:left;"> $MDGS if the float is locked, next $TOP  or $HKD. In accumulation zone. $TSLA </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:39:05 </td>
-   <td style="text-align:left;"> $TSLA should I sell next weeks calls when we open or hold 😑 not sure yet </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:24 </td>
+   <td style="text-align:left;"> $TSLA About to clear massive resistance. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:39:00 </td>
-   <td style="text-align:left;"> $TSLA $275 next stop </td>
+   <td style="text-align:left;"> 2023-06-09 21:00:21 </td>
+   <td style="text-align:left;"> $QQQ $SPY $TSLA has joined the fun… now every Nasdaq stock has a parabolic chart. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:38:51 </td>
-   <td style="text-align:left;"> $TSLA 🔥🔥🔥 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:38:49 </td>
-   <td style="text-align:left;"> $TSLA SHORT squeeze sends Tesla to 500 ? </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:38:48 </td>
-   <td style="text-align:left;"> $TSLA just dumb luck for me covered at end of 5/8 and went long after a loosing day.. how do i protect 1000 shares </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:38:46 </td>
-   <td style="text-align:left;"> $TSLA  this stock is no walk is run run to all time high </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:38:45 </td>
-   <td style="text-align:left;"> My alerts for LARGE caps.This shows the result of ONLY buying when H% is low.
-I have timestamps + buy fills for everything
+   <td style="text-align:left;"> 2023-06-09 21:00:15 </td>
+   <td style="text-align:left;"> $TSLA 
 
-$TSLA + $AAPL + $NKE are just few of many I&amp;#39;ve traded. $SPY 
-I don&amp;#39;t make 100s of trades. I only buy when I get a confirmation. Ask me for the receipts. </td>
+250C / 260C Lotto - bank off the momentum. 
+
+Follow the flow, trade it and bank. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:38:39 </td>
-   <td style="text-align:left;"> $TSLA $500 </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:53 </td>
+   <td style="text-align:left;"> $TSLA please bears, please short … its RSI at blablsbla. What if i tell u 255 will be reached today??? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:38:12 </td>
-   <td style="text-align:left;"> $TSLA What is going on? </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:42 </td>
+   <td style="text-align:left;"> $TSLA SO EXCITING !!!! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:38:12 </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:41 </td>
+   <td style="text-align:left;"> @Invested4Lyfe @FSRmoonster @Knightmoves2 @GuyLadoosh - I am going to pass on the unblock. He knows why I blocked him. I agree with many of the statements from others but I am not going to bad mouth anyone. I own several hundred thousand shares with a horrible $12.76 average plus the shares in my fund. It was a mistake and I regret it completely and in selling $TSLA because I believed in HF. His enthusiasm and charm is infectious when you meet him in person yet he can also be dangerous when it comes to predictions. A critical investor listens to both the bull and bear case and constantly asks himself “where have I gone wrong and where can I go wrong” with my thesis. I am still praying for a home run, but I can also see the holes in the story. Best of luck to all! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:41 </td>
+   <td style="text-align:left;"> Pretty clear Institutional players are and have been propping markets with $NVDA, $TSLA, $NFLX, and latex3c01fd68880eaef15ab941304ca01c82TSLA - 6/16 on watch for a roll up
+$NVDA - 6/16 400c over 395 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:27 </td>
+   <td style="text-align:left;"> $TSLA Roasted Bear on the menu bois! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:15 </td>
+   <td style="text-align:left;"> @LWRTSLA2901 what news source is that? this is from dowjones (a legit news source).
+
+and if u combine marketcap increase on days of $f and $gm news with $tsla, tesla&amp;#39;s marketcap has increased over $70 billion on $1-$3 billion increase in annual revenue🤔🙄. this what I mean by the froth smh. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:12 </td>
+   <td style="text-align:left;"> $SQQQ $TQQQ $NVDA $AMD $TSLA 
+
+The biggest jump I’ve ever seen in bullish sentiment. 
+
+Major contrarian signal. Bye bye bulls. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:09 </td>
+   <td style="text-align:left;"> @KnightKing they just cornered the charging market.  That’s like someone cornering the gas station market 50  years ago.  Insane! $tsla $spy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:59:07 </td>
+   <td style="text-align:left;"> $TSLA  and 150 after 🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:59 </td>
+   <td style="text-align:left;"> $TSLA be funny if shorts pile in at open and this halts 10 times to 500 🤣🤷‍♂️could happen </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:58 </td>
+   <td style="text-align:left;"> $TSLA Just like 2021, take advantage of the ridiculously inflated pumps. 2022 will be back around the corner to take all your shit. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:52 </td>
+   <td style="text-align:left;"> $TSLA $300 by earnings </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:38 </td>
+   <td style="text-align:left;"> Peak profit for the last 6 expired option alerts for $TSLA 214.95| 145.27| 14.41| 80.80| 115.00| 166.43| </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:36 </td>
+   <td style="text-align:left;"> $TSLA shorts right now 😂😂😂😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:35 </td>
+   <td style="text-align:left;"> $TSLA $WKHS $SNDL $LCID $ABML   WHAT DID I SAY. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:25 </td>
+   <td style="text-align:left;"> $TSLA OMG she&amp;#39;s gonna blow. 😆 look at the volume already 😳 poo bears 🐻  lost their house 🏠 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:16 </td>
+   <td style="text-align:left;"> $TSLA I told you...they left I stayed...who am I? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:08 </td>
+   <td style="text-align:left;"> $TSLA Going to 300 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:58:01 </td>
+   <td style="text-align:left;"> $TSLA  burn the shorts </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:52 </td>
+   <td style="text-align:left;"> $TSLA who else is up a bunch and gonna gamble $300 next weeklies </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:48 </td>
+   <td style="text-align:left;"> $TSLA this one for years has been 5 steps forward, 2 steps back, 5 steps forward, 2 steps back, repeat. And yet, shorts are still confident they have a winner. 🤦‍♂️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:41 </td>
+   <td style="text-align:left;"> HAMMER GOLD ❗❗❗
+CANADA LOSES 17.3K JOBS IN MAY; UNEMPLOYMENT RISES TO 5.2% FROM 5.0%
+$TSLA $AAPL $AMZN $NVDA $AMD  dbbs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:40 </td>
+   <td style="text-align:left;"> $TSLA This is better then any MEME stock !! 
+ 
+BUY AND HOLD !!! 
+ 
+NEVER SELL !!! 
+ 
+HIGHER AND HIGHER 
+ 
+PASS IT ON !!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:33 </td>
+   <td style="text-align:left;"> $TSLA no bad news coming so just have at it lads! I wanna see 275 eod </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:10 </td>
+   <td style="text-align:left;"> $TSLA be careful at these levels. It can easily go to $300 but it can easily go below $200 as well. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:57:01 </td>
+   <td style="text-align:left;"> $TSLA great now we gotta watch this go alllll the way back to ATH </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:52 </td>
+   <td style="text-align:left;"> $TSLA $310 gap fill coming next week. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:49 </td>
+   <td style="text-align:left;"> $TSLA we will break 250 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:49 </td>
+   <td style="text-align:left;"> $TSLA GM, Ford and soon the entire US EV industry will adopt Teslas North American Charging Standard ; this is much bigger than just allowing them to use Tesla Super charging network! Bears just don’t get it. 
+
+https://en.m.wikipedia.org/wiki/North_American_Charging_Standard </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:48 </td>
+   <td style="text-align:left;"> $EPR How are you here? 
+Thought we can go to $25+ (Covid&amp;#39;s lvls), and didn&amp;#39;t even try to buy at $33+ (bought $TSLA). I&amp;#39;m ok with that. But Dividends are Dividends. 
+Love dividends ❤️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:38 </td>
+   <td style="text-align:left;"> $TSLA $GM Tesla shares jump on EV charging tie-up with GM
+
+https://www.reuters.com/business/autos-transportation/tesla-shares-jump-ev-charging-tie-up-with-gm-2023-06-09/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:36 </td>
+   <td style="text-align:left;"> $TSLA Will we break 250 my Tesla kittens? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:36 </td>
+   <td style="text-align:left;"> $TSLA To sell my $230 call at open or not? 🤔 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:34 </td>
+   <td style="text-align:left;"> $TSLA Goldman Sachs 25 billion in government play money to be accommodating who cares about lines….. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:27 </td>
+   <td style="text-align:left;"> $TSLA NO BEARS ? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:23 </td>
+   <td style="text-align:left;"> $SPY $QQQ $TSLA 
+
+Too many calls - OI at the close yesterday </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:22 </td>
+   <td style="text-align:left;"> $TSLA over 100k OTM options came ITM. At $250, 18k more. This is going to hardcore gamma squeeze. 🚀📈🌕💎👍🏽 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:07 </td>
    <td style="text-align:left;"> $TSLA </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:56 </td>
-   <td style="text-align:left;"> $RAIN 3.40 cash per share with huge insider buy . They will come 
+   <td style="text-align:left;"> 2023-06-09 20:56:01 </td>
+   <td style="text-align:left;"> $RGTI 300k pre market volume. Looking good to breakout over 1.50.
+AI needs Quantum computing!!
 
-$TSLA $BLPH $BAOS </td>
+ $TSLA $NVDA $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:52 </td>
-   <td style="text-align:left;"> $QQQ $SPY $TSLA let it be </td>
+   <td style="text-align:left;"> 2023-06-09 20:56:00 </td>
+   <td style="text-align:left;"> $TSLA Green candles exploding. Bears can’t escape now. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:34 </td>
-   <td style="text-align:left;"> $TSLA $300 in a heartbeat. </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:56 </td>
+   <td style="text-align:left;"> $BBBYQ + 20% premarket $QQQ $MULN $TSLA </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:33 </td>
-   <td style="text-align:left;"> $TSLA shorts 😆 </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:55 </td>
+   <td style="text-align:left;"> $TSLA not likely to go over 250 today.
+not a short but I see 240 at close </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:32 </td>
-   <td style="text-align:left;"> $TSLA 400-500 by end of july, retracing nividia movements </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:29 </td>
-   <td style="text-align:left;"> $SPY $TSLA #PAMPHERTFUP🐂🐂💵💵 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:23 </td>
-   <td style="text-align:left;"> $TSLA GM and Ford basically acknowledged Tesla as the king of EVs </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:14 </td>
-   <td style="text-align:left;"> $NVDA $TSLA 
+   <td style="text-align:left;"> 2023-06-09 20:55:48 </td>
+   <td style="text-align:left;"> More insider activity here in $NXGL 🐳 … CONVICTION !!  CEO giving guidance of 73% increase in revenue next quarter , 6 insiders have loaded the last few weeks. This company is seriously starting to fire up🔥
 
-😂😂 </td>
+$SOFI has been running recently with $TSLA and $AI 💯
+
+ONLY 4 MILLION FLOAT here in NXGL 🌊 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:08 </td>
-   <td style="text-align:left;"> $TSLA $260-270 </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:44 </td>
+   <td style="text-align:left;"> $F $GM $NIO $TSLA Elon doesn’t buy companies with no value or function. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:37:01 </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:36 </td>
+   <td style="text-align:left;"> $TSLA checkmate!!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:32 </td>
+   <td style="text-align:left;"> $TSLA Hey bear, how u guys doing there??? Did u lost ur underwear overnight? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:22 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:55:04 </td>
+   <td style="text-align:left;"> By the time they start showing up on the relative strength scans, quite often you&amp;#39;ll miss the bulk of the move. 
+ 
+$TSLA Tesla is a goo example of this.  
+We got our clients and members in 50% ago. 
+https://honeystocks.com/join </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:49 </td>
+   <td style="text-align:left;"> $TSLA mk this post  shorts r trapped, if we have a 10% day we will see 300+ next week if not ahs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:39 </td>
+   <td style="text-align:left;"> $TSLA the swings today are going to be epic. This is going to be awash in big money traders today. Big storm watch </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:22 </td>
+   <td style="text-align:left;"> $TSLA up 5% PreMarket on 3M volume 
+🧸🐻🐻🧸🐻🧸🐻🧸🐻🧸 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:21 </td>
+   <td style="text-align:left;"> $NXGL Annnnddd JUST LIKE THAT MORE INSIDER BUYS IN NXGL!!! 
+ 
+TOLD YOU!!!!  INSIDERS WON&amp;#39;T STOP LOADING!!!!! 
+ 
+$NFLX $CVNA $TSLA All squeezing higher....NXGL little 4.2 low float with over 150k short will squeeze here!!!  LOAD UP!!! 
+ 
+Latest data once approved here by FDA...NexDerm and NexDrape products right into the ALL HOSPITALS to TAKE MARKET SHARE FROM $MMM &amp;#39;s Tegaderm...which has a monopoly in hospital settings. 
+ 
+NEXGELS&amp;#39;s products NOT HAVE IRRITANTS or ADHESIVES like Tegaderm!!! HUGGGEEEE!!! 
+ 
+Also LOOK BELOW FOR DATA ON DRUG DELIVERY NOW&amp;gt;&amp;gt;&amp;gt;&amp;gt; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:18 </td>
+   <td style="text-align:left;"> @SchruteFarms technical analysis speaking we are at a triple 
+top on the weekly so i actually bought puts aftermarket yesterday. $TSLA and some other tech companies making it look not so promising tho 🧐 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:05 </td>
+   <td style="text-align:left;"> $GM GM’s volume is already over 1million in pre market…She gonna go to $40 today!
+$FORD $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:04 </td>
+   <td style="text-align:left;"> $TSLA Poor poo bears. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:54:02 </td>
+   <td style="text-align:left;"> $TSLA SHORTS. GOT LUBE? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:53 </td>
+   <td style="text-align:left;"> @OldFngGuy Pretty sure you meant $TSLA and not $TLSA ... 
+ 
+Anyhow, yeah. There are a ton of hedge funds and short sellers that got utterly wrecked on Tesla. Man they got hit hard without realizing Tesla is a unicorn. 
+ 
+The people who bought into these meme tickers bought into a get rich quick scheme, and it&amp;#39;s obvious that never works out.  
+ 
+Compound interest in boring old index funds are the ticket to wealth. It&amp;#39;s the most powerful force in the universe next to a bunch of 5 gallon buckets being stuck together. But don&amp;#39;t tell that to the apes who bought these meme tickers. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:40 </td>
+   <td style="text-align:left;"> $META $AAPL $TSLA $AMZN </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:30 </td>
+   <td style="text-align:left;"> $TSLA 
+Payday today for those 227.5 Calls. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:23 </td>
+   <td style="text-align:left;"> DIA $F $SPY $TSLA $GM $QQQ  #todamoon  #carsonmars </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:53:04 </td>
+   <td style="text-align:left;"> $TSLA will end up down at the end of the day.major institutions are lining up to sell 100 of millions of shares after 100 dollars run in one </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:52:57 </td>
+   <td style="text-align:left;"> $TSLA  also observed that chart history calls for a pullback to $241.5 today after profits takers sell after open.. so will cover short there first..added short 100 shares at $250.06 as well. If I see $241.5 I will buy 0dte $245 calls and wait for $253 to start shorting again into Monday GLTA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:52:56 </td>
+   <td style="text-align:left;"> $TSLA For all those saying there will be lines at charging stations, did you ever stop to think Tesla might scale up to meet demand? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:52:41 </td>
+   <td style="text-align:left;"> @Formula400 Lol the gift that keeps on giving - will be buying back into $CHPT today in the afternoon if there is continued downtrend from the $TSLA $GM news. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:52:16 </td>
+   <td style="text-align:left;"> $TSLA   
+
+🚨🚨🚨‼️
+
+Factors in Shorts getting undone:
+
+1/ Size of short volume and type will (naked synthetic) be a factor ! 
+2/ S&amp;amp;P 500 Funds balancing 
+3/ Accumulation Funds
+4/ Reserve Funds 
+
+This thing could double mathematically—- those are the factors imo 
+
+All you n my posts!!  
+
+🙏🏻🐉🦅 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:55 </td>
+   <td style="text-align:left;"> $TSLA it&amp;#39;s so overbought... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:54 </td>
+   <td style="text-align:left;"> $TSLA should be looking for more strength towards $268.54- $296.08 area before a pullback takes place. Intraday dips should find buyers in 3, 7 or 11 swings  #Elliottwave #Trading #Tesla </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:43 </td>
+   <td style="text-align:left;"> $TSLA anybody else load calls yesterday? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:32 </td>
+   <td style="text-align:left;"> $TSLA Shorts </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:28 </td>
+   <td style="text-align:left;"> $TSLA About to see a lot of, &amp;quot;why is it going down?&amp;quot; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:20 </td>
+   <td style="text-align:left;"> $CVNA was beautiful yesterday but it looks like it still has legs left. Shirts be careful, this can go pretty good for you or really bad. $SPY still having a battle under that $430. If it breaks it has to hold. Nothing is given. $TSLA has been wild for the past month leading up to this deal with $GM. Definitely some insider trading. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:19 </td>
+   <td style="text-align:left;"> $TSLA I’m taking your paper gains when this baby drops. Dip baby dip. Short this baby. (Short term) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:51:18 </td>
+   <td style="text-align:left;"> $SBRCY Hello, hello, hello 👋  
+ 
+We are waiting?  (Enjoying my $TSLA $155 average). 
+ 
+What about You? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:47 </td>
+   <td style="text-align:left;"> $TSLA $REKR </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:46 </td>
+   <td style="text-align:left;"> $TSLA Haven&amp;#39;t seen the &amp;quot;chasing Tulips&amp;quot; argument this morning....lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:44 </td>
+   <td style="text-align:left;"> $TSLA I’m reversing my sentiment. Can I post this? Up, up, up and away! 🚀 $87 up since. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:43 </td>
+   <td style="text-align:left;"> GAMEPLAN!    
+ 
+Today already looks insane! $TSLA has now spiked over $100 in the last two months and we are currently sitting at highs! $CVNA is the #1 watched play with the MOST VOLUME and the MOST SHORTED in the Stock Market which traders are trying to squeeze!   Today is a day of Good Entries. We already know $CVNA and $TSLA is where all traders will be focused on. All we need to do is find a great entry and place our stop losses.   So What Are the Great Entries?   $CVNA Strong RES at $26. A break of $26 and we could squeeze to $28.75. My first SHORT will be in the high $25 area, I plan on setting a stop at $26.10. If I lose, I lose small. If $CVNA Reverses, then I am at the top. If it breaks $26, I can also cover my shares and watch for the spike! It is a win win   
+ 
+$TSLA I do think we see $251- $252 today, but after seeing such a large gap up and over extended move, I would not be surprised to see a morning crack about 30 mins in. Everyone needs to bring your A Game here! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:43 </td>
+   <td style="text-align:left;"> $NIO big sell orders in pre market. This is gonna crash hard. Trash earnings as expected. Save your money and move to $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:41 </td>
+   <td style="text-align:left;"> $TSLA SHORTS YOU CAN STILL COVER AND GO LONG !!!  
+ 
+300 is going to come even faster now !!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:30 </td>
+   <td style="text-align:left;"> $F $GM $NIO $TSLA wait til Tesla buys nio. Guarantee </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:50:04 </td>
+   <td style="text-align:left;"> Top Watches today: Lots of movers today large caps small caps med caps, everything is flying, IMPORTANT to MANAGE RISK well though on a Friday after a long week... Looking for a nice bounce back day.** $MDGS $NFLX $TSLA $QQQ #PLTR #AFRM $WLDS **. Good luck out there! 🙏🍺❤️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:59 </td>
+   <td style="text-align:left;"> $TSLA this is fear mongering trying to save his short position. It’s possible this could retrace but I wouldn’t put any money on it. I would jump in or
+out. Always wait for confirmations on directions. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:51 </td>
+   <td style="text-align:left;"> $TSLA Do we fill that gap today??? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:42 </td>
+   <td style="text-align:left;"> $MDGS some are accumulating for very cheap. Soon $20 $20 $20. One float is locked, $100 is also achievable. $TOI $SNOA $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:42 </td>
+   <td style="text-align:left;"> $TSLA ....Short $250.16...91 RSI premarket, opening likely gap to 86-88....Highest on record is 91.  Looking for a pullback only. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:40 </td>
+   <td style="text-align:left;"> $TSLA 🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:36 </td>
+   <td style="text-align:left;"> $TSLA That $250 flag tho. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:35 </td>
+   <td style="text-align:left;"> $CJET told you EVs are hot today
+Ppl are making mad money on $TSLA theyll diversify their gains on other EVs </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:16 </td>
+   <td style="text-align:left;"> $TSLA beast </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:49:01 </td>
+   <td style="text-align:left;"> $SPY bull market baby $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:56 </td>
+   <td style="text-align:left;"> $TSLA those that sold will have to buy back at a higher price. Don’t be dumb </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:35 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:35 </td>
+   <td style="text-align:left;"> $TSLA $spy $qqq $lcid go
+
+https://www.twitch.tv/tramplewun/v/1841749838?sr=a&amp;amp;t=2s </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:34 </td>
+   <td style="text-align:left;"> $TSLA Tesla will be the Walmart of energy resources in the near future </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:28 </td>
+   <td style="text-align:left;"> $TSLA some resistance at $250 but hoping she can bust through that limit today </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:28 </td>
+   <td style="text-align:left;"> $TSLA 275 or 300 today? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:24 </td>
+   <td style="text-align:left;"> $NIO nice that GM n ford are getting in bed with Tesla charging…it will be hilarious watching a lineup of people waiting to charge while Nio owners drive through and swap battery in 5min or less. $F $GM $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:19 </td>
+   <td style="text-align:left;"> $EVGO What Wall St does not get, so far anyway, is that adoption is key. The more EV&amp;#39;s we get on the road the more chargers we will need. The US needs 100x more chargers at least and EVGO have them in places that Tesla does not. Every EVGO charger can service a $GM, $F, Kia, Hyundai or $TSLA car and EVGO are getting government help to install as many as they can, as quickly as they can. The stock should be higher as this is great news for $EVGO </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:12 </td>
+   <td style="text-align:left;"> $TSLA all the hype means go short. All the whales like to sell into strength. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:05 </td>
+   <td style="text-align:left;"> $TSLA No chill </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:04 </td>
+   <td style="text-align:left;"> $TSLA even if it went to 700, I probably won&amp;#39;t sell </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:48:03 </td>
+   <td style="text-align:left;"> $TSLA I wish I’d have truly YOLO’d every dollar I have into calls yesterday. Unfortunately I only bought a few. Fuq me </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:52 </td>
+   <td style="text-align:left;"> $AI wondering if shorts are scared that the $TSLA just lit the fuse for the market to go bonkers so they closing out their shorts just in case. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:50 </td>
+   <td style="text-align:left;"> $TSLA Joe&amp;#39;s at the Helm.... Oops and you&amp;#39;re buying Calls? $spy This idiot thinks it&amp;#39;s his birthday this morning  GL $KRE $KSS </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:49 </td>
+   <td style="text-align:left;"> $TSLA 😳👀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:40 </td>
+   <td style="text-align:left;"> $TSLA imagine all the butt hurt Tesla haters. 😆 God is good </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:27 </td>
+   <td style="text-align:left;"> $TSLA Who Said 300? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:26 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:24 </td>
+   <td style="text-align:left;"> $TSLA fk your RSI....😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:47:01 </td>
+   <td style="text-align:left;"> $TSLA $IEP </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:55 </td>
+   <td style="text-align:left;"> $TSLA shorts are fu…………..cked </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:47 </td>
+   <td style="text-align:left;"> $TSLA 100 shares extra short for each $1 gain above $250.4 that&amp;#39;s my plan..chart history does not lie and today 11th day in green to complete the record on Jan 8 2021..the 11th day in green was the one with the most daily increase in 8% so from yesterday close..that number gives $253.6 as high for today and on Monday the first red day gets 9% down to $230.. so shorting the heck out of it..but then it will go above latex21a3233ac5fd0681787d9862a7e3428aSGML 
+
+$TGTX 
+
+The 4 🐴 man. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:42 </td>
+   <td style="text-align:left;"> $TSLA $269 incoming! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:37 </td>
+   <td style="text-align:left;"> $TSLA 230c 6/30 I picked up yesterday will print !! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:31 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:28 </td>
+   <td style="text-align:left;"> $TSLA this will be in the $260’s today.  Short squeeze next.  It’s hard to hold this when it is full of enthusiasm to the positive side </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:26 </td>
+   <td style="text-align:left;"> $CHPT $tsla delivers death blow to $chpt. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:19 </td>
+   <td style="text-align:left;"> $TSLA you bears need to stfu with your bear posts do you see the stock? How do you shameless post bearish shit inspite of the stock being up this much for this many days? 🤣🤣🤣🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:46:16 </td>
+   <td style="text-align:left;"> $TSLA if 258 resistance doesnt hold it might get even more crazy :/ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:55 </td>
+   <td style="text-align:left;"> $TSLA Tesla gains 6.39% in pre-market trade. General Motors announced on Thursday plans to utilize Tesla’s electric vehicle charging network, and said its vehicles will also utilize Tesla’s North American Charging Standard port in its cars starting in 2025. More trending stocks https://bit.ly/43giYXv </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:54 </td>
+   <td style="text-align:left;"> $TSLA ride the rsi! Ignore the over bought bull shit, Weekly rsi and monthly rsi just getting started!!!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:49 </td>
+   <td style="text-align:left;"> $CVNA $TSLA $ADBE $SPY $QQQ my bags pre market 😎 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:49 </td>
+   <td style="text-align:left;"> $TSLA    
+ Calls:    
+📈 at $245 - $243  
+Puts:   
+📉  below $241 
+   
+Let the setup come to you!  
+Manage risk properly! cut losses quickly! And always take profits. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:39 </td>
+   <td style="text-align:left;"> $TSLA  Higher gap at 262.47  Just saying. 
+ 
+https://share.trendspider.com/chart/TSLA/6682ok7z8i </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:30 </td>
+   <td style="text-align:left;"> $TSLA $265 today! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:22 </td>
+   <td style="text-align:left;"> $TSLA 1hr view from the 6/06/2023 Post-Market update. Showing further reaction higher taking place from the blue box area #Elliottwave #Trading #Tesla </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:20 </td>
+   <td style="text-align:left;"> $TSLA elon musk will file to sell  100 to 200 M shares to fund twitter and other projects. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:45:07 </td>
+   <td style="text-align:left;"> $TSLA summer pt 200-150 .. lfg? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:39 </td>
+   <td style="text-align:left;"> $SPY $TSLA $AAPL $QQQ $META the result of April? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:38 </td>
+   <td style="text-align:left;"> $TSLA so many bulls with insane PT, getting into the Bulls Trap... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:37 </td>
+   <td style="text-align:left;"> $TSLA Track record for TSLA = 10 wins + notable mention / 0 loss. You read that right.
+This shows the previous 4 trades showing EXACTLY how I did it. Step by step.
+
+Got timestamp + buy fills for each trade for the skeptics.
+The KEY is to buy when Algos hit &amp;quot;5% HEAVINESS&amp;quot; or lower. Learn what &amp;quot;Heaviness %&amp;quot; is by Algos.
+
+Look at the:
+1) time I alerted 
+2) at what $ level 
+3) Heaviness % by Algos </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:30 </td>
+   <td style="text-align:left;"> $TSLA Tesla convenience store sounds good in the future or a partnership with local gas stations to install charging stations to service new Ford and GM electric cars </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:15 </td>
+   <td style="text-align:left;"> $SOFI do I dump my $TSLA profits here???  Asking for a friend </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:08 </td>
+   <td style="text-align:left;"> @dizzzy yeah you&amp;#39;re right, like investing in $TSLA when it was trading at $110 back in January. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:03 </td>
+   <td style="text-align:left;"> $TSLA wow missed out on 3k of profit fuck me sideways </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:44:02 </td>
+   <td style="text-align:left;"> $TSLA map update: we&amp;#39;re just shy 10 points of my ultimate target on news today.  Only I was way off on the timing.  Wow. 
+ 
+Underlining my thesis that Tesla is now THE market leader, replacing $AAPL. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:53 </td>
+   <td style="text-align:left;"> $TSLA Elon musk counting money 💰 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:51 </td>
+   <td style="text-align:left;"> $TSLA these June 23rd 230 calls makin printer go brrr... 😁 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:39 </td>
+   <td style="text-align:left;"> My Option Watchlist For 06/09/2023   
+  
+$AAPL    
+Calls:     
+📈  at $179.70 - $179 
+📈 above $181 
+Puts:    
+📉  at $184 - $184.95 if we get rejected  
+  
+$SPY    
+Calls:   
+📈  1st at $428.22 - $427.70 
+📈  2nd at $426.70 - $426 
+Puts:   
+📉 below $425.99  
+ 
+  
+$TSLA    
+ Calls:    
+📈 at $245 - $243  
+Puts:   
+📉  below $241 
+   
+Let the setup come to you!  
+Manage risk properly! cut losses quickly! And always take profits. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:30 </td>
+   <td style="text-align:left;"> $TSLA daily RSI will probably open at around 97 lol 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:14 </td>
+   <td style="text-align:left;"> $TSLA 1hr view from the 6/01/2023 Pre-Market update. Showing a very nice reaction higher from the blue box area. Allowed longs to get into a risk-free position  #Elliottwave #Trading #Tesla </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:43:03 </td>
+   <td style="text-align:left;"> $TSLA all they need open flat or red then drop to a level where it cannot recover and sell all day to kill calls. They can save tons of money by doing so. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:41 </td>
+   <td style="text-align:left;"> Let&amp;#39;s play a game. Guess which ticker this is.
+
+This is the play from yesterday. Alerted the near perfect level for a reversal trade. Just $0.03c from its absolute bottom of the day.
+All possible from ONLY buying when H% is low. Look at the each steps shown.
+
+$SPY $TSLA $AAPL $MSFT $QQQ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:31 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:07 </td>
+   <td style="text-align:left;"> $nvda AI already breached and in trouble. $googl $aapl $tsla $nflx 🫧📌 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:07 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:03 </td>
+   <td style="text-align:left;"> $TSLA looks like tippy </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:02 </td>
+   <td style="text-align:left;"> $TSLA gates must not be privy to info unlike Soros? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:42:00 </td>
+   <td style="text-align:left;"> $TSLA “Markets can remain irrational longer than you can remain solvent” </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:58 </td>
+   <td style="text-align:left;"> $TSLA new support and still running </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:52 </td>
+   <td style="text-align:left;"> $TSLA price prediction for today is $253🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:41 </td>
+   <td style="text-align:left;"> $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:14 </td>
+   <td style="text-align:left;"> $TSLA 1hr view from the 5/31/2023 Midday update. Provided a buying opportunity at the blue box area last week  #Elliottwave #Trading #Tesla </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:10 </td>
+   <td style="text-align:left;"> DIA $F $SPY $TSLA $GM $QQQ   CARS ON MARS ... </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:06 </td>
+   <td style="text-align:left;"> $TSLA $AIHS $NVDA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:41:02 </td>
+   <td style="text-align:left;"> $THMO $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:40:52 </td>
+   <td style="text-align:left;"> $TSLA which puts will make millions? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:40:47 </td>
+   <td style="text-align:left;"> $TSLA I will wait to buy at 300 🙃🙃🙃🤠🤠 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:40:43 </td>
+   <td style="text-align:left;"> $TSLA best stock ever </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:40:42 </td>
+   <td style="text-align:left;"> $TSLA 250 pre hot damn </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:40:34 </td>
+   <td style="text-align:left;"> $TSLA Friday 0DTE call options may just pump this baby to 300! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:40:32 </td>
+   <td style="text-align:left;"> $F $GM $TSLA interesting 🤔 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:40:15 </td>
+   <td style="text-align:left;"> $TSLA Bears tapping out </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:55 </td>
+   <td style="text-align:left;"> $TSLA The only reason $F and $GM are using Tesla&amp;#39;s charging stations is that they don&amp;#39;t take their own EV manufacturing seriously. It&amp;#39;s just a &amp;quot;yeah, we do that, too&amp;quot; bit of poppycock to appease the green mob. In reality, they&amp;#39;re just biding their time until a Republican takes back the WH, and then you&amp;#39;ll see them rolling back those EV lines. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:54 </td>
+   <td style="text-align:left;"> $TSLA BOOM bye shorts. Yes I’m laughing at you short sellers. Bunch of losers </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:46 </td>
+   <td style="text-align:left;"> $TSLA 7 million already I think we hit 200 million volume today 😜✌️ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:44 </td>
+   <td style="text-align:left;"> $TSLA GM and Ford finally surrender to Far ahead Technology from Tesla </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:36 </td>
+   <td style="text-align:left;"> $TSLA overreaction? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:34 </td>
+   <td style="text-align:left;"> $TSLA $AAPL $GOOG Our Long Watchlist of plays we alerted 3/12 is KILLING IT…
+It’s what we do 🤷🏼‍♂️😎
+Ready for our release? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:34 </td>
+   <td style="text-align:left;"> $TSLA I like the stonk. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:30 </td>
+   <td style="text-align:left;"> $TSLA Weekly Puts toasted </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:29 </td>
+   <td style="text-align:left;"> $CJET EVs hot $NIO $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:28 </td>
+   <td style="text-align:left;"> $KSS $tsla $spyJoe&amp;#39;s at the Helm.... Oops and you&amp;#39;re buying Calls? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:25 </td>
+   <td style="text-align:left;"> $TSLA if this green then hedge funds will lose billions. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:24 </td>
+   <td style="text-align:left;"> $TSLA for 1 to 3 billions extra revenue in 2025 for a co has arevenue 127b dollars.the market cap increased by 70b b/w yesterday and today 
+That&amp;#39;s ridiculous and </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:18 </td>
+   <td style="text-align:left;"> $TSLA bears cmon you pussies show us how strong you are. Drop that price </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:08 </td>
+   <td style="text-align:left;"> $TSLA RSI is no longer a reliable indicator. In additions, candles are not valid. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:06 </td>
    <td style="text-align:left;"> $TSLA 
 
-We going over 250 today imo 🤭 </td>
+We’re rich. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:55 </td>
-   <td style="text-align:left;"> $TSLA tell us how you really feel </td>
+   <td style="text-align:left;"> 2023-06-09 20:39:01 </td>
+   <td style="text-align:left;"> Tesla’s charging partnerships with Ford, GM will speed up green energy transition, Cathie Wood says
+
+$TSLA </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:48 </td>
-   <td style="text-align:left;"> $TSLA getting ready for another pop... </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:59 </td>
+   <td style="text-align:left;"> $SPY futures choppy but so many things getting massive pumps pre market $TSLA $ADBE </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:48 </td>
-   <td style="text-align:left;"> $TSLA 👀 </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:44 </td>
+   <td style="text-align:left;"> $TSLA NACS4LYF </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:42 </td>
-   <td style="text-align:left;"> $LVWR Livewire motorcycles can also use $TSLA Superchargers 
+   <td style="text-align:left;"> 2023-06-09 20:38:38 </td>
+   <td style="text-align:left;"> $TSLA beauty of this is we will get a bunch of new shorts and put positions at the bell which will also get squeezed today </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:32 </td>
+   <td style="text-align:left;"> $TSLA someone please tell me how it&amp;#39;s beneficial to allow competitors access to tslas charging station standard. From what I understand tsla makes little to nothing on their charging stations. Now gm and f ev s can use them. Isn&amp;#39;t this going to drive sales away from tsla to f and gm? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:30 </td>
+   <td style="text-align:left;"> $TSLA we&amp;#39;re so back 📈 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:26 </td>
+   <td style="text-align:left;"> $TSLA if thunk keeps going like this, Elon will be soon rich enough to buy the next social media platform </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:16 </td>
+   <td style="text-align:left;"> $TSLA cash on cash on cash on cash </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:13 </td>
+   <td style="text-align:left;"> $TSLA where do they let it open today </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:11 </td>
+   <td style="text-align:left;"> $TSLA I’m gettin tippy tippy vibes on this beautiful Friday. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:08 </td>
+   <td style="text-align:left;"> IT IS OFFICIAL! The longest bear market since the 40&amp;#39;s has come to a conclusion for now. Most of the gains have been from big tech like $AAPL $NVDA and $TSLA. 
  
-https://electrek.co/2023/03/03/electric-motorcycles-charging-up-at-tesla-superchargers/ </td>
+Tesla is going crazy this morning after closing another charging station deal, this time with $GM.  
+ 
+META is trying to make a platform to compete with twitter, saying that creators have asked for a version of twitter that is &amp;quot;sanely run&amp;quot; which is a little ridiculous considering all the Meta employees probably drive teslas. They want to do the platform on instagram and make it just like twitter. I will not be particpating.  
+ 
+CVNA had a big day yesterday, rising 51% after their profit outlook improved. Pretty flat trading premarket, but that could be a fun one to trade today. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:40 </td>
-   <td style="text-align:left;"> $TSLA monster </td>
+   <td style="text-align:left;"> 2023-06-09 20:38:01 </td>
+   <td style="text-align:left;"> $NFLX $TSLA Friends and followers... while my specialty is pennies, I want to give a shout out to one of my  mentors who just launched a discord room for options.  If you have ever wanted to learn options or just want to learn how to trade options better, check him out on twitter  &amp;quot;polarbeartrade&amp;quot;  Below are some of the calls I am holding - two of which I will lock for over 1000% this morning.  While not every call equates to these kinds of gains, I can say with all sincerity  that I have never met another trader who understands large caps and options like he does. Good Luck traders, and congrats TSLA and NFLX bulls! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:36 </td>
-   <td style="text-align:left;"> $TSLA the new $AAPL </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:59 </td>
+   <td style="text-align:left;"> $TSLA this is why you don’t trade tesla ; you own it and hold it ; just like apple </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:32 </td>
-   <td style="text-align:left;"> $TSLA forgotten how quickly this bad boy could run. </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:58 </td>
+   <td style="text-align:left;"> $TSLA rip all regarded bears </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:22 </td>
-   <td style="text-align:left;"> $TSLA playing chess not checkers. Way to go Elon </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:57 </td>
+   <td style="text-align:left;"> $TSLA 
+Smells like a blowoff Top imo.
+🐻 🧸 🐻 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:18 </td>
-   <td style="text-align:left;"> $TSLA over price!!! </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:54 </td>
+   <td style="text-align:left;"> $TSLA back to 1k end of year $SPY </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:16 </td>
-   <td style="text-align:left;"> $TSLA Now back at $250! This is quite insane as only a month ago we were at $150! $250 is not going to be easy to break through as this is a strong natural RES line. If we pop above $250 and then fall back under I will look to grab some Shorts. </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:51 </td>
+   <td style="text-align:left;"> $TSLA aaah, tesla doing tesla things. Very nice move </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:16 </td>
-   <td style="text-align:left;"> $TSLA it looks obvious that this is going to be a huge day. Only an idiot would stand on the tracks and offer resistance today. Shorts capitulate next week we see 300 book it. </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:45 </td>
+   <td style="text-align:left;"> $TSLA first short of today at $250.56 GLTA </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:13 </td>
-   <td style="text-align:left;"> $TSLA omg that margin talk is just nuts. Wtf is going on? The revenue related to renting out autonomous cars/taxis is literally decades away. </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:42 </td>
+   <td style="text-align:left;"> $TSLA F with the bull, you get the horns. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:11 </td>
-   <td style="text-align:left;"> $TSLA  Patience is the key!!! and always give  a 👍 whenever you see somebody driving a Tesla😎😎💰💰 </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:35 </td>
+   <td style="text-align:left;"> $TSLA congrats to anyone holding calls this week. Wow </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:03 </td>
-   <td style="text-align:left;"> $TSLA 300 minimum </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:33 </td>
+   <td style="text-align:left;"> $TSLA $300 PT by next Friday!!! Easy Money!!! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:01 </td>
-   <td style="text-align:left;"> $TSLA what’s ur bank account around $100 ? She is a billionaire for gods sake! 
-Admit you are dumb and broke! </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:36:00 </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:29 </td>
    <td style="text-align:left;"> $TSLA 
 
-The short squeeze is going to be epic and that idiot Dan Nathan will still say it’s “euphoria”. Meanwhile, us longs will be doing this. </td>
+https://apextraderfunding.com/member/aff/go/danny715
+
+! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:51 </td>
-   <td style="text-align:left;"> $TSLA everytime I click its up a few buckeroos...😂😂🚀🚀🚀🚀👍👍👍 </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:29 </td>
+   <td style="text-align:left;"> $TSLA dis sumbich bouta boom! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:49 </td>
-   <td style="text-align:left;"> $TSLA  shoulda held options </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:27 </td>
+   <td style="text-align:left;"> $TSLA yesterday i put a call for 250 for july 7th, less than 24 hours we hit the target </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:49 </td>
-   <td style="text-align:left;"> $TSLA F kidding !!!😂😂 </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:26 </td>
+   <td style="text-align:left;"> $tsla Kathie Woods just gave Tesla the kiss of death 💋💀 $COIN $ARKK $qqq </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:25 </td>
-   <td style="text-align:left;"> $TSLA with the buying sentiment this high I can only suspect another huge day with and EOD profit taking. </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:16 </td>
+   <td style="text-align:left;"> $TSLA Damn 🙄 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:25 </td>
-   <td style="text-align:left;"> $TSLA What the fuck.  I have 584 shares of this.  Do I dare buy more at these levels?  Or should I sell some? </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:16 </td>
+   <td style="text-align:left;"> $TSLA pouring one for the bears. My 230c and 235c will be paid. Attacking 275c fir next week… even though it might tag it today. It’s a celebration betches!!! Thanks for the fuel bears </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:09 </td>
-   <td style="text-align:left;"> $TSLA Look at that beautiful chart!! 300 today? </td>
+   <td style="text-align:left;"> 2023-06-09 20:37:00 </td>
+   <td style="text-align:left;"> $TSLA Elon right now. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:05 </td>
-   <td style="text-align:left;"> Wedbush ups Tesla target to $300, adds to &amp;#39;Best Ideas List&amp;#39; - $TSLA - https://thefly.com/permalinks/entry.php/TSLAid3728916 </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:56 </td>
+   <td style="text-align:left;"> $TSLA $300 PT !  
+https://www.investing.com/news/stock-market-news/tesla-now-owns-the-charging-ecosystem-domestically--wedbush-bumps-target-on-gm-deal-432SI-3101946 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:35:05 </td>
-   <td style="text-align:left;"> $TSLA  wow! I ❤️ it. </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:25 </td>
+   <td style="text-align:left;"> $TSLA Happy for everyone making money. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:34:53 </td>
-   <td style="text-align:left;"> $TSLA By this time next year, we’ll have a +$1T market cap. </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:20 </td>
+   <td style="text-align:left;"> $TSLA greatest pump of all time is tesla. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:34:53 </td>
-   <td style="text-align:left;"> $TSLA careful bear, there is a gap around $263 that may fill today. Lots of FOMO </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:19 </td>
+   <td style="text-align:left;"> $TSLA 270ish Y not at this rate.....50pointer for EOW F U candle </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:34:46 </td>
-   <td style="text-align:left;"> $TSLA this is why it shot up after hours Tuesday ! They knew about the deal 🤫 #scammers #fraud #musk </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:12 </td>
+   <td style="text-align:left;"> $TSLA crud…looked back at my last Tesla sell and it was $196. Missed this run majorly. 😳😳 congrats y’all </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:34:43 </td>
-   <td style="text-align:left;"> $TSLA  coming soon 😇 </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:08 </td>
+   <td style="text-align:left;"> $TSLA two easy questions for any real tesla bull. Being asked honestly. What is the max AC charging speed at home and what are DC superchargers maxing out at for the newest models? Im guessing 11kwh for AC and 200kwh for DC. Is that accurate? </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:34:42 </td>
-   <td style="text-align:left;"> $TSLA has to be the most liquid stock as Tesla options market is the biggest casino on the WS </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:03 </td>
+   <td style="text-align:left;"> $SPY Morgan Stanly being the biggest joke of them all $QQQ $TSLA </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:34:31 </td>
-   <td style="text-align:left;"> $TSLA looking for a double digit move up today! </td>
+   <td style="text-align:left;"> 2023-06-09 20:36:00 </td>
+   <td style="text-align:left;"> $TSLA going for 314 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:34:25 </td>
-   <td style="text-align:left;"> latexd5fcc4ec9e1675afd60995e0d8ed1dfbMETA 
-$SPY 
- 
-🔥We Trade LIVE daily for FREE🔥 
-📈FOLLOW for Trade-Ideas+📉 
-And BE READY!💰 </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:57 </td>
+   <td style="text-align:left;"> $TSLA what is there left to pump? We already up 7% on no volume. Watch market take this to 260 today </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:33:47 </td>
-   <td style="text-align:left;"> $TSLA GM allegedly saves ~ $400M with this deal. Tesla gives a competitor an easier market entry and a flexible strategy to manage capital cost 
-https://www.cnbc.com/2023/06/08/gm-says-tesla-charging-deal-will-save-the-automaker-up-to-400-million.html 
- 
-The deal is for the next year BTW. With low EV production volume from GM, the impact is tiny. LOL 
- 
-Tesla inventory of unsold EVs on the other hand is growing and that will impact margins or growth or both.  It is cyclical. 
- 
-The next cycle starts with the introduction of new tech like solid state battery or swap infra  and it&amp;#39;s  1-2 years away IMO.  
- 
-Market will figure all this out eventually and drop it like it&amp;#39;s hot! </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:56 </td>
+   <td style="text-align:left;"> $TSLA there&amp;#39;s a guy on Wallstreet bets who bought 1000 250 calls expiring tomorrow as a mistake. He might make a million if tsla hits 260 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:33:40 </td>
-   <td style="text-align:left;"> $TSLA let&amp;#39;s go! Why not $500 today?!!! 😂😂😂 </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:54 </td>
+   <td style="text-align:left;"> $TSLA pump to 300 with your fake upgrade so massive dump happens. The wait for many shareholders tired of Felon Muskarat, thanks to GM and Ford takeover, is over! $SPY $QQQ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:33:37 </td>
-   <td style="text-align:left;"> $CVNA today $NKLA $TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:52 </td>
+   <td style="text-align:left;"> $TSLA I still have 217.5 weekly calls. I think I’ll get out at open. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:33:28 </td>
-   <td style="text-align:left;"> $TSLA when they say we entering into bull market, thats when you run for the hills, they not saying that to help you out </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:50 </td>
+   <td style="text-align:left;"> $TSLA $SPY EZ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:33:28 </td>
-   <td style="text-align:left;"> $TSLA welcome to homelessness </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:49 </td>
+   <td style="text-align:left;"> $TSLA Will watch now </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:33:24 </td>
-   <td style="text-align:left;"> $TSLA lol, this probably will blast through all time high like nvidia, markets can be pretty irrational on both sides, I don’t know why people are so greedy </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:46 </td>
+   <td style="text-align:left;"> $TSLA wonder how much Elon made the past 2 days ? 🧐 theoretically, I know he’d have to sell </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:33:01 </td>
-   <td style="text-align:left;"> $TSLA one word INSANITY 
-Congratulations 🎊 to all bulls 
-And bears 🐻 as usual f u </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:41 </td>
+   <td style="text-align:left;"> $TSLA 110% YTD, load puts like no brainer. Another reason is $WISH pumpers are pumping this. I just need to do the opposite. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:59 </td>
-   <td style="text-align:left;"> $TSLA is this really going to run to 350, before a pullback? </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:40 </td>
+   <td style="text-align:left;"> $TSLA damn I said open at 250… could be more than that 🤧🤧🤧 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:58 </td>
-   <td style="text-align:left;"> $TSLA so what is the PE here again?  over 100? </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:31 </td>
+   <td style="text-align:left;"> In Group 3 Live Session today, we will also explain that the #Dollar has ended the bounce and will get sideways to lower in a Negative USD Dynamic. #Equities and #commodities should rally.  #Elliottwave #Stocks #Trading $SPY $SPX $AAPL $TSLA $QQQ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:57 </td>
-   <td style="text-align:left;"> $TSLA shorted at 250 </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:31 </td>
+   <td style="text-align:left;"> $TSLA So you mean TSLA basically owns the only place to charge an EV in the US?   Hahaha I’m in! </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:29 </td>
-   <td style="text-align:left;"> $TSLA 🔥💎✋🔥 </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:21 </td>
+   <td style="text-align:left;"> $TSLA Acquired $250 Pt. On watch now </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:32:14 </td>
-   <td style="text-align:left;"> $TSLA touch 250pm… then free fall back to reality </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:20 </td>
+   <td style="text-align:left;"> Disgrace to the Stock Race  the bears 🐻 
+$SPY $TSLA </td>
   </tr>
   <tr>
    <td style="text-align:left;"> TSLA </td>
-   <td style="text-align:left;"> 2023-06-09 19:31:50 </td>
-   <td style="text-align:left;"> $TSLA ah yes from the low 160s after missing earnings end of april straight up around 250. Yea that&amp;#39;s not another bout of fraud that&amp;#39;s been happening in this name since 2019?? </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:18 </td>
+   <td style="text-align:left;"> $TSLA I think I made have made 20k profit on my calls.... 🤤 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:17 </td>
+   <td style="text-align:left;"> $SPY the local $TSLA charging station is already packed. Need more stations. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:12 </td>
+   <td style="text-align:left;"> $NFLX BOOM 💥 Told you all yesterday 📈
+
+$SPY $TSLA $NVDA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:10 </td>
+   <td style="text-align:left;"> $TSLA $269.69 baby! For 6/9!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:01 </td>
+   <td style="text-align:left;"> $TSLA I think I’ll sell a little here but hold the rest for $300 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:35:00 </td>
+   <td style="text-align:left;"> $TSLA 250 ;-) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:58 </td>
+   <td style="text-align:left;"> $TSLA we may fill that 280 gap in the next week or two. Load your 300c, boys. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:48 </td>
+   <td style="text-align:left;"> $TSLA this isn’t a penny stock… gaps don’t have to fill lmao. I can think of 100 examples right now with companies like apple and Amazon. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:44 </td>
+   <td style="text-align:left;"> $TSLA not even sure what we’re pumping about anymore but I’ll like it. A LOT! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:41 </td>
+   <td style="text-align:left;"> $TSLA
+Bears “$260? it’s not possible.”
+Bulls “No. it’s necessary.” </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:23 </td>
+   <td style="text-align:left;"> $TSLA TESLA WILL BE THE GAS STATIONS OF THE FUTURE..IT WILL BE THE FIRST $10 TRILLION COMPANY </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:17 </td>
+   <td style="text-align:left;"> $TSLA what will hod be? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:16 </td>
+   <td style="text-align:left;"> $TSLA bears grab your balls and whatever money you have left and drop the price so I can buy more </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:11 </td>
+   <td style="text-align:left;"> $CVNA $TSLA $PLTR  it another wonderful day with you three. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:09 </td>
+   <td style="text-align:left;"> $TSLA to the moon!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:09 </td>
+   <td style="text-align:left;"> $TSLA shorts if your still shorting since 200 you have only lost half your investment </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:07 </td>
+   <td style="text-align:left;"> $TSLA holy F </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:06 </td>
+   <td style="text-align:left;"> $TSLA 3x the normal PM volume.  Pain n more pain for the shorts like Craig and G Johnson. How on earth these 2 still have a job </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:05 </td>
+   <td style="text-align:left;"> The cash train continues..... $CVNA $TSLA $AFRM $UPST </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:34:05 </td>
+   <td style="text-align:left;"> $TSLA Bears are mad in the comment section I wonder why lol 
+
+They must of thought today was going to be a bearish day or was hoping for it to go back to $215 lol
+
+They really about to be mad once opening bell hit and they see a negative balance lol 
+
+$280 by earnings </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:51 </td>
+   <td style="text-align:left;"> $TSLA no one told me RSI goes plaid at 110? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:43 </td>
+   <td style="text-align:left;"> $TSLA straight lotto 🔥 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:43 </td>
+   <td style="text-align:left;"> Damn $TSLA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:33 </td>
+   <td style="text-align:left;"> $TSLA 😆 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:23 </td>
+   <td style="text-align:left;"> $SPY Who bought POS $MSFT instead of pumping $TSLA $CVNA ? 🤣 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:18 </td>
+   <td style="text-align:left;"> $TSLA my 250 contract wow </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:33:10 </td>
+   <td style="text-align:left;"> $TSLA someone said short at open you still wanna short at open 🤡😂😂😂😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:40 </td>
+   <td style="text-align:left;"> $TSLA yassssssss!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:39 </td>
+   <td style="text-align:left;"> $TSLA bears I don’t hear or see you what happened? 😂😂😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:34 </td>
+   <td style="text-align:left;"> $TSLA Who wants to see my </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:22 </td>
+   <td style="text-align:left;"> $TSLA get use to these $10 to $15 pops!!! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:20 </td>
+   <td style="text-align:left;"> $TSLA  you will sell house ? 
+
+Ok. Go ahead </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:08 </td>
+   <td style="text-align:left;"> $TSLA holy fucking shit dude I think Tesla is going through price discovery for their charging business </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:07 </td>
+   <td style="text-align:left;"> $TSLA  
+Almost there $$$$$$ </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:32:01 </td>
+   <td style="text-align:left;"> $TSLA  going to open new position @ 10.30 AM today 👋👋..
+
+Scalpers get lost </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:57 </td>
+   <td style="text-align:left;"> $TSLA $225 puts July 28 or Aug 18? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:46 </td>
+   <td style="text-align:left;"> $TSLA clearly &amp;quot;never bet against Tesla&amp;quot; </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:34 </td>
+   <td style="text-align:left;"> $SPCE 
+
+🔥40 REASONS TO BUY VIRGIN GALACTIC (SPCE) STOCK🔥
+
+1. First Commercial Flight in June
+2. Successful Last Test Flight
+3. Huge Revenue Coming
+4. Celebrity Passengers Media Exposure
+5. Potential SpaceX Deal
+6. Branson owns 46M Shares
+7. Musk &amp;amp; Branson Friendship
+8. 800+ Reservations
+9. $450k each flight
+10. FAA Approved
+11. Hype Building
+12. Delta Spaceships
+13. U.S./Italy Contract
+14. NASA Partnership
+15. Under Armour deal
+16. Excellent Patents
+17. SuperSonic Air Travel
+18. 1st to Spaceflights
+19. Microsoft deal
+20. $1B Cash
+21. Undervalued
+22. Experienced Flight Team
+23. Boeing deal
+24. Will Explore Space
+25. Rolls Royce deal
+26. 400 flights yearly
+27. Oversold
+28. Superior Tech
+29. Qarbon Aerospace
+30. Successful Test Flights
+31. Lead by Branson
+32. Spaceport America Lease
+33. Land Rover Deal
+34. Ahead of Competition
+35. Potential 30x+ Long Term
+36. Space Era Coming
+37. Research Flight for Italy
+38. Gov’t Contracts
+39. Virtuoso deal
+40. Great Management
+
+$TSLA $TQQQ $SPYD </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:34 </td>
+   <td style="text-align:left;"> $TSLA there&amp;#39;s  my 250! </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:28 </td>
+   <td style="text-align:left;"> $TSLA food stamp office opens at 8am . The bears are nowhere to be found here 😂 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:24 </td>
+   <td style="text-align:left;"> Group 3 Live Session will start at 9AM. Tune in @ https://elliottwave-forecast.com/amember/go.php?r=34991&amp;amp;i=l1 where we will explain all the instruments and what should be happening next. #Elliottwave #Stocks #Trading $SPY $QQQ $TSLA $AAPL $SPX </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:19 </td>
+   <td style="text-align:left;"> $TSLA Will this drop hard at the bell from people taking profits? I hope so, to buy calls lol </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:19 </td>
+   <td style="text-align:left;"> $TSLA cmon knock down that 250 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:12 </td>
+   <td style="text-align:left;"> $TSLA what i learned holding my 16 month 75k Amazon bag is you either lock profit or someone else locks your profit. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:12 </td>
+   <td style="text-align:left;"> $TSLA $1T MC coming soon… </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:10 </td>
+   <td style="text-align:left;"> $TSLA Raise your hands if you bought puts yesterday? 😜 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:06 </td>
+   <td style="text-align:left;"> $TSLA anyone think I should buy some $300 strike exp in 2 weeks </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:02 </td>
+   <td style="text-align:left;"> $TSLA [15s. delayed]: Issued Press Release on June 09, 08:30:00: Home Advantage: How Domestic REE Supply Is Supercharging North American C https://s.flashalert.me/IozAX </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:31:00 </td>
+   <td style="text-align:left;"> $TSLA but spy is sus atm </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:54 </td>
+   <td style="text-align:left;"> $TSLA boom that’s the milestone …. Next one 300 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:30 </td>
+   <td style="text-align:left;"> $TSLA $250 🚀🚀🚀 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:24 </td>
+   <td style="text-align:left;"> $TSLA 300 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TSLA </td>
+   <td style="text-align:left;"> 2023-06-09 20:30:10 </td>
+   <td style="text-align:left;"> $TSLA How High will it go today you asked? The stock will see 153.50&amp;#39;s to 155&amp;#39;s once it gets going after the Bell a roonski. </td>
   </tr>
 </tbody>
 </table></div>
